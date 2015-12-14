@@ -1,9 +1,0 @@
-#!/bin/sh
-
-#dry_run="-v -v --dry-run"
-
-source=~prl/Computer/src/Beyonwiz/T3/picon
-
-excludes="--exclude .DS_Store --exclude unused"
-rsync -a --delete $excludes $dry_run $source/maskPicons/picon .
-rsync -a --delete $excludes $dry_run $source/lcdPicons/piconlcd .
