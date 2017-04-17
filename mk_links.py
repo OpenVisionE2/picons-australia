@@ -42,6 +42,8 @@ class LinkMaker:
         'flatPicons': 'Australian picons, white background',
         'maskPicons': 'Australian picons, with mask',
         'lcdPicons': 'Australian Front Panel picons',
+        'picon': 'Australian picons, with mask',
+        'piconlcd': 'Australian Front Panel picons',
     }
 
     CHAN_PICON_DIR = 'channel_picons'
