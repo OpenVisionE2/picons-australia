@@ -42,6 +42,8 @@ class LinkMaker:
         'flatPicons': 'Australian picons, white background',
         'maskPicons': 'Australian picons, with mask',
         'lcdPicons': 'Australian Front Panel picons',
+        'picon': 'Australian picons, with mask',
+        'piconlcd': 'Australian Front Panel picons',
     }
 
     CHAN_PICON_DIR = 'channel_picons'
@@ -58,13 +60,14 @@ class LinkMaker:
     # '_fv'   Freeview
     # '_gm'   Goolarri Media
     # '_lw'   LogoWikea
-    # '_nine' Nine Newtork
+    # '_mp'   MediaPortal/jasmeet_181
+    # '_nine' Nine Network
     # '_rc'   Racing.com
     # '_sbs'  SBS Network
     # '_wp'   WikiPedia
     # '_ys'   Yesshop
 
-    PICON_SRCS = frozenset(('_ab', '_fv', '_gm', '_lw', '_nine', '_rc', '_sbs', '_wp', '_ys'))
+    PICON_SRCS = frozenset(('_ab', '_fv', '_gm', '_lw', '_mp', '_nine', '_rc', '_sbs', '_wp', '_ys'))
 
     def __init__(self, piconDefsFile, piconPath, options):
 
