@@ -5,7 +5,7 @@
 
 # Adelaide
 # Service reference                    Service base name    Picon base name        Service name
-1:0:1:250:251:1010:EEEE0000:0:0:0:     abcnews24            abcnews24            # ABC News 24
+1:0:1:250:251:1010:EEEE0000:0:0:0:     abcnews24            abcnews              # ABC News 24
 1:0:19:255:251:1010:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
 1:0:1:251:251:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
 1:0:1:252:251:1010:EEEE0000:0:0:0:     abc2kids             abc2kids             # ABC2/KIDS
@@ -51,7 +51,7 @@
 
 # Albany WA
 # Service reference                    Service base name    Picon base name        Service name
-1:0:1:2E0:263:1010:EEEE0000:0:0:0:     abcnews24            abcnews24            # ABC News 24
+1:0:1:2E0:263:1010:EEEE0000:0:0:0:     abcnews24            abcnews              # ABC News 24
 1:0:19:2E5:263:1010:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
 1:0:1:2E1:263:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
 1:0:1:2E2:263:1010:EEEE0000:0:0:0:     abc2kids             abc2kids             # ABC2/KIDS
@@ -89,7 +89,7 @@
 
 # Ballarat
 # Service reference                    Service base name    Picon base name        Service name
-1:0:1:2B0:233:1010:EEEE0000:0:0:0:     abcnews24            abcnews24            # ABC News 24
+1:0:1:2B0:233:1010:EEEE0000:0:0:0:     abcnews24            abcnews              # ABC News 24
 1:0:19:2B5:233:1010:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
 1:0:1:2B1:233:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
 1:0:1:2B2:233:1010:EEEE0000:0:0:0:     abc2kids             abc2kids             # ABC2/KIDS
@@ -132,7 +132,7 @@
 
 # Bendigo
 # Service reference                    Service base name    Picon base name        Service name
-1:0:1:2B0:233:1010:EEEE0000:0:0:0:     abcnews24            abcnews24            # ABC News 24
+1:0:1:2B0:233:1010:EEEE0000:0:0:0:     abcnews24            abcnews              # ABC News 24
 1:0:19:2B5:233:1010:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
 1:0:1:2B1:233:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
 1:0:1:2B2:233:1010:EEEE0000:0:0:0:     abc2kids             abc2kids             # ABC2/KIDS
@@ -178,7 +178,7 @@
 
 # Brisbane
 # Service reference                    Service base name    Picon base name        Service name
-1:0:1:240:241:1010:EEEE0000:0:0:0:     abcnews24            abcnews24            # ABC News 24
+1:0:1:240:241:1010:EEEE0000:0:0:0:     abcnews24            abcnews              # ABC News 24
 1:0:19:245:241:1010:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
 1:0:1:241:241:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
 1:0:1:242:241:1010:EEEE0000:0:0:0:     abc2kids             abc2kids             # ABC2/KIDS
@@ -222,7 +222,7 @@
 
 # Cairns
 # Service reference                    Service base name    Picon base name        Service name
-1:0:1:2C0:243:1010:EEEE0000:0:0:0:     abcnews24            abcnews24            # ABC News 24
+1:0:1:2C0:243:1010:EEEE0000:0:0:0:     abcnews24            abcnews              # ABC News 24
 1:0:19:2C5:243:1010:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
 1:0:1:2C1:243:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
 1:0:1:2C2:243:1010:EEEE0000:0:0:0:     abc2kids             abc2kids             # ABC2/KIDS
@@ -268,7 +268,7 @@
 
 # Canberra
 # Service reference                    Service base name    Picon base name        Service name
-1:0:1:210:211:1010:EEEE0000:0:0:0:     abcnews24            abcnews24            # ABC News 24
+1:0:1:210:211:1010:EEEE0000:0:0:0:     abcnews24            abcnews              # ABC News 24
 1:0:19:215:211:1010:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
 1:0:1:211:211:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
 1:0:1:212:211:1010:EEEE0000:0:0:0:     abc2kids             abc2kids             # ABC2/KIDS
@@ -315,7 +315,7 @@
 
 # Central Coast
 # Service reference                    Service base name    Picon base name        Service name
-1:0:1:2A0:223:1010:EEEE0000:0:0:0:     abcnews24            abcnews24            # ABC News 24
+1:0:1:2A0:223:1010:EEEE0000:0:0:0:     abcnews24            abcnews              # ABC News 24
 1:0:19:2A5:223:1010:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
 1:0:1:2A1:223:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
 1:0:1:2A2:223:1010:EEEE0000:0:0:0:     abc2kids             abc2kids             # ABC2/KIDS
@@ -374,7 +374,7 @@
 
 # Coffs Harbour
 # Service reference                    Service base name    Picon base name        Service name
-1:0:1:2A0:223:1010:EEEE0000:0:0:0:     abcnews24            abcnews24            # ABC News 24
+1:0:1:2A0:223:1010:EEEE0000:0:0:0:     abcnews24            abcnews              # ABC News 24
 1:0:19:2A5:223:1010:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
 1:0:1:2A1:223:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
 1:0:1:2A2:223:1010:EEEE0000:0:0:0:     abc2kids             abc2kids             # ABC2/KIDS
@@ -416,7 +416,7 @@
 
 # Geelong
 # Service reference                    Service base name    Picon base name        Service name
-1:0:1:230:231:1010:EEEE0000:0:0:0:     abcnews24            abcnews24            # ABC News 24
+1:0:1:230:231:1010:EEEE0000:0:0:0:     abcnews24            abcnews              # ABC News 24
 1:0:19:235:231:1010:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
 1:0:1:231:231:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
 1:0:1:232:231:1010:EEEE0000:0:0:0:     abc2kids             abc2kids             # ABC2/KIDS
@@ -460,7 +460,7 @@
 
 # Gippsland
 # Service reference                    Service base name    Picon base name        Service name
-1:0:1:2B0:233:1010:EEEE0000:0:0:0:     abcnews24            abcnews24            # ABC News 24
+1:0:1:2B0:233:1010:EEEE0000:0:0:0:     abcnews24            abcnews              # ABC News 24
 1:0:19:2B5:233:1010:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
 1:0:1:2B1:233:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
 1:0:1:2B2:233:1010:EEEE0000:0:0:0:     abc2kids             abc2kids             # ABC2/KIDS
@@ -505,7 +505,7 @@
 
 # Hobart
 # Service reference                    Service base name    Picon base name        Service name
-1:0:1:270:271:1010:EEEE0000:0:0:0:     abcnews24            abcnews24            # ABC News 24
+1:0:1:270:271:1010:EEEE0000:0:0:0:     abcnews24            abcnews              # ABC News 24
 1:0:19:275:271:1010:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
 1:0:1:271:271:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
 1:0:1:272:271:1010:EEEE0000:0:0:0:     abc2kids             abc2kids             # ABC2/KIDS
@@ -545,7 +545,7 @@
 
 # Launceston
 # Service reference                    Service base name    Picon base name        Service name
-1:0:1:290:273:1010:EEEE0000:0:0:0:     abcnews24            abcnews24            # ABC News 24
+1:0:1:290:273:1010:EEEE0000:0:0:0:     abcnews24            abcnews              # ABC News 24
 1:0:19:295:273:1010:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
 1:0:1:291:273:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
 1:0:1:292:273:1010:EEEE0000:0:0:0:     abc2kids             abc2kids             # ABC2/KIDS
@@ -591,7 +591,7 @@
 
 # Melbourne
 # Service reference                    Service base name    Picon base name        Service name
-1:0:1:230:231:1010:EEEE0000:0:0:0:     abcnews24            abcnews24            # ABC News 24
+1:0:1:230:231:1010:EEEE0000:0:0:0:     abcnews24            abcnews              # ABC News 24
 1:0:19:235:231:1010:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
 1:0:1:231:231:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
 1:0:1:232:231:1010:EEEE0000:0:0:0:     abc2kids             abc2kids             # ABC2/KIDS
@@ -637,7 +637,7 @@
 
 # Mt Gambier
 # Service reference                    Service base name    Picon base name        Service name
-1:0:1:2B0:233:1010:EEEE0000:0:0:0:     abcnews24            abcnews24            # ABC News 24
+1:0:1:2B0:233:1010:EEEE0000:0:0:0:     abcnews24            abcnews              # ABC News 24
 1:0:19:2B5:233:1010:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
 1:0:1:2B1:233:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
 1:0:1:2B2:233:1010:EEEE0000:0:0:0:     abc2kids             abc2kids             # ABC2/KIDS
@@ -646,7 +646,7 @@
 1:0:19:2B5:233:1010:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
 1:0:2:2B6:233:1010:EEEE0000:0:0:0:     doublej              doublej              # Double J
 1:0:2:2B7:233:1010:EEEE0000:0:0:0:     abcjazz              abcjazz              # ABC Jazz
-1:0:1:2D0:253:1010:EEEE0000:0:0:0:     abcnews24            abcnews24            # ABC News 24
+1:0:1:2D0:253:1010:EEEE0000:0:0:0:     abcnews24            abcnews              # ABC News 24
 1:0:19:2D5:253:1010:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
 1:0:1:2D1:253:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
 1:0:1:2D2:253:1010:EEEE0000:0:0:0:     abc2kids             abc2kids             # ABC2/KIDS
@@ -718,7 +718,7 @@
 
 # NSW South Coast
 # Service reference                    Service base name    Picon base name        Service name
-1:0:1:2A0:223:1010:EEEE0000:0:0:0:     abcnews24            abcnews24            # ABC News 24
+1:0:1:2A0:223:1010:EEEE0000:0:0:0:     abcnews24            abcnews              # ABC News 24
 1:0:19:2A5:223:1010:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
 1:0:1:2A1:223:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
 1:0:1:2A2:223:1010:EEEE0000:0:0:0:     abc2kids             abc2kids             # ABC2/KIDS
@@ -763,7 +763,7 @@
 
 # Newcastle
 # Service reference                    Service base name    Picon base name        Service name
-1:0:1:2A0:223:1010:EEEE0000:0:0:0:     abcnews24            abcnews24            # ABC News 24
+1:0:1:2A0:223:1010:EEEE0000:0:0:0:     abcnews24            abcnews              # ABC News 24
 1:0:19:2A5:223:1010:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
 1:0:1:2A1:223:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
 1:0:1:2A2:223:1010:EEEE0000:0:0:0:     abc2kids             abc2kids             # ABC2/KIDS
@@ -809,7 +809,7 @@
 
 # Northern Rivers NSW & Gold Coast
 # Service reference                    Service base name    Picon base name        Service name
-1:0:1:2A0:223:1010:EEEE0000:0:0:0:     abcnews24            abcnews24            # ABC News 24
+1:0:1:2A0:223:1010:EEEE0000:0:0:0:     abcnews24            abcnews              # ABC News 24
 1:0:19:2A5:223:1010:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
 1:0:1:2A1:223:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
 1:0:1:2A2:223:1010:EEEE0000:0:0:0:     abc2kids             abc2kids             # ABC2/KIDS
@@ -818,7 +818,7 @@
 1:0:19:2A5:223:1010:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
 1:0:2:2A6:223:1010:EEEE0000:0:0:0:     doublej              doublej              # Double J
 1:0:2:2A7:223:1010:EEEE0000:0:0:0:     abcjazz              abcjazz              # ABC Jazz
-1:0:1:2C0:243:1010:EEEE0000:0:0:0:     abcnews24            abcnews24            # ABC News 24
+1:0:1:2C0:243:1010:EEEE0000:0:0:0:     abcnews24            abcnews              # ABC News 24
 1:0:19:2C5:243:1010:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
 1:0:1:2C1:243:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
 1:0:1:2C2:243:1010:EEEE0000:0:0:0:     abc2kids             abc2kids             # ABC2/KIDS
@@ -919,7 +919,7 @@
 
 # Orange
 # Service reference                    Service base name    Picon base name        Service name
-1:0:1:2A0:223:1010:EEEE0000:0:0:0:     abcnews24            abcnews24            # ABC News 24
+1:0:1:2A0:223:1010:EEEE0000:0:0:0:     abcnews24            abcnews              # ABC News 24
 1:0:19:2A5:223:1010:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
 1:0:1:2A1:223:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
 1:0:1:2A2:223:1010:EEEE0000:0:0:0:     abc2kids             abc2kids             # ABC2/KIDS
@@ -988,7 +988,7 @@
 1:0:1:687:607:1014:EEEE0000:0:0:0:     one                  one                  # ONE
 1:0:1:688:607:1014:EEEE0000:0:0:0:     eleven               eleven               # ELEVEN
 1:0:1:689:607:1014:EEEE0000:0:0:0:     spreetv              spreetv              # SpreeTV
-1:0:1:2E0:261:3201:EEEE0000:0:0:0:     abcnews24            abcnews24            # ABC News 24
+1:0:1:2E0:261:3201:EEEE0000:0:0:0:     abcnews24            abcnews              # ABC News 24
 1:0:19:2E5:261:3201:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
 1:0:1:2E1:261:3201:EEEE0000:0:0:0:     abc                  abc                  # ABC
 1:0:1:2E2:261:3201:EEEE0000:0:0:0:     abc2kids             abc2kids             # ABC2/KIDS
@@ -1012,7 +1012,7 @@
 
 # Rockhampton
 # Service reference                    Service base name    Picon base name        Service name
-1:0:1:2C0:243:1010:EEEE0000:0:0:0:     abcnews24            abcnews24            # ABC News 24
+1:0:1:2C0:243:1010:EEEE0000:0:0:0:     abcnews24            abcnews              # ABC News 24
 1:0:19:2C5:243:1010:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
 1:0:1:2C1:243:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
 1:0:1:2C2:243:1010:EEEE0000:0:0:0:     abc2kids             abc2kids             # ABC2/KIDS
@@ -1057,7 +1057,7 @@
 
 # Shepparton
 # Service reference                    Service base name    Picon base name        Service name
-1:0:1:2B0:233:1010:EEEE0000:0:0:0:     abcnews24            abcnews24            # ABC News 24
+1:0:1:2B0:233:1010:EEEE0000:0:0:0:     abcnews24            abcnews              # ABC News 24
 1:0:19:2B5:233:1010:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
 1:0:1:2B1:233:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
 1:0:1:2B2:233:1010:EEEE0000:0:0:0:     abc2kids             abc2kids             # ABC2/KIDS
@@ -1112,7 +1112,7 @@
 
 # Spencer Gulf
 # Service reference                    Service base name    Picon base name        Service name
-1:0:1:2D0:253:1010:EEEE0000:0:0:0:     abcnews24            abcnews24            # ABC News 24
+1:0:1:2D0:253:1010:EEEE0000:0:0:0:     abcnews24            abcnews              # ABC News 24
 1:0:19:2D5:253:1010:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
 1:0:1:2D1:253:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
 1:0:1:2D2:253:1010:EEEE0000:0:0:0:     abc2kids             abc2kids             # ABC2/KIDS
@@ -1146,7 +1146,7 @@
 
 # Sunshine Coast
 # Service reference                    Service base name    Picon base name        Service name
-1:0:1:2C0:243:1010:EEEE0000:0:0:0:     abcnews24            abcnews24            # ABC News 24
+1:0:1:2C0:243:1010:EEEE0000:0:0:0:     abcnews24            abcnews              # ABC News 24
 1:0:19:2C5:243:1010:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
 1:0:1:2C1:243:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
 1:0:1:2C2:243:1010:EEEE0000:0:0:0:     abc2kids             abc2kids             # ABC2/KIDS
@@ -1226,7 +1226,7 @@
 
 # Sydney
 # Service reference                    Service base name    Picon base name        Service name
-1:0:1:220:221:1010:EEEE0000:0:0:0:     abcnews24            abcnews24            # ABC News 24
+1:0:1:220:221:1010:EEEE0000:0:0:0:     abcnews24            abcnews              # ABC News 24
 1:0:19:225:221:1010:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
 1:0:1:221:221:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
 1:0:1:222:221:1010:EEEE0000:0:0:0:     abc2kids             abc2kids             # ABC2/KIDS
@@ -1270,7 +1270,7 @@
 
 # Tamworth
 # Service reference                    Service base name    Picon base name        Service name
-1:0:1:2A0:223:1010:EEEE0000:0:0:0:     abcnews24            abcnews24            # ABC News 24
+1:0:1:2A0:223:1010:EEEE0000:0:0:0:     abcnews24            abcnews              # ABC News 24
 1:0:19:2A5:223:1010:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
 1:0:1:2A1:223:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
 1:0:1:2A2:223:1010:EEEE0000:0:0:0:     abc2kids             abc2kids             # ABC2/KIDS
@@ -1312,7 +1312,7 @@
 
 # Toowoomba
 # Service reference                    Service base name    Picon base name        Service name
-1:0:1:2C0:243:1010:EEEE0000:0:0:0:     abcnews24            abcnews24            # ABC News 24
+1:0:1:2C0:243:1010:EEEE0000:0:0:0:     abcnews24            abcnews              # ABC News 24
 1:0:19:2C5:243:1010:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
 1:0:1:2C1:243:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
 1:0:1:2C2:243:1010:EEEE0000:0:0:0:     abc2kids             abc2kids             # ABC2/KIDS
@@ -1358,7 +1358,7 @@
 
 # Townsville
 # Service reference                    Service base name    Picon base name        Service name
-1:0:1:2C0:243:1010:EEEE0000:0:0:0:     abcnews24            abcnews24            # ABC News 24
+1:0:1:2C0:243:1010:EEEE0000:0:0:0:     abcnews24            abcnews              # ABC News 24
 1:0:19:2C5:243:1010:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
 1:0:1:2C1:243:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
 1:0:1:2C2:243:1010:EEEE0000:0:0:0:     abc2kids             abc2kids             # ABC2/KIDS
@@ -1412,7 +1412,7 @@
 
 # Wagga
 # Service reference                    Service base name    Picon base name        Service name
-1:0:1:2A0:223:1010:EEEE0000:0:0:0:     abcnews24            abcnews24            # ABC News 24
+1:0:1:2A0:223:1010:EEEE0000:0:0:0:     abcnews24            abcnews              # ABC News 24
 1:0:19:2A5:223:1010:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
 1:0:1:2A1:223:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
 1:0:1:2A2:223:1010:EEEE0000:0:0:0:     abc2kids             abc2kids             # ABC2/KIDS
@@ -1458,7 +1458,7 @@
 
 # Warrnambool
 # Service reference                    Service base name    Picon base name        Service name
-1:0:1:2B0:233:1010:EEEE0000:0:0:0:     abcnews24            abcnews24            # ABC News 24
+1:0:1:2B0:233:1010:EEEE0000:0:0:0:     abcnews24            abcnews              # ABC News 24
 1:0:19:2B5:233:1010:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
 1:0:1:2B1:233:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
 1:0:1:2B2:233:1010:EEEE0000:0:0:0:     abc2kids             abc2kids             # ABC2/KIDS
@@ -1505,7 +1505,7 @@
 
 # Wide Bay
 # Service reference                    Service base name    Picon base name        Service name
-1:0:1:2C0:243:1010:EEEE0000:0:0:0:     abcnews24            abcnews24            # ABC News 24
+1:0:1:2C0:243:1010:EEEE0000:0:0:0:     abcnews24            abcnews              # ABC News 24
 1:0:19:2C5:243:1010:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
 1:0:1:2C1:243:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
 1:0:1:2C2:243:1010:EEEE0000:0:0:0:     abc2kids             abc2kids             # ABC2/KIDS
@@ -1551,7 +1551,7 @@
 
 # Wollongong
 # Service reference                    Service base name    Picon base name        Service name
-1:0:1:2A0:223:1010:EEEE0000:0:0:0:     abcnews24            abcnews24            # ABC News 24
+1:0:1:2A0:223:1010:EEEE0000:0:0:0:     abcnews24            abcnews              # ABC News 24
 1:0:19:2A5:223:1010:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
 1:0:1:2A1:223:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
 1:0:1:2A2:223:1010:EEEE0000:0:0:0:     abc2kids             abc2kids             # ABC2/KIDS
