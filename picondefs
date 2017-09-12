@@ -178,12 +178,13 @@
 
 # Brisbane
 # Service reference                    Service base name    Picon base name        Service name
-1:0:1:240:241:1010:EEEE0000:0:0:0:     abcnews24            abcnews              # ABC News 24
+1:0:1:240:241:1010:EEEE0000:0:0:0:     abcnews              abcnews              # ABC NEWS
 1:0:19:245:241:1010:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
 1:0:1:241:241:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
 1:0:1:242:241:1010:EEEE0000:0:0:0:     abc2kids             abc2kids             # ABC2/KIDS
 1:0:1:243:241:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
-1:0:1:244:241:1010:EEEE0000:0:0:0:     abcme                abcme                # ABC3
+1:0:1:244:241:1010:EEEE0000:0:0:0:     abcme                abcme                # ABC ME
+1:0:19:245:241:1010:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
 1:0:2:246:241:1010:EEEE0000:0:0:0:     doublej              doublej              # Double J
 1:0:2:247:241:1010:EEEE0000:0:0:0:     abcjazz              abcjazz              # ABC Jazz
 1:0:1:401:400:1012:EEEE0000:0:0:0:     channel9brisbane     channel9             # Channel 9 Brisbane
@@ -210,15 +211,15 @@
 1:0:1:649:604:1014:EEEE0000:0:0:0:     spreetv              spreetv              # SpreeTV
 1:0:1:331:330:3202:EEEE0000:0:0:0:     sbsone               sbsone               # SBS ONE
 1:0:19:336:330:3202:EEEE0000:0:0:0:    sbsvicelandhd        sbsvicelandhd        # SBS VICELAND HD
-1:0:1:332:330:3202:EEEE0000:0:0:0:     sbsviceland          sbsviceland          # SBS TWO
+1:0:1:332:330:3202:EEEE0000:0:0:0:     sbsviceland          sbsviceland          # SBS VICELAND
 1:0:1:333:330:3202:EEEE0000:0:0:0:     foodnetwork          foodnetwork          # Food Network
 1:0:1:334:330:3202:EEEE0000:0:0:0:     nitv                 nitv                 # NITV
-1:0:19:335:330:3202:EEEE0000:0:0:0:    sbshd                sbsonehd             # SBS HD
-1:0:2:33E:330:3202:EEEE0000:0:0:0:     sbsradio1            sbsradio1            # SBS Radio 1
+1:0:19:335:330:3202:EEEE0000:0:0:0:    sbsonehd             sbsonehd             # SBS ONE HD
+1:0:19:336:330:3202:EEEE0000:0:0:0:    sbsvicelandhd        sbsvicelandhd        # SBS VICELAND HD
 1:0:2:33D:330:3202:EEEE0000:0:0:0:     sbsarabic24          sbsarabic24          # SBS Arabic24
+1:0:2:33E:330:3202:EEEE0000:0:0:0:     sbsradio1            sbsradio1            # SBS Radio 1
 1:0:2:33F:330:3202:EEEE0000:0:0:0:     sbsradio2            sbsradio2            # SBS Radio 2
 1:0:2:340:330:3202:EEEE0000:0:0:0:     sbsradio3            sbsradio3            # SBS Radio 3
-1:0:1:E01:E00:322A:EEEE0000:0:0:0:     31digital            31digital            # 31 Digital
 
 # Cairns
 # Service reference                    Service base name    Picon base name        Service name
@@ -268,7 +269,7 @@
 
 # Canberra
 # Service reference                    Service base name    Picon base name        Service name
-1:0:1:210:211:1010:EEEE0000:0:0:0:     abcnews24            abcnews              # ABC News 24
+1:0:1:210:211:1010:EEEE0000:0:0:0:     abcnews              abcnews              # ABC NEWS
 1:0:19:215:211:1010:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
 1:0:1:211:211:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
 1:0:1:212:211:1010:EEEE0000:0:0:0:     abc2kids             abc2kids             # ABC2/KIDS
@@ -291,7 +292,7 @@
 1:0:1:807:807:320C:EEEE0000:0:0:0:     ninecanberra         channel9             # Nine Canberra
 1:0:1:827:807:320C:EEEE0000:0:0:0:     9gem                 9gem                 # 9Gem
 1:0:1:847:807:320C:EEEE0000:0:0:0:     9go                  9go                  # 9Go!
-1:0:16:867:807:320C:EEEE0000:0:0:0:    tobeadvised          tobeadvised          # To Be Advised
+1:0:16:867:807:320C:EEEE0000:0:0:0:    sbn                  sbn                  # SBN
 1:0:16:887:807:320C:EEEE0000:0:0:0:    aspire               aspire               # Aspire
 1:0:1:8A7:807:320C:EEEE0000:0:0:0:     ninecanberra         channel9             # Nine Canberra
 1:0:19:8C7:807:320C:EEEE0000:0:0:0:    9hdcanberra          9hd                  # 9HD Canberra
@@ -311,6 +312,7 @@
 1:0:1:962:99E:3281:EEEE0000:0:0:0:     7twocanberra         7two                 # 7TWO Canberra
 1:0:1:963:99E:3281:EEEE0000:0:0:0:     7matecanberra        7mate                # 7mate Canberra
 1:0:16:965:99E:3281:EEEE0000:0:0:0:    ishoptv              ishoptv              # ishoptv
+1:0:16:966:99E:3281:EEEE0000:0:0:0:    7flix                7flix                # 7flix
 1:0:16:968:99E:3281:EEEE0000:0:0:0:    racingcom            racingcom            # RACING.COM
 
 # Central Coast
@@ -401,10 +403,15 @@
 1:0:2:35F:350:3202:EEEE0000:0:0:0:     sbsradio2            sbsradio2            # SBS Radio 2
 1:0:2:360:350:3202:EEEE0000:0:0:0:     sbsradio3            sbsradio3            # SBS Radio 3
 1:0:1:80D:80D:320C:EEEE0000:0:0:0:     sc10coffsharbour     sc10                 # SC10 Coffs Harbour
-1:0:1:82D:80D:320C:EEEE0000:0:0:0:     onecoffsharbour      one                  # ONE Coffs Harbour
-1:0:1:84D:80D:320C:EEEE0000:0:0:0:     eleven               eleven               # ELEVEN
 1:0:1:86D:80D:320C:EEEE0000:0:0:0:     tobeadvised          tobeadvised          # YESSHOP
 1:0:1:88D:80D:320C:EEEE0000:0:0:0:     aspire               aspire               # Aspire
+1:0:16:787:329B:3272:EEEE0000:0:0:0:   gold                 gold                 # GOLD
+1:0:16:788:329B:3272:EEEE0000:0:0:0:   tvsn                 tvsn                 # TVSN
+1:0:1:820:329B:3272:EEEE0000:0:0:0:    wincoffsharbour      win                  # WIN Coffs Harbour
+1:0:1:822:329B:3272:EEEE0000:0:0:0:    onecoffsharbour      one                  # ONE Coffs Harbour
+1:0:1:824:329B:3272:EEEE0000:0:0:0:    elevencoffsharbour   eleven               # ELEVEN Coffs Harbour
+1:0:19:825:329B:3272:EEEE0000:0:0:0:   winhdcoffsharbour    winhd                # WIN HD Coffs Harbour
+1:0:1:826:329B:3272:EEEE0000:0:0:0:    winnetwork           tobeadvised          # WIN NETWORK
 1:0:1:93B:9A5:3282:EEEE0000:0:0:0:     prime7coffsharbour   prime7               # PRIME7 Coffs Harbour
 1:0:1:97E:9A5:3282:EEEE0000:0:0:0:     prime7coffsharbour   prime7               # PRIME7 Coffs Harbour
 1:0:1:97F:9A5:3282:EEEE0000:0:0:0:     prime7coffsharbour   prime7               # PRIME7 Coffs Harbour
@@ -763,7 +770,7 @@
 
 # Newcastle
 # Service reference                    Service base name    Picon base name        Service name
-1:0:1:2A0:223:1010:EEEE0000:0:0:0:     abcnews24            abcnews              # ABC News 24
+1:0:1:2A0:223:1010:EEEE0000:0:0:0:     abcnews              abcnews              # ABC NEWS
 1:0:19:2A5:223:1010:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
 1:0:1:2A1:223:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
 1:0:1:2A2:223:1010:EEEE0000:0:0:0:     abc2kids             abc2kids             # ABC2/KIDS
@@ -786,30 +793,30 @@
 1:0:1:353:350:3202:EEEE0000:0:0:0:     foodnetwork          foodnetwork          # Food Network
 1:0:1:354:350:3202:EEEE0000:0:0:0:     nitv                 nitv                 # NITV
 1:0:19:355:350:3202:EEEE0000:0:0:0:    sbsonehd             sbsonehd             # SBS ONE HD
-1:0:1:356:350:3202:EEEE0000:0:0:0:     sbsvicelandhd        sbsvicelandhd        # SBS VICELAND HD
+1:0:19:356:350:3202:EEEE0000:0:0:0:    sbsvicelandhd        sbsvicelandhd        # SBS VICELAND HD
 1:0:2:35D:350:3202:EEEE0000:0:0:0:     sbsarabic24          sbsarabic24          # SBS Arabic24
 1:0:2:35E:350:3202:EEEE0000:0:0:0:     sbsradio1            sbsradio1            # SBS Radio 1
 1:0:2:35F:350:3202:EEEE0000:0:0:0:     sbsradio2            sbsradio2            # SBS Radio 2
 1:0:2:360:350:3202:EEEE0000:0:0:0:     sbsradio3            sbsradio3            # SBS Radio 3
-1:0:1:80A:80A:320C:EEEE0000:0:0:0:     tennewcastle         tendigital           # TEN Newcastle
-1:0:1:82A:80A:320C:EEEE0000:0:0:0:     onenewcastle         one                  # ONE Newcastle
-1:0:1:84A:80A:320C:EEEE0000:0:0:0:     eleven               eleven               # ELEVEN
-1:0:16:86A:80A:320C:EEEE0000:0:0:0:    tobeadvised          tobeadvised          # To Be Advised
-1:0:16:88A:80A:320C:EEEE0000:0:0:0:    aspire               aspire               # Aspire
-1:0:1:8AA:80A:320C:EEEE0000:0:0:0:     tennewcastle         tendigital           # TEN Newcastle
-1:0:19:8CA:80A:320C:EEEE0000:0:0:0:    tenhdnewcastle       tenhd                # TEN HD Newcastle
-1:0:16:8EA:80A:320C:EEEE0000:0:0:0:    tvsn                 tvsn                 # TVSN
+1:0:16:787:329C:3272:EEEE0000:0:0:0:   gold                 gold                 # GOLD
+1:0:16:788:329C:3272:EEEE0000:0:0:0:   tvsn                 tvsn                 # TVSN
+1:0:1:820:329C:3272:EEEE0000:0:0:0:    winnewcastle         win                  # WIN Newcastle
+1:0:1:822:329C:3272:EEEE0000:0:0:0:    onenewcastle         one                  # ONE Newcastle
+1:0:1:824:329C:3272:EEEE0000:0:0:0:    elevennewcastle      eleven               # ELEVEN Newcastle
+1:0:19:825:329C:3272:EEEE0000:0:0:0:   winhdnewcastle       winhd                # WIN HD Newcastle
+1:0:1:826:329C:3272:EEEE0000:0:0:0:    winnetwork           tobeadvised          # WIN NETWORK
 1:0:1:93E:9B0:3282:EEEE0000:0:0:0:     prime7newcastle      prime7               # PRIME7 Newcastle
 1:0:1:96A:9B0:3282:EEEE0000:0:0:0:     prime7newcastle      prime7               # PRIME7 Newcastle
 1:0:1:96B:9B0:3282:EEEE0000:0:0:0:     prime7newcastle      prime7               # PRIME7 Newcastle
 1:0:1:96C:9B0:3282:EEEE0000:0:0:0:     7twonewcastle        7two                 # 7TWO Newcastle
 1:0:1:96D:9B0:3282:EEEE0000:0:0:0:     7matenewcastle       7mate                # 7mate Newcastle
 1:0:16:96F:9B0:3282:EEEE0000:0:0:0:    ishoptv              ishoptv              # ishoptv
+1:0:16:970:9B0:3282:EEEE0000:0:0:0:    7flix                7flix                # 7flix
 1:0:16:972:9B0:3282:EEEE0000:0:0:0:    racingcom            racingcom            # RACING.COM
 
 # Northern Rivers NSW & Gold Coast
 # Service reference                    Service base name    Picon base name        Service name
-1:0:1:2A0:223:1010:EEEE0000:0:0:0:     abcnews24            abcnews              # ABC News 24
+1:0:1:2A0:223:1010:EEEE0000:0:0:0:     abcnews              abcnews              # ABC NEWS
 1:0:19:2A5:223:1010:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
 1:0:1:2A1:223:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
 1:0:1:2A2:223:1010:EEEE0000:0:0:0:     abc2kids             abc2kids             # ABC2/KIDS
@@ -818,7 +825,7 @@
 1:0:19:2A5:223:1010:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
 1:0:2:2A6:223:1010:EEEE0000:0:0:0:     doublej              doublej              # Double J
 1:0:2:2A7:223:1010:EEEE0000:0:0:0:     abcjazz              abcjazz              # ABC Jazz
-1:0:1:2C0:243:1010:EEEE0000:0:0:0:     abcnews24            abcnews              # ABC News 24
+1:0:1:2C0:243:1010:EEEE0000:0:0:0:     abcnews              abcnews              # ABC NEWS
 1:0:19:2C5:243:1010:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
 1:0:1:2C1:243:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
 1:0:1:2C2:243:1010:EEEE0000:0:0:0:     abc2kids             abc2kids             # ABC2/KIDS
@@ -871,7 +878,7 @@
 1:0:1:333:330:3202:EEEE0000:0:0:0:     foodnetwork          foodnetwork          # Food Network
 1:0:1:334:330:3202:EEEE0000:0:0:0:     nitv                 nitv                 # NITV
 1:0:19:335:330:3202:EEEE0000:0:0:0:    sbsonehd             sbsonehd             # SBS ONE HD
-1:0:1:336:330:3202:EEEE0000:0:0:0:     sbsvicelandhd        sbsvicelandhd        # SBS VICELAND HD
+1:0:19:336:330:3202:EEEE0000:0:0:0:    sbsvicelandhd        sbsvicelandhd        # SBS VICELAND HD
 1:0:2:33D:330:3202:EEEE0000:0:0:0:     sbsarabic24          sbsarabic24          # SBS Arabic24
 1:0:2:33E:330:3202:EEEE0000:0:0:0:     sbsradio1            sbsradio1            # SBS Radio 1
 1:0:2:33F:330:3202:EEEE0000:0:0:0:     sbsradio2            sbsradio2            # SBS Radio 2
@@ -882,26 +889,25 @@
 1:0:1:353:350:3202:EEEE0000:0:0:0:     foodnetwork          foodnetwork          # Food Network
 1:0:1:354:350:3202:EEEE0000:0:0:0:     nitv                 nitv                 # NITV
 1:0:19:355:350:3202:EEEE0000:0:0:0:    sbsonehd             sbsonehd             # SBS ONE HD
-1:0:1:356:350:3202:EEEE0000:0:0:0:     sbsvicelandhd        sbsvicelandhd        # SBS VICELAND HD
+1:0:19:356:350:3202:EEEE0000:0:0:0:    sbsvicelandhd        sbsvicelandhd        # SBS VICELAND HD
 1:0:2:35D:350:3202:EEEE0000:0:0:0:     sbsarabic24          sbsarabic24          # SBS Arabic24
 1:0:2:35E:350:3202:EEEE0000:0:0:0:     sbsradio1            sbsradio1            # SBS Radio 1
 1:0:2:35F:350:3202:EEEE0000:0:0:0:     sbsradio2            sbsradio2            # SBS Radio 2
 1:0:2:360:350:3202:EEEE0000:0:0:0:     sbsradio3            sbsradio3            # SBS Radio 3
-1:0:1:80E:80E:320C:EEEE0000:0:0:0:     tenlismore           tendigital           # TEN Lismore
-1:0:1:82E:80E:320C:EEEE0000:0:0:0:     onelismore           one                  # ONE Lismore
-1:0:1:84E:80E:320C:EEEE0000:0:0:0:     eleven               eleven               # ELEVEN
-1:0:16:86E:80E:320C:EEEE0000:0:0:0:    tobeadvised          tobeadvised          # To Be Advised
-1:0:16:88E:80E:320C:EEEE0000:0:0:0:    aspire               aspire               # Aspire
-1:0:1:8AE:80E:320C:EEEE0000:0:0:0:     tenlismore           tendigital           # TEN Lismore
-1:0:19:8CE:80E:320C:EEEE0000:0:0:0:    tenhdlismore         tenhd                # TEN HD Lismore
-1:0:16:8EE:80E:320C:EEEE0000:0:0:0:    tvsn                 tvsn                 # TVSN
-1:0:1:80F:80F:320C:EEEE0000:0:0:0:     tengoldcoast         tendigital           # TEN Gold Coast
-1:0:1:82F:80F:320C:EEEE0000:0:0:0:     onegoldcoast         one                  # ONE Gold Coast
-1:0:1:84F:80F:320C:EEEE0000:0:0:0:     eleven               eleven               # ELEVEN
-1:0:16:86F:80F:320C:EEEE0000:0:0:0:    tobeadvised          tobeadvised          # To Be Advised
-1:0:16:88F:80F:320C:EEEE0000:0:0:0:    aspire               aspire               # Aspire
-1:0:1:8AF:80F:320C:EEEE0000:0:0:0:     tengoldcoast         tendigital           # TEN Gold Coast
-1:0:19:8CF:80F:320C:EEEE0000:0:0:0:    tenhdgoldcoast       tenhd                # TEN HD Gold Coast
+1:0:16:787:329F:3272:EEEE0000:0:0:0:   gold                 gold                 # GOLD
+1:0:16:788:329F:3272:EEEE0000:0:0:0:   tvsn                 tvsn                 # TVSN
+1:0:1:820:329F:3272:EEEE0000:0:0:0:    winlismore           win                  # WIN Lismore
+1:0:1:822:329F:3272:EEEE0000:0:0:0:    onelismore           one                  # ONE Lismore
+1:0:1:824:329F:3272:EEEE0000:0:0:0:    elevenlismore        eleven               # ELEVEN Lismore
+1:0:19:825:329F:3272:EEEE0000:0:0:0:   winhdlismore         winhd                # WIN HD Lismore
+1:0:1:826:329F:3272:EEEE0000:0:0:0:    winnetwork           tobeadvised          # WIN NETWORK
+1:0:16:787:32A0:3272:EEEE0000:0:0:0:   gold                 gold                 # GOLD
+1:0:16:788:32A0:3272:EEEE0000:0:0:0:   tvsn                 tvsn                 # TVSN
+1:0:1:820:32A0:3272:EEEE0000:0:0:0:    wingoldcoast         win                  # WIN Gold Coast
+1:0:1:822:32A0:3272:EEEE0000:0:0:0:    onegoldcoast         one                  # ONE Gold Coast
+1:0:1:824:32A0:3272:EEEE0000:0:0:0:    elevengoldcoast      eleven               # ELEVEN Gold Coast
+1:0:19:825:32A0:3272:EEEE0000:0:0:0:   winhdgoldcoast       winhd                # WIN HD Gold Coast
+1:0:1:826:32A0:3272:EEEE0000:0:0:0:    winnetwork           tobeadvised          # WIN NETWORK
 1:0:1:938:9A5:3282:EEEE0000:0:0:0:     prime7goldcoast      prime7               # PRIME7 Gold Coast
 1:0:1:939:9A5:3282:EEEE0000:0:0:0:     prime7lismore        prime7               # PRIME7 Lismore
 1:0:1:960:9A5:3282:EEEE0000:0:0:0:     prime7goldcoast      prime7               # PRIME7 Gold Coast
@@ -909,17 +915,19 @@
 1:0:1:962:9A5:3282:EEEE0000:0:0:0:     7twogoldcoast        7two                 # 7TWO Gold Coast
 1:0:1:963:9A5:3282:EEEE0000:0:0:0:     7mategoldcoast       7mate                # 7mate Gold Coast
 1:0:16:965:9A5:3282:EEEE0000:0:0:0:    ishoptv              ishoptv              # ishoptv
+1:0:16:966:9A5:3282:EEEE0000:0:0:0:    7flix                7flix                # 7flix
 1:0:16:968:9A5:3282:EEEE0000:0:0:0:    racingcom            racingcom            # RACING.COM
 1:0:1:96A:9A5:3282:EEEE0000:0:0:0:     prime7lismore        prime7               # PRIME7 Lismore
 1:0:1:96B:9A5:3282:EEEE0000:0:0:0:     prime7lismore        prime7               # PRIME7 Lismore
 1:0:1:96C:9A5:3282:EEEE0000:0:0:0:     7twolismore          7two                 # 7TWO Lismore
 1:0:1:96D:9A5:3282:EEEE0000:0:0:0:     7matelismore         7mate                # 7mate Lismore
 1:0:16:96F:9A5:3282:EEEE0000:0:0:0:    ishoptv              ishoptv              # ishoptv
+1:0:16:970:9A5:3282:EEEE0000:0:0:0:    7flix                7flix                # 7flix
 1:0:16:972:9A5:3282:EEEE0000:0:0:0:    racingcom            racingcom            # RACING.COM
 
 # Orange
 # Service reference                    Service base name    Picon base name        Service name
-1:0:1:2A0:223:1010:EEEE0000:0:0:0:     abcnews24            abcnews              # ABC News 24
+1:0:1:2A0:223:1010:EEEE0000:0:0:0:     abcnews              abcnews              # ABC NEWS
 1:0:19:2A5:223:1010:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
 1:0:1:2A1:223:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
 1:0:1:2A2:223:1010:EEEE0000:0:0:0:     abc2kids             abc2kids             # ABC2/KIDS
@@ -942,7 +950,7 @@
 1:0:1:808:808:320C:EEEE0000:0:0:0:     nineorange           channel9             # Nine Orange
 1:0:1:828:808:320C:EEEE0000:0:0:0:     9gem                 9gem                 # 9Gem
 1:0:1:848:808:320C:EEEE0000:0:0:0:     9go                  9go                  # 9Go!
-1:0:1:868:808:320C:EEEE0000:0:0:0:     tobeadvised          tobeadvised          # To Be Advised
+1:0:1:868:808:320C:EEEE0000:0:0:0:     sbn                  sbn                  # SBN
 1:0:1:888:808:320C:EEEE0000:0:0:0:     aspire               aspire               # Aspire
 1:0:1:8A8:808:320C:EEEE0000:0:0:0:     nineorange           channel9             # Nine Orange
 1:0:1:8C8:808:320C:EEEE0000:0:0:0:     9hdorange            9hd                  # 9HD Orange
@@ -962,6 +970,7 @@
 1:0:1:962:9A2:3281:EEEE0000:0:0:0:     7twoorange           7two                 # 7TWO Orange
 1:0:1:963:9A2:3281:EEEE0000:0:0:0:     7mateorange          7mate                # 7mate Orange
 1:0:16:965:9A2:3281:EEEE0000:0:0:0:    ishoptv              ishoptv              # ishoptv
+1:0:16:966:9A2:3281:EEEE0000:0:0:0:    7flix                7flix                # 7flix
 1:0:16:968:9A2:3281:EEEE0000:0:0:0:    racingcom            racingcom            # RACING.COM
 
 # Perth
@@ -1012,12 +1021,13 @@
 
 # Rockhampton
 # Service reference                    Service base name    Picon base name        Service name
-1:0:1:2C0:243:1010:EEEE0000:0:0:0:     abcnews24            abcnews              # ABC News 24
+1:0:1:2C0:243:1010:EEEE0000:0:0:0:     abcnews              abcnews              # ABC NEWS
 1:0:19:2C5:243:1010:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
 1:0:1:2C1:243:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
 1:0:1:2C2:243:1010:EEEE0000:0:0:0:     abc2kids             abc2kids             # ABC2/KIDS
 1:0:1:2C3:243:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
-1:0:1:2C4:243:1010:EEEE0000:0:0:0:     abcme                abcme                # ABC3
+1:0:1:2C4:243:1010:EEEE0000:0:0:0:     abcme                abcme                # ABC ME
+1:0:19:2C5:243:1010:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
 1:0:2:2C6:243:1010:EEEE0000:0:0:0:     doublej              doublej              # Double J
 1:0:2:2C7:243:1010:EEEE0000:0:0:0:     abcjazz              abcjazz              # ABC Jazz
 1:0:1:940:930:1013:EEEE0000:0:0:0:     7rockhampton         7digital             # 7 Rockhampton
@@ -1026,34 +1036,35 @@
 1:0:1:943:930:1013:EEEE0000:0:0:0:     7materockhampton     7mate                # 7mate Rockhampton
 1:0:1:944:930:1013:EEEE0000:0:0:0:     7rockhampton         7digital             # 7 Rockhampton
 1:0:1:945:930:1013:EEEE0000:0:0:0:     7flixrockhampton     7flix                # 7flix Rockhampton
-1:0:1:948:930:1013:EEEE0000:0:0:0:     racingcom            racingcom            # RACING.COM
+1:0:16:948:930:1013:EEEE0000:0:0:0:    racingcom            racingcom            # RACING.COM
 1:0:1:3B1:3B0:3202:EEEE0000:0:0:0:     sbsone               sbsone               # SBS ONE
 1:0:19:3B6:3B0:3202:EEEE0000:0:0:0:    sbsvicelandhd        sbsvicelandhd        # SBS VICELAND HD
-1:0:1:3B2:3B0:3202:EEEE0000:0:0:0:     sbsviceland          sbsviceland          # SBS TWO
+1:0:1:3B2:3B0:3202:EEEE0000:0:0:0:     sbsviceland          sbsviceland          # SBS VICELAND
 1:0:1:3B3:3B0:3202:EEEE0000:0:0:0:     foodnetwork          foodnetwork          # Food Network
 1:0:1:3B4:3B0:3202:EEEE0000:0:0:0:     nitv                 nitv                 # NITV
-1:0:19:3B5:3B0:3202:EEEE0000:0:0:0:    sbshd                sbsonehd             # SBS HD
-1:0:2:3BE:3B0:3202:EEEE0000:0:0:0:     sbsradio1            sbsradio1            # SBS Radio 1
+1:0:19:3B5:3B0:3202:EEEE0000:0:0:0:    sbsonehd             sbsonehd             # SBS ONE HD
+1:0:19:3B6:3B0:3202:EEEE0000:0:0:0:    sbsvicelandhd        sbsvicelandhd        # SBS VICELAND HD
 1:0:2:3BD:3B0:3202:EEEE0000:0:0:0:     sbsarabic24          sbsarabic24          # SBS Arabic24
+1:0:2:3BE:3B0:3202:EEEE0000:0:0:0:     sbsradio1            sbsradio1            # SBS Radio 1
 1:0:2:3BF:3B0:3202:EEEE0000:0:0:0:     sbsradio2            sbsradio2            # SBS Radio 2
 1:0:2:3C0:3B0:3202:EEEE0000:0:0:0:     sbsradio3            sbsradio3            # SBS Radio 3
 1:0:1:813:813:320C:EEEE0000:0:0:0:     ninerockhampton      channel9             # Nine Rockhampton
 1:0:1:833:813:320C:EEEE0000:0:0:0:     9gem                 9gem                 # 9Gem
 1:0:1:853:813:320C:EEEE0000:0:0:0:     9go                  9go                  # 9Go!
-1:0:1:873:813:320C:EEEE0000:0:0:0:     tobeadvised          tobeadvised          # YESSHOP
-1:0:1:893:813:320C:EEEE0000:0:0:0:     aspire               aspire               # Aspire
+1:0:16:873:813:320C:EEEE0000:0:0:0:    sbn                  sbn                  # SBN
+1:0:16:893:813:320C:EEEE0000:0:0:0:    aspire               aspire               # Aspire
 1:0:1:8B3:813:320C:EEEE0000:0:0:0:     ninerockhampton      channel9             # Nine Rockhampton
-1:0:1:8D3:813:320C:EEEE0000:0:0:0:     9hdrockhampton       9hd                  # 9HD Rockhampton
-1:0:1:8F3:813:320C:EEEE0000:0:0:0:     9life                9life                # 9Life
-1:0:1:781:327D:3271:EEEE0000:0:0:0:    win                  win                  # WIN 
-1:0:1:782:327D:3271:EEEE0000:0:0:0:    one                  one                  # ONE
-1:0:1:784:327D:3271:EEEE0000:0:0:0:    win                  win                  # WIN
-1:0:1:785:327D:3271:EEEE0000:0:0:0:    one                  one                  # ONE
-1:0:1:786:327D:3271:EEEE0000:0:0:0:    eleven               eleven               # ELEVEN
+1:0:19:8D3:813:320C:EEEE0000:0:0:0:    9hdrockhampton       9hd                  # 9HD Rockhampton
+1:0:16:8F3:813:320C:EEEE0000:0:0:0:    9life                9life                # 9Life
+1:0:1:781:327D:3271:EEEE0000:0:0:0:    wincentralqld        win                  # WIN Central QLD
+1:0:1:782:327D:3271:EEEE0000:0:0:0:    onecentralqld        one                  # ONE Central QLD
+1:0:1:784:327D:3271:EEEE0000:0:0:0:    wincentralqld        win                  # WIN Central QLD
+1:0:1:785:327D:3271:EEEE0000:0:0:0:    onecentralqld        one                  # ONE Central QLD
+1:0:1:786:327D:3271:EEEE0000:0:0:0:    elevencentralqld     eleven               # ELEVEN Central QLD
 1:0:16:787:327D:3271:EEEE0000:0:0:0:   gold                 gold                 # GOLD
-1:0:16:788:327D:3271:EEEE0000:0:0:0:   tvsn                 tvsn                 # TVSN
-1:0:16:790:327D:3271:EEEE0000:0:0:0:   tba                  tba                  # TBA
-1:0:19:794:327D:3271:EEEE0000:0:0:0:   winhd                winhd                # WIN HD
+1:0:1:788:327D:3271:EEEE0000:0:0:0:    tvsn                 tvsn                 # TVSN
+1:0:16:790:327D:3271:EEEE0000:0:0:0:   winnetwork           tobeadvised          # WIN NETWORK
+1:0:19:794:327D:3271:EEEE0000:0:0:0:   wincentralqldhd      winhd                # WIN Central QLD HD
 
 # Shepparton
 # Service reference                    Service base name    Picon base name        Service name
@@ -1297,10 +1308,15 @@
 1:0:2:35F:350:3202:EEEE0000:0:0:0:     sbsradio2            sbsradio2            # SBS Radio 2
 1:0:2:360:350:3202:EEEE0000:0:0:0:     sbsradio3            sbsradio3            # SBS Radio 3
 1:0:1:80C:80C:320C:EEEE0000:0:0:0:     sc10tamworth         sc10                 # SC10 Tamworth
-1:0:1:82C:80C:320C:EEEE0000:0:0:0:     onetamworth          one                  # ONE Tamworth
-1:0:1:84C:80C:320C:EEEE0000:0:0:0:     eleven               eleven               # ELEVEN
 1:0:1:86C:80C:320C:EEEE0000:0:0:0:     tobeadvised          tobeadvised          # YESSHOP
 1:0:1:88C:80C:320C:EEEE0000:0:0:0:     aspire               aspire               # Aspire
+1:0:16:787:329A:3272:EEEE0000:0:0:0:   gold                 gold                 # GOLD
+1:0:16:788:329A:3272:EEEE0000:0:0:0:   tvsn                 tvsn                 # TVSN
+1:0:1:820:329A:3272:EEEE0000:0:0:0:    wintamworth          win                  # WIN Tamworth
+1:0:1:822:329A:3272:EEEE0000:0:0:0:    onetamworth          one                  # ONE Tamworth
+1:0:1:824:329A:3272:EEEE0000:0:0:0:    eleventamworth       eleven               # ELEVEN Tamworth
+1:0:19:825:329A:3272:EEEE0000:0:0:0:   winhdtamworth        winhd                # WIN HD Tamworth
+1:0:1:826:329A:3272:EEEE0000:0:0:0:    winnetwork           tobeadvised          # WIN NETWORK
 1:0:1:93C:9A5:3282:EEEE0000:0:0:0:     prime7tamworth       prime7               # PRIME7 Tamworth
 1:0:1:988:9A5:3282:EEEE0000:0:0:0:     prime7tamworth       prime7               # PRIME7 Tamworth
 1:0:1:989:9A5:3282:EEEE0000:0:0:0:     prime7tamworth       prime7               # PRIME7 Tamworth
@@ -1458,7 +1474,7 @@
 
 # Warrnambool
 # Service reference                    Service base name    Picon base name        Service name
-1:0:1:2B0:233:1010:EEEE0000:0:0:0:     abcnews24            abcnews              # ABC News 24
+1:0:1:2B0:233:1010:EEEE0000:0:0:0:     abcnews              abcnews              # ABC NEWS
 1:0:19:2B5:233:1010:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
 1:0:1:2B1:233:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
 1:0:1:2B2:233:1010:EEEE0000:0:0:0:     abc2kids             abc2kids             # ABC2/KIDS
@@ -1481,7 +1497,7 @@
 1:0:1:802:802:320C:EEEE0000:0:0:0:     nineballarat         channel9             # Nine Ballarat
 1:0:1:822:802:320C:EEEE0000:0:0:0:     9gem                 9gem                 # 9Gem
 1:0:1:842:802:320C:EEEE0000:0:0:0:     9go                  9go                  # 9Go!
-1:0:16:862:802:320C:EEEE0000:0:0:0:    tobeadvised          tobeadvised          # To Be Advised
+1:0:16:862:802:320C:EEEE0000:0:0:0:    sbn                  sbn                  # SBN
 1:0:16:882:802:320C:EEEE0000:0:0:0:    aspire               aspire               # Aspire
 1:0:1:8A2:802:320C:EEEE0000:0:0:0:     nineballarat         channel9             # Nine Ballarat
 1:0:19:8C2:802:320C:EEEE0000:0:0:0:    9hdballarat          9hd                  # 9HD Ballarat
@@ -1501,6 +1517,7 @@
 1:0:1:962:99D:3283:EEEE0000:0:0:0:     7twoballarat         7two                 # 7TWO Ballarat
 1:0:1:963:99D:3283:EEEE0000:0:0:0:     7mateballarat        7mate                # 7mate Ballarat
 1:0:16:965:99D:3283:EEEE0000:0:0:0:    ishoptv              ishoptv              # ishoptv
+1:0:16:966:99D:3283:EEEE0000:0:0:0:    7flix                7flix                # 7flix
 1:0:16:968:99D:3283:EEEE0000:0:0:0:    racingcom            racingcom            # RACING.COM
 
 # Wide Bay
@@ -1593,5 +1610,6 @@
 1:0:1:963:99F:3281:EEEE0000:0:0:0:     7matewollongong      7mate                # 7mate Wollongong
 1:0:16:964:99F:3281:EEEE0000:0:0:0:    4me                  tv4me                # 4ME
 1:0:16:965:99F:3281:EEEE0000:0:0:0:    ishoptv              ishoptv              # ishoptv
+1:0:1:966:99F:3281:EEEE0000:0:0:0:     7flixwollongong      7flix                # 7flix Wollongong
 1:0:16:968:99F:3281:EEEE0000:0:0:0:    racingcom            racingcom            # RACING.COM
 
