@@ -634,20 +634,22 @@
 
 # Launceston
 # Service reference                    Service base name    Picon base name        Service name
-1:0:1:290:273:1010:EEEE0000:0:0:0:     abcnews24            abcnews              # ABC News 24
+1:0:1:290:273:1010:EEEE0000:0:0:0:     abcnews              abcnews              # ABC NEWS
 1:0:19:295:273:1010:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
 1:0:1:291:273:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
-1:0:1:292:273:1010:EEEE0000:0:0:0:     abc2kids             abccomedy            # ABC2/KIDS
+1:0:1:292:273:1010:EEEE0000:0:0:0:     abccomedykids        abccomedy            # ABCComedy/Kids
 1:0:1:293:273:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
-1:0:1:294:273:1010:EEEE0000:0:0:0:     abcme                abcme                # ABC3
+1:0:1:294:273:1010:EEEE0000:0:0:0:     abcme                abcme                # ABC ME
+1:0:19:295:273:1010:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
 1:0:2:296:273:1010:EEEE0000:0:0:0:     doublej              doublej              # Double J
 1:0:2:297:273:1010:EEEE0000:0:0:0:     abcjazz              abcjazz              # ABC Jazz
 1:0:1:381:380:3202:EEEE0000:0:0:0:     sbsone               sbsone               # SBS ONE
 1:0:19:386:380:3202:EEEE0000:0:0:0:    sbsvicelandhd        sbsvicelandhd        # SBS VICELAND HD
-1:0:1:382:380:3202:EEEE0000:0:0:0:     sbsviceland          sbsviceland          # SBS TWO
-1:0:1:383:380:3202:EEEE0000:0:0:0:     foodnetwork          foodnetwork          # SBS 3
+1:0:1:382:380:3202:EEEE0000:0:0:0:     sbsviceland          sbsviceland          # SBS VICELAND
+1:0:1:383:380:3202:EEEE0000:0:0:0:     foodnetwork          foodnetwork          # Food Network
 1:0:1:384:380:3202:EEEE0000:0:0:0:     nitv                 nitv                 # NITV
-1:0:19:385:380:3202:EEEE0000:0:0:0:    sbshd                sbsonehd             # SBS HD
+1:0:19:385:380:3202:EEEE0000:0:0:0:    sbsonehd             sbsonehd             # SBS ONE HD
+1:0:19:386:380:3202:EEEE0000:0:0:0:    sbsvicelandhd        sbsvicelandhd        # SBS VICELAND HD
 1:0:2:38D:380:3202:EEEE0000:0:0:0:     sbsarabic24          sbsarabic24          # SBS Arabic24
 1:0:2:38E:380:3202:EEEE0000:0:0:0:     sbsradio1            sbsradio1            # SBS Radio 1
 1:0:2:38F:380:3202:EEEE0000:0:0:0:     sbsradio2            sbsradio2            # SBS Radio 2
@@ -659,31 +661,26 @@
 1:0:2:395:380:3202:EEEE0000:0:0:0:     sbspopdesi           sbspopdesi           # SBS PopDesi
 1:0:2:396:380:3202:EEEE0000:0:0:0:     sbschill             sbschill             # SBS Chill
 1:0:2:397:380:3202:EEEE0000:0:0:0:     sbspopasia           sbspopasia           # SBS PopAsia
+1:0:19:396:380:3202:EEEE0000:0:0:0:    sbsvicelandhd        sbsvicelandhd        # SBS VICELAND HD
 1:0:1:903:903:320B:EEEE0000:0:0:0:     sctvlaunceston       sctvtas              # SCTV Launceston
 1:0:1:923:903:320B:EEEE0000:0:0:0:     7mate                7mate                # 7mate
 1:0:1:943:903:320B:EEEE0000:0:0:0:     7two                 7two                 # 7TWO
-1:0:1:963:903:320B:EEEE0000:0:0:0:     tobeadvised          tobeadvised          # YESSHOP
-1:0:1:983:903:320B:EEEE0000:0:0:0:     aspire               aspire               # Aspire
-1:0:1:9A3:903:320B:EEEE0000:0:0:0:     racingcom            racingcom            # RACING.COM
+1:0:16:963:903:320B:EEEE0000:0:0:0:    sbn                  sbn                  # SBN
+1:0:16:9A3:903:320B:EEEE0000:0:0:0:    racingcom            racingcom            # RACING.COM
+1:0:1:9C3:903:320B:EEEE0000:0:0:0:     sctvlaunceston       sctvtas              # SCTV Launceston
+1:0:19:9E3:903:320B:EEEE0000:0:0:0:    sctvhdlaunceston     sctvhd               # SCTV HD Launceston
 1:0:1:818:818:320C:EEEE0000:0:0:0:     ninetas              channel9             # Nine Tas
 1:0:1:838:818:320C:EEEE0000:0:0:0:     9gem                 9gem                 # 9Gem
 1:0:1:858:818:320C:EEEE0000:0:0:0:     9go                  9go                  # 9Go!
 1:0:1:878:818:320C:EEEE0000:0:0:0:     ninetas              channel9             # Nine Tas
-1:0:1:898:818:320C:EEEE0000:0:0:0:     9hdtas               9hd                  # 9HD Tas
-1:0:1:1:327B:3275:EEEE0000:0:0:0:      winlaunceston        win                  # WIN Launceston
-1:0:1:10:327B:3275:EEEE0000:0:0:0:     extra                extra                # GOLD 2
-1:0:1:2:327B:3275:EEEE0000:0:0:0:      golaunceston         9go                  # GO! Launceston
-1:0:1:781:327B:3275:EEEE0000:0:0:0:    win                  win                  # WIN 
-1:0:1:782:327B:3275:EEEE0000:0:0:0:    one                  one                  # ONE
-1:0:1:784:327B:3275:EEEE0000:0:0:0:    win                  win                  # WIN
-1:0:1:785:327B:3275:EEEE0000:0:0:0:    one                  one                  # ONE
-1:0:1:786:327B:3275:EEEE0000:0:0:0:    eleven               eleven               # ELEVEN
-1:0:1:787:327B:3275:EEEE0000:0:0:0:    gold                 gold                 # GOLD
+1:0:19:898:818:320C:EEEE0000:0:0:0:    9hdtas               9hd                  # 9HD Tas
+1:0:1:781:327B:3275:EEEE0000:0:0:0:    winlaunceston        win                  # WIN Launceston
+1:0:1:782:327B:3275:EEEE0000:0:0:0:    onelaunceston        one                  # ONE Launceston
+1:0:1:786:327B:3275:EEEE0000:0:0:0:    elevenlaunceston     eleven               # ELEVEN Launceston
+1:0:16:787:327B:3275:EEEE0000:0:0:0:   gold                 gold                 # GOLD
 1:0:1:788:327B:3275:EEEE0000:0:0:0:    tvsn                 tvsn                 # TVSN
-1:0:1:791:327B:3275:EEEE0000:0:0:0:    tba                  tba                  # TBA
-1:0:1:799:327B:3275:EEEE0000:0:0:0:    winhd                winhd                # WIN HD
-1:0:1:A:327B:3275:EEEE0000:0:0:0:      gemlaunceston        9gem                 # GEM Launceston
-1:0:1:F:327B:3275:EEEE0000:0:0:0:      gold                 gold                 # GOLD
+1:0:16:791:327B:3275:EEEE0000:0:0:0:   winnetwork           winnetwork           # WIN NETWORK
+1:0:19:799:327B:3275:EEEE0000:0:0:0:   winlauncestonhd      winhd                # WIN Launceston HD
 
 # Melbourne
 # Service reference                    Service base name    Picon base name        Service name
