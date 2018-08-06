@@ -430,28 +430,30 @@
 
 # Coffs Harbour
 # Service reference                    Service base name    Picon base name        Service name
-1:0:1:2A0:223:1010:EEEE0000:0:0:0:     abcnews24            abcnews              # ABC News 24
+1:0:1:2A0:223:1010:EEEE0000:0:0:0:     abcnews              abcnews              # ABC NEWS
 1:0:19:2A5:223:1010:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
 1:0:1:2A1:223:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
-1:0:1:2A2:223:1010:EEEE0000:0:0:0:     abc2kids             abccomedy            # ABC2/KIDS
+1:0:1:2A2:223:1010:EEEE0000:0:0:0:     abccomedykids        abccomedy            # ABCComedy/Kids
 1:0:1:2A3:223:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
-1:0:1:2A4:223:1010:EEEE0000:0:0:0:     abcme                abcme                # ABC3
+1:0:1:2A4:223:1010:EEEE0000:0:0:0:     abcme                abcme                # ABC ME
+1:0:19:2A5:223:1010:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
 1:0:2:2A6:223:1010:EEEE0000:0:0:0:     doublej              doublej              # Double J
 1:0:2:2A7:223:1010:EEEE0000:0:0:0:     abcjazz              abcjazz              # ABC Jazz
-1:0:1:67:702:1019:EEEE0000:0:0:0:      nbnmidnorthcoast     nbn                  # NBN Mid North Coast
+1:0:1:67:702:1019:EEEE0000:0:0:0:      ninemidnorthcoast    channel9             # Nine Mid North Coast
 1:0:19:71:702:1019:EEEE0000:0:0:0:     9hdmidnorthcoast     9hd                  # 9HD Mid North Coast
 1:0:1:7B:702:1019:EEEE0000:0:0:0:      9gemmidnorthcoast    9gem                 # 9GEM Mid North Coast
 1:0:1:85:702:1019:EEEE0000:0:0:0:      9gomidnorthcoast     9go                  # 9GO! Mid North Coast
 1:0:1:8F:702:1019:EEEE0000:0:0:0:      extra                extra                # eXtra
 1:0:1:99:702:1019:EEEE0000:0:0:0:      9lifemidnorthcoast   9life                # 9Life Mid North Coast
 1:0:1:B7:702:1019:EEEE0000:0:0:0:      9gomidnorthcoast     9go                  # 9GO! Mid North Coast
-1:0:1:C1:702:1019:EEEE0000:0:0:0:      nbnmidnorthcoast     nbn                  # NBN Mid North Coast
+1:0:1:C1:702:1019:EEEE0000:0:0:0:      ninemidnorthcoast    channel9             # Nine Mid North Coast
 1:0:1:351:350:3202:EEEE0000:0:0:0:     sbsone               sbsone               # SBS ONE
 1:0:19:356:350:3202:EEEE0000:0:0:0:    sbsvicelandhd        sbsvicelandhd        # SBS VICELAND HD
-1:0:1:352:350:3202:EEEE0000:0:0:0:     sbsviceland          sbsviceland          # SBS TWO
+1:0:1:352:350:3202:EEEE0000:0:0:0:     sbsviceland          sbsviceland          # SBS VICELAND
 1:0:1:353:350:3202:EEEE0000:0:0:0:     foodnetwork          foodnetwork          # Food Network
 1:0:1:354:350:3202:EEEE0000:0:0:0:     nitv                 nitv                 # NITV
-1:0:19:355:350:3202:EEEE0000:0:0:0:    sbshd                sbsonehd             # SBS HD
+1:0:19:355:350:3202:EEEE0000:0:0:0:    sbsonehd             sbsonehd             # SBS ONE HD
+1:0:19:356:350:3202:EEEE0000:0:0:0:    sbsvicelandhd        sbsvicelandhd        # SBS VICELAND HD
 1:0:2:35D:350:3202:EEEE0000:0:0:0:     sbsarabic24          sbsarabic24          # SBS Arabic24
 1:0:2:35E:350:3202:EEEE0000:0:0:0:     sbsradio1            sbsradio1            # SBS Radio 1
 1:0:2:35F:350:3202:EEEE0000:0:0:0:     sbsradio2            sbsradio2            # SBS Radio 2
@@ -463,9 +465,7 @@
 1:0:2:365:350:3202:EEEE0000:0:0:0:     sbspopdesi           sbspopdesi           # SBS PopDesi
 1:0:2:366:350:3202:EEEE0000:0:0:0:     sbschill             sbschill             # SBS Chill
 1:0:2:367:350:3202:EEEE0000:0:0:0:     sbspopasia           sbspopasia           # SBS PopAsia
-1:0:1:80D:80D:320C:EEEE0000:0:0:0:     sc10coffsharbour     sc10                 # SC10 Coffs Harbour
-1:0:1:86D:80D:320C:EEEE0000:0:0:0:     tobeadvised          tobeadvised          # YESSHOP
-1:0:1:88D:80D:320C:EEEE0000:0:0:0:     aspire               aspire               # Aspire
+1:0:19:366:350:3202:EEEE0000:0:0:0:    sbsvicelandhd        sbsvicelandhd        # SBS VICELAND HD
 1:0:16:787:329B:3272:EEEE0000:0:0:0:   gold                 gold                 # GOLD
 1:0:16:788:329B:3272:EEEE0000:0:0:0:   tvsn                 tvsn                 # TVSN
 1:0:1:820:329B:3272:EEEE0000:0:0:0:    wincoffsharbour      win                  # WIN Coffs Harbour
@@ -474,12 +474,12 @@
 1:0:19:825:329B:3272:EEEE0000:0:0:0:   winhdcoffsharbour    winhd                # WIN HD Coffs Harbour
 1:0:1:826:329B:3272:EEEE0000:0:0:0:    winnetwork           winnetwork           # WIN NETWORK
 1:0:1:93B:9A5:3282:EEEE0000:0:0:0:     prime7coffsharbour   prime7               # PRIME7 Coffs Harbour
-1:0:1:97E:9A5:3282:EEEE0000:0:0:0:     prime7coffsharbour   prime7               # PRIME7 Coffs Harbour
+1:0:19:97E:9A5:3282:EEEE0000:0:0:0:    prime7hdcoffsharbour prime7hd             # PRIME7 HD Coffs Harbour
 1:0:1:97F:9A5:3282:EEEE0000:0:0:0:     prime7coffsharbour   prime7               # PRIME7 Coffs Harbour
 1:0:1:980:9A5:3282:EEEE0000:0:0:0:     7twocoffsharbour     7two                 # 7TWO Coffs Harbour
 1:0:1:981:9A5:3282:EEEE0000:0:0:0:     7matecoffsharbour    7mate                # 7mate Coffs Harbour
-1:0:16:982:9A5:3282:EEEE0000:0:0:0:    4me                  tv4me                # 4ME
 1:0:16:983:9A5:3282:EEEE0000:0:0:0:    ishoptv              ishoptv              # ishoptv
+1:0:16:984:9A5:3282:EEEE0000:0:0:0:    7flix                7flix                # 7flix
 1:0:16:986:9A5:3282:EEEE0000:0:0:0:    racingcom            racingcom            # RACING.COM
 
 # Geelong
