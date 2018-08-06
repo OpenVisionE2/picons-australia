@@ -46,7 +46,14 @@
 1:0:2:34D:340:3202:EEEE0000:0:0:0:     sbsarabic24          sbsarabic24          # SBS Arabic24
 1:0:2:34E:340:3202:EEEE0000:0:0:0:     sbsradio1            sbsradio1            # SBS Radio 1
 1:0:2:34F:340:3202:EEEE0000:0:0:0:     sbsradio2            sbsradio2            # SBS Radio 2
-1:0:2:350:340:3202:EEEE0000:0:0:0:     sbsradio3            sbsradio3            # SBS Radio 3
+1:0:2:350:340:3202:EEEE0000:0:0:0:     sbschill             sbschill             # SBS Chill
+1:0:2:351:340:3202:EEEE0000:0:0:0:     sbsradio1            sbsradio1            # SBS Radio 1
+1:0:2:352:340:3202:EEEE0000:0:0:0:     sbsradio2            sbsradio2            # SBS Radio 2
+1:0:2:353:340:3202:EEEE0000:0:0:0:     sbsradio3            sbsradio3            # SBS Radio 3
+1:0:2:354:340:3202:EEEE0000:0:0:0:     sbsarabic24          sbsarabic24          # SBS Arabic24
+1:0:2:355:340:3202:EEEE0000:0:0:0:     sbspopdesi           sbspopdesi           # SBS PopDesi
+1:0:2:356:340:3202:EEEE0000:0:0:0:     sbschill             sbschill             # SBS Chill
+1:0:2:357:340:3202:EEEE0000:0:0:0:     sbspopasia           sbspopasia           # SBS PopAsia
 1:0:1:E01:E00:3234:EEEE0000:0:0:0:     44adelaide           44adelaide           # 44 Adelaide
 
 # Albany WA
@@ -76,10 +83,17 @@
 1:0:1:3A3:3A0:3202:EEEE0000:0:0:0:     foodnetwork          foodnetwork          # Food Network
 1:0:1:3A4:3A0:3202:EEEE0000:0:0:0:     nitv                 nitv                 # NITV
 1:0:19:3A5:3A0:3202:EEEE0000:0:0:0:    sbshd                sbsonehd             # SBS HD
-1:0:2:3AE:3A0:3202:EEEE0000:0:0:0:     sbsradio1            sbsradio1            # SBS Radio 1
 1:0:2:3AD:3A0:3202:EEEE0000:0:0:0:     sbsarabic24          sbsarabic24          # SBS Arabic24
+1:0:2:3AE:3A0:3202:EEEE0000:0:0:0:     sbsradio1            sbsradio1            # SBS Radio 1
 1:0:2:3AF:3A0:3202:EEEE0000:0:0:0:     sbsradio2            sbsradio2            # SBS Radio 2
-1:0:2:3B0:3A0:3202:EEEE0000:0:0:0:     sbsradio3            sbsradio3            # SBS Radio 3
+1:0:2:3B0:3A0:3202:EEEE0000:0:0:0:     sbschill             sbschill             # SBS Chill
+1:0:2:3B1:3A0:3202:EEEE0000:0:0:0:     sbsradio1            sbsradio1            # SBS Radio 1
+1:0:2:3B2:3A0:3202:EEEE0000:0:0:0:     sbsradio2            sbsradio2            # SBS Radio 2
+1:0:2:3B3:3A0:3202:EEEE0000:0:0:0:     sbsradio3            sbsradio3            # SBS Radio 3
+1:0:2:3B4:3A0:3202:EEEE0000:0:0:0:     sbsarabic24          sbsarabic24          # SBS Arabic24
+1:0:2:3B5:3A0:3202:EEEE0000:0:0:0:     sbspopdesi           sbspopdesi           # SBS PopDesi
+1:0:2:3B6:3A0:3202:EEEE0000:0:0:0:     sbschill             sbschill             # SBS Chill
+1:0:2:3B7:3A0:3202:EEEE0000:0:0:0:     sbspopasia           sbspopasia           # SBS PopAsia
 1:0:1:957:99E:3286:EEEE0000:0:0:0:     gwn7                 gwn                  # GWN7
 1:0:1:962:99E:3286:EEEE0000:0:0:0:     7two                 7two                 # 7TWO
 1:0:1:963:99E:3286:EEEE0000:0:0:0:     7mate                7mate                # 7mate
@@ -102,10 +116,17 @@
 1:0:1:373:370:3202:EEEE0000:0:0:0:     foodnetwork          foodnetwork          # Food Network
 1:0:1:374:370:3202:EEEE0000:0:0:0:     nitv                 nitv                 # NITV
 1:0:19:375:370:3202:EEEE0000:0:0:0:    sbshd                sbsonehd             # SBS HD
-1:0:2:37E:370:3202:EEEE0000:0:0:0:     sbsradio1            sbsradio1            # SBS Radio 1
 1:0:2:37D:370:3202:EEEE0000:0:0:0:     sbsarabic24          sbsarabic24          # SBS Arabic24
+1:0:2:37E:370:3202:EEEE0000:0:0:0:     sbsradio1            sbsradio1            # SBS Radio 1
 1:0:2:37F:370:3202:EEEE0000:0:0:0:     sbsradio2            sbsradio2            # SBS Radio 2
-1:0:2:380:370:3202:EEEE0000:0:0:0:     sbsradio3            sbsradio3            # SBS Radio 3
+1:0:2:380:370:3202:EEEE0000:0:0:0:     sbschill             sbschill             # SBS Chill
+1:0:2:381:370:3202:EEEE0000:0:0:0:     sbsradio1            sbsradio1            # SBS Radio 1
+1:0:2:382:370:3202:EEEE0000:0:0:0:     sbsradio2            sbsradio2            # SBS Radio 2
+1:0:2:383:370:3202:EEEE0000:0:0:0:     sbsradio3            sbsradio3            # SBS Radio 3
+1:0:2:384:370:3202:EEEE0000:0:0:0:     sbsarabic24          sbsarabic24          # SBS Arabic24
+1:0:2:385:370:3202:EEEE0000:0:0:0:     sbspopdesi           sbspopdesi           # SBS PopDesi
+1:0:2:386:370:3202:EEEE0000:0:0:0:     sbschill             sbschill             # SBS Chill
+1:0:2:387:370:3202:EEEE0000:0:0:0:     sbspopasia           sbspopasia           # SBS PopAsia
 1:0:1:802:802:320C:EEEE0000:0:0:0:     nineballarat         channel9             # Nine Ballarat
 1:0:1:822:802:320C:EEEE0000:0:0:0:     9gem                 9gem                 # 9Gem
 1:0:1:842:802:320C:EEEE0000:0:0:0:     9go                  9go                  # 9Go!
@@ -145,10 +166,17 @@
 1:0:1:373:370:3202:EEEE0000:0:0:0:     foodnetwork          foodnetwork          # Food Network
 1:0:1:374:370:3202:EEEE0000:0:0:0:     nitv                 nitv                 # NITV
 1:0:19:375:370:3202:EEEE0000:0:0:0:    sbshd                sbsonehd             # SBS HD
-1:0:2:37E:370:3202:EEEE0000:0:0:0:     sbsradio1            sbsradio1            # SBS Radio 1
 1:0:2:37D:370:3202:EEEE0000:0:0:0:     sbsarabic24          sbsarabic24          # SBS Arabic24
+1:0:2:37E:370:3202:EEEE0000:0:0:0:     sbsradio1            sbsradio1            # SBS Radio 1
 1:0:2:37F:370:3202:EEEE0000:0:0:0:     sbsradio2            sbsradio2            # SBS Radio 2
-1:0:2:380:370:3202:EEEE0000:0:0:0:     sbsradio3            sbsradio3            # SBS Radio 3
+1:0:2:380:370:3202:EEEE0000:0:0:0:     sbschill             sbschill             # SBS Chill
+1:0:2:381:370:3202:EEEE0000:0:0:0:     sbsradio1            sbsradio1            # SBS Radio 1
+1:0:2:382:370:3202:EEEE0000:0:0:0:     sbsradio2            sbsradio2            # SBS Radio 2
+1:0:2:383:370:3202:EEEE0000:0:0:0:     sbsradio3            sbsradio3            # SBS Radio 3
+1:0:2:384:370:3202:EEEE0000:0:0:0:     sbsarabic24          sbsarabic24          # SBS Arabic24
+1:0:2:385:370:3202:EEEE0000:0:0:0:     sbspopdesi           sbspopdesi           # SBS PopDesi
+1:0:2:386:370:3202:EEEE0000:0:0:0:     sbschill             sbschill             # SBS Chill
+1:0:2:387:370:3202:EEEE0000:0:0:0:     sbspopasia           sbspopasia           # SBS PopAsia
 1:0:1:803:803:320C:EEEE0000:0:0:0:     ninebendigo          channel9             # Nine Bendigo
 1:0:1:823:803:320C:EEEE0000:0:0:0:     9gem                 9gem                 # 9Gem
 1:0:1:843:803:320C:EEEE0000:0:0:0:     9go                  9go                  # 9Go!
@@ -218,7 +246,14 @@
 1:0:2:33D:330:3202:EEEE0000:0:0:0:     sbsarabic24          sbsarabic24          # SBS Arabic24
 1:0:2:33E:330:3202:EEEE0000:0:0:0:     sbsradio1            sbsradio1            # SBS Radio 1
 1:0:2:33F:330:3202:EEEE0000:0:0:0:     sbsradio2            sbsradio2            # SBS Radio 2
-1:0:2:340:330:3202:EEEE0000:0:0:0:     sbsradio3            sbsradio3            # SBS Radio 3
+1:0:2:340:330:3202:EEEE0000:0:0:0:     sbschill             sbschill             # SBS Chill
+1:0:2:341:330:3202:EEEE0000:0:0:0:     sbsradio1            sbsradio1            # SBS Radio 1
+1:0:2:342:330:3202:EEEE0000:0:0:0:     sbsradio2            sbsradio2            # SBS Radio 2
+1:0:2:343:330:3202:EEEE0000:0:0:0:     sbsradio3            sbsradio3            # SBS Radio 3
+1:0:2:344:330:3202:EEEE0000:0:0:0:     sbsarabic24          sbsarabic24          # SBS Arabic24
+1:0:2:345:330:3202:EEEE0000:0:0:0:     sbspopdesi           sbspopdesi           # SBS PopDesi
+1:0:2:346:330:3202:EEEE0000:0:0:0:     sbschill             sbschill             # SBS Chill
+1:0:2:347:330:3202:EEEE0000:0:0:0:     sbspopasia           sbspopasia           # SBS PopAsia
 
 # Cairns
 # Service reference                    Service base name    Picon base name        Service name
@@ -244,10 +279,17 @@
 1:0:1:3B3:3B0:3202:EEEE0000:0:0:0:     foodnetwork          foodnetwork          # Food Network
 1:0:1:3B4:3B0:3202:EEEE0000:0:0:0:     nitv                 nitv                 # NITV
 1:0:19:3B5:3B0:3202:EEEE0000:0:0:0:    sbshd                sbsonehd             # SBS HD
-1:0:2:3BE:3B0:3202:EEEE0000:0:0:0:     sbsradio1            sbsradio1            # SBS Radio 1
 1:0:2:3BD:3B0:3202:EEEE0000:0:0:0:     sbsarabic24          sbsarabic24          # SBS Arabic24
+1:0:2:3BE:3B0:3202:EEEE0000:0:0:0:     sbsradio1            sbsradio1            # SBS Radio 1
 1:0:2:3BF:3B0:3202:EEEE0000:0:0:0:     sbsradio2            sbsradio2            # SBS Radio 2
-1:0:2:3C0:3B0:3202:EEEE0000:0:0:0:     sbsradio3            sbsradio3            # SBS Radio 3
+1:0:2:3C0:3B0:3202:EEEE0000:0:0:0:     sbschill             sbschill             # SBS Chill
+1:0:2:3C1:3B0:3202:EEEE0000:0:0:0:     sbsradio1            sbsradio1            # SBS Radio 1
+1:0:2:3C2:3B0:3202:EEEE0000:0:0:0:     sbsradio2            sbsradio2            # SBS Radio 2
+1:0:2:3C3:3B0:3202:EEEE0000:0:0:0:     sbsradio3            sbsradio3            # SBS Radio 3
+1:0:2:3C4:3B0:3202:EEEE0000:0:0:0:     sbsarabic24          sbsarabic24          # SBS Arabic24
+1:0:2:3C5:3B0:3202:EEEE0000:0:0:0:     sbspopdesi           sbspopdesi           # SBS PopDesi
+1:0:2:3C6:3B0:3202:EEEE0000:0:0:0:     sbschill             sbschill             # SBS Chill
+1:0:2:3C7:3B0:3202:EEEE0000:0:0:0:     sbspopasia           sbspopasia           # SBS PopAsia
 1:0:1:816:816:320C:EEEE0000:0:0:0:     ninecairns           channel9             # Nine Cairns
 1:0:1:836:816:320C:EEEE0000:0:0:0:     9gem                 9gem                 # 9Gem
 1:0:1:856:816:320C:EEEE0000:0:0:0:     9go                  9go                  # 9Go!
@@ -287,7 +329,15 @@
 1:0:2:35D:350:3202:EEEE0000:0:0:0:     sbsarabic24          sbsarabic24          # SBS Arabic24
 1:0:2:35E:350:3202:EEEE0000:0:0:0:     sbsradio1            sbsradio1            # SBS Radio 1
 1:0:2:35F:350:3202:EEEE0000:0:0:0:     sbsradio2            sbsradio2            # SBS Radio 2
-1:0:2:360:350:3202:EEEE0000:0:0:0:     sbsradio3            sbsradio3            # SBS Radio 3
+1:0:2:360:350:3202:EEEE0000:0:0:0:     sbschill             sbschill             # SBS Chill
+1:0:2:361:350:3202:EEEE0000:0:0:0:     sbsradio1            sbsradio1            # SBS Radio 1
+1:0:2:362:350:3202:EEEE0000:0:0:0:     sbsradio2            sbsradio2            # SBS Radio 2
+1:0:2:363:350:3202:EEEE0000:0:0:0:     sbsradio3            sbsradio3            # SBS Radio 3
+1:0:2:364:350:3202:EEEE0000:0:0:0:     sbsarabic24          sbsarabic24          # SBS Arabic24
+1:0:2:365:350:3202:EEEE0000:0:0:0:     sbspopdesi           sbspopdesi           # SBS PopDesi
+1:0:2:366:350:3202:EEEE0000:0:0:0:     sbschill             sbschill             # SBS Chill
+1:0:2:367:350:3202:EEEE0000:0:0:0:     sbspopasia           sbspopasia           # SBS PopAsia
+1:0:19:366:350:3202:EEEE0000:0:0:0:    sbsvicelandhd        sbsvicelandhd        # SBS VICELAND HD
 1:0:1:807:807:320C:EEEE0000:0:0:0:     ninecanberra         channel9             # Nine Canberra
 1:0:1:827:807:320C:EEEE0000:0:0:0:     9gem                 9gem                 # 9Gem
 1:0:1:847:807:320C:EEEE0000:0:0:0:     9go                  9go                  # 9Go!
@@ -358,10 +408,17 @@
 1:0:1:304:300:3202:EEEE0000:0:0:0:     foodnetwork          foodnetwork          # Food Network
 1:0:19:305:300:3202:EEEE0000:0:0:0:    nitv                 nitv                 # NITV
 1:0:1:306:300:3202:EEEE0000:0:0:0:     sbshd                sbsonehd             # SBS HD
-1:0:2:30E:300:3202:EEEE0000:0:0:0:     sbsradio1            sbsradio1            # SBS Radio 1
 1:0:2:30D:300:3202:EEEE0000:0:0:0:     sbsarabic24          sbsarabic24          # SBS Arabic24
+1:0:2:30E:300:3202:EEEE0000:0:0:0:     sbsradio1            sbsradio1            # SBS Radio 1
 1:0:2:30F:300:3202:EEEE0000:0:0:0:     sbsradio2            sbsradio2            # SBS Radio 2
-1:0:2:310:300:3202:EEEE0000:0:0:0:     sbsradio3            sbsradio3            # SBS Radio 3
+1:0:2:310:300:3202:EEEE0000:0:0:0:     sbschill             sbschill             # SBS Chill
+1:0:2:311:300:3202:EEEE0000:0:0:0:     sbsradio1            sbsradio1            # SBS Radio 1
+1:0:2:312:300:3202:EEEE0000:0:0:0:     sbsradio2            sbsradio2            # SBS Radio 2
+1:0:2:313:300:3202:EEEE0000:0:0:0:     sbsradio3            sbsradio3            # SBS Radio 3
+1:0:2:314:300:3202:EEEE0000:0:0:0:     sbsarabic24          sbsarabic24          # SBS Arabic24
+1:0:2:315:300:3202:EEEE0000:0:0:0:     sbspopdesi           sbspopdesi           # SBS PopDesi
+1:0:2:316:300:3202:EEEE0000:0:0:0:     sbschill             sbschill             # SBS Chill
+1:0:2:317:300:3202:EEEE0000:0:0:0:     sbspopasia           sbspopasia           # SBS PopAsia
 1:0:1:93D:9B0:3282:EEEE0000:0:0:0:     prime7centralcoast   prime7               # PRIME7 Central Coast
 1:0:1:960:9B0:3282:EEEE0000:0:0:0:     prime7centralcoast   prime7               # PRIME7 Central Coast
 1:0:1:961:9B0:3282:EEEE0000:0:0:0:     prime7centralcoast   prime7               # PRIME7 Central Coast
@@ -395,10 +452,17 @@
 1:0:1:353:350:3202:EEEE0000:0:0:0:     foodnetwork          foodnetwork          # Food Network
 1:0:1:354:350:3202:EEEE0000:0:0:0:     nitv                 nitv                 # NITV
 1:0:19:355:350:3202:EEEE0000:0:0:0:    sbshd                sbsonehd             # SBS HD
-1:0:2:35E:350:3202:EEEE0000:0:0:0:     sbsradio1            sbsradio1            # SBS Radio 1
 1:0:2:35D:350:3202:EEEE0000:0:0:0:     sbsarabic24          sbsarabic24          # SBS Arabic24
+1:0:2:35E:350:3202:EEEE0000:0:0:0:     sbsradio1            sbsradio1            # SBS Radio 1
 1:0:2:35F:350:3202:EEEE0000:0:0:0:     sbsradio2            sbsradio2            # SBS Radio 2
-1:0:2:360:350:3202:EEEE0000:0:0:0:     sbsradio3            sbsradio3            # SBS Radio 3
+1:0:2:360:350:3202:EEEE0000:0:0:0:     sbschill             sbschill             # SBS Chill
+1:0:2:361:350:3202:EEEE0000:0:0:0:     sbsradio1            sbsradio1            # SBS Radio 1
+1:0:2:362:350:3202:EEEE0000:0:0:0:     sbsradio2            sbsradio2            # SBS Radio 2
+1:0:2:363:350:3202:EEEE0000:0:0:0:     sbsradio3            sbsradio3            # SBS Radio 3
+1:0:2:364:350:3202:EEEE0000:0:0:0:     sbsarabic24          sbsarabic24          # SBS Arabic24
+1:0:2:365:350:3202:EEEE0000:0:0:0:     sbspopdesi           sbspopdesi           # SBS PopDesi
+1:0:2:366:350:3202:EEEE0000:0:0:0:     sbschill             sbschill             # SBS Chill
+1:0:2:367:350:3202:EEEE0000:0:0:0:     sbspopasia           sbspopasia           # SBS PopAsia
 1:0:1:80D:80D:320C:EEEE0000:0:0:0:     sc10coffsharbour     sc10                 # SC10 Coffs Harbour
 1:0:1:86D:80D:320C:EEEE0000:0:0:0:     tobeadvised          tobeadvised          # YESSHOP
 1:0:1:88D:80D:320C:EEEE0000:0:0:0:     aspire               aspire               # Aspire
@@ -457,10 +521,17 @@
 1:0:1:313:310:3202:EEEE0000:0:0:0:     foodnetwork          foodnetwork          # Food Network
 1:0:1:314:310:3202:EEEE0000:0:0:0:     nitv                 nitv                 # NITV
 1:0:19:315:310:3202:EEEE0000:0:0:0:    sbshd                sbsonehd             # SBS HD
-1:0:2:31E:310:3202:EEEE0000:0:0:0:     sbsradio1            sbsradio1            # SBS Radio 1
 1:0:2:31D:310:3202:EEEE0000:0:0:0:     sbsarabic24          sbsarabic24          # SBS Arabic24
+1:0:2:31E:310:3202:EEEE0000:0:0:0:     sbsradio1            sbsradio1            # SBS Radio 1
 1:0:2:31F:310:3202:EEEE0000:0:0:0:     sbsradio2            sbsradio2            # SBS Radio 2
-1:0:2:320:310:3202:EEEE0000:0:0:0:     sbsradio3            sbsradio3            # SBS Radio 3
+1:0:2:320:310:3202:EEEE0000:0:0:0:     sbschill             sbschill             # SBS Chill
+1:0:2:321:310:3202:EEEE0000:0:0:0:     sbsradio1            sbsradio1            # SBS Radio 1
+1:0:2:322:310:3202:EEEE0000:0:0:0:     sbsradio2            sbsradio2            # SBS Radio 2
+1:0:2:323:310:3202:EEEE0000:0:0:0:     sbsradio3            sbsradio3            # SBS Radio 3
+1:0:2:324:310:3202:EEEE0000:0:0:0:     sbsarabic24          sbsarabic24          # SBS Arabic24
+1:0:2:325:310:3202:EEEE0000:0:0:0:     sbspopdesi           sbspopdesi           # SBS PopDesi
+1:0:2:326:310:3202:EEEE0000:0:0:0:     sbschill             sbschill             # SBS Chill
+1:0:2:327:310:3202:EEEE0000:0:0:0:     sbspopasia           sbspopasia           # SBS PopAsia
 
 # Gippsland
 # Service reference                    Service base name    Picon base name        Service name
@@ -478,10 +549,17 @@
 1:0:1:373:370:3202:EEEE0000:0:0:0:     foodnetwork          foodnetwork          # Food Network
 1:0:1:374:370:3202:EEEE0000:0:0:0:     nitv                 nitv                 # NITV
 1:0:19:375:370:3202:EEEE0000:0:0:0:    sbshd                sbsonehd             # SBS HD
-1:0:2:37E:370:3202:EEEE0000:0:0:0:     sbsradio1            sbsradio1            # SBS Radio 1
 1:0:2:37D:370:3202:EEEE0000:0:0:0:     sbsarabic24          sbsarabic24          # SBS Arabic24
+1:0:2:37E:370:3202:EEEE0000:0:0:0:     sbsradio1            sbsradio1            # SBS Radio 1
 1:0:2:37F:370:3202:EEEE0000:0:0:0:     sbsradio2            sbsradio2            # SBS Radio 2
-1:0:2:380:370:3202:EEEE0000:0:0:0:     sbsradio3            sbsradio3            # SBS Radio 3
+1:0:2:380:370:3202:EEEE0000:0:0:0:     sbschill             sbschill             # SBS Chill
+1:0:2:381:370:3202:EEEE0000:0:0:0:     sbsradio1            sbsradio1            # SBS Radio 1
+1:0:2:382:370:3202:EEEE0000:0:0:0:     sbsradio2            sbsradio2            # SBS Radio 2
+1:0:2:383:370:3202:EEEE0000:0:0:0:     sbsradio3            sbsradio3            # SBS Radio 3
+1:0:2:384:370:3202:EEEE0000:0:0:0:     sbsarabic24          sbsarabic24          # SBS Arabic24
+1:0:2:385:370:3202:EEEE0000:0:0:0:     sbspopdesi           sbspopdesi           # SBS PopDesi
+1:0:2:386:370:3202:EEEE0000:0:0:0:     sbschill             sbschill             # SBS Chill
+1:0:2:387:370:3202:EEEE0000:0:0:0:     sbspopasia           sbspopasia           # SBS PopAsia
 1:0:1:801:801:320C:EEEE0000:0:0:0:     ninegippsland        channel9             # Nine Gippsland
 1:0:1:821:801:320C:EEEE0000:0:0:0:     9gem                 9gem                 # 9Gem
 1:0:1:841:801:320C:EEEE0000:0:0:0:     9go                  9go                  # 9Go!
@@ -523,10 +601,17 @@
 1:0:1:383:380:3202:EEEE0000:0:0:0:     foodnetwork          foodnetwork          # Food Network
 1:0:1:384:380:3202:EEEE0000:0:0:0:     nitv                 nitv                 # NITV
 1:0:19:385:380:3202:EEEE0000:0:0:0:    sbshd                sbsonehd             # SBS HD
-1:0:2:38E:380:3202:EEEE0000:0:0:0:     sbsradio1            sbsradio1            # SBS Radio 1
 1:0:2:38D:380:3202:EEEE0000:0:0:0:     sbsarabic24          sbsarabic24          # SBS Arabic24
+1:0:2:38E:380:3202:EEEE0000:0:0:0:     sbsradio1            sbsradio1            # SBS Radio 1
 1:0:2:38F:380:3202:EEEE0000:0:0:0:     sbsradio2            sbsradio2            # SBS Radio 2
-1:0:2:390:380:3202:EEEE0000:0:0:0:     sbsradio3            sbsradio3            # SBS Radio 3
+1:0:2:390:380:3202:EEEE0000:0:0:0:     sbschill             sbschill             # SBS Chill
+1:0:2:391:380:3202:EEEE0000:0:0:0:     sbsradio1            sbsradio1            # SBS Radio 1
+1:0:2:392:380:3202:EEEE0000:0:0:0:     sbsradio2            sbsradio2            # SBS Radio 2
+1:0:2:393:380:3202:EEEE0000:0:0:0:     sbsradio3            sbsradio3            # SBS Radio 3
+1:0:2:394:380:3202:EEEE0000:0:0:0:     sbsarabic24          sbsarabic24          # SBS Arabic24
+1:0:2:395:380:3202:EEEE0000:0:0:0:     sbspopdesi           sbspopdesi           # SBS PopDesi
+1:0:2:396:380:3202:EEEE0000:0:0:0:     sbschill             sbschill             # SBS Chill
+1:0:2:397:380:3202:EEEE0000:0:0:0:     sbspopasia           sbspopasia           # SBS PopAsia
 1:0:1:902:902:320B:EEEE0000:0:0:0:     sctvhobart           sctvtas              # SCTV Hobart
 1:0:1:922:902:320B:EEEE0000:0:0:0:     7mate                7mate                # 7mate
 1:0:1:942:902:320B:EEEE0000:0:0:0:     7two                 7two                 # 7TWO
@@ -549,49 +634,53 @@
 
 # Launceston
 # Service reference                    Service base name    Picon base name        Service name
-1:0:1:290:273:1010:EEEE0000:0:0:0:     abcnews24            abcnews              # ABC News 24
+1:0:1:290:273:1010:EEEE0000:0:0:0:     abcnews              abcnews              # ABC NEWS
 1:0:19:295:273:1010:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
 1:0:1:291:273:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
-1:0:1:292:273:1010:EEEE0000:0:0:0:     abc2kids             abccomedy            # ABC2/KIDS
+1:0:1:292:273:1010:EEEE0000:0:0:0:     abccomedykids        abccomedy            # ABCComedy/Kids
 1:0:1:293:273:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
-1:0:1:294:273:1010:EEEE0000:0:0:0:     abcme                abcme                # ABC3
+1:0:1:294:273:1010:EEEE0000:0:0:0:     abcme                abcme                # ABC ME
+1:0:19:295:273:1010:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
 1:0:2:296:273:1010:EEEE0000:0:0:0:     doublej              doublej              # Double J
 1:0:2:297:273:1010:EEEE0000:0:0:0:     abcjazz              abcjazz              # ABC Jazz
 1:0:1:381:380:3202:EEEE0000:0:0:0:     sbsone               sbsone               # SBS ONE
 1:0:19:386:380:3202:EEEE0000:0:0:0:    sbsvicelandhd        sbsvicelandhd        # SBS VICELAND HD
-1:0:1:382:380:3202:EEEE0000:0:0:0:     sbsviceland          sbsviceland          # SBS TWO
-1:0:1:383:380:3202:EEEE0000:0:0:0:     foodnetwork          foodnetwork          # SBS 3
+1:0:1:382:380:3202:EEEE0000:0:0:0:     sbsviceland          sbsviceland          # SBS VICELAND
+1:0:1:383:380:3202:EEEE0000:0:0:0:     foodnetwork          foodnetwork          # Food Network
 1:0:1:384:380:3202:EEEE0000:0:0:0:     nitv                 nitv                 # NITV
-1:0:19:385:380:3202:EEEE0000:0:0:0:    sbshd                sbsonehd             # SBS HD
-1:0:2:38E:380:3202:EEEE0000:0:0:0:     sbsradio1            sbsradio1            # SBS Radio 1
+1:0:19:385:380:3202:EEEE0000:0:0:0:    sbsonehd             sbsonehd             # SBS ONE HD
+1:0:19:386:380:3202:EEEE0000:0:0:0:    sbsvicelandhd        sbsvicelandhd        # SBS VICELAND HD
 1:0:2:38D:380:3202:EEEE0000:0:0:0:     sbsarabic24          sbsarabic24          # SBS Arabic24
+1:0:2:38E:380:3202:EEEE0000:0:0:0:     sbsradio1            sbsradio1            # SBS Radio 1
 1:0:2:38F:380:3202:EEEE0000:0:0:0:     sbsradio2            sbsradio2            # SBS Radio 2
-1:0:2:390:380:3202:EEEE0000:0:0:0:     sbsradio3            sbsradio3            # SBS Radio 3
+1:0:2:390:380:3202:EEEE0000:0:0:0:     sbschill             sbschill             # SBS Chill
+1:0:2:391:380:3202:EEEE0000:0:0:0:     sbsradio1            sbsradio1            # SBS Radio 1
+1:0:2:392:380:3202:EEEE0000:0:0:0:     sbsradio2            sbsradio2            # SBS Radio 2
+1:0:2:393:380:3202:EEEE0000:0:0:0:     sbsradio3            sbsradio3            # SBS Radio 3
+1:0:2:394:380:3202:EEEE0000:0:0:0:     sbsarabic24          sbsarabic24          # SBS Arabic24
+1:0:2:395:380:3202:EEEE0000:0:0:0:     sbspopdesi           sbspopdesi           # SBS PopDesi
+1:0:2:396:380:3202:EEEE0000:0:0:0:     sbschill             sbschill             # SBS Chill
+1:0:2:397:380:3202:EEEE0000:0:0:0:     sbspopasia           sbspopasia           # SBS PopAsia
+1:0:19:396:380:3202:EEEE0000:0:0:0:    sbsvicelandhd        sbsvicelandhd        # SBS VICELAND HD
 1:0:1:903:903:320B:EEEE0000:0:0:0:     sctvlaunceston       sctvtas              # SCTV Launceston
 1:0:1:923:903:320B:EEEE0000:0:0:0:     7mate                7mate                # 7mate
 1:0:1:943:903:320B:EEEE0000:0:0:0:     7two                 7two                 # 7TWO
-1:0:1:963:903:320B:EEEE0000:0:0:0:     tobeadvised          tobeadvised          # YESSHOP
-1:0:1:983:903:320B:EEEE0000:0:0:0:     aspire               aspire               # Aspire
-1:0:1:9A3:903:320B:EEEE0000:0:0:0:     racingcom            racingcom            # RACING.COM
+1:0:16:963:903:320B:EEEE0000:0:0:0:    sbn                  sbn                  # SBN
+1:0:16:9A3:903:320B:EEEE0000:0:0:0:    racingcom            racingcom            # RACING.COM
+1:0:1:9C3:903:320B:EEEE0000:0:0:0:     sctvlaunceston       sctvtas              # SCTV Launceston
+1:0:19:9E3:903:320B:EEEE0000:0:0:0:    sctvhdlaunceston     sctvhd               # SCTV HD Launceston
 1:0:1:818:818:320C:EEEE0000:0:0:0:     ninetas              channel9             # Nine Tas
 1:0:1:838:818:320C:EEEE0000:0:0:0:     9gem                 9gem                 # 9Gem
 1:0:1:858:818:320C:EEEE0000:0:0:0:     9go                  9go                  # 9Go!
 1:0:1:878:818:320C:EEEE0000:0:0:0:     ninetas              channel9             # Nine Tas
-1:0:1:898:818:320C:EEEE0000:0:0:0:     9hdtas               9hd                  # 9HD Tas
-1:0:1:1:327B:3275:EEEE0000:0:0:0:      winlaunceston        win                  # WIN Launceston
-1:0:1:10:327B:3275:EEEE0000:0:0:0:     extra                extra                # GOLD 2
-1:0:1:2:327B:3275:EEEE0000:0:0:0:      golaunceston         9go                  # GO! Launceston
-1:0:1:781:327B:3275:EEEE0000:0:0:0:    win                  win                  # WIN 
-1:0:1:782:327B:3275:EEEE0000:0:0:0:    one                  one                  # ONE
-1:0:1:784:327B:3275:EEEE0000:0:0:0:    win                  win                  # WIN
-1:0:1:785:327B:3275:EEEE0000:0:0:0:    one                  one                  # ONE
-1:0:1:786:327B:3275:EEEE0000:0:0:0:    eleven               eleven               # ELEVEN
-1:0:1:787:327B:3275:EEEE0000:0:0:0:    gold                 gold                 # GOLD
+1:0:19:898:818:320C:EEEE0000:0:0:0:    9hdtas               9hd                  # 9HD Tas
+1:0:1:781:327B:3275:EEEE0000:0:0:0:    winlaunceston        win                  # WIN Launceston
+1:0:1:782:327B:3275:EEEE0000:0:0:0:    onelaunceston        one                  # ONE Launceston
+1:0:1:786:327B:3275:EEEE0000:0:0:0:    elevenlaunceston     eleven               # ELEVEN Launceston
+1:0:16:787:327B:3275:EEEE0000:0:0:0:   gold                 gold                 # GOLD
 1:0:1:788:327B:3275:EEEE0000:0:0:0:    tvsn                 tvsn                 # TVSN
-1:0:1:791:327B:3275:EEEE0000:0:0:0:    tba                  tba                  # TBA
-1:0:1:799:327B:3275:EEEE0000:0:0:0:    winhd                winhd                # WIN HD
-1:0:1:A:327B:3275:EEEE0000:0:0:0:      gemlaunceston        9gem                 # GEM Launceston
-1:0:1:F:327B:3275:EEEE0000:0:0:0:      gold                 gold                 # GOLD
+1:0:16:791:327B:3275:EEEE0000:0:0:0:   winnetwork           winnetwork           # WIN NETWORK
+1:0:19:799:327B:3275:EEEE0000:0:0:0:   winlauncestonhd      winhd                # WIN Launceston HD
 
 # Melbourne
 # Service reference                    Service base name    Picon base name        Service name
@@ -636,7 +725,14 @@
 1:0:2:31D:310:3202:EEEE0000:0:0:0:     sbsarabic24          sbsarabic24          # SBS Arabic24
 1:0:2:31E:310:3202:EEEE0000:0:0:0:     sbsradio1            sbsradio1            # SBS Radio 1
 1:0:2:31F:310:3202:EEEE0000:0:0:0:     sbsradio2            sbsradio2            # SBS Radio 2
-1:0:2:320:310:3202:EEEE0000:0:0:0:     sbsradio3            sbsradio3            # SBS Radio 3
+1:0:2:320:310:3202:EEEE0000:0:0:0:     sbschill             sbschill             # SBS Chill
+1:0:2:321:310:3202:EEEE0000:0:0:0:     sbsradio1            sbsradio1            # SBS Radio 1
+1:0:2:322:310:3202:EEEE0000:0:0:0:     sbsradio2            sbsradio2            # SBS Radio 2
+1:0:2:323:310:3202:EEEE0000:0:0:0:     sbsradio3            sbsradio3            # SBS Radio 3
+1:0:2:324:310:3202:EEEE0000:0:0:0:     sbsarabic24          sbsarabic24          # SBS Arabic24
+1:0:2:325:310:3202:EEEE0000:0:0:0:     sbspopdesi           sbspopdesi           # SBS PopDesi
+1:0:2:326:310:3202:EEEE0000:0:0:0:     sbschill             sbschill             # SBS Chill
+1:0:2:327:310:3202:EEEE0000:0:0:0:     sbspopasia           sbspopasia           # SBS PopAsia
 1:0:1:E01:E00:3220:EEEE0000:0:0:0:     c31                  c31                  # C31
 
 # Mt Gambier
@@ -669,7 +765,14 @@
 1:0:2:37D:370:3202:EEEE0000:0:0:0:     sbsarabic24          sbsarabic24          # SBS Arabic24
 1:0:2:37E:370:3202:EEEE0000:0:0:0:     sbsradio1            sbsradio1            # SBS Radio 1
 1:0:2:37F:370:3202:EEEE0000:0:0:0:     sbsradio2            sbsradio2            # SBS Radio 2
-1:0:2:380:370:3202:EEEE0000:0:0:0:     sbsradio3            sbsradio3            # SBS Radio 3
+1:0:2:380:370:3202:EEEE0000:0:0:0:     sbschill             sbschill             # SBS Chill
+1:0:2:381:370:3202:EEEE0000:0:0:0:     sbsradio1            sbsradio1            # SBS Radio 1
+1:0:2:382:370:3202:EEEE0000:0:0:0:     sbsradio2            sbsradio2            # SBS Radio 2
+1:0:2:383:370:3202:EEEE0000:0:0:0:     sbsradio3            sbsradio3            # SBS Radio 3
+1:0:2:384:370:3202:EEEE0000:0:0:0:     sbsarabic24          sbsarabic24          # SBS Arabic24
+1:0:2:385:370:3202:EEEE0000:0:0:0:     sbspopdesi           sbspopdesi           # SBS PopDesi
+1:0:2:386:370:3202:EEEE0000:0:0:0:     sbschill             sbschill             # SBS Chill
+1:0:2:387:370:3202:EEEE0000:0:0:0:     sbspopasia           sbspopasia           # SBS PopAsia
 1:0:1:391:390:3202:EEEE0000:0:0:0:     sbsone               sbsone               # SBS ONE
 1:0:19:396:390:3202:EEEE0000:0:0:0:    sbsvicelandhd        sbsvicelandhd        # SBS VICELAND HD
 1:0:1:392:390:3202:EEEE0000:0:0:0:     sbsviceland          sbsviceland          # SBS VICELAND
@@ -680,7 +783,14 @@
 1:0:2:39D:390:3202:EEEE0000:0:0:0:     sbsarabic24          sbsarabic24          # SBS Arabic24
 1:0:2:39E:390:3202:EEEE0000:0:0:0:     sbsradio1            sbsradio1            # SBS Radio 1
 1:0:2:39F:390:3202:EEEE0000:0:0:0:     sbsradio2            sbsradio2            # SBS Radio 2
-1:0:2:3A0:390:3202:EEEE0000:0:0:0:     sbsradio3            sbsradio3            # SBS Radio 3
+1:0:2:3A0:390:3202:EEEE0000:0:0:0:     sbschill             sbschill             # SBS Chill
+1:0:2:3A1:390:3202:EEEE0000:0:0:0:     sbsradio1            sbsradio1            # SBS Radio 1
+1:0:2:3A2:390:3202:EEEE0000:0:0:0:     sbsradio2            sbsradio2            # SBS Radio 2
+1:0:2:3A3:390:3202:EEEE0000:0:0:0:     sbsradio3            sbsradio3            # SBS Radio 3
+1:0:2:3A4:390:3202:EEEE0000:0:0:0:     sbsarabic24          sbsarabic24          # SBS Arabic24
+1:0:2:3A5:390:3202:EEEE0000:0:0:0:     sbspopdesi           sbspopdesi           # SBS PopDesi
+1:0:2:3A6:390:3202:EEEE0000:0:0:0:     sbschill             sbschill             # SBS Chill
+1:0:2:3A7:390:3202:EEEE0000:0:0:0:     sbspopasia           sbspopasia           # SBS PopAsia
 1:0:1:802:802:320C:EEEE0000:0:0:0:     nineballarat         channel9             # Nine Ballarat
 1:0:1:822:802:320C:EEEE0000:0:0:0:     9gem                 9gem                 # 9Gem
 1:0:1:842:802:320C:EEEE0000:0:0:0:     9go                  9go                  # 9Go!
@@ -750,7 +860,14 @@
 1:0:2:37D:370:3202:EEEE0000:0:0:0:     sbsarabic24          sbsarabic24          # SBS Arabic24
 1:0:2:37E:370:3202:EEEE0000:0:0:0:     sbsradio1            sbsradio1            # SBS Radio 1
 1:0:2:37F:370:3202:EEEE0000:0:0:0:     sbsradio2            sbsradio2            # SBS Radio 2
-1:0:2:380:370:3202:EEEE0000:0:0:0:     sbsradio3            sbsradio3            # SBS Radio 3
+1:0:2:380:370:3202:EEEE0000:0:0:0:     sbschill             sbschill             # SBS Chill
+1:0:2:381:370:3202:EEEE0000:0:0:0:     sbsradio1            sbsradio1            # SBS Radio 1
+1:0:2:382:370:3202:EEEE0000:0:0:0:     sbsradio2            sbsradio2            # SBS Radio 2
+1:0:2:383:370:3202:EEEE0000:0:0:0:     sbsradio3            sbsradio3            # SBS Radio 3
+1:0:2:384:370:3202:EEEE0000:0:0:0:     sbsarabic24          sbsarabic24          # SBS Arabic24
+1:0:2:385:370:3202:EEEE0000:0:0:0:     sbspopdesi           sbspopdesi           # SBS PopDesi
+1:0:2:386:370:3202:EEEE0000:0:0:0:     sbschill             sbschill             # SBS Chill
+1:0:2:387:370:3202:EEEE0000:0:0:0:     sbspopasia           sbspopasia           # SBS PopAsia
 1:0:1:391:390:3202:EEEE0000:0:0:0:     sbsone               sbsone               # SBS ONE
 1:0:19:396:390:3202:EEEE0000:0:0:0:    sbsvicelandhd        sbsvicelandhd        # SBS VICELAND HD
 1:0:1:392:390:3202:EEEE0000:0:0:0:     sbsviceland          sbsviceland          # SBS VICELAND
@@ -761,7 +878,14 @@
 1:0:2:39D:390:3202:EEEE0000:0:0:0:     sbsarabic24          sbsarabic24          # SBS Arabic24
 1:0:2:39E:390:3202:EEEE0000:0:0:0:     sbsradio1            sbsradio1            # SBS Radio 1
 1:0:2:39F:390:3202:EEEE0000:0:0:0:     sbsradio2            sbsradio2            # SBS Radio 2
-1:0:2:3A0:390:3202:EEEE0000:0:0:0:     sbsradio3            sbsradio3            # SBS Radio 3
+1:0:2:3A0:390:3202:EEEE0000:0:0:0:     sbschill             sbschill             # SBS Chill
+1:0:2:3A1:390:3202:EEEE0000:0:0:0:     sbsradio1            sbsradio1            # SBS Radio 1
+1:0:2:3A2:390:3202:EEEE0000:0:0:0:     sbsradio2            sbsradio2            # SBS Radio 2
+1:0:2:3A3:390:3202:EEEE0000:0:0:0:     sbsradio3            sbsradio3            # SBS Radio 3
+1:0:2:3A4:390:3202:EEEE0000:0:0:0:     sbsarabic24          sbsarabic24          # SBS Arabic24
+1:0:2:3A5:390:3202:EEEE0000:0:0:0:     sbspopdesi           sbspopdesi           # SBS PopDesi
+1:0:2:3A6:390:3202:EEEE0000:0:0:0:     sbschill             sbschill             # SBS Chill
+1:0:2:3A7:390:3202:EEEE0000:0:0:0:     sbspopasia           sbspopasia           # SBS PopAsia
 1:0:1:802:802:320C:EEEE0000:0:0:0:     nineballarat         channel9             # Nine Ballarat
 1:0:1:822:802:320C:EEEE0000:0:0:0:     9gem                 9gem                 # 9Gem
 1:0:1:842:802:320C:EEEE0000:0:0:0:     9go                  9go                  # 9Go!
@@ -816,10 +940,17 @@
 1:0:1:353:350:3202:EEEE0000:0:0:0:     foodnetwork          foodnetwork          # Food Network
 1:0:1:354:350:3202:EEEE0000:0:0:0:     nitv                 nitv                 # NITV
 1:0:19:355:350:3202:EEEE0000:0:0:0:    sbshd                sbsonehd             # SBS HD
-1:0:2:35E:350:3202:EEEE0000:0:0:0:     sbsradio1            sbsradio1            # SBS Radio 1
 1:0:2:35D:350:3202:EEEE0000:0:0:0:     sbsarabic24          sbsarabic24          # SBS Arabic24
+1:0:2:35E:350:3202:EEEE0000:0:0:0:     sbsradio1            sbsradio1            # SBS Radio 1
 1:0:2:35F:350:3202:EEEE0000:0:0:0:     sbsradio2            sbsradio2            # SBS Radio 2
-1:0:2:360:350:3202:EEEE0000:0:0:0:     sbsradio3            sbsradio3            # SBS Radio 3
+1:0:2:360:350:3202:EEEE0000:0:0:0:     sbschill             sbschill             # SBS Chill
+1:0:2:361:350:3202:EEEE0000:0:0:0:     sbsradio1            sbsradio1            # SBS Radio 1
+1:0:2:362:350:3202:EEEE0000:0:0:0:     sbsradio2            sbsradio2            # SBS Radio 2
+1:0:2:363:350:3202:EEEE0000:0:0:0:     sbsradio3            sbsradio3            # SBS Radio 3
+1:0:2:364:350:3202:EEEE0000:0:0:0:     sbsarabic24          sbsarabic24          # SBS Arabic24
+1:0:2:365:350:3202:EEEE0000:0:0:0:     sbspopdesi           sbspopdesi           # SBS PopDesi
+1:0:2:366:350:3202:EEEE0000:0:0:0:     sbschill             sbschill             # SBS Chill
+1:0:2:367:350:3202:EEEE0000:0:0:0:     sbspopasia           sbspopasia           # SBS PopAsia
 1:0:1:819:819:320C:EEEE0000:0:0:0:     ninesouthcoast       channel9             # Nine South Coast
 1:0:1:839:819:320C:EEEE0000:0:0:0:     9gem                 9gem                 # 9Gem
 1:0:1:859:819:320C:EEEE0000:0:0:0:     9go                  9go                  # 9Go!
@@ -874,7 +1005,14 @@
 1:0:2:35D:350:3202:EEEE0000:0:0:0:     sbsarabic24          sbsarabic24          # SBS Arabic24
 1:0:2:35E:350:3202:EEEE0000:0:0:0:     sbsradio1            sbsradio1            # SBS Radio 1
 1:0:2:35F:350:3202:EEEE0000:0:0:0:     sbsradio2            sbsradio2            # SBS Radio 2
-1:0:2:360:350:3202:EEEE0000:0:0:0:     sbsradio3            sbsradio3            # SBS Radio 3
+1:0:2:360:350:3202:EEEE0000:0:0:0:     sbschill             sbschill             # SBS Chill
+1:0:2:361:350:3202:EEEE0000:0:0:0:     sbsradio1            sbsradio1            # SBS Radio 1
+1:0:2:362:350:3202:EEEE0000:0:0:0:     sbsradio2            sbsradio2            # SBS Radio 2
+1:0:2:363:350:3202:EEEE0000:0:0:0:     sbsradio3            sbsradio3            # SBS Radio 3
+1:0:2:364:350:3202:EEEE0000:0:0:0:     sbsarabic24          sbsarabic24          # SBS Arabic24
+1:0:2:365:350:3202:EEEE0000:0:0:0:     sbspopdesi           sbspopdesi           # SBS PopDesi
+1:0:2:366:350:3202:EEEE0000:0:0:0:     sbschill             sbschill             # SBS Chill
+1:0:2:367:350:3202:EEEE0000:0:0:0:     sbspopasia           sbspopasia           # SBS PopAsia
 1:0:16:787:329C:3272:EEEE0000:0:0:0:   gold                 gold                 # GOLD
 1:0:16:788:329C:3272:EEEE0000:0:0:0:   tvsn                 tvsn                 # TVSN
 1:0:1:820:329C:3272:EEEE0000:0:0:0:    winnewcastle         win                  # WIN Newcastle
@@ -959,7 +1097,14 @@
 1:0:2:33D:330:3202:EEEE0000:0:0:0:     sbsarabic24          sbsarabic24          # SBS Arabic24
 1:0:2:33E:330:3202:EEEE0000:0:0:0:     sbsradio1            sbsradio1            # SBS Radio 1
 1:0:2:33F:330:3202:EEEE0000:0:0:0:     sbsradio2            sbsradio2            # SBS Radio 2
-1:0:2:340:330:3202:EEEE0000:0:0:0:     sbsradio3            sbsradio3            # SBS Radio 3
+1:0:2:340:330:3202:EEEE0000:0:0:0:     sbschill             sbschill             # SBS Chill
+1:0:2:341:330:3202:EEEE0000:0:0:0:     sbsradio1            sbsradio1            # SBS Radio 1
+1:0:2:342:330:3202:EEEE0000:0:0:0:     sbsradio2            sbsradio2            # SBS Radio 2
+1:0:2:343:330:3202:EEEE0000:0:0:0:     sbsradio3            sbsradio3            # SBS Radio 3
+1:0:2:344:330:3202:EEEE0000:0:0:0:     sbsarabic24          sbsarabic24          # SBS Arabic24
+1:0:2:345:330:3202:EEEE0000:0:0:0:     sbspopdesi           sbspopdesi           # SBS PopDesi
+1:0:2:346:330:3202:EEEE0000:0:0:0:     sbschill             sbschill             # SBS Chill
+1:0:2:347:330:3202:EEEE0000:0:0:0:     sbspopasia           sbspopasia           # SBS PopAsia
 1:0:1:351:350:3202:EEEE0000:0:0:0:     sbsone               sbsone               # SBS ONE
 1:0:19:356:350:3202:EEEE0000:0:0:0:    sbsvicelandhd        sbsvicelandhd        # SBS VICELAND HD
 1:0:1:352:350:3202:EEEE0000:0:0:0:     sbsviceland          sbsviceland          # SBS VICELAND
@@ -970,7 +1115,14 @@
 1:0:2:35D:350:3202:EEEE0000:0:0:0:     sbsarabic24          sbsarabic24          # SBS Arabic24
 1:0:2:35E:350:3202:EEEE0000:0:0:0:     sbsradio1            sbsradio1            # SBS Radio 1
 1:0:2:35F:350:3202:EEEE0000:0:0:0:     sbsradio2            sbsradio2            # SBS Radio 2
-1:0:2:360:350:3202:EEEE0000:0:0:0:     sbsradio3            sbsradio3            # SBS Radio 3
+1:0:2:360:350:3202:EEEE0000:0:0:0:     sbschill             sbschill             # SBS Chill
+1:0:2:361:350:3202:EEEE0000:0:0:0:     sbsradio1            sbsradio1            # SBS Radio 1
+1:0:2:362:350:3202:EEEE0000:0:0:0:     sbsradio2            sbsradio2            # SBS Radio 2
+1:0:2:363:350:3202:EEEE0000:0:0:0:     sbsradio3            sbsradio3            # SBS Radio 3
+1:0:2:364:350:3202:EEEE0000:0:0:0:     sbsarabic24          sbsarabic24          # SBS Arabic24
+1:0:2:365:350:3202:EEEE0000:0:0:0:     sbspopdesi           sbspopdesi           # SBS PopDesi
+1:0:2:366:350:3202:EEEE0000:0:0:0:     sbschill             sbschill             # SBS Chill
+1:0:2:367:350:3202:EEEE0000:0:0:0:     sbspopasia           sbspopasia           # SBS PopAsia
 1:0:16:787:329F:3272:EEEE0000:0:0:0:   gold                 gold                 # GOLD
 1:0:16:788:329F:3272:EEEE0000:0:0:0:   tvsn                 tvsn                 # TVSN
 1:0:1:820:329F:3272:EEEE0000:0:0:0:    winlismore           win                  # WIN Lismore
@@ -1023,7 +1175,14 @@
 1:0:2:35D:350:3202:EEEE0000:0:0:0:     sbsarabic24          sbsarabic24          # SBS Arabic24
 1:0:2:35E:350:3202:EEEE0000:0:0:0:     sbsradio1            sbsradio1            # SBS Radio 1
 1:0:2:35F:350:3202:EEEE0000:0:0:0:     sbsradio2            sbsradio2            # SBS Radio 2
-1:0:2:360:350:3202:EEEE0000:0:0:0:     sbsradio3            sbsradio3            # SBS Radio 3
+1:0:2:360:350:3202:EEEE0000:0:0:0:     sbschill             sbschill             # SBS Chill
+1:0:2:361:350:3202:EEEE0000:0:0:0:     sbsradio1            sbsradio1            # SBS Radio 1
+1:0:2:362:350:3202:EEEE0000:0:0:0:     sbsradio2            sbsradio2            # SBS Radio 2
+1:0:2:363:350:3202:EEEE0000:0:0:0:     sbsradio3            sbsradio3            # SBS Radio 3
+1:0:2:364:350:3202:EEEE0000:0:0:0:     sbsarabic24          sbsarabic24          # SBS Arabic24
+1:0:2:365:350:3202:EEEE0000:0:0:0:     sbspopdesi           sbspopdesi           # SBS PopDesi
+1:0:2:366:350:3202:EEEE0000:0:0:0:     sbschill             sbschill             # SBS Chill
+1:0:2:367:350:3202:EEEE0000:0:0:0:     sbspopasia           sbspopasia           # SBS PopAsia
 1:0:1:808:808:320C:EEEE0000:0:0:0:     nineorange           channel9             # Nine Orange
 1:0:1:828:808:320C:EEEE0000:0:0:0:     9gem                 9gem                 # 9Gem
 1:0:1:848:808:320C:EEEE0000:0:0:0:     9go                  9go                  # 9Go!
@@ -1091,7 +1250,14 @@
 1:0:2:32D:320:3202:EEEE0000:0:0:0:     sbsarabic24          sbsarabic24          # SBS Arabic24
 1:0:2:32E:320:3202:EEEE0000:0:0:0:     sbsradio1            sbsradio1            # SBS Radio 1
 1:0:2:32F:320:3202:EEEE0000:0:0:0:     sbsradio2            sbsradio2            # SBS Radio 2
-1:0:2:330:320:3202:EEEE0000:0:0:0:     sbsradio3            sbsradio3            # SBS Radio 3
+1:0:2:330:320:3202:EEEE0000:0:0:0:     sbschill             sbschill             # SBS Chill
+1:0:2:331:320:3202:EEEE0000:0:0:0:     sbsradio1            sbsradio1            # SBS Radio 1
+1:0:2:332:320:3202:EEEE0000:0:0:0:     sbsradio2            sbsradio2            # SBS Radio 2
+1:0:2:333:320:3202:EEEE0000:0:0:0:     sbsradio3            sbsradio3            # SBS Radio 3
+1:0:2:334:320:3202:EEEE0000:0:0:0:     sbsarabic24          sbsarabic24          # SBS Arabic24
+1:0:2:335:320:3202:EEEE0000:0:0:0:     sbspopdesi           sbspopdesi           # SBS PopDesi
+1:0:2:336:320:3202:EEEE0000:0:0:0:     sbschill             sbschill             # SBS Chill
+1:0:2:337:320:3202:EEEE0000:0:0:0:     sbspopasia           sbspopasia           # SBS PopAsia
 1:0:1:E01:E00:323E:EEEE0000:0:0:0:     westtv               westtv               # West TV
 
 # Rockhampton
@@ -1122,7 +1288,14 @@
 1:0:2:3BD:3B0:3202:EEEE0000:0:0:0:     sbsarabic24          sbsarabic24          # SBS Arabic24
 1:0:2:3BE:3B0:3202:EEEE0000:0:0:0:     sbsradio1            sbsradio1            # SBS Radio 1
 1:0:2:3BF:3B0:3202:EEEE0000:0:0:0:     sbsradio2            sbsradio2            # SBS Radio 2
-1:0:2:3C0:3B0:3202:EEEE0000:0:0:0:     sbsradio3            sbsradio3            # SBS Radio 3
+1:0:2:3C0:3B0:3202:EEEE0000:0:0:0:     sbschill             sbschill             # SBS Chill
+1:0:2:3C1:3B0:3202:EEEE0000:0:0:0:     sbsradio1            sbsradio1            # SBS Radio 1
+1:0:2:3C2:3B0:3202:EEEE0000:0:0:0:     sbsradio2            sbsradio2            # SBS Radio 2
+1:0:2:3C3:3B0:3202:EEEE0000:0:0:0:     sbsradio3            sbsradio3            # SBS Radio 3
+1:0:2:3C4:3B0:3202:EEEE0000:0:0:0:     sbsarabic24          sbsarabic24          # SBS Arabic24
+1:0:2:3C5:3B0:3202:EEEE0000:0:0:0:     sbspopdesi           sbspopdesi           # SBS PopDesi
+1:0:2:3C6:3B0:3202:EEEE0000:0:0:0:     sbschill             sbschill             # SBS Chill
+1:0:2:3C7:3B0:3202:EEEE0000:0:0:0:     sbspopasia           sbspopasia           # SBS PopAsia
 1:0:1:813:813:320C:EEEE0000:0:0:0:     ninerockhampton      channel9             # Nine Rockhampton
 1:0:1:833:813:320C:EEEE0000:0:0:0:     9gem                 9gem                 # 9Gem
 1:0:1:853:813:320C:EEEE0000:0:0:0:     9go                  9go                  # 9Go!
@@ -1157,20 +1330,34 @@
 1:0:1:353:350:3202:EEEE0000:0:0:0:     foodnetwork          foodnetwork          # Food Network
 1:0:1:354:350:3202:EEEE0000:0:0:0:     nitv                 nitv                 # NITV
 1:0:19:355:350:3202:EEEE0000:0:0:0:    sbshd                sbsonehd             # SBS HD
-1:0:2:35E:350:3202:EEEE0000:0:0:0:     sbsradio1            sbsradio1            # SBS Radio 1
 1:0:2:35D:350:3202:EEEE0000:0:0:0:     sbsarabic24          sbsarabic24          # SBS Arabic24
+1:0:2:35E:350:3202:EEEE0000:0:0:0:     sbsradio1            sbsradio1            # SBS Radio 1
 1:0:2:35F:350:3202:EEEE0000:0:0:0:     sbsradio2            sbsradio2            # SBS Radio 2
-1:0:2:360:350:3202:EEEE0000:0:0:0:     sbsradio3            sbsradio3            # SBS Radio 3
+1:0:2:360:350:3202:EEEE0000:0:0:0:     sbschill             sbschill             # SBS Chill
+1:0:2:361:350:3202:EEEE0000:0:0:0:     sbsradio1            sbsradio1            # SBS Radio 1
+1:0:2:362:350:3202:EEEE0000:0:0:0:     sbsradio2            sbsradio2            # SBS Radio 2
+1:0:2:363:350:3202:EEEE0000:0:0:0:     sbsradio3            sbsradio3            # SBS Radio 3
+1:0:2:364:350:3202:EEEE0000:0:0:0:     sbsarabic24          sbsarabic24          # SBS Arabic24
+1:0:2:365:350:3202:EEEE0000:0:0:0:     sbspopdesi           sbspopdesi           # SBS PopDesi
+1:0:2:366:350:3202:EEEE0000:0:0:0:     sbschill             sbschill             # SBS Chill
+1:0:2:367:350:3202:EEEE0000:0:0:0:     sbspopasia           sbspopasia           # SBS PopAsia
 1:0:1:371:370:3202:EEEE0000:0:0:0:     sbsone               sbsone               # SBS ONE
 1:0:19:376:370:3202:EEEE0000:0:0:0:    sbsvicelandhd        sbsvicelandhd        # SBS VICELAND HD
 1:0:1:372:370:3202:EEEE0000:0:0:0:     sbsviceland          sbsviceland          # SBS TWO
 1:0:1:373:370:3202:EEEE0000:0:0:0:     foodnetwork          foodnetwork          # Food Network
 1:0:1:374:370:3202:EEEE0000:0:0:0:     nitv                 nitv                 # NITV
 1:0:19:375:370:3202:EEEE0000:0:0:0:    sbshd                sbsonehd             # SBS HD
-1:0:2:37E:370:3202:EEEE0000:0:0:0:     sbsradio1            sbsradio1            # SBS Radio 1
 1:0:2:37D:370:3202:EEEE0000:0:0:0:     sbsarabic24          sbsarabic24          # SBS Arabic24
+1:0:2:37E:370:3202:EEEE0000:0:0:0:     sbsradio1            sbsradio1            # SBS Radio 1
 1:0:2:37F:370:3202:EEEE0000:0:0:0:     sbsradio2            sbsradio2            # SBS Radio 2
-1:0:2:380:370:3202:EEEE0000:0:0:0:     sbsradio3            sbsradio3            # SBS Radio 3
+1:0:2:380:370:3202:EEEE0000:0:0:0:     sbschill             sbschill             # SBS Chill
+1:0:2:381:370:3202:EEEE0000:0:0:0:     sbsradio1            sbsradio1            # SBS Radio 1
+1:0:2:382:370:3202:EEEE0000:0:0:0:     sbsradio2            sbsradio2            # SBS Radio 2
+1:0:2:383:370:3202:EEEE0000:0:0:0:     sbsradio3            sbsradio3            # SBS Radio 3
+1:0:2:384:370:3202:EEEE0000:0:0:0:     sbsarabic24          sbsarabic24          # SBS Arabic24
+1:0:2:385:370:3202:EEEE0000:0:0:0:     sbspopdesi           sbspopdesi           # SBS PopDesi
+1:0:2:386:370:3202:EEEE0000:0:0:0:     sbschill             sbschill             # SBS Chill
+1:0:2:387:370:3202:EEEE0000:0:0:0:     sbspopasia           sbspopasia           # SBS PopAsia
 1:0:1:804:804:320C:EEEE0000:0:0:0:     nineshepparton       channel9             # Nine Shepparton
 1:0:1:824:804:320C:EEEE0000:0:0:0:     9gem                 9gem                 # 9Gem
 1:0:1:844:804:320C:EEEE0000:0:0:0:     9go                  9go                  # 9Go!
@@ -1225,10 +1412,17 @@
 1:0:1:393:390:3202:EEEE0000:0:0:0:     foodnetwork          foodnetwork          # Food Network
 1:0:1:394:390:3202:EEEE0000:0:0:0:     nitv                 nitv                 # NITV
 1:0:19:395:390:3202:EEEE0000:0:0:0:    sbshd                sbsonehd             # SBS HD
-1:0:2:39E:390:3202:EEEE0000:0:0:0:     sbsradio1            sbsradio1            # SBS Radio 1
 1:0:2:39D:390:3202:EEEE0000:0:0:0:     sbsarabic24          sbsarabic24          # SBS Arabic24
+1:0:2:39E:390:3202:EEEE0000:0:0:0:     sbsradio1            sbsradio1            # SBS Radio 1
 1:0:2:39F:390:3202:EEEE0000:0:0:0:     sbsradio2            sbsradio2            # SBS Radio 2
-1:0:2:3A0:390:3202:EEEE0000:0:0:0:     sbsradio3            sbsradio3            # SBS Radio 3
+1:0:2:3A0:390:3202:EEEE0000:0:0:0:     sbschill             sbschill             # SBS Chill
+1:0:2:3A1:390:3202:EEEE0000:0:0:0:     sbsradio1            sbsradio1            # SBS Radio 1
+1:0:2:3A2:390:3202:EEEE0000:0:0:0:     sbsradio2            sbsradio2            # SBS Radio 2
+1:0:2:3A3:390:3202:EEEE0000:0:0:0:     sbsradio3            sbsradio3            # SBS Radio 3
+1:0:2:3A4:390:3202:EEEE0000:0:0:0:     sbsarabic24          sbsarabic24          # SBS Arabic24
+1:0:2:3A5:390:3202:EEEE0000:0:0:0:     sbspopdesi           sbspopdesi           # SBS PopDesi
+1:0:2:3A6:390:3202:EEEE0000:0:0:0:     sbschill             sbschill             # SBS Chill
+1:0:2:3A7:390:3202:EEEE0000:0:0:0:     sbspopasia           sbspopasia           # SBS PopAsia
 
 # Sunshine Coast
 # Service reference                    Service base name    Picon base name        Service name
@@ -1277,20 +1471,34 @@
 1:0:1:333:330:3202:EEEE0000:0:0:0:     foodnetwork          foodnetwork          # Food Network
 1:0:1:334:330:3202:EEEE0000:0:0:0:     nitv                 nitv                 # NITV
 1:0:19:335:330:3202:EEEE0000:0:0:0:    sbshd                sbsonehd             # SBS HD
-1:0:2:33E:330:3202:EEEE0000:0:0:0:     sbsradio1            sbsradio1            # SBS Radio 1
 1:0:2:33D:330:3202:EEEE0000:0:0:0:     sbsarabic24          sbsarabic24          # SBS Arabic24
+1:0:2:33E:330:3202:EEEE0000:0:0:0:     sbsradio1            sbsradio1            # SBS Radio 1
 1:0:2:33F:330:3202:EEEE0000:0:0:0:     sbsradio2            sbsradio2            # SBS Radio 2
-1:0:2:340:330:3202:EEEE0000:0:0:0:     sbsradio3            sbsradio3            # SBS Radio 3
+1:0:2:340:330:3202:EEEE0000:0:0:0:     sbschill             sbschill             # SBS Chill
+1:0:2:341:330:3202:EEEE0000:0:0:0:     sbsradio1            sbsradio1            # SBS Radio 1
+1:0:2:342:330:3202:EEEE0000:0:0:0:     sbsradio2            sbsradio2            # SBS Radio 2
+1:0:2:343:330:3202:EEEE0000:0:0:0:     sbsradio3            sbsradio3            # SBS Radio 3
+1:0:2:344:330:3202:EEEE0000:0:0:0:     sbsarabic24          sbsarabic24          # SBS Arabic24
+1:0:2:345:330:3202:EEEE0000:0:0:0:     sbspopdesi           sbspopdesi           # SBS PopDesi
+1:0:2:346:330:3202:EEEE0000:0:0:0:     sbschill             sbschill             # SBS Chill
+1:0:2:347:330:3202:EEEE0000:0:0:0:     sbspopasia           sbspopasia           # SBS PopAsia
 1:0:1:3B1:3B0:3202:EEEE0000:0:0:0:     sbsone               sbsone               # SBS ONE
 1:0:19:3B6:3B0:3202:EEEE0000:0:0:0:    sbsvicelandhd        sbsvicelandhd        # SBS VICELAND HD
 1:0:1:3B2:3B0:3202:EEEE0000:0:0:0:     sbsviceland          sbsviceland          # SBS TWO
 1:0:1:3B3:3B0:3202:EEEE0000:0:0:0:     foodnetwork          foodnetwork          # Food Network
 1:0:1:3B4:3B0:3202:EEEE0000:0:0:0:     nitv                 nitv                 # NITV
 1:0:19:3B5:3B0:3202:EEEE0000:0:0:0:    sbshd                sbsonehd             # SBS HD
-1:0:2:3BE:3B0:3202:EEEE0000:0:0:0:     sbsradio1            sbsradio1            # SBS Radio 1
 1:0:2:3BD:3B0:3202:EEEE0000:0:0:0:     sbsarabic24          sbsarabic24          # SBS Arabic24
+1:0:2:3BE:3B0:3202:EEEE0000:0:0:0:     sbsradio1            sbsradio1            # SBS Radio 1
 1:0:2:3BF:3B0:3202:EEEE0000:0:0:0:     sbsradio2            sbsradio2            # SBS Radio 2
-1:0:2:3C0:3B0:3202:EEEE0000:0:0:0:     sbsradio3            sbsradio3            # SBS Radio 3
+1:0:2:3C0:3B0:3202:EEEE0000:0:0:0:     sbschill             sbschill             # SBS Chill
+1:0:2:3C1:3B0:3202:EEEE0000:0:0:0:     sbsradio1            sbsradio1            # SBS Radio 1
+1:0:2:3C2:3B0:3202:EEEE0000:0:0:0:     sbsradio2            sbsradio2            # SBS Radio 2
+1:0:2:3C3:3B0:3202:EEEE0000:0:0:0:     sbsradio3            sbsradio3            # SBS Radio 3
+1:0:2:3C4:3B0:3202:EEEE0000:0:0:0:     sbsarabic24          sbsarabic24          # SBS Arabic24
+1:0:2:3C5:3B0:3202:EEEE0000:0:0:0:     sbspopdesi           sbspopdesi           # SBS PopDesi
+1:0:2:3C6:3B0:3202:EEEE0000:0:0:0:     sbschill             sbschill             # SBS Chill
+1:0:2:3C7:3B0:3202:EEEE0000:0:0:0:     sbspopasia           sbspopasia           # SBS PopAsia
 1:0:1:811:811:320C:EEEE0000:0:0:0:     ninesunshinecoast    channel9             # Nine Sunshine Coast
 1:0:1:831:811:320C:EEEE0000:0:0:0:     9gem                 9gem                 # 9Gem
 1:0:1:851:811:320C:EEEE0000:0:0:0:     9go                  9go                  # 9Go!
@@ -1352,7 +1560,14 @@
 1:0:2:30D:300:3202:EEEE0000:0:0:0:     sbsarabic24          sbsarabic24          # SBS Arabic24
 1:0:2:30E:300:3202:EEEE0000:0:0:0:     sbsradio1            sbsradio1            # SBS Radio 1
 1:0:2:30F:300:3202:EEEE0000:0:0:0:     sbsradio2            sbsradio2            # SBS Radio 2
-1:0:2:310:300:3202:EEEE0000:0:0:0:     sbsradio3            sbsradio3            # SBS Radio 3
+1:0:2:310:300:3202:EEEE0000:0:0:0:     sbschill             sbschill             # SBS Chill
+1:0:2:311:300:3202:EEEE0000:0:0:0:     sbsradio1            sbsradio1            # SBS Radio 1
+1:0:2:312:300:3202:EEEE0000:0:0:0:     sbsradio2            sbsradio2            # SBS Radio 2
+1:0:2:313:300:3202:EEEE0000:0:0:0:     sbsradio3            sbsradio3            # SBS Radio 3
+1:0:2:314:300:3202:EEEE0000:0:0:0:     sbsarabic24          sbsarabic24          # SBS Arabic24
+1:0:2:315:300:3202:EEEE0000:0:0:0:     sbspopdesi           sbspopdesi           # SBS PopDesi
+1:0:2:316:300:3202:EEEE0000:0:0:0:     sbschill             sbschill             # SBS Chill
+1:0:2:317:300:3202:EEEE0000:0:0:0:     sbspopasia           sbspopasia           # SBS PopAsia
 
 # Tamworth
 # Service reference                    Service base name    Picon base name        Service name
@@ -1378,10 +1593,17 @@
 1:0:1:353:350:3202:EEEE0000:0:0:0:     foodnetwork          foodnetwork          # Food Network
 1:0:1:354:350:3202:EEEE0000:0:0:0:     nitv                 nitv                 # NITV
 1:0:19:355:350:3202:EEEE0000:0:0:0:    sbshd                sbsonehd             # SBS HD
-1:0:2:35E:350:3202:EEEE0000:0:0:0:     sbsradio1            sbsradio1            # SBS Radio 1
 1:0:2:35D:350:3202:EEEE0000:0:0:0:     sbsarabic24          sbsarabic24          # SBS Arabic24
+1:0:2:35E:350:3202:EEEE0000:0:0:0:     sbsradio1            sbsradio1            # SBS Radio 1
 1:0:2:35F:350:3202:EEEE0000:0:0:0:     sbsradio2            sbsradio2            # SBS Radio 2
-1:0:2:360:350:3202:EEEE0000:0:0:0:     sbsradio3            sbsradio3            # SBS Radio 3
+1:0:2:360:350:3202:EEEE0000:0:0:0:     sbschill             sbschill             # SBS Chill
+1:0:2:361:350:3202:EEEE0000:0:0:0:     sbsradio1            sbsradio1            # SBS Radio 1
+1:0:2:362:350:3202:EEEE0000:0:0:0:     sbsradio2            sbsradio2            # SBS Radio 2
+1:0:2:363:350:3202:EEEE0000:0:0:0:     sbsradio3            sbsradio3            # SBS Radio 3
+1:0:2:364:350:3202:EEEE0000:0:0:0:     sbsarabic24          sbsarabic24          # SBS Arabic24
+1:0:2:365:350:3202:EEEE0000:0:0:0:     sbspopdesi           sbspopdesi           # SBS PopDesi
+1:0:2:366:350:3202:EEEE0000:0:0:0:     sbschill             sbschill             # SBS Chill
+1:0:2:367:350:3202:EEEE0000:0:0:0:     sbspopasia           sbspopasia           # SBS PopAsia
 1:0:1:80C:80C:320C:EEEE0000:0:0:0:     sc10tamworth         sc10                 # SC10 Tamworth
 1:0:1:86C:80C:320C:EEEE0000:0:0:0:     tobeadvised          tobeadvised          # YESSHOP
 1:0:1:88C:80C:320C:EEEE0000:0:0:0:     aspire               aspire               # Aspire
@@ -1425,10 +1647,17 @@
 1:0:1:3B3:3B0:3202:EEEE0000:0:0:0:     foodnetwork          foodnetwork          # Food Network
 1:0:1:3B4:3B0:3202:EEEE0000:0:0:0:     nitv                 nitv                 # NITV
 1:0:19:3B5:3B0:3202:EEEE0000:0:0:0:    sbshd                sbsonehd             # SBS HD
-1:0:2:3BE:3B0:3202:EEEE0000:0:0:0:     sbsradio1            sbsradio1            # SBS Radio 1
 1:0:2:3BD:3B0:3202:EEEE0000:0:0:0:     sbsarabic24          sbsarabic24          # SBS Arabic24
+1:0:2:3BE:3B0:3202:EEEE0000:0:0:0:     sbsradio1            sbsradio1            # SBS Radio 1
 1:0:2:3BF:3B0:3202:EEEE0000:0:0:0:     sbsradio2            sbsradio2            # SBS Radio 2
-1:0:2:3C0:3B0:3202:EEEE0000:0:0:0:     sbsradio3            sbsradio3            # SBS Radio 3
+1:0:2:3C0:3B0:3202:EEEE0000:0:0:0:     sbschill             sbschill             # SBS Chill
+1:0:2:3C1:3B0:3202:EEEE0000:0:0:0:     sbsradio1            sbsradio1            # SBS Radio 1
+1:0:2:3C2:3B0:3202:EEEE0000:0:0:0:     sbsradio2            sbsradio2            # SBS Radio 2
+1:0:2:3C3:3B0:3202:EEEE0000:0:0:0:     sbsradio3            sbsradio3            # SBS Radio 3
+1:0:2:3C4:3B0:3202:EEEE0000:0:0:0:     sbsarabic24          sbsarabic24          # SBS Arabic24
+1:0:2:3C5:3B0:3202:EEEE0000:0:0:0:     sbspopdesi           sbspopdesi           # SBS PopDesi
+1:0:2:3C6:3B0:3202:EEEE0000:0:0:0:     sbschill             sbschill             # SBS Chill
+1:0:2:3C7:3B0:3202:EEEE0000:0:0:0:     sbspopasia           sbspopasia           # SBS PopAsia
 1:0:1:810:810:320C:EEEE0000:0:0:0:     ninetoowoomba        channel9             # Nine Toowoomba
 1:0:1:830:810:320C:EEEE0000:0:0:0:     9gem                 9gem                 # 9Gem
 1:0:1:850:810:320C:EEEE0000:0:0:0:     9go                  9go                  # 9Go!
@@ -1470,10 +1699,17 @@
 1:0:1:3B3:3B0:3202:EEEE0000:0:0:0:     foodnetwork          foodnetwork          # Food Network
 1:0:1:3B4:3B0:3202:EEEE0000:0:0:0:     nitv                 nitv                 # NITV
 1:0:19:3B5:3B0:3202:EEEE0000:0:0:0:    sbshd                sbsonehd             # SBS HD
-1:0:2:3BE:3B0:3202:EEEE0000:0:0:0:     sbsradio1            sbsradio1            # SBS Radio 1
 1:0:2:3BD:3B0:3202:EEEE0000:0:0:0:     sbsarabic24          sbsarabic24          # SBS Arabic24
+1:0:2:3BE:3B0:3202:EEEE0000:0:0:0:     sbsradio1            sbsradio1            # SBS Radio 1
 1:0:2:3BF:3B0:3202:EEEE0000:0:0:0:     sbsradio2            sbsradio2            # SBS Radio 2
-1:0:2:3C0:3B0:3202:EEEE0000:0:0:0:     sbsradio3            sbsradio3            # SBS Radio 3
+1:0:2:3C0:3B0:3202:EEEE0000:0:0:0:     sbschill             sbschill             # SBS Chill
+1:0:2:3C1:3B0:3202:EEEE0000:0:0:0:     sbsradio1            sbsradio1            # SBS Radio 1
+1:0:2:3C2:3B0:3202:EEEE0000:0:0:0:     sbsradio2            sbsradio2            # SBS Radio 2
+1:0:2:3C3:3B0:3202:EEEE0000:0:0:0:     sbsradio3            sbsradio3            # SBS Radio 3
+1:0:2:3C4:3B0:3202:EEEE0000:0:0:0:     sbsarabic24          sbsarabic24          # SBS Arabic24
+1:0:2:3C5:3B0:3202:EEEE0000:0:0:0:     sbspopdesi           sbspopdesi           # SBS PopDesi
+1:0:2:3C6:3B0:3202:EEEE0000:0:0:0:     sbschill             sbschill             # SBS Chill
+1:0:2:3C7:3B0:3202:EEEE0000:0:0:0:     sbspopasia           sbspopasia           # SBS PopAsia
 1:0:1:815:815:320C:EEEE0000:0:0:0:     ninetownsville       channel9             # Nine Townsville
 1:0:1:815:815:320C:EEEE0000:0:0:0:     ninetownsville       channel9             # Nine Townsville
 1:0:1:835:815:320C:EEEE0000:0:0:0:     9gem                 9gem                 # 9Gem
@@ -1517,10 +1753,17 @@
 1:0:1:353:350:3202:EEEE0000:0:0:0:     foodnetwork          foodnetwork          # Food Network
 1:0:1:354:350:3202:EEEE0000:0:0:0:     nitv                 nitv                 # NITV
 1:0:19:355:350:3202:EEEE0000:0:0:0:    sbshd                sbsonehd             # SBS HD
-1:0:2:35E:350:3202:EEEE0000:0:0:0:     sbsradio1            sbsradio1            # SBS Radio 1
 1:0:2:35D:350:3202:EEEE0000:0:0:0:     sbsarabic24          sbsarabic24          # SBS Arabic24
+1:0:2:35E:350:3202:EEEE0000:0:0:0:     sbsradio1            sbsradio1            # SBS Radio 1
 1:0:2:35F:350:3202:EEEE0000:0:0:0:     sbsradio2            sbsradio2            # SBS Radio 2
-1:0:2:360:350:3202:EEEE0000:0:0:0:     sbsradio3            sbsradio3            # SBS Radio 3
+1:0:2:360:350:3202:EEEE0000:0:0:0:     sbschill             sbschill             # SBS Chill
+1:0:2:361:350:3202:EEEE0000:0:0:0:     sbsradio1            sbsradio1            # SBS Radio 1
+1:0:2:362:350:3202:EEEE0000:0:0:0:     sbsradio2            sbsradio2            # SBS Radio 2
+1:0:2:363:350:3202:EEEE0000:0:0:0:     sbsradio3            sbsradio3            # SBS Radio 3
+1:0:2:364:350:3202:EEEE0000:0:0:0:     sbsarabic24          sbsarabic24          # SBS Arabic24
+1:0:2:365:350:3202:EEEE0000:0:0:0:     sbspopdesi           sbspopdesi           # SBS PopDesi
+1:0:2:366:350:3202:EEEE0000:0:0:0:     sbschill             sbschill             # SBS Chill
+1:0:2:367:350:3202:EEEE0000:0:0:0:     sbspopasia           sbspopasia           # SBS PopAsia
 1:0:1:806:806:320C:EEEE0000:0:0:0:     ninewaggawagga       channel9             # Nine Wagga Wagga
 1:0:1:826:806:320C:EEEE0000:0:0:0:     9gem                 9gem                 # 9Gem
 1:0:1:846:806:320C:EEEE0000:0:0:0:     9go                  9go                  # 9Go!
@@ -1568,7 +1811,14 @@
 1:0:2:37D:370:3202:EEEE0000:0:0:0:     sbsarabic24          sbsarabic24          # SBS Arabic24
 1:0:2:37E:370:3202:EEEE0000:0:0:0:     sbsradio1            sbsradio1            # SBS Radio 1
 1:0:2:37F:370:3202:EEEE0000:0:0:0:     sbsradio2            sbsradio2            # SBS Radio 2
-1:0:2:380:370:3202:EEEE0000:0:0:0:     sbsradio3            sbsradio3            # SBS Radio 3
+1:0:2:380:370:3202:EEEE0000:0:0:0:     sbschill             sbschill             # SBS Chill
+1:0:2:381:370:3202:EEEE0000:0:0:0:     sbsradio1            sbsradio1            # SBS Radio 1
+1:0:2:382:370:3202:EEEE0000:0:0:0:     sbsradio2            sbsradio2            # SBS Radio 2
+1:0:2:383:370:3202:EEEE0000:0:0:0:     sbsradio3            sbsradio3            # SBS Radio 3
+1:0:2:384:370:3202:EEEE0000:0:0:0:     sbsarabic24          sbsarabic24          # SBS Arabic24
+1:0:2:385:370:3202:EEEE0000:0:0:0:     sbspopdesi           sbspopdesi           # SBS PopDesi
+1:0:2:386:370:3202:EEEE0000:0:0:0:     sbschill             sbschill             # SBS Chill
+1:0:2:387:370:3202:EEEE0000:0:0:0:     sbspopasia           sbspopasia           # SBS PopAsia
 1:0:1:802:802:320C:EEEE0000:0:0:0:     nineballarat         channel9             # Nine Ballarat
 1:0:1:822:802:320C:EEEE0000:0:0:0:     9gem                 9gem                 # 9Gem
 1:0:1:842:802:320C:EEEE0000:0:0:0:     9go                  9go                  # 9Go!
@@ -1619,10 +1869,17 @@
 1:0:1:3B3:3B0:3202:EEEE0000:0:0:0:     foodnetwork          foodnetwork          # Food Network
 1:0:1:3B4:3B0:3202:EEEE0000:0:0:0:     nitv                 nitv                 # NITV
 1:0:19:3B5:3B0:3202:EEEE0000:0:0:0:    sbshd                sbsonehd             # SBS HD
-1:0:2:3BE:3B0:3202:EEEE0000:0:0:0:     sbsradio1            sbsradio1            # SBS Radio 1
 1:0:2:3BD:3B0:3202:EEEE0000:0:0:0:     sbsarabic24          sbsarabic24          # SBS Arabic24
+1:0:2:3BE:3B0:3202:EEEE0000:0:0:0:     sbsradio1            sbsradio1            # SBS Radio 1
 1:0:2:3BF:3B0:3202:EEEE0000:0:0:0:     sbsradio2            sbsradio2            # SBS Radio 2
-1:0:2:3C0:3B0:3202:EEEE0000:0:0:0:     sbsradio3            sbsradio3            # SBS Radio 3
+1:0:2:3C0:3B0:3202:EEEE0000:0:0:0:     sbschill             sbschill             # SBS Chill
+1:0:2:3C1:3B0:3202:EEEE0000:0:0:0:     sbsradio1            sbsradio1            # SBS Radio 1
+1:0:2:3C2:3B0:3202:EEEE0000:0:0:0:     sbsradio2            sbsradio2            # SBS Radio 2
+1:0:2:3C3:3B0:3202:EEEE0000:0:0:0:     sbsradio3            sbsradio3            # SBS Radio 3
+1:0:2:3C4:3B0:3202:EEEE0000:0:0:0:     sbsarabic24          sbsarabic24          # SBS Arabic24
+1:0:2:3C5:3B0:3202:EEEE0000:0:0:0:     sbspopdesi           sbspopdesi           # SBS PopDesi
+1:0:2:3C6:3B0:3202:EEEE0000:0:0:0:     sbschill             sbschill             # SBS Chill
+1:0:2:3C7:3B0:3202:EEEE0000:0:0:0:     sbspopasia           sbspopasia           # SBS PopAsia
 1:0:1:812:812:320C:EEEE0000:0:0:0:     ninewidebay          channel9             # Nine Wide Bay
 1:0:1:832:812:320C:EEEE0000:0:0:0:     9gem                 9gem                 # 9Gem
 1:0:1:852:812:320C:EEEE0000:0:0:0:     9go                  9go                  # 9Go!
@@ -1662,7 +1919,14 @@
 1:0:2:35D:350:3202:EEEE0000:0:0:0:     sbsarabic24          sbsarabic24          # SBS Arabic24
 1:0:2:35E:350:3202:EEEE0000:0:0:0:     sbsradio1            sbsradio1            # SBS Radio 1
 1:0:2:35F:350:3202:EEEE0000:0:0:0:     sbsradio2            sbsradio2            # SBS Radio 2
-1:0:2:360:350:3202:EEEE0000:0:0:0:     sbsradio3            sbsradio3            # SBS Radio 3
+1:0:2:360:350:3202:EEEE0000:0:0:0:     sbschill             sbschill             # SBS Chill
+1:0:2:361:350:3202:EEEE0000:0:0:0:     sbsradio1            sbsradio1            # SBS Radio 1
+1:0:2:362:350:3202:EEEE0000:0:0:0:     sbsradio2            sbsradio2            # SBS Radio 2
+1:0:2:363:350:3202:EEEE0000:0:0:0:     sbsradio3            sbsradio3            # SBS Radio 3
+1:0:2:364:350:3202:EEEE0000:0:0:0:     sbsarabic24          sbsarabic24          # SBS Arabic24
+1:0:2:365:350:3202:EEEE0000:0:0:0:     sbspopdesi           sbspopdesi           # SBS PopDesi
+1:0:2:366:350:3202:EEEE0000:0:0:0:     sbschill             sbschill             # SBS Chill
+1:0:2:367:350:3202:EEEE0000:0:0:0:     sbspopasia           sbspopasia           # SBS PopAsia
 1:0:1:809:809:320C:EEEE0000:0:0:0:     ninewollongong       channel9             # Nine Wollongong
 1:0:1:829:809:320C:EEEE0000:0:0:0:     9gem                 9gem                 # 9Gem
 1:0:1:849:809:320C:EEEE0000:0:0:0:     9go                  9go                  # 9Go!
