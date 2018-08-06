@@ -305,7 +305,7 @@
 1:0:1:786:327A:3271:EEEE0000:0:0:0:    elevencairns         eleven               # ELEVEN Cairns
 1:0:16:787:327A:3271:EEEE0000:0:0:0:   gold                 gold                 # GOLD
 1:0:1:788:327A:3271:EEEE0000:0:0:0:    tvsn                 tvsn                 # TVSN
-1:0:16:790:327A:3271:EEEE0000:0:0:0:   winnetwork           winnetwork           # WIN NETWORK
+1:0:16:790:327A:3271:EEEE0000:0:0:0:   winnetwork           skynewsonwin         # WIN NETWORK
 1:0:19:791:327A:3271:EEEE0000:0:0:0:   wincairnshd          winhd                # WIN Cairns HD
 
 # Canberra
@@ -351,7 +351,7 @@
 1:0:1:786:327A:3273:EEEE0000:0:0:0:    elevencanberra       eleven               # ELEVEN Canberra
 1:0:16:787:327A:3273:EEEE0000:0:0:0:   gold                 gold                 # GOLD
 1:0:1:788:327A:3273:EEEE0000:0:0:0:    tvsn                 tvsn                 # TVSN
-1:0:16:790:327A:3273:EEEE0000:0:0:0:   winnetwork           winnetwork           # WIN NETWORK
+1:0:16:790:327A:3273:EEEE0000:0:0:0:   skynewsonwin         skynewsonwin         # Sky News on WIN
 1:0:19:793:327A:3273:EEEE0000:0:0:0:   wincanberrahd        winhd                # WIN Canberra HD
 1:0:1:946:99E:3281:EEEE0000:0:0:0:     prime7canberra       prime7               # PRIME7 Canberra
 1:0:19:960:99E:3281:EEEE0000:0:0:0:    prime7hdcanberra     prime7hd             # PRIME7 HD Canberra
@@ -472,7 +472,7 @@
 1:0:1:822:329B:3272:EEEE0000:0:0:0:    onecoffsharbour      one                  # ONE Coffs Harbour
 1:0:1:824:329B:3272:EEEE0000:0:0:0:    elevencoffsharbour   eleven               # ELEVEN Coffs Harbour
 1:0:19:825:329B:3272:EEEE0000:0:0:0:   winhdcoffsharbour    winhd                # WIN HD Coffs Harbour
-1:0:1:826:329B:3272:EEEE0000:0:0:0:    winnetwork           winnetwork           # WIN NETWORK
+1:0:1:826:329B:3272:EEEE0000:0:0:0:    winnetwork           skynewsonwin         # WIN NETWORK
 1:0:1:93B:9A5:3282:EEEE0000:0:0:0:     prime7coffsharbour   prime7               # PRIME7 Coffs Harbour
 1:0:19:97E:9A5:3282:EEEE0000:0:0:0:    prime7hdcoffsharbour prime7hd             # PRIME7 HD Coffs Harbour
 1:0:1:97F:9A5:3282:EEEE0000:0:0:0:     prime7coffsharbour   prime7               # PRIME7 Coffs Harbour
@@ -575,7 +575,7 @@
 1:0:1:786:327D:3274:EEEE0000:0:0:0:    elevengippsland      eleven               # ELEVEN Gippsland
 1:0:16:787:327D:3274:EEEE0000:0:0:0:   gold                 gold                 # GOLD
 1:0:1:788:327D:3274:EEEE0000:0:0:0:    tvsn                 tvsn                 # TVSN
-1:0:16:790:327D:3274:EEEE0000:0:0:0:   winnetwork           winnetwork           # WIN NETWORK
+1:0:16:790:327D:3274:EEEE0000:0:0:0:   winnetwork           skynewsonwin         # WIN NETWORK
 1:0:19:796:327D:3274:EEEE0000:0:0:0:   wingippslandhd       winhd                # WIN Gippsland HD
 1:0:1:952:99D:3283:EEEE0000:0:0:0:     prime7traralgon      prime7               # PRIME7 Traralgon
 1:0:1:988:99D:3283:EEEE0000:0:0:0:     prime7traralgon      prime7               # PRIME7 Traralgon
@@ -679,7 +679,7 @@
 1:0:1:786:327B:3275:EEEE0000:0:0:0:    elevenlaunceston     eleven               # ELEVEN Launceston
 1:0:16:787:327B:3275:EEEE0000:0:0:0:   gold                 gold                 # GOLD
 1:0:1:788:327B:3275:EEEE0000:0:0:0:    tvsn                 tvsn                 # TVSN
-1:0:16:791:327B:3275:EEEE0000:0:0:0:   winnetwork           winnetwork           # WIN NETWORK
+1:0:16:791:327B:3275:EEEE0000:0:0:0:   winnetwork           skynewsonwin         # WIN NETWORK
 1:0:19:799:327B:3275:EEEE0000:0:0:0:   winlauncestonhd      winhd                # WIN Launceston HD
 
 # Melbourne
@@ -806,7 +806,7 @@
 1:0:1:786:327A:3274:EEEE0000:0:0:0:    elevenwesternvic     eleven               # ELEVEN Western Vic
 1:0:16:787:327A:3274:EEEE0000:0:0:0:   gold                 gold                 # GOLD
 1:0:1:788:327A:3274:EEEE0000:0:0:0:    tvsn                 tvsn                 # TVSN
-1:0:16:790:327A:3274:EEEE0000:0:0:0:   winnetwork           winnetwork           # WIN NETWORK
+1:0:16:790:327A:3274:EEEE0000:0:0:0:   winnetwork           skynewsonwin         # WIN NETWORK
 1:0:19:792:327A:3274:EEEE0000:0:0:0:   winwesternvichd      winhd                # WIN Western Vic HD
 1:0:1:781:327C:3276:EEEE0000:0:0:0:    winmtgambier         win                  # WIN Mt Gambier
 1:0:1:782:327C:3276:EEEE0000:0:0:0:    onemtgambier         one                  # ONE Mt Gambier
@@ -899,7 +899,7 @@
 1:0:1:786:327A:3274:EEEE0000:0:0:0:    elevenwesternvic     eleven               # ELEVEN Western Vic
 1:0:16:787:327A:3274:EEEE0000:0:0:0:   gold                 gold                 # GOLD
 1:0:1:788:327A:3274:EEEE0000:0:0:0:    tvsn                 tvsn                 # TVSN
-1:0:16:790:327A:3274:EEEE0000:0:0:0:   winnetwork           winnetwork           # WIN NETWORK
+1:0:16:790:327A:3274:EEEE0000:0:0:0:   winnetwork           skynewsonwin         # WIN NETWORK
 1:0:19:792:327A:3274:EEEE0000:0:0:0:   winwesternvichd      winhd                # WIN Western Vic HD
 1:0:1:781:327C:3276:EEEE0000:0:0:0:    winmtgambier         win                  # WIN Mt Gambier
 1:0:1:782:327C:3276:EEEE0000:0:0:0:    onemtgambier         one                  # ONE Mt Gambier
@@ -966,7 +966,7 @@
 1:0:1:786:327F:3273:EEEE0000:0:0:0:    elevensouthcoast     eleven               # ELEVEN South Coast
 1:0:16:787:327F:3273:EEEE0000:0:0:0:   gold                 gold                 # GOLD
 1:0:1:788:327F:3273:EEEE0000:0:0:0:    tvsn                 tvsn                 # TVSN
-1:0:16:790:327F:3273:EEEE0000:0:0:0:   winnetwork           winnetwork           # WIN NETWORK
+1:0:16:790:327F:3273:EEEE0000:0:0:0:   winnetwork           skynewsonwin         # WIN NETWORK
 1:0:19:795:327F:3273:EEEE0000:0:0:0:   winsouthcoasthd      winhd                # WIN South Coast HD
 1:0:1:947:99E:3281:EEEE0000:0:0:0:     prime7sthcoast       prime7               # PRIME7 Sth Coast
 1:0:1:96A:99E:3281:EEEE0000:0:0:0:     prime7sthcoast       prime7               # PRIME7 Sth Coast
@@ -1019,7 +1019,7 @@
 1:0:1:822:329C:3272:EEEE0000:0:0:0:    onenewcastle         one                  # ONE Newcastle
 1:0:1:824:329C:3272:EEEE0000:0:0:0:    elevennewcastle      eleven               # ELEVEN Newcastle
 1:0:19:825:329C:3272:EEEE0000:0:0:0:   winhdnewcastle       winhd                # WIN HD Newcastle
-1:0:1:826:329C:3272:EEEE0000:0:0:0:    winnetwork           winnetwork           # WIN NETWORK
+1:0:1:826:329C:3272:EEEE0000:0:0:0:    winnetwork           skynewsonwin         # WIN NETWORK
 1:0:1:93E:9B0:3282:EEEE0000:0:0:0:     prime7newcastle      prime7               # PRIME7 Newcastle
 1:0:19:96A:9B0:3282:EEEE0000:0:0:0:    prime7hdnewcastle    prime7hd             # PRIME7 HD Newcastle
 1:0:1:96B:9B0:3282:EEEE0000:0:0:0:     prime7newcastle      prime7               # PRIME7 Newcastle
@@ -1129,14 +1129,14 @@
 1:0:1:822:329F:3272:EEEE0000:0:0:0:    onelismore           one                  # ONE Lismore
 1:0:1:824:329F:3272:EEEE0000:0:0:0:    elevenlismore        eleven               # ELEVEN Lismore
 1:0:19:825:329F:3272:EEEE0000:0:0:0:   winhdlismore         winhd                # WIN HD Lismore
-1:0:1:826:329F:3272:EEEE0000:0:0:0:    winnetwork           winnetwork           # WIN NETWORK
+1:0:1:826:329F:3272:EEEE0000:0:0:0:    winnetwork           skynewsonwin         # WIN NETWORK
 1:0:16:787:32A0:3272:EEEE0000:0:0:0:   gold                 gold                 # GOLD
 1:0:16:788:32A0:3272:EEEE0000:0:0:0:   tvsn                 tvsn                 # TVSN
 1:0:1:820:32A0:3272:EEEE0000:0:0:0:    wingoldcoast         win                  # WIN Gold Coast
 1:0:1:822:32A0:3272:EEEE0000:0:0:0:    onegoldcoast         one                  # ONE Gold Coast
 1:0:1:824:32A0:3272:EEEE0000:0:0:0:    elevengoldcoast      eleven               # ELEVEN Gold Coast
 1:0:19:825:32A0:3272:EEEE0000:0:0:0:   winhdgoldcoast       winhd                # WIN HD Gold Coast
-1:0:1:826:32A0:3272:EEEE0000:0:0:0:    winnetwork           winnetwork           # WIN NETWORK
+1:0:1:826:32A0:3272:EEEE0000:0:0:0:    winnetwork           skynewsonwin         # WIN NETWORK
 1:0:1:938:9A5:3282:EEEE0000:0:0:0:     prime7goldcoast      prime7               # PRIME7 Gold Coast
 1:0:1:939:9A5:3282:EEEE0000:0:0:0:     prime7lismore        prime7               # PRIME7 Lismore
 1:0:1:960:9A5:3282:EEEE0000:0:0:0:     prime7goldcoast      prime7               # PRIME7 Gold Coast
@@ -1196,7 +1196,7 @@
 1:0:1:786:327C:3273:EEEE0000:0:0:0:    elevenorange         eleven               # ELEVEN Orange
 1:0:16:787:327C:3273:EEEE0000:0:0:0:   gold                 gold                 # GOLD
 1:0:1:788:327C:3273:EEEE0000:0:0:0:    tvsn                 tvsn                 # TVSN
-1:0:16:790:327C:3273:EEEE0000:0:0:0:   winnetwork           winnetwork           # WIN NETWORK
+1:0:16:790:327C:3273:EEEE0000:0:0:0:   winnetwork           skynewsonwin         # WIN NETWORK
 1:0:19:791:327C:3273:EEEE0000:0:0:0:   winorangehd          winhd                # WIN Orange HD
 1:0:1:943:9A2:3281:EEEE0000:0:0:0:     prime7orange         prime7               # PRIME7 Orange
 1:0:19:960:9A2:3281:EEEE0000:0:0:0:    prime7hdorange       prime7hd             # PRIME7 HD Orange
@@ -1311,7 +1311,7 @@
 1:0:1:786:327D:3271:EEEE0000:0:0:0:    elevencentralqld     eleven               # ELEVEN Central QLD
 1:0:16:787:327D:3271:EEEE0000:0:0:0:   gold                 gold                 # GOLD
 1:0:1:788:327D:3271:EEEE0000:0:0:0:    tvsn                 tvsn                 # TVSN
-1:0:16:790:327D:3271:EEEE0000:0:0:0:   winnetwork           winnetwork           # WIN NETWORK
+1:0:16:790:327D:3271:EEEE0000:0:0:0:   winnetwork           skynewsonwin         # WIN NETWORK
 1:0:19:794:327D:3271:EEEE0000:0:0:0:   wincentralqldhd      winhd                # WIN Central QLD HD
 
 # Shepparton
@@ -1373,7 +1373,7 @@
 1:0:1:786:327C:3274:EEEE0000:0:0:0:    elevenshepparton     eleven               # ELEVEN Shepparton
 1:0:16:787:327C:3274:EEEE0000:0:0:0:   gold                 gold                 # GOLD
 1:0:1:788:327C:3274:EEEE0000:0:0:0:    tvsn                 tvsn                 # TVSN
-1:0:16:790:327C:3274:EEEE0000:0:0:0:   winnetwork           winnetwork           # WIN NETWORK
+1:0:16:790:327C:3274:EEEE0000:0:0:0:   winnetwork           skynewsonwin         # WIN NETWORK
 1:0:19:794:327C:3274:EEEE0000:0:0:0:   winsheppartonhd      winhd                # WIN Shepparton HD
 1:0:1:94C:9A1:3283:EEEE0000:0:0:0:     prime7shepparton     prime7               # PRIME7 Shepparton
 1:0:1:960:9A1:3283:EEEE0000:0:0:0:     prime7shepparton     prime7               # PRIME7 Shepparton
@@ -1613,7 +1613,7 @@
 1:0:1:822:329A:3272:EEEE0000:0:0:0:    onetamworth          one                  # ONE Tamworth
 1:0:1:824:329A:3272:EEEE0000:0:0:0:    eleventamworth       eleven               # ELEVEN Tamworth
 1:0:19:825:329A:3272:EEEE0000:0:0:0:   winhdtamworth        winhd                # WIN HD Tamworth
-1:0:1:826:329A:3272:EEEE0000:0:0:0:    winnetwork           winnetwork           # WIN NETWORK
+1:0:1:826:329A:3272:EEEE0000:0:0:0:    winnetwork           skynewsonwin         # WIN NETWORK
 1:0:1:93C:9A5:3282:EEEE0000:0:0:0:     prime7tamworth       prime7               # PRIME7 Tamworth
 1:0:1:988:9A5:3282:EEEE0000:0:0:0:     prime7tamworth       prime7               # PRIME7 Tamworth
 1:0:1:989:9A5:3282:EEEE0000:0:0:0:     prime7tamworth       prime7               # PRIME7 Tamworth
@@ -1834,7 +1834,7 @@
 1:0:1:786:327A:3274:EEEE0000:0:0:0:    elevenwesternvic     eleven               # ELEVEN Western Vic
 1:0:16:787:327A:3274:EEEE0000:0:0:0:   gold                 gold                 # GOLD
 1:0:1:788:327A:3274:EEEE0000:0:0:0:    tvsn                 tvsn                 # TVSN
-1:0:16:790:327A:3274:EEEE0000:0:0:0:   winnetwork           winnetwork           # WIN NETWORK
+1:0:16:790:327A:3274:EEEE0000:0:0:0:   winnetwork           skynewsonwin         # WIN NETWORK
 1:0:19:792:327A:3274:EEEE0000:0:0:0:   winwesternvichd      winhd                # WIN Western Vic HD
 1:0:1:94E:99D:3283:EEEE0000:0:0:0:     prime7ballarat       prime7               # PRIME7 Ballarat
 1:0:19:960:99D:3283:EEEE0000:0:0:0:    prime7hdballarat     prime7hd             # PRIME7 HD Ballarat
@@ -1940,7 +1940,7 @@
 1:0:1:786:327B:3273:EEEE0000:0:0:0:    elevenillawarra      eleven               # ELEVEN Illawarra
 1:0:16:787:327B:3273:EEEE0000:0:0:0:   gold                 gold                 # GOLD
 1:0:1:788:327B:3273:EEEE0000:0:0:0:    tvsn                 tvsn                 # TVSN
-1:0:16:790:327B:3273:EEEE0000:0:0:0:   winnetwork           winnetwork           # WIN NETWORK
+1:0:16:790:327B:3273:EEEE0000:0:0:0:   winnetwork           skynewsonwin         # WIN NETWORK
 1:0:19:794:327B:3273:EEEE0000:0:0:0:   winillawarrahd       winhd                # WIN Illawarra HD
 1:0:1:942:99F:3281:EEEE0000:0:0:0:     prime7wollongong     prime7               # PRIME7 Wollongong
 1:0:19:960:99F:3281:EEEE0000:0:0:0:    prime7hdwollongong   prime7hd             # PRIME7 HD Wollongong
