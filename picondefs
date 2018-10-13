@@ -1385,10 +1385,10 @@
 
 # Spencer Gulf
 # Service reference                    Service base name    Picon base name        Service name
-1:0:1:2D0:253:1010:EEEE0000:0:0:0:     abcnews24            abcnews              # ABC News 24
+1:0:1:2D0:253:1010:EEEE0000:0:0:0:     abcnews              abcnews              # ABC NEWS
 1:0:19:2D5:253:1010:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
 1:0:1:2D1:253:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
-1:0:1:2D2:253:1010:EEEE0000:0:0:0:     abc2kids             abccomedy            # ABC2/KIDS
+1:0:1:2D2:253:1010:EEEE0000:0:0:0:     abccomedykids        abccomedy            # ABCComedy/Kids
 1:0:1:2D3:253:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
 1:0:1:2D4:253:1010:EEEE0000:0:0:0:     abcme                abcme                # ABC ME
 1:0:19:2D5:253:1010:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
@@ -1397,12 +1397,13 @@
 1:0:1:701:701:1017:EEEE0000:0:0:0:     scnine               channel9             # SC Nine
 1:0:1:721:701:1017:EEEE0000:0:0:0:     gem                  9gem                 # GEM
 1:0:1:741:701:1017:EEEE0000:0:0:0:     go                   9go                  # GO
+1:0:16:7E1:701:1017:EEEE0000:0:0:0:    9life                9life                # 9Life
 1:0:1:81D:81D:1017:EEEE0000:0:0:0:     sc10portpirie        sc10                 # SC10 Port Pirie
 1:0:1:83D:81D:1017:EEEE0000:0:0:0:     one                  one                  # ONE
 1:0:1:85D:81D:1017:EEEE0000:0:0:0:     eleven               eleven               # ELEVEN
-1:0:16:87D:81D:1017:EEEE0000:0:0:0:    tobeadvised          tobeadvised          # To Be Advised
+1:0:16:87D:81D:1017:EEEE0000:0:0:0:    sbn                  sbn                  # SBN
 1:0:16:89D:81D:1017:EEEE0000:0:0:0:    tvsn                 tvsn                 # TVSN
-1:0:1:906:906:1017:EEEE0000:0:0:0:     gtsbknportpirie      scgtsbkn             # GTS BKN Port Pirie
+1:0:1:906:906:1017:EEEE0000:0:0:0:     7portpirie           7digital             # 7 Port Pirie
 1:0:1:926:906:1017:EEEE0000:0:0:0:     7mate                7mate                # 7mate
 1:0:1:946:906:1017:EEEE0000:0:0:0:     7two                 7two                 # 7TWO
 1:0:16:9A6:906:1017:EEEE0000:0:0:0:    racingcom            racingcom            # RACING.COM
@@ -1411,7 +1412,8 @@
 1:0:1:392:390:3202:EEEE0000:0:0:0:     sbsviceland          sbsviceland          # SBS VICELAND
 1:0:1:393:390:3202:EEEE0000:0:0:0:     foodnetwork          foodnetwork          # Food Network
 1:0:1:394:390:3202:EEEE0000:0:0:0:     nitv                 nitv                 # NITV
-1:0:19:395:390:3202:EEEE0000:0:0:0:    sbshd                sbsonehd             # SBS HD
+1:0:19:395:390:3202:EEEE0000:0:0:0:    sbsonehd             sbsonehd             # SBS ONE HD
+1:0:19:396:390:3202:EEEE0000:0:0:0:    sbsvicelandhd        sbsvicelandhd        # SBS VICELAND HD
 1:0:2:39D:390:3202:EEEE0000:0:0:0:     sbsarabic24          sbsarabic24          # SBS Arabic24
 1:0:2:39E:390:3202:EEEE0000:0:0:0:     sbsradio1            sbsradio1            # SBS Radio 1
 1:0:2:39F:390:3202:EEEE0000:0:0:0:     sbsradio2            sbsradio2            # SBS Radio 2
@@ -1423,6 +1425,7 @@
 1:0:2:3A5:390:3202:EEEE0000:0:0:0:     sbspopdesi           sbspopdesi           # SBS PopDesi
 1:0:2:3A6:390:3202:EEEE0000:0:0:0:     sbschill             sbschill             # SBS Chill
 1:0:2:3A7:390:3202:EEEE0000:0:0:0:     sbspopasia           sbspopasia           # SBS PopAsia
+1:0:19:3A6:390:3202:EEEE0000:0:0:0:    sbsvicelandhd        sbsvicelandhd        # SBS VICELAND HD
 
 # Sunshine Coast
 # Service reference                    Service base name    Picon base name        Service name
