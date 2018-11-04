@@ -29,12 +29,12 @@
 1:0:19:554:505:1013:EEEE0000:0:0:0:    7hdadelaide          7hd                  # 7HD Adelaide
 1:0:1:555:505:1013:EEEE0000:0:0:0:     7flixadelaide        7flix                # 7flix Adelaide
 1:0:16:558:505:1013:EEEE0000:0:0:0:    racingcom            racingcom            # RACING.COM
-1:0:1:651:605:1014:EEEE0000:0:0:0:     one                  one                  # ONE
-1:0:19:654:605:1014:EEEE0000:0:0:0:    tenhd                tenhd                # TEN HD
-1:0:1:655:605:1014:EEEE0000:0:0:0:     tendigital           tendigital           # TEN Digital
+1:0:1:651:605:1014:EEEE0000:0:0:0:     one                  10boss               # ONE
+1:0:19:654:605:1014:EEEE0000:0:0:0:    tenhd                10hd                 # TEN HD
+1:0:1:655:605:1014:EEEE0000:0:0:0:     tendigital           10                   # TEN Digital
 1:0:1:656:605:1014:EEEE0000:0:0:0:     tvsn                 tvsn                 # TVSN
-1:0:1:657:605:1014:EEEE0000:0:0:0:     one                  one                  # ONE
-1:0:1:658:605:1014:EEEE0000:0:0:0:     eleven               eleven               # ELEVEN
+1:0:1:657:605:1014:EEEE0000:0:0:0:     one                  10boss               # ONE
+1:0:1:658:605:1014:EEEE0000:0:0:0:     eleven               10peach              # ELEVEN
 1:0:1:659:605:1014:EEEE0000:0:0:0:     spreetv              spreetv              # SpreeTV
 1:0:1:341:340:3202:EEEE0000:0:0:0:     sbsone               sbsone               # SBS ONE
 1:0:19:346:340:3202:EEEE0000:0:0:0:    sbsvicelandhd        sbsvicelandhd        # SBS VICELAND HD
@@ -67,13 +67,13 @@
 1:0:2:2E6:263:1010:EEEE0000:0:0:0:     doublej              doublej              # Double J
 1:0:2:2E7:263:1010:EEEE0000:0:0:0:     abcjazz              abcjazz              # ABC Jazz
 1:0:1:771:327B:1015:EEEE0000:0:0:0:    win                  win                  # WIN
-1:0:1:772:327B:1015:EEEE0000:0:0:0:    one                  one                  # ONE
-1:0:1:773:327B:1015:EEEE0000:0:0:0:    eleven               eleven               # ELEVEN
+1:0:1:772:327B:1015:EEEE0000:0:0:0:    one                  10boss               # ONE
+1:0:1:773:327B:1015:EEEE0000:0:0:0:    eleven               10peach              # ELEVEN
 1:0:1:775:327B:1015:EEEE0000:0:0:0:    tvsn                 tvsn                 # TVSN
 1:0:19:776:327B:1015:EEEE0000:0:0:0:   winhd                winhd                # WIN HD
 1:0:16:777:327B:1015:EEEE0000:0:0:0:   gold                 gold                 # GOLD
 1:0:1:778:327B:1015:EEEE0000:0:0:0:    win                  win                  # WIN
-1:0:1:779:327B:1015:EEEE0000:0:0:0:    one                  one                  # ONE
+1:0:1:779:327B:1015:EEEE0000:0:0:0:    one                  10boss               # ONE
 1:0:1:A35:A00:101B:EEEE0000:0:0:0:     nine                 channel9             # NINE
 1:0:1:A36:A00:101B:EEEE0000:0:0:0:     go                   9go                  # GO
 1:0:1:A37:A00:101B:EEEE0000:0:0:0:     gem                  9gem                 # GEM
@@ -186,10 +186,10 @@
 1:0:1:8C3:803:320C:EEEE0000:0:0:0:     9hdbendigo           9hd                  # 9HD Bendigo
 1:0:1:8E3:803:320C:EEEE0000:0:0:0:     9life                9life                # 9Life
 1:0:1:781:327B:3274:EEEE0000:0:0:0:    win                  win                  # WIN 
-1:0:1:782:327B:3274:EEEE0000:0:0:0:    one                  one                  # ONE
+1:0:1:782:327B:3274:EEEE0000:0:0:0:    one                  10boss               # ONE
 1:0:1:784:327B:3274:EEEE0000:0:0:0:    win                  win                  # WIN
-1:0:1:785:327B:3274:EEEE0000:0:0:0:    one                  one                  # ONE
-1:0:1:786:327B:3274:EEEE0000:0:0:0:    eleven               eleven               # ELEVEN
+1:0:1:785:327B:3274:EEEE0000:0:0:0:    one                  10boss               # ONE
+1:0:1:786:327B:3274:EEEE0000:0:0:0:    eleven               10peach              # ELEVEN
 1:0:1:787:327B:3274:EEEE0000:0:0:0:    gold                 gold                 # GOLD
 1:0:1:788:327B:3274:EEEE0000:0:0:0:    tvsn                 tvsn                 # TVSN
 1:0:1:790:327B:3274:EEEE0000:0:0:0:    tba                  tba                  # TBA
@@ -229,12 +229,12 @@
 1:0:19:544:504:1013:EEEE0000:0:0:0:    7hdbrisbane          7hd                  # 7HD Brisbane
 1:0:1:545:504:1013:EEEE0000:0:0:0:     7flixbrisbane        7flix                # 7flix Brisbane
 1:0:16:548:504:1013:EEEE0000:0:0:0:    racingcom            racingcom            # RACING.COM
-1:0:1:641:604:1014:EEEE0000:0:0:0:     one                  one                  # ONE
-1:0:19:644:604:1014:EEEE0000:0:0:0:    tenhd                tenhd                # TEN HD
-1:0:1:645:604:1014:EEEE0000:0:0:0:     tendigital           tendigital           # TEN Digital
+1:0:1:641:604:1014:EEEE0000:0:0:0:     one                  10boss               # ONE
+1:0:19:644:604:1014:EEEE0000:0:0:0:    tenhd                10hd                 # TEN HD
+1:0:1:645:604:1014:EEEE0000:0:0:0:     tendigital           10                   # TEN Digital
 1:0:1:646:604:1014:EEEE0000:0:0:0:     tvsn                 tvsn                 # TVSN
-1:0:1:647:604:1014:EEEE0000:0:0:0:     one                  one                  # ONE
-1:0:1:648:604:1014:EEEE0000:0:0:0:     eleven               eleven               # ELEVEN
+1:0:1:647:604:1014:EEEE0000:0:0:0:     one                  10boss               # ONE
+1:0:1:648:604:1014:EEEE0000:0:0:0:     eleven               10peach              # ELEVEN
 1:0:1:649:604:1014:EEEE0000:0:0:0:     spreetv              spreetv              # SpreeTV
 1:0:1:331:330:3202:EEEE0000:0:0:0:     sbsone               sbsone               # SBS ONE
 1:0:19:336:330:3202:EEEE0000:0:0:0:    sbsvicelandhd        sbsvicelandhd        # SBS VICELAND HD
@@ -299,10 +299,10 @@
 1:0:19:8D6:816:320C:EEEE0000:0:0:0:    9hdcairns            9hd                  # 9HD Cairns
 1:0:16:8F6:816:320C:EEEE0000:0:0:0:    9life                9life                # 9Life
 1:0:1:781:327A:3271:EEEE0000:0:0:0:    wincairns            win                  # WIN Cairns
-1:0:1:782:327A:3271:EEEE0000:0:0:0:    onecairns            one                  # ONE Cairns
+1:0:1:782:327A:3271:EEEE0000:0:0:0:    onecairns            winboss              # ONE Cairns
 1:0:1:784:327A:3271:EEEE0000:0:0:0:    wincairns            win                  # WIN Cairns
-1:0:1:785:327A:3271:EEEE0000:0:0:0:    onecairns            one                  # ONE Cairns
-1:0:1:786:327A:3271:EEEE0000:0:0:0:    elevencairns         eleven               # ELEVEN Cairns
+1:0:1:785:327A:3271:EEEE0000:0:0:0:    onecairns            winboss              # ONE Cairns
+1:0:1:786:327A:3271:EEEE0000:0:0:0:    elevencairns         winpeach             # ELEVEN Cairns
 1:0:16:787:327A:3271:EEEE0000:0:0:0:   gold                 gold                 # GOLD
 1:0:1:788:327A:3271:EEEE0000:0:0:0:    tvsn                 tvsn                 # TVSN
 1:0:16:790:327A:3271:EEEE0000:0:0:0:   winnetwork           skynewsonwin         # WIN NETWORK
@@ -347,12 +347,12 @@
 1:0:19:8C7:807:320C:EEEE0000:0:0:0:    9hdcanberra          9hd                  # 9HD Canberra
 1:0:16:8E7:807:320C:EEEE0000:0:0:0:    9life                9life                # 9Life
 1:0:1:781:327A:3273:EEEE0000:0:0:0:    wincanberra          win                  # WIN Canberra
-1:0:1:782:327A:3273:EEEE0000:0:0:0:    onecanberra          one                  # ONE Canberra
-1:0:1:786:327A:3273:EEEE0000:0:0:0:    elevencanberra       eleven               # ELEVEN Canberra
+1:0:1:782:327A:3273:EEEE0000:0:0:0:    bosscanberra         winboss              # BOSS Canberra
+1:0:1:786:327A:3273:EEEE0000:0:0:0:    peachcanberra        winpeach             # PEACH Canberra
 1:0:16:787:327A:3273:EEEE0000:0:0:0:   gold                 gold                 # GOLD
 1:0:1:788:327A:3273:EEEE0000:0:0:0:    tvsn                 tvsn                 # TVSN
 1:0:16:790:327A:3273:EEEE0000:0:0:0:   skynewsonwin         skynewsonwin         # Sky News on WIN
-1:0:19:793:327A:3273:EEEE0000:0:0:0:   wincanberrahd        winhd                # WIN Canberra HD
+1:0:19:793:327A:3273:EEEE0000:0:0:0:   winhdcanberra        winhd                # WIN HD Canberra 
 1:0:1:946:99E:3281:EEEE0000:0:0:0:     prime7canberra       prime7               # PRIME7 Canberra
 1:0:19:960:99E:3281:EEEE0000:0:0:0:    prime7hdcanberra     prime7hd             # PRIME7 HD Canberra
 1:0:1:961:99E:3281:EEEE0000:0:0:0:     prime7canberra       prime7               # PRIME7 Canberra
@@ -388,12 +388,12 @@
 1:0:16:525:502:1013:EEEE0000:0:0:0:    7flix                7flix                # 7flix
 1:0:16:527:502:1013:EEEE0000:0:0:0:    tv4me                tv4me                # TV4ME
 1:0:16:528:502:1013:EEEE0000:0:0:0:    racingcom            racingcom            # RACING.COM
-1:0:1:621:602:1014:EEEE0000:0:0:0:     one                  one                  # ONE
-1:0:19:624:602:1014:EEEE0000:0:0:0:    tenhd                tenhd                # TEN HD
-1:0:1:625:602:1014:EEEE0000:0:0:0:     tendigital           tendigital           # TEN Digital
+1:0:1:621:602:1014:EEEE0000:0:0:0:     one                  10boss               # ONE
+1:0:19:624:602:1014:EEEE0000:0:0:0:    tenhd                10hd                 # TEN HD
+1:0:1:625:602:1014:EEEE0000:0:0:0:     tendigital           10                   # TEN Digital
 1:0:1:626:602:1014:EEEE0000:0:0:0:     tvsn                 tvsn                 # TVSN
-1:0:1:627:602:1014:EEEE0000:0:0:0:     one                  one                  # ONE
-1:0:1:628:602:1014:EEEE0000:0:0:0:     eleven               eleven               # ELEVEN
+1:0:1:627:602:1014:EEEE0000:0:0:0:     one                  10boss               # ONE
+1:0:1:628:602:1014:EEEE0000:0:0:0:     eleven               10peach              # ELEVEN
 1:0:1:629:602:1014:EEEE0000:0:0:0:     spreetv              spreetv              # SpreeTV
 1:0:1:6A:705:1019:EEEE0000:0:0:0:      nbncentralcoast      nbn                  # NBN Central Coast
 1:0:19:74:705:1019:EEEE0000:0:0:0:     9hdcentralcoast      9hd                  # 9HD Central Coast
@@ -469,8 +469,8 @@
 1:0:16:787:329B:3272:EEEE0000:0:0:0:   gold                 gold                 # GOLD
 1:0:16:788:329B:3272:EEEE0000:0:0:0:   tvsn                 tvsn                 # TVSN
 1:0:1:820:329B:3272:EEEE0000:0:0:0:    wincoffsharbour      win                  # WIN Coffs Harbour
-1:0:1:822:329B:3272:EEEE0000:0:0:0:    onecoffsharbour      one                  # ONE Coffs Harbour
-1:0:1:824:329B:3272:EEEE0000:0:0:0:    elevencoffsharbour   eleven               # ELEVEN Coffs Harbour
+1:0:1:822:329B:3272:EEEE0000:0:0:0:    onecoffsharbour      winboss              # ONE Coffs Harbour
+1:0:1:824:329B:3272:EEEE0000:0:0:0:    elevencoffsharbour   winpeach             # ELEVEN Coffs Harbour
 1:0:19:825:329B:3272:EEEE0000:0:0:0:   winhdcoffsharbour    winhd                # WIN HD Coffs Harbour
 1:0:1:826:329B:3272:EEEE0000:0:0:0:    winnetwork           skynewsonwin         # WIN NETWORK
 1:0:1:93B:9A5:3282:EEEE0000:0:0:0:     prime7coffsharbour   prime7               # PRIME7 Coffs Harbour
@@ -508,12 +508,12 @@
 1:0:19:534:503:1013:EEEE0000:0:0:0:    7hdmelbourne         7hd                  # 7HD Melbourne
 1:0:1:535:503:1013:EEEE0000:0:0:0:     7flixmelbourne       7flix                # 7flix Melbourne
 1:0:16:538:503:1013:EEEE0000:0:0:0:    racingcom            racingcom            # RACING.COM
-1:0:1:631:603:1014:EEEE0000:0:0:0:     one                  one                  # ONE
-1:0:19:634:603:1014:EEEE0000:0:0:0:    tenhd                tenhd                # TEN HD
-1:0:1:635:603:1014:EEEE0000:0:0:0:     tendigital           tendigital           # TEN Digital
+1:0:1:631:603:1014:EEEE0000:0:0:0:     one                  10boss               # ONE
+1:0:19:634:603:1014:EEEE0000:0:0:0:    tenhd                10hd                 # TEN HD
+1:0:1:635:603:1014:EEEE0000:0:0:0:     tendigital           10                   # TEN Digital
 1:0:1:636:603:1014:EEEE0000:0:0:0:     tvsn                 tvsn                 # TVSN
-1:0:1:637:603:1014:EEEE0000:0:0:0:     one                  one                  # ONE
-1:0:1:638:603:1014:EEEE0000:0:0:0:     eleven               eleven               # ELEVEN
+1:0:1:637:603:1014:EEEE0000:0:0:0:     one                  10boss               # ONE
+1:0:1:638:603:1014:EEEE0000:0:0:0:     eleven               10peach              # ELEVEN
 1:0:1:639:603:1014:EEEE0000:0:0:0:     spreetv              spreetv              # SpreeTV
 1:0:1:311:310:3202:EEEE0000:0:0:0:     sbsone               sbsone               # SBS ONE
 1:0:19:316:310:3202:EEEE0000:0:0:0:    sbsvicelandhd        sbsvicelandhd        # SBS VICELAND HD
@@ -569,10 +569,10 @@
 1:0:19:8C1:801:320C:EEEE0000:0:0:0:    9hdgippsland         9hd                  # 9HD Gippsland
 1:0:16:8E1:801:320C:EEEE0000:0:0:0:    9life                9life                # 9Life
 1:0:1:781:327D:3274:EEEE0000:0:0:0:    wingippsland         win                  # WIN Gippsland
-1:0:1:782:327D:3274:EEEE0000:0:0:0:    onegippsland         one                  # ONE Gippsland
+1:0:1:782:327D:3274:EEEE0000:0:0:0:    onegippsland         winboss              # ONE Gippsland
 1:0:1:784:327D:3274:EEEE0000:0:0:0:    wingippsland         win                  # WIN Gippsland
-1:0:1:785:327D:3274:EEEE0000:0:0:0:    onegippsland         one                  # ONE Gippsland
-1:0:1:786:327D:3274:EEEE0000:0:0:0:    elevengippsland      eleven               # ELEVEN Gippsland
+1:0:1:785:327D:3274:EEEE0000:0:0:0:    onegippsland         winboss              # ONE Gippsland
+1:0:1:786:327D:3274:EEEE0000:0:0:0:    elevengippsland      winpeach             # ELEVEN Gippsland
 1:0:16:787:327D:3274:EEEE0000:0:0:0:   gold                 gold                 # GOLD
 1:0:1:788:327D:3274:EEEE0000:0:0:0:    tvsn                 tvsn                 # TVSN
 1:0:16:790:327D:3274:EEEE0000:0:0:0:   winnetwork           skynewsonwin         # WIN NETWORK
@@ -623,10 +623,10 @@
 1:0:1:877:817:320C:EEEE0000:0:0:0:     ninetas              channel9             # Nine Tas
 1:0:1:897:817:320C:EEEE0000:0:0:0:     9hdtas               9hd                  # 9HD Tas
 1:0:1:781:327A:3275:EEEE0000:0:0:0:    win                  win                  # WIN 
-1:0:1:782:327A:3275:EEEE0000:0:0:0:    one                  one                  # ONE
+1:0:1:782:327A:3275:EEEE0000:0:0:0:    one                  10boss               # ONE
 1:0:1:784:327A:3275:EEEE0000:0:0:0:    win                  win                  # WIN
-1:0:1:785:327A:3275:EEEE0000:0:0:0:    one                  one                  # ONE
-1:0:1:786:327A:3275:EEEE0000:0:0:0:    eleven               eleven               # ELEVEN
+1:0:1:785:327A:3275:EEEE0000:0:0:0:    one                  10boss               # ONE
+1:0:1:786:327A:3275:EEEE0000:0:0:0:    eleven               10peach              # ELEVEN
 1:0:1:787:327A:3275:EEEE0000:0:0:0:    gold                 gold                 # GOLD
 1:0:1:788:327A:3275:EEEE0000:0:0:0:    tvsn                 tvsn                 # TVSN
 1:0:1:791:327A:3275:EEEE0000:0:0:0:    tba                  tba                  # TBA
@@ -675,8 +675,8 @@
 1:0:1:878:818:320C:EEEE0000:0:0:0:     ninetas              channel9             # Nine Tas
 1:0:19:898:818:320C:EEEE0000:0:0:0:    9hdtas               9hd                  # 9HD Tas
 1:0:1:781:327B:3275:EEEE0000:0:0:0:    winlaunceston        win                  # WIN Launceston
-1:0:1:782:327B:3275:EEEE0000:0:0:0:    onelaunceston        one                  # ONE Launceston
-1:0:1:786:327B:3275:EEEE0000:0:0:0:    elevenlaunceston     eleven               # ELEVEN Launceston
+1:0:1:782:327B:3275:EEEE0000:0:0:0:    onelaunceston        winboss              # ONE Launceston
+1:0:1:786:327B:3275:EEEE0000:0:0:0:    elevenlaunceston     winpeach             # ELEVEN Launceston
 1:0:16:787:327B:3275:EEEE0000:0:0:0:   gold                 gold                 # GOLD
 1:0:1:788:327B:3275:EEEE0000:0:0:0:    tvsn                 tvsn                 # TVSN
 1:0:16:791:327B:3275:EEEE0000:0:0:0:   winnetwork           skynewsonwin         # WIN NETWORK
@@ -708,12 +708,12 @@
 1:0:19:534:503:1013:EEEE0000:0:0:0:    7hdmelbourne         7hd                  # 7HD Melbourne
 1:0:1:535:503:1013:EEEE0000:0:0:0:     7flixmelbourne       7flix                # 7flix Melbourne
 1:0:16:538:503:1013:EEEE0000:0:0:0:    racingcom            racingcom            # RACING.COM
-1:0:1:631:603:1014:EEEE0000:0:0:0:     one                  one                  # ONE
-1:0:19:634:603:1014:EEEE0000:0:0:0:    tenhd                tenhd                # TEN HD
-1:0:1:635:603:1014:EEEE0000:0:0:0:     tendigital           tendigital           # TEN Digital
+1:0:1:631:603:1014:EEEE0000:0:0:0:     one                  10boss               # ONE
+1:0:19:634:603:1014:EEEE0000:0:0:0:    tenhd                10hd                 # TEN HD
+1:0:1:635:603:1014:EEEE0000:0:0:0:     tendigital           10                   # TEN Digital
 1:0:1:636:603:1014:EEEE0000:0:0:0:     tvsn                 tvsn                 # TVSN
-1:0:1:637:603:1014:EEEE0000:0:0:0:     one                  one                  # ONE
-1:0:1:638:603:1014:EEEE0000:0:0:0:     eleven               eleven               # ELEVEN
+1:0:1:637:603:1014:EEEE0000:0:0:0:     one                  10boss               # ONE
+1:0:1:638:603:1014:EEEE0000:0:0:0:     eleven               10peach              # ELEVEN
 1:0:1:639:603:1014:EEEE0000:0:0:0:     spreetv              spreetv              # SpreeTV
 1:0:1:311:310:3202:EEEE0000:0:0:0:     sbsone               sbsone               # SBS ONE
 1:0:19:316:310:3202:EEEE0000:0:0:0:    sbsvicelandhd        sbsvicelandhd        # SBS VICELAND HD
@@ -800,19 +800,19 @@
 1:0:19:8C2:802:320C:EEEE0000:0:0:0:    9hdballarat          9hd                  # 9HD Ballarat
 1:0:16:8E2:802:320C:EEEE0000:0:0:0:    9life                9life                # 9Life
 1:0:1:781:327A:3274:EEEE0000:0:0:0:    winwesternvic        win                  # WIN Western Vic
-1:0:1:782:327A:3274:EEEE0000:0:0:0:    onewesternvic        one                  # ONE Western Vic
+1:0:1:782:327A:3274:EEEE0000:0:0:0:    onewesternvic        winboss              # ONE Western Vic
 1:0:1:784:327A:3274:EEEE0000:0:0:0:    winwesternvic        win                  # WIN Western Vic
-1:0:1:785:327A:3274:EEEE0000:0:0:0:    onewesternvic        one                  # ONE Western Vic
-1:0:1:786:327A:3274:EEEE0000:0:0:0:    elevenwesternvic     eleven               # ELEVEN Western Vic
+1:0:1:785:327A:3274:EEEE0000:0:0:0:    onewesternvic        winboss              # ONE Western Vic
+1:0:1:786:327A:3274:EEEE0000:0:0:0:    elevenwesternvic     winpeach             # ELEVEN Western Vic
 1:0:16:787:327A:3274:EEEE0000:0:0:0:   gold                 gold                 # GOLD
 1:0:1:788:327A:3274:EEEE0000:0:0:0:    tvsn                 tvsn                 # TVSN
 1:0:16:790:327A:3274:EEEE0000:0:0:0:   winnetwork           skynewsonwin         # WIN NETWORK
 1:0:19:792:327A:3274:EEEE0000:0:0:0:   winwesternvichd      winhd                # WIN Western Vic HD
 1:0:1:781:327C:3276:EEEE0000:0:0:0:    winmtgambier         win                  # WIN Mt Gambier
-1:0:1:782:327C:3276:EEEE0000:0:0:0:    onemtgambier         one                  # ONE Mt Gambier
-1:0:1:783:327C:3276:EEEE0000:0:0:0:    elevenmtgambier      eleven               # ELEVEN Mt Gambier
+1:0:1:782:327C:3276:EEEE0000:0:0:0:    onemtgambier         winboss              # ONE Mt Gambier
+1:0:1:783:327C:3276:EEEE0000:0:0:0:    elevenmtgambier      winpeach             # ELEVEN Mt Gambier
 1:0:1:784:327C:3276:EEEE0000:0:0:0:    winmtgambier         win                  # WIN Mt Gambier
-1:0:1:785:327C:3276:EEEE0000:0:0:0:    onemtgambier         one                  # ONE Mt Gambier
+1:0:1:785:327C:3276:EEEE0000:0:0:0:    onemtgambier         winboss              # ONE Mt Gambier
 1:0:1:788:327C:3276:EEEE0000:0:0:0:    tvsn                 tvsn                 # TVSN
 1:0:19:789:327C:3276:EEEE0000:0:0:0:   winmtgambierhd       winhd                # WIN Mt Gambier HD
 1:0:16:790:327C:3276:EEEE0000:0:0:0:   gold                 gold                 # GOLD
@@ -895,17 +895,17 @@
 1:0:19:8C2:802:320C:EEEE0000:0:0:0:    9hdballarat          9hd                  # 9HD Ballarat
 1:0:16:8E2:802:320C:EEEE0000:0:0:0:    9life                9life                # 9Life
 1:0:1:781:327A:3274:EEEE0000:0:0:0:    winwesternvic        win                  # WIN Western Vic
-1:0:1:782:327A:3274:EEEE0000:0:0:0:    onewesternvic        one                  # ONE Western Vic
-1:0:1:786:327A:3274:EEEE0000:0:0:0:    elevenwesternvic     eleven               # ELEVEN Western Vic
+1:0:1:782:327A:3274:EEEE0000:0:0:0:    onewesternvic        winboss              # ONE Western Vic
+1:0:1:786:327A:3274:EEEE0000:0:0:0:    elevenwesternvic     winpeach             # ELEVEN Western Vic
 1:0:16:787:327A:3274:EEEE0000:0:0:0:   gold                 gold                 # GOLD
 1:0:1:788:327A:3274:EEEE0000:0:0:0:    tvsn                 tvsn                 # TVSN
 1:0:16:790:327A:3274:EEEE0000:0:0:0:   winnetwork           skynewsonwin         # WIN NETWORK
 1:0:19:792:327A:3274:EEEE0000:0:0:0:   winwesternvichd      winhd                # WIN Western Vic HD
 1:0:1:781:327C:3276:EEEE0000:0:0:0:    winmtgambier         win                  # WIN Mt Gambier
-1:0:1:782:327C:3276:EEEE0000:0:0:0:    onemtgambier         one                  # ONE Mt Gambier
-1:0:1:783:327C:3276:EEEE0000:0:0:0:    elevenmtgambier      eleven               # ELEVEN Mt Gambier
+1:0:1:782:327C:3276:EEEE0000:0:0:0:    onemtgambier         winboss              # ONE Mt Gambier
+1:0:1:783:327C:3276:EEEE0000:0:0:0:    elevenmtgambier      winpeach             # ELEVEN Mt Gambier
 1:0:1:784:327C:3276:EEEE0000:0:0:0:    winmtgambier         win                  # WIN Mt Gambier
-1:0:1:785:327C:3276:EEEE0000:0:0:0:    onemtgambier         one                  # ONE Mt Gambier
+1:0:1:785:327C:3276:EEEE0000:0:0:0:    onemtgambier         winboss              # ONE Mt Gambier
 1:0:1:788:327C:3276:EEEE0000:0:0:0:    tvsn                 tvsn                 # TVSN
 1:0:19:789:327C:3276:EEEE0000:0:0:0:   winmtgambierhd       winhd                # WIN Mt Gambier HD
 1:0:16:790:327C:3276:EEEE0000:0:0:0:   gold                 gold                 # GOLD
@@ -963,8 +963,8 @@
 1:0:19:8D9:819:320C:EEEE0000:0:0:0:    9hdsouthcoast        9hd                  # 9HD South Coast
 1:0:16:8F9:819:320C:EEEE0000:0:0:0:    9life                9life                # 9Life
 1:0:1:781:327F:3273:EEEE0000:0:0:0:    winsouthcoast        win                  # WIN South Coast
-1:0:1:782:327F:3273:EEEE0000:0:0:0:    onesouthcoast        one                  # ONE South Coast
-1:0:1:786:327F:3273:EEEE0000:0:0:0:    elevensouthcoast     eleven               # ELEVEN South Coast
+1:0:1:782:327F:3273:EEEE0000:0:0:0:    onesouthcoast        winboss              # ONE South Coast
+1:0:1:786:327F:3273:EEEE0000:0:0:0:    elevensouthcoast     winpeach             # ELEVEN South Coast
 1:0:16:787:327F:3273:EEEE0000:0:0:0:   gold                 gold                 # GOLD
 1:0:1:788:327F:3273:EEEE0000:0:0:0:    tvsn                 tvsn                 # TVSN
 1:0:16:790:327F:3273:EEEE0000:0:0:0:   skynewsonwin         skynewsonwin         # Sky News on WIN
@@ -1018,8 +1018,8 @@
 1:0:16:787:329C:3272:EEEE0000:0:0:0:   gold                 gold                 # GOLD
 1:0:16:788:329C:3272:EEEE0000:0:0:0:   tvsn                 tvsn                 # TVSN
 1:0:1:820:329C:3272:EEEE0000:0:0:0:    winnewcastle         win                  # WIN Newcastle
-1:0:1:822:329C:3272:EEEE0000:0:0:0:    onenewcastle         one                  # ONE Newcastle
-1:0:1:824:329C:3272:EEEE0000:0:0:0:    elevennewcastle      eleven               # ELEVEN Newcastle
+1:0:1:822:329C:3272:EEEE0000:0:0:0:    onenewcastle         winboss              # ONE Newcastle
+1:0:1:824:329C:3272:EEEE0000:0:0:0:    elevennewcastle      winpeach             # ELEVEN Newcastle
 1:0:19:825:329C:3272:EEEE0000:0:0:0:   winhdnewcastle       winhd                # WIN HD Newcastle
 1:0:1:826:329C:3272:EEEE0000:0:0:0:    winnetwork           skynewsonwin         # WIN NETWORK
 1:0:1:93E:9B0:3282:EEEE0000:0:0:0:     prime7newcastle      prime7               # PRIME7 Newcastle
@@ -1066,12 +1066,12 @@
 1:0:19:544:504:1013:EEEE0000:0:0:0:    7hdgoldcoast         7hd                  # 7HD Gold Coast
 1:0:1:545:504:1013:EEEE0000:0:0:0:     7flixgoldcoast       7flix                # 7flix Gold Coast
 1:0:16:548:504:1013:EEEE0000:0:0:0:    racingcom            racingcom            # RACING.COM
-1:0:1:641:604:1014:EEEE0000:0:0:0:     one                  one                  # ONE
-1:0:19:644:604:1014:EEEE0000:0:0:0:    tenhd                tenhd                # TEN HD
-1:0:1:645:604:1014:EEEE0000:0:0:0:     tendigital           tendigital           # TEN Digital
+1:0:1:641:604:1014:EEEE0000:0:0:0:     one                  10boss               # ONE
+1:0:19:644:604:1014:EEEE0000:0:0:0:    tenhd                10hd                 # TEN HD
+1:0:1:645:604:1014:EEEE0000:0:0:0:     tendigital           10                   # TEN Digital
 1:0:1:646:604:1014:EEEE0000:0:0:0:     tvsn                 tvsn                 # TVSN
-1:0:1:647:604:1014:EEEE0000:0:0:0:     one                  one                  # ONE
-1:0:1:648:604:1014:EEEE0000:0:0:0:     eleven               eleven               # ELEVEN
+1:0:1:647:604:1014:EEEE0000:0:0:0:     one                  10boss               # ONE
+1:0:1:648:604:1014:EEEE0000:0:0:0:     eleven               10peach              # ELEVEN
 1:0:1:649:604:1014:EEEE0000:0:0:0:     spreetv              spreetv              # SpreeTV
 1:0:1:68:703:1019:EEEE0000:0:0:0:      ninefarnorthcoast    channel9             # Nine Far North Coast
 1:0:19:72:703:1019:EEEE0000:0:0:0:     9hdfarnorthcoast     9hd                  # 9HD Far North Coast
@@ -1128,15 +1128,15 @@
 1:0:16:787:329F:3272:EEEE0000:0:0:0:   gold                 gold                 # GOLD
 1:0:16:788:329F:3272:EEEE0000:0:0:0:   tvsn                 tvsn                 # TVSN
 1:0:1:820:329F:3272:EEEE0000:0:0:0:    winlismore           win                  # WIN Lismore
-1:0:1:822:329F:3272:EEEE0000:0:0:0:    onelismore           one                  # ONE Lismore
-1:0:1:824:329F:3272:EEEE0000:0:0:0:    elevenlismore        eleven               # ELEVEN Lismore
+1:0:1:822:329F:3272:EEEE0000:0:0:0:    onelismore           winboss              # ONE Lismore
+1:0:1:824:329F:3272:EEEE0000:0:0:0:    elevenlismore        winpeach             # ELEVEN Lismore
 1:0:19:825:329F:3272:EEEE0000:0:0:0:   winhdlismore         winhd                # WIN HD Lismore
 1:0:1:826:329F:3272:EEEE0000:0:0:0:    winnetwork           skynewsonwin         # WIN NETWORK
 1:0:16:787:32A0:3272:EEEE0000:0:0:0:   gold                 gold                 # GOLD
 1:0:16:788:32A0:3272:EEEE0000:0:0:0:   tvsn                 tvsn                 # TVSN
 1:0:1:820:32A0:3272:EEEE0000:0:0:0:    wingoldcoast         win                  # WIN Gold Coast
-1:0:1:822:32A0:3272:EEEE0000:0:0:0:    onegoldcoast         one                  # ONE Gold Coast
-1:0:1:824:32A0:3272:EEEE0000:0:0:0:    elevengoldcoast      eleven               # ELEVEN Gold Coast
+1:0:1:822:32A0:3272:EEEE0000:0:0:0:    onegoldcoast         winboss              # ONE Gold Coast
+1:0:1:824:32A0:3272:EEEE0000:0:0:0:    elevengoldcoast      winpeach             # ELEVEN Gold Coast
 1:0:19:825:32A0:3272:EEEE0000:0:0:0:   winhdgoldcoast       winhd                # WIN HD Gold Coast
 1:0:1:826:32A0:3272:EEEE0000:0:0:0:    winnetwork           skynewsonwin         # WIN NETWORK
 1:0:1:938:9A5:3282:EEEE0000:0:0:0:     prime7goldcoast      prime7               # PRIME7 Gold Coast
@@ -1194,8 +1194,8 @@
 1:0:1:8C8:808:320C:EEEE0000:0:0:0:     9hdorange            9hd                  # 9HD Orange
 1:0:1:8E8:808:320C:EEEE0000:0:0:0:     9life                9life                # 9Life
 1:0:1:781:327C:3273:EEEE0000:0:0:0:    winorange            win                  # WIN Orange
-1:0:1:782:327C:3273:EEEE0000:0:0:0:    oneorange            one                  # ONE Orange
-1:0:1:786:327C:3273:EEEE0000:0:0:0:    elevenorange         eleven               # ELEVEN Orange
+1:0:1:782:327C:3273:EEEE0000:0:0:0:    oneorange            winboss              # ONE Orange
+1:0:1:786:327C:3273:EEEE0000:0:0:0:    elevenorange         winpeach             # ELEVEN Orange
 1:0:16:787:327C:3273:EEEE0000:0:0:0:   gold                 gold                 # GOLD
 1:0:1:788:327C:3273:EEEE0000:0:0:0:    tvsn                 tvsn                 # TVSN
 1:0:16:790:327C:3273:EEEE0000:0:0:0:   winnetwork           skynewsonwin         # WIN NETWORK
@@ -1226,12 +1226,12 @@
 1:0:19:564:506:1013:EEEE0000:0:0:0:    7hdperth             7hd                  # 7HD Perth
 1:0:1:565:506:1013:EEEE0000:0:0:0:     7flixperth           7flix                # 7flix Perth
 1:0:16:568:506:1013:EEEE0000:0:0:0:    racingcom            racingcom            # RACING.COM
-1:0:1:681:607:1014:EEEE0000:0:0:0:     one                  one                  # ONE
-1:0:19:684:607:1014:EEEE0000:0:0:0:    tenhd                tenhd                # TEN HD
-1:0:1:685:607:1014:EEEE0000:0:0:0:     tendigital           tendigital           # TEN DIGITAL
+1:0:1:681:607:1014:EEEE0000:0:0:0:     one                  10boss               # ONE
+1:0:19:684:607:1014:EEEE0000:0:0:0:    tenhd                10hd                 # TEN HD
+1:0:1:685:607:1014:EEEE0000:0:0:0:     tendigital           10                   # TEN DIGITAL
 1:0:1:686:607:1014:EEEE0000:0:0:0:     tvsn                 tvsn                 # TVSN
-1:0:1:687:607:1014:EEEE0000:0:0:0:     one                  one                  # ONE
-1:0:1:688:607:1014:EEEE0000:0:0:0:     eleven               eleven               # ELEVEN
+1:0:1:687:607:1014:EEEE0000:0:0:0:     one                  10boss               # ONE
+1:0:1:688:607:1014:EEEE0000:0:0:0:     eleven               10peach              # ELEVEN
 1:0:1:689:607:1014:EEEE0000:0:0:0:     spreetv              spreetv              # SpreeTV
 1:0:1:2E0:261:3201:EEEE0000:0:0:0:     abcnews24            abcnews              # ABC News 24
 1:0:19:2E5:261:3201:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
@@ -1307,10 +1307,10 @@
 1:0:19:8D3:813:320C:EEEE0000:0:0:0:    9hdrockhampton       9hd                  # 9HD Rockhampton
 1:0:16:8F3:813:320C:EEEE0000:0:0:0:    9life                9life                # 9Life
 1:0:1:781:327D:3271:EEEE0000:0:0:0:    wincentralqld        win                  # WIN Central QLD
-1:0:1:782:327D:3271:EEEE0000:0:0:0:    onecentralqld        one                  # ONE Central QLD
+1:0:1:782:327D:3271:EEEE0000:0:0:0:    onecentralqld        winboss              # ONE Central QLD
 1:0:1:784:327D:3271:EEEE0000:0:0:0:    wincentralqld        win                  # WIN Central QLD
-1:0:1:785:327D:3271:EEEE0000:0:0:0:    onecentralqld        one                  # ONE Central QLD
-1:0:1:786:327D:3271:EEEE0000:0:0:0:    elevencentralqld     eleven               # ELEVEN Central QLD
+1:0:1:785:327D:3271:EEEE0000:0:0:0:    onecentralqld        winboss              # ONE Central QLD
+1:0:1:786:327D:3271:EEEE0000:0:0:0:    elevencentralqld     winpeach             # ELEVEN Central QLD
 1:0:16:787:327D:3271:EEEE0000:0:0:0:   gold                 gold                 # GOLD
 1:0:1:788:327D:3271:EEEE0000:0:0:0:    tvsn                 tvsn                 # TVSN
 1:0:16:790:327D:3271:EEEE0000:0:0:0:   winnetwork           skynewsonwin         # WIN NETWORK
@@ -1369,10 +1369,10 @@
 1:0:19:8C4:804:320C:EEEE0000:0:0:0:    9hdshepparton        9hd                  # 9HD Shepparton
 1:0:16:8E4:804:320C:EEEE0000:0:0:0:    9life                9life                # 9Life
 1:0:1:781:327C:3274:EEEE0000:0:0:0:    winshepparton        win                  # WIN Shepparton
-1:0:1:782:327C:3274:EEEE0000:0:0:0:    oneshepparton        one                  # ONE Shepparton
+1:0:1:782:327C:3274:EEEE0000:0:0:0:    oneshepparton        winboss              # ONE Shepparton
 1:0:1:784:327C:3274:EEEE0000:0:0:0:    winshepparton        win                  # WIN Shepparton
-1:0:1:785:327C:3274:EEEE0000:0:0:0:    oneshepparton        one                  # ONE Shepparton
-1:0:1:786:327C:3274:EEEE0000:0:0:0:    elevenshepparton     eleven               # ELEVEN Shepparton
+1:0:1:785:327C:3274:EEEE0000:0:0:0:    oneshepparton        winboss              # ONE Shepparton
+1:0:1:786:327C:3274:EEEE0000:0:0:0:    elevenshepparton     winpeach             # ELEVEN Shepparton
 1:0:16:787:327C:3274:EEEE0000:0:0:0:   gold                 gold                 # GOLD
 1:0:1:788:327C:3274:EEEE0000:0:0:0:    tvsn                 tvsn                 # TVSN
 1:0:16:790:327C:3274:EEEE0000:0:0:0:   winnetwork           skynewsonwin         # WIN NETWORK
@@ -1401,8 +1401,8 @@
 1:0:1:741:701:1017:EEEE0000:0:0:0:     go                   9go                  # GO
 1:0:16:7E1:701:1017:EEEE0000:0:0:0:    9life                9life                # 9Life
 1:0:1:81D:81D:1017:EEEE0000:0:0:0:     sc10portpirie        sc10                 # SC10 Port Pirie
-1:0:1:83D:81D:1017:EEEE0000:0:0:0:     one                  one                  # ONE
-1:0:1:85D:81D:1017:EEEE0000:0:0:0:     eleven               eleven               # ELEVEN
+1:0:1:83D:81D:1017:EEEE0000:0:0:0:     one                  10boss               # ONE
+1:0:1:85D:81D:1017:EEEE0000:0:0:0:     eleven               10peach              # ELEVEN
 1:0:16:87D:81D:1017:EEEE0000:0:0:0:    sbn                  sbn                  # SBN
 1:0:16:89D:81D:1017:EEEE0000:0:0:0:    tvsn                 tvsn                 # TVSN
 1:0:1:906:906:1017:EEEE0000:0:0:0:     7portpirie           7digital             # 7 Port Pirie
@@ -1463,12 +1463,12 @@
 1:0:1:965:950:1013:EEEE0000:0:0:0:     7flix                7flix                # 7flix
 1:0:1:967:950:1013:EEEE0000:0:0:0:     tv4me                tv4me                # TV4ME
 1:0:1:968:950:1013:EEEE0000:0:0:0:     racingcom            racingcom            # RACING.COM
-1:0:1:641:604:1014:EEEE0000:0:0:0:     one                  one                  # ONE
-1:0:19:644:604:1014:EEEE0000:0:0:0:    tenhd                tenhd                # TEN HD
-1:0:1:645:604:1014:EEEE0000:0:0:0:     tendigital           tendigital           # TEN Digital
+1:0:1:641:604:1014:EEEE0000:0:0:0:     one                  10boss               # ONE
+1:0:19:644:604:1014:EEEE0000:0:0:0:    tenhd                10hd                 # TEN HD
+1:0:1:645:604:1014:EEEE0000:0:0:0:     tendigital           10                   # TEN Digital
 1:0:1:646:604:1014:EEEE0000:0:0:0:     tvsn                 tvsn                 # TVSN
-1:0:1:647:604:1014:EEEE0000:0:0:0:     one                  one                  # ONE
-1:0:1:648:604:1014:EEEE0000:0:0:0:     eleven               eleven               # ELEVEN
+1:0:1:647:604:1014:EEEE0000:0:0:0:     one                  10boss               # ONE
+1:0:1:648:604:1014:EEEE0000:0:0:0:     eleven               10peach              # ELEVEN
 1:0:1:649:604:1014:EEEE0000:0:0:0:     spreetv              spreetv              # SpreeTV
 1:0:1:331:330:3202:EEEE0000:0:0:0:     sbsone               sbsone               # SBS ONE
 1:0:19:336:330:3202:EEEE0000:0:0:0:    sbsvicelandhd        sbsvicelandhd        # SBS VICELAND HD
@@ -1514,10 +1514,10 @@
 1:0:1:8F1:811:320C:EEEE0000:0:0:0:     9life                9life                # 9Life
 1:0:1:E01:E00:322A:EEEE0000:0:0:0:     31digital            31digital            # 31 Digital
 1:0:1:781:327F:3271:EEEE0000:0:0:0:    win                  win                  # WIN 
-1:0:1:782:327F:3271:EEEE0000:0:0:0:    one                  one                  # ONE
+1:0:1:782:327F:3271:EEEE0000:0:0:0:    one                  10boss               # ONE
 1:0:1:784:327F:3271:EEEE0000:0:0:0:    win                  win                  # WIN
-1:0:1:785:327F:3271:EEEE0000:0:0:0:    one                  one                  # ONE
-1:0:1:786:327F:3271:EEEE0000:0:0:0:    eleven               eleven               # ELEVEN
+1:0:1:785:327F:3271:EEEE0000:0:0:0:    one                  10boss               # ONE
+1:0:1:786:327F:3271:EEEE0000:0:0:0:    eleven               10peach              # ELEVEN
 1:0:16:787:327F:3271:EEEE0000:0:0:0:   gold                 gold                 # GOLD
 1:0:16:788:327F:3271:EEEE0000:0:0:0:   tvsn                 tvsn                 # TVSN
 1:0:16:790:327F:3271:EEEE0000:0:0:0:   tba                  tba                  # TBA
@@ -1549,12 +1549,12 @@
 1:0:19:524:502:1013:EEEE0000:0:0:0:    7hdsydney            7hd                  # 7HD Sydney
 1:0:1:525:502:1013:EEEE0000:0:0:0:     7flixsydney          7flix                # 7flix Sydney
 1:0:16:528:502:1013:EEEE0000:0:0:0:    racingcom            racingcom            # RACING.COM
-1:0:1:621:602:1014:EEEE0000:0:0:0:     one                  one                  # ONE
-1:0:19:624:602:1014:EEEE0000:0:0:0:    tenhd                tenhd                # TEN HD
-1:0:1:625:602:1014:EEEE0000:0:0:0:     tendigital           tendigital           # TEN Digital
+1:0:1:621:602:1014:EEEE0000:0:0:0:     one                  10boss               # ONE
+1:0:19:624:602:1014:EEEE0000:0:0:0:    tenhd                10hd                 # TEN HD
+1:0:1:625:602:1014:EEEE0000:0:0:0:     tendigital           10                   # TEN Digital
 1:0:1:626:602:1014:EEEE0000:0:0:0:     tvsn                 tvsn                 # TVSN
-1:0:1:627:602:1014:EEEE0000:0:0:0:     one                  one                  # ONE
-1:0:1:628:602:1014:EEEE0000:0:0:0:     eleven               eleven               # ELEVEN
+1:0:1:627:602:1014:EEEE0000:0:0:0:     one                  10boss               # ONE
+1:0:1:628:602:1014:EEEE0000:0:0:0:     eleven               10peach              # ELEVEN
 1:0:1:629:602:1014:EEEE0000:0:0:0:     spreetv              spreetv              # SpreeTV
 1:0:1:301:300:3202:EEEE0000:0:0:0:     sbsone               sbsone               # SBS ONE
 1:0:1:302:300:3202:EEEE0000:0:0:0:     sbsviceland          sbsviceland          # SBS VICELAND
@@ -1615,8 +1615,8 @@
 1:0:16:787:329A:3272:EEEE0000:0:0:0:   gold                 gold                 # GOLD
 1:0:16:788:329A:3272:EEEE0000:0:0:0:   tvsn                 tvsn                 # TVSN
 1:0:1:820:329A:3272:EEEE0000:0:0:0:    wintamworth          win                  # WIN Tamworth
-1:0:1:822:329A:3272:EEEE0000:0:0:0:    onetamworth          one                  # ONE Tamworth
-1:0:1:824:329A:3272:EEEE0000:0:0:0:    eleventamworth       eleven               # ELEVEN Tamworth
+1:0:1:822:329A:3272:EEEE0000:0:0:0:    onetamworth          winboss              # ONE Tamworth
+1:0:1:824:329A:3272:EEEE0000:0:0:0:    eleventamworth       winpeach             # ELEVEN Tamworth
 1:0:19:825:329A:3272:EEEE0000:0:0:0:   winhdtamworth        winhd                # WIN HD Tamworth
 1:0:1:826:329A:3272:EEEE0000:0:0:0:    winnetwork           skynewsonwin         # WIN NETWORK
 1:0:1:93C:9A5:3282:EEEE0000:0:0:0:     prime7tamworth       prime7               # PRIME7 Tamworth
@@ -1672,10 +1672,10 @@
 1:0:1:8D0:810:320C:EEEE0000:0:0:0:     9hdtoowoomba         9hd                  # 9HD Toowoomba
 1:0:1:8F0:810:320C:EEEE0000:0:0:0:     9life                9life                # 9Life
 1:0:1:781:3280:3271:EEEE0000:0:0:0:    win                  win                  # WIN 
-1:0:1:782:3280:3271:EEEE0000:0:0:0:    one                  one                  # ONE
+1:0:1:782:3280:3271:EEEE0000:0:0:0:    one                  10boss               # ONE
 1:0:1:784:3280:3271:EEEE0000:0:0:0:    win                  win                  # WIN
-1:0:1:785:3280:3271:EEEE0000:0:0:0:    one                  one                  # ONE
-1:0:1:786:3280:3271:EEEE0000:0:0:0:    eleven               eleven               # ELEVEN
+1:0:1:785:3280:3271:EEEE0000:0:0:0:    one                  10boss               # ONE
+1:0:1:786:3280:3271:EEEE0000:0:0:0:    eleven               10peach              # ELEVEN
 1:0:1:787:3280:3271:EEEE0000:0:0:0:    gold                 gold                 # GOLD
 1:0:1:788:3280:3271:EEEE0000:0:0:0:    tvsn                 tvsn                 # TVSN
 1:0:1:790:3280:3271:EEEE0000:0:0:0:    tba                  tba                  # TBA
@@ -1731,10 +1731,10 @@
 1:0:1:8F5:815:320C:EEEE0000:0:0:0:     9life                9life                # 9Life
 1:0:16:8F5:815:320C:EEEE0000:0:0:0:    9life                9life                # 9Life
 1:0:1:781:327B:3271:EEEE0000:0:0:0:    win                  win                  # WIN 
-1:0:1:782:327B:3271:EEEE0000:0:0:0:    one                  one                  # ONE
+1:0:1:782:327B:3271:EEEE0000:0:0:0:    one                  10boss               # ONE
 1:0:1:784:327B:3271:EEEE0000:0:0:0:    win                  win                  # WIN
-1:0:1:785:327B:3271:EEEE0000:0:0:0:    one                  one                  # ONE
-1:0:1:786:327B:3271:EEEE0000:0:0:0:    eleven               eleven               # ELEVEN
+1:0:1:785:327B:3271:EEEE0000:0:0:0:    one                  10boss               # ONE
+1:0:1:786:327B:3271:EEEE0000:0:0:0:    eleven               10peach              # ELEVEN
 1:0:1:787:327B:3271:EEEE0000:0:0:0:    gold                 gold                 # GOLD
 1:0:16:787:327B:3271:EEEE0000:0:0:0:   gold                 gold                 # GOLD
 1:0:1:788:327B:3271:EEEE0000:0:0:0:    tvsn                 tvsn                 # TVSN
@@ -1778,10 +1778,10 @@
 1:0:1:8C6:806:320C:EEEE0000:0:0:0:     9hdwaggawagga        9hd                  # 9HD Wagga Wagga
 1:0:1:8E6:806:320C:EEEE0000:0:0:0:     9life                9life                # 9Life
 1:0:1:781:327D:3273:EEEE0000:0:0:0:    win                  win                  # WIN 
-1:0:1:782:327D:3273:EEEE0000:0:0:0:    one                  one                  # ONE
+1:0:1:782:327D:3273:EEEE0000:0:0:0:    one                  10boss               # ONE
 1:0:1:784:327D:3273:EEEE0000:0:0:0:    win                  win                  # WIN
-1:0:1:785:327D:3273:EEEE0000:0:0:0:    one                  one                  # ONE
-1:0:1:786:327D:3273:EEEE0000:0:0:0:    eleven               eleven               # ELEVEN
+1:0:1:785:327D:3273:EEEE0000:0:0:0:    one                  10boss               # ONE
+1:0:1:786:327D:3273:EEEE0000:0:0:0:    eleven               10peach              # ELEVEN
 1:0:16:787:327D:3273:EEEE0000:0:0:0:   gold                 gold                 # GOLD
 1:0:16:788:327D:3273:EEEE0000:0:0:0:   tvsn                 tvsn                 # TVSN
 1:0:16:790:327D:3273:EEEE0000:0:0:0:   tba                  tba                  # TBA
@@ -1833,10 +1833,10 @@
 1:0:19:8C2:802:320C:EEEE0000:0:0:0:    9hdballarat          9hd                  # 9HD Ballarat
 1:0:16:8E2:802:320C:EEEE0000:0:0:0:    9life                9life                # 9Life
 1:0:1:781:327A:3274:EEEE0000:0:0:0:    winwesternvic        win                  # WIN Western Vic
-1:0:1:782:327A:3274:EEEE0000:0:0:0:    onewesternvic        one                  # ONE Western Vic
+1:0:1:782:327A:3274:EEEE0000:0:0:0:    onewesternvic        winboss              # ONE Western Vic
 1:0:1:784:327A:3274:EEEE0000:0:0:0:    winwesternvic        win                  # WIN Western Vic
-1:0:1:785:327A:3274:EEEE0000:0:0:0:    onewesternvic        one                  # ONE Western Vic
-1:0:1:786:327A:3274:EEEE0000:0:0:0:    elevenwesternvic     eleven               # ELEVEN Western Vic
+1:0:1:785:327A:3274:EEEE0000:0:0:0:    onewesternvic        winboss              # ONE Western Vic
+1:0:1:786:327A:3274:EEEE0000:0:0:0:    elevenwesternvic     winpeach             # ELEVEN Western Vic
 1:0:16:787:327A:3274:EEEE0000:0:0:0:   gold                 gold                 # GOLD
 1:0:1:788:327A:3274:EEEE0000:0:0:0:    tvsn                 tvsn                 # TVSN
 1:0:16:790:327A:3274:EEEE0000:0:0:0:   winnetwork           skynewsonwin         # WIN NETWORK
@@ -1894,10 +1894,10 @@
 1:0:1:8D2:812:320C:EEEE0000:0:0:0:     9hdwidebay           9hd                  # 9HD Wide Bay
 1:0:1:8F2:812:320C:EEEE0000:0:0:0:     9life                9life                # 9Life
 1:0:1:781:3274:3271:EEEE0000:0:0:0:    win                  win                  # WIN 
-1:0:1:782:3274:3271:EEEE0000:0:0:0:    one                  one                  # ONE
+1:0:1:782:3274:3271:EEEE0000:0:0:0:    one                  10boss               # ONE
 1:0:1:784:3274:3271:EEEE0000:0:0:0:    win                  win                  # WIN
-1:0:1:785:3274:3271:EEEE0000:0:0:0:    one                  one                  # ONE
-1:0:1:786:3274:3271:EEEE0000:0:0:0:    eleven               eleven               # ELEVEN
+1:0:1:785:3274:3271:EEEE0000:0:0:0:    one                  10boss               # ONE
+1:0:1:786:3274:3271:EEEE0000:0:0:0:    eleven               10peach              # ELEVEN
 1:0:1:787:3274:3271:EEEE0000:0:0:0:    gold                 gold                 # GOLD
 1:0:1:788:3274:3271:EEEE0000:0:0:0:    tvsn                 tvsn                 # TVSN
 1:0:1:790:3274:3271:EEEE0000:0:0:0:    tba                  tba                  # TBA
@@ -1941,8 +1941,8 @@
 1:0:19:8C9:809:320C:EEEE0000:0:0:0:    9hdwollongong        9hd                  # 9HD Wollongong
 1:0:16:8E9:809:320C:EEEE0000:0:0:0:    9life                9life                # 9Life
 1:0:1:781:327B:3273:EEEE0000:0:0:0:    winillawarra         win                  # WIN Illawarra
-1:0:1:782:327B:3273:EEEE0000:0:0:0:    oneillawarra         one                  # ONE Illawarra
-1:0:1:786:327B:3273:EEEE0000:0:0:0:    elevenillawarra      eleven               # ELEVEN Illawarra
+1:0:1:782:327B:3273:EEEE0000:0:0:0:    oneillawarra         winboss              # ONE Illawarra
+1:0:1:786:327B:3273:EEEE0000:0:0:0:    elevenillawarra      winpeach             # ELEVEN Illawarra
 1:0:16:787:327B:3273:EEEE0000:0:0:0:   gold                 gold                 # GOLD
 1:0:1:788:327B:3273:EEEE0000:0:0:0:    tvsn                 tvsn                 # TVSN
 1:0:16:790:327B:3273:EEEE0000:0:0:0:   winnetwork           skynewsonwin         # WIN NETWORK
