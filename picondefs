@@ -5,10 +5,10 @@
 
 # Adelaide
 # Service reference                    Service base name    Picon base name        Service name
-1:0:1:250:251:1010:EEEE0000:0:0:0:     abcnews24            abcnews              # ABC News 24
+1:0:1:250:251:1010:EEEE0000:0:0:0:     abcnews              abcnews              # ABC NEWS
 1:0:19:255:251:1010:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
 1:0:1:251:251:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
-1:0:1:252:251:1010:EEEE0000:0:0:0:     abc2kids             abccomedy            # ABC2/KIDS
+1:0:1:252:251:1010:EEEE0000:0:0:0:     abccomedykids        abccomedy            # ABCComedy/Kids
 1:0:1:253:251:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
 1:0:1:254:251:1010:EEEE0000:0:0:0:     abcme                abcme                # ABC ME
 1:0:19:255:251:1010:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
@@ -18,23 +18,26 @@
 1:0:19:452:450:1012:EEEE0000:0:0:0:    9hdadelaide          9hd                  # 9HD Adelaide
 1:0:1:453:450:1012:EEEE0000:0:0:0:     9go                  9go                  # 9Go!
 1:0:1:454:450:1012:EEEE0000:0:0:0:     9life                9life                # 9Life
-1:0:1:455:450:1012:EEEE0000:0:0:0:     extra                yourmoney            # Extra
+1:0:1:455:450:1012:EEEE0000:0:0:0:     yourmoney            yourmoney            # Your Money
 1:0:1:456:450:1012:EEEE0000:0:0:0:     channel9adelaide     channel9             # Channel 9 Adelaide
 1:0:1:457:450:1012:EEEE0000:0:0:0:     9gem                 9gem                 # 9Gem
 1:0:1:458:450:1012:EEEE0000:0:0:0:     9go                  9go                  # 9Go!
 1:0:1:550:505:1013:EEEE0000:0:0:0:     7adelaide            7digital             # 7 Adelaide
+1:0:16:557:505:1013:EEEE0000:0:0:0:    7foodnetwork         7foodnetwork         # 7 food network
 1:0:1:551:505:1013:EEEE0000:0:0:0:     7adelaide            7digital             # 7 Adelaide
+1:0:16:557:505:1013:EEEE0000:0:0:0:    7foodnetwork         7foodnetwork         # 7 food network
 1:0:1:552:505:1013:EEEE0000:0:0:0:     7twoadelaide         7two                 # 7TWO Adelaide
 1:0:1:553:505:1013:EEEE0000:0:0:0:     7mateadelaide        7mate                # 7mate Adelaide
 1:0:19:554:505:1013:EEEE0000:0:0:0:    7hdadelaide          7hd                  # 7HD Adelaide
 1:0:1:555:505:1013:EEEE0000:0:0:0:     7flixadelaide        7flix                # 7flix Adelaide
+1:0:16:557:505:1013:EEEE0000:0:0:0:    7foodnetwork         7foodnetwork         # 7food network
 1:0:16:558:505:1013:EEEE0000:0:0:0:    racingcom            racingcom            # RACING.COM
-1:0:1:651:605:1014:EEEE0000:0:0:0:     one                  10boss               # ONE
-1:0:19:654:605:1014:EEEE0000:0:0:0:    tenhd                10hd                 # TEN HD
-1:0:1:655:605:1014:EEEE0000:0:0:0:     tendigital           10                   # TEN Digital
+1:0:1:651:605:1014:EEEE0000:0:0:0:     10boss               10boss               # 10 Boss
+1:0:19:654:605:1014:EEEE0000:0:0:0:    10hd                 10hd                 # 10 HD
+1:0:1:655:605:1014:EEEE0000:0:0:0:     10                   10                   # 10
 1:0:1:656:605:1014:EEEE0000:0:0:0:     tvsn                 tvsn                 # TVSN
-1:0:1:657:605:1014:EEEE0000:0:0:0:     one                  10boss               # ONE
-1:0:1:658:605:1014:EEEE0000:0:0:0:     eleven               10peach              # ELEVEN
+1:0:1:657:605:1014:EEEE0000:0:0:0:     10boss               10boss               # 10 Boss
+1:0:1:658:605:1014:EEEE0000:0:0:0:     10peach              10peach              # 10 Peach
 1:0:1:659:605:1014:EEEE0000:0:0:0:     spreetv              spreetv              # SpreeTV
 1:0:1:341:340:3202:EEEE0000:0:0:0:     sbsone               sbsone               # SBS ONE
 1:0:19:346:340:3202:EEEE0000:0:0:0:    sbsvicelandhd        sbsvicelandhd        # SBS VICELAND HD
@@ -42,7 +45,7 @@
 1:0:1:343:340:3202:EEEE0000:0:0:0:     foodnetwork          sbsfood              # Food Network
 1:0:1:344:340:3202:EEEE0000:0:0:0:     nitv                 nitv                 # NITV
 1:0:19:345:340:3202:EEEE0000:0:0:0:    sbsonehd             sbsonehd             # SBS ONE HD
-1:0:1:346:340:3202:EEEE0000:0:0:0:     sbsvicelandhd        sbsvicelandhd        # SBS VICELAND HD
+1:0:19:346:340:3202:EEEE0000:0:0:0:    sbsvicelandhd        sbsvicelandhd        # SBS VICELAND HD
 1:0:2:34D:340:3202:EEEE0000:0:0:0:     sbsarabic24          sbsarabic24          # SBS Arabic24
 1:0:2:34E:340:3202:EEEE0000:0:0:0:     sbsradio1            sbsradio1            # SBS Radio 1
 1:0:2:34F:340:3202:EEEE0000:0:0:0:     sbsradio2            sbsradio2            # SBS Radio 2
@@ -54,6 +57,7 @@
 1:0:2:355:340:3202:EEEE0000:0:0:0:     sbspopdesi           sbspopdesi           # SBS PopDesi
 1:0:2:356:340:3202:EEEE0000:0:0:0:     sbschill             sbschill             # SBS Chill
 1:0:2:357:340:3202:EEEE0000:0:0:0:     sbspopasia           sbspopasia           # SBS PopAsia
+1:0:19:356:340:3202:EEEE0000:0:0:0:    sbsvicelandhd        sbsvicelandhd        # SBS VICELAND HD
 1:0:1:E01:E00:3234:EEEE0000:0:0:0:     44adelaide           44adelaide           # 44 Adelaide
 
 # Albany WA
@@ -208,7 +212,7 @@
 1:0:1:240:241:1010:EEEE0000:0:0:0:     abcnews              abcnews              # ABC NEWS
 1:0:19:245:241:1010:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
 1:0:1:241:241:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
-1:0:1:242:241:1010:EEEE0000:0:0:0:     abc2kids             abccomedy            # ABC2/KIDS
+1:0:1:242:241:1010:EEEE0000:0:0:0:     abccomedykids        abccomedy            # ABCComedy/Kids
 1:0:1:243:241:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
 1:0:1:244:241:1010:EEEE0000:0:0:0:     abcme                abcme                # ABC ME
 1:0:19:245:241:1010:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
@@ -217,24 +221,27 @@
 1:0:1:401:400:1012:EEEE0000:0:0:0:     channel9brisbane     channel9             # Channel 9 Brisbane
 1:0:1:406:400:1012:EEEE0000:0:0:0:     9go                  9go                  # 9Go!
 1:0:1:407:400:1012:EEEE0000:0:0:0:     9life                9life                # 9Life
-1:0:1:408:400:1012:EEEE0000:0:0:0:     extra                yourmoney            # Extra
+1:0:1:408:400:1012:EEEE0000:0:0:0:     yourmoney            yourmoney            # Your Money
 1:0:1:409:400:1012:EEEE0000:0:0:0:     channel9brisbane     channel9             # Channel 9 Brisbane
 1:0:1:40A:400:1012:EEEE0000:0:0:0:     9gem                 9gem                 # 9Gem
 1:0:1:40B:400:1012:EEEE0000:0:0:0:     9go                  9go                  # 9Go!
 1:0:19:480:400:1012:EEEE0000:0:0:0:    9hdbrisbane          9hd                  # 9HD Brisbane
 1:0:1:540:504:1013:EEEE0000:0:0:0:     7brisbane            7digital             # 7 Brisbane
+1:0:16:547:504:1013:EEEE0000:0:0:0:    7foodnetwork         7foodnetwork         # 7 food network
 1:0:1:541:504:1013:EEEE0000:0:0:0:     7brisbane            7digital             # 7 Brisbane
+1:0:16:547:504:1013:EEEE0000:0:0:0:    7foodnetwork         7foodnetwork         # 7 food network
 1:0:1:542:504:1013:EEEE0000:0:0:0:     7twobrisbane         7two                 # 7TWO Brisbane
 1:0:1:543:504:1013:EEEE0000:0:0:0:     7matebrisbane        7mate                # 7mate Brisbane
 1:0:19:544:504:1013:EEEE0000:0:0:0:    7hdbrisbane          7hd                  # 7HD Brisbane
 1:0:1:545:504:1013:EEEE0000:0:0:0:     7flixbrisbane        7flix                # 7flix Brisbane
+1:0:16:547:504:1013:EEEE0000:0:0:0:    7foodnetwork         7foodnetwork         # 7food network
 1:0:16:548:504:1013:EEEE0000:0:0:0:    racingcom            racingcom            # RACING.COM
-1:0:1:641:604:1014:EEEE0000:0:0:0:     one                  10boss               # ONE
-1:0:19:644:604:1014:EEEE0000:0:0:0:    tenhd                10hd                 # TEN HD
-1:0:1:645:604:1014:EEEE0000:0:0:0:     tendigital           10                   # TEN Digital
+1:0:1:641:604:1014:EEEE0000:0:0:0:     10boss               10boss               # 10 Boss
+1:0:19:644:604:1014:EEEE0000:0:0:0:    10hd                 10hd                 # 10 HD
+1:0:1:645:604:1014:EEEE0000:0:0:0:     10                   10                   # 10
 1:0:1:646:604:1014:EEEE0000:0:0:0:     tvsn                 tvsn                 # TVSN
-1:0:1:647:604:1014:EEEE0000:0:0:0:     one                  10boss               # ONE
-1:0:1:648:604:1014:EEEE0000:0:0:0:     eleven               10peach              # ELEVEN
+1:0:1:647:604:1014:EEEE0000:0:0:0:     10boss               10boss               # 10 Boss
+1:0:1:648:604:1014:EEEE0000:0:0:0:     10peach              10peach              # 10 Peach
 1:0:1:649:604:1014:EEEE0000:0:0:0:     spreetv              spreetv              # SpreeTV
 1:0:1:331:330:3202:EEEE0000:0:0:0:     sbsone               sbsone               # SBS ONE
 1:0:19:336:330:3202:EEEE0000:0:0:0:    sbsvicelandhd        sbsvicelandhd        # SBS VICELAND HD
@@ -254,6 +261,7 @@
 1:0:2:345:330:3202:EEEE0000:0:0:0:     sbspopdesi           sbspopdesi           # SBS PopDesi
 1:0:2:346:330:3202:EEEE0000:0:0:0:     sbschill             sbschill             # SBS Chill
 1:0:2:347:330:3202:EEEE0000:0:0:0:     sbspopasia           sbspopasia           # SBS PopAsia
+1:0:19:346:330:3202:EEEE0000:0:0:0:    sbsvicelandhd        sbsvicelandhd        # SBS VICELAND HD
 
 # Cairns
 # Service reference                    Service base name    Picon base name        Service name
@@ -267,10 +275,13 @@
 1:0:2:2C6:243:1010:EEEE0000:0:0:0:     doublej              doublej              # Double J
 1:0:2:2C7:243:1010:EEEE0000:0:0:0:     abcjazz              abcjazz              # ABC Jazz
 1:0:1:910:900:1013:EEEE0000:0:0:0:     7cairns              7digital             # 7 Cairns
+1:0:16:917:900:1013:EEEE0000:0:0:0:    7foodnetwork         7foodnetwork         # 7 food network
 1:0:1:911:900:1013:EEEE0000:0:0:0:     7cairns              7digital             # 7 Cairns
+1:0:16:917:900:1013:EEEE0000:0:0:0:    7foodnetwork         7foodnetwork         # 7 food network
 1:0:1:912:900:1013:EEEE0000:0:0:0:     7twocairns           7two                 # 7TWO Cairns
 1:0:1:913:900:1013:EEEE0000:0:0:0:     7matecairns          7mate                # 7mate Cairns
 1:0:1:914:900:1013:EEEE0000:0:0:0:     7cairns              7digital             # 7 Cairns
+1:0:16:917:900:1013:EEEE0000:0:0:0:    7foodnetwork         7foodnetwork         # 7 food network
 1:0:1:915:900:1013:EEEE0000:0:0:0:     7flixcairns          7flix                # 7flix Cairns
 1:0:16:918:900:1013:EEEE0000:0:0:0:    racingcom            racingcom            # RACING.COM
 1:0:1:3B1:3B0:3202:EEEE0000:0:0:0:     sbsone               sbsone               # SBS ONE
@@ -382,11 +393,11 @@
 1:0:1:428:420:1012:EEEE0000:0:0:0:     9go                  9go                  # 9Go!
 1:0:1:520:502:1013:EEEE0000:0:0:0:     7digital             7digital             # 7 Digital
 1:0:1:521:502:1013:EEEE0000:0:0:0:     7digital1            7digital             # 7 Digital 1
+1:0:16:527:502:1013:EEEE0000:0:0:0:    7foodnetwork         7foodnetwork         # 7 food network
 1:0:1:522:502:1013:EEEE0000:0:0:0:     7two                 7two                 # 7TWO
 1:0:1:523:502:1013:EEEE0000:0:0:0:     7mate                7mate                # 7mate
 1:0:1:524:502:1013:EEEE0000:0:0:0:     7hdcentralcoast      7hd                  # 7HD Central Coast
 1:0:16:525:502:1013:EEEE0000:0:0:0:    7flix                7flix                # 7flix
-1:0:16:527:502:1013:EEEE0000:0:0:0:    tv4me                tv4me                # TV4ME
 1:0:16:528:502:1013:EEEE0000:0:0:0:    racingcom            racingcom            # RACING.COM
 1:0:1:621:602:1014:EEEE0000:0:0:0:     one                  10boss               # ONE
 1:0:19:624:602:1014:EEEE0000:0:0:0:    tenhd                10hd                 # TEN HD
@@ -502,7 +513,9 @@
 1:0:1:436:430:1012:EEEE0000:0:0:0:     9gem                 9gem                 # 9Gem
 1:0:1:437:430:1012:EEEE0000:0:0:0:     9go                  9go                  # 9Go!
 1:0:1:530:503:1013:EEEE0000:0:0:0:     7melbourne           7digital             # 7 Melbourne
+1:0:16:537:503:1013:EEEE0000:0:0:0:    7foodnetwork         7foodnetwork         # 7 food network
 1:0:1:531:503:1013:EEEE0000:0:0:0:     7melbourne           7digital             # 7 Melbourne
+1:0:16:537:503:1013:EEEE0000:0:0:0:    7foodnetwork         7foodnetwork         # 7 food network
 1:0:1:532:503:1013:EEEE0000:0:0:0:     7twomelbourne        7two                 # 7TWO Melbourne
 1:0:1:533:503:1013:EEEE0000:0:0:0:     7matemelbourne       7mate                # 7mate Melbourne
 1:0:19:534:503:1013:EEEE0000:0:0:0:    7hdmelbourne         7hd                  # 7HD Melbourne
@@ -686,10 +699,10 @@
 
 # Melbourne
 # Service reference                    Service base name    Picon base name        Service name
-1:0:1:230:231:1010:EEEE0000:0:0:0:     abcnews24            abcnews              # ABC News 24
+1:0:1:230:231:1010:EEEE0000:0:0:0:     abcnews              abcnews              # ABC NEWS
 1:0:19:235:231:1010:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
 1:0:1:231:231:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
-1:0:1:232:231:1010:EEEE0000:0:0:0:     abc2kids             abccomedy            # ABC2/KIDS
+1:0:1:232:231:1010:EEEE0000:0:0:0:     abccomedykids        abccomedy            # ABCComedy/Kids
 1:0:1:233:231:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
 1:0:1:234:231:1010:EEEE0000:0:0:0:     abcme                abcme                # ABC ME
 1:0:19:235:231:1010:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
@@ -699,23 +712,26 @@
 1:0:19:431:430:1012:EEEE0000:0:0:0:    9hdmelbourne         9hd                  # 9HD Melbourne
 1:0:1:432:430:1012:EEEE0000:0:0:0:     9go                  9go                  # 9Go!
 1:0:1:433:430:1012:EEEE0000:0:0:0:     9life                9life                # 9Life
-1:0:1:434:430:1012:EEEE0000:0:0:0:     extra                yourmoney            # Extra
+1:0:1:434:430:1012:EEEE0000:0:0:0:     yourmoney            yourmoney            # Your Money
 1:0:1:435:430:1012:EEEE0000:0:0:0:     channel9melbourne    channel9             # Channel 9 Melbourne
 1:0:1:436:430:1012:EEEE0000:0:0:0:     9gem                 9gem                 # 9Gem
 1:0:1:437:430:1012:EEEE0000:0:0:0:     9go                  9go                  # 9Go!
 1:0:1:530:503:1013:EEEE0000:0:0:0:     7melbourne           7digital             # 7 Melbourne
+1:0:16:537:503:1013:EEEE0000:0:0:0:    7foodnetwork         7foodnetwork         # 7 food network
 1:0:1:531:503:1013:EEEE0000:0:0:0:     7melbourne           7digital             # 7 Melbourne
+1:0:16:537:503:1013:EEEE0000:0:0:0:    7foodnetwork         7foodnetwork         # 7 food network
 1:0:1:532:503:1013:EEEE0000:0:0:0:     7twomelbourne        7two                 # 7TWO Melbourne
 1:0:1:533:503:1013:EEEE0000:0:0:0:     7matemelbourne       7mate                # 7mate Melbourne
 1:0:19:534:503:1013:EEEE0000:0:0:0:    7hdmelbourne         7hd                  # 7HD Melbourne
 1:0:1:535:503:1013:EEEE0000:0:0:0:     7flixmelbourne       7flix                # 7flix Melbourne
+1:0:16:537:503:1013:EEEE0000:0:0:0:    7foodnetwork         7foodnetwork         # 7food network
 1:0:16:538:503:1013:EEEE0000:0:0:0:    racingcom            racingcom            # RACING.COM
-1:0:1:631:603:1014:EEEE0000:0:0:0:     one                  10boss               # ONE
-1:0:19:634:603:1014:EEEE0000:0:0:0:    tenhd                10hd                 # TEN HD
-1:0:1:635:603:1014:EEEE0000:0:0:0:     tendigital           10                   # TEN Digital
+1:0:1:631:603:1014:EEEE0000:0:0:0:     10boss               10boss               # 10 Boss
+1:0:19:634:603:1014:EEEE0000:0:0:0:    10hd                 10hd                 # 10 HD
+1:0:1:635:603:1014:EEEE0000:0:0:0:     10                   10                   # 10
 1:0:1:636:603:1014:EEEE0000:0:0:0:     tvsn                 tvsn                 # TVSN
-1:0:1:637:603:1014:EEEE0000:0:0:0:     one                  10boss               # ONE
-1:0:1:638:603:1014:EEEE0000:0:0:0:     eleven               10peach              # ELEVEN
+1:0:1:637:603:1014:EEEE0000:0:0:0:     10boss               10boss               # 10 Boss
+1:0:1:638:603:1014:EEEE0000:0:0:0:     10peach              10peach              # 10 Peach
 1:0:1:639:603:1014:EEEE0000:0:0:0:     spreetv              spreetv              # SpreeTV
 1:0:1:311:310:3202:EEEE0000:0:0:0:     sbsone               sbsone               # SBS ONE
 1:0:19:316:310:3202:EEEE0000:0:0:0:    sbsvicelandhd        sbsvicelandhd        # SBS VICELAND HD
@@ -735,6 +751,7 @@
 1:0:2:325:310:3202:EEEE0000:0:0:0:     sbspopdesi           sbspopdesi           # SBS PopDesi
 1:0:2:326:310:3202:EEEE0000:0:0:0:     sbschill             sbschill             # SBS Chill
 1:0:2:327:310:3202:EEEE0000:0:0:0:     sbspopasia           sbspopasia           # SBS PopAsia
+1:0:19:326:310:3202:EEEE0000:0:0:0:    sbsvicelandhd        sbsvicelandhd        # SBS VICELAND HD
 1:0:1:E01:E00:3220:EEEE0000:0:0:0:     c31                  c31                  # C31
 
 # Mt Gambier
@@ -819,6 +836,7 @@
 1:0:19:789:327C:3276:EEEE0000:0:0:0:   winmtgambierhd       winhd                # WIN Mt Gambier HD
 1:0:16:790:327C:3276:EEEE0000:0:0:0:   gold                 gold                 # GOLD
 1:0:1:901:328A:3282:EEEE0000:0:0:0:    sevenmtgambier       7digital             # Seven Mt Gambier
+1:0:16:907:328A:3282:EEEE0000:0:0:0:   7foodnetwork         7foodnetwork         # 7 food network
 1:0:1:902:328A:3282:EEEE0000:0:0:0:    7twomtgambier        7two                 # 7TWO Mt Gambier
 1:0:1:903:328A:3282:EEEE0000:0:0:0:    7matemtgambier       7mate                # 7mate Mt Gambier
 1:0:1:94E:99D:3283:EEEE0000:0:0:0:     prime7ballarat       prime7               # PRIME7 Ballarat
@@ -912,6 +930,7 @@
 1:0:19:789:327C:3276:EEEE0000:0:0:0:   winmtgambierhd       winhd                # WIN Mt Gambier HD
 1:0:16:790:327C:3276:EEEE0000:0:0:0:   gold                 gold                 # GOLD
 1:0:1:901:328A:3282:EEEE0000:0:0:0:    sevenmtgambier       7digital             # Seven Mt Gambier
+1:0:16:907:328A:3282:EEEE0000:0:0:0:   7foodnetwork         7foodnetwork         # 7 food network
 1:0:1:902:328A:3282:EEEE0000:0:0:0:    7twomtgambier        7two                 # 7TWO Mt Gambier
 1:0:1:903:328A:3282:EEEE0000:0:0:0:    7matemtgambier       7mate                # 7mate Mt Gambier
 1:0:1:94E:99D:3283:EEEE0000:0:0:0:     prime7ballarat       prime7               # PRIME7 Ballarat
@@ -1062,7 +1081,9 @@
 1:0:1:477:441:1012:EEEE0000:0:0:0:     9gem                 9gem                 # 9Gem
 1:0:1:478:441:1012:EEEE0000:0:0:0:     9go                  9go                  # 9Go!
 1:0:1:540:504:1013:EEEE0000:0:0:0:     7goldcoast           7digital             # 7 Gold Coast
+1:0:16:547:504:1013:EEEE0000:0:0:0:    7foodnetwork         7foodnetwork         # 7 food network
 1:0:1:541:504:1013:EEEE0000:0:0:0:     7goldcoast           7digital             # 7 Gold Coast
+1:0:16:547:504:1013:EEEE0000:0:0:0:    7foodnetwork         7foodnetwork         # 7 food network
 1:0:1:542:504:1013:EEEE0000:0:0:0:     7twogoldcoast        7two                 # 7TWO Gold Coast
 1:0:1:543:504:1013:EEEE0000:0:0:0:     7mategoldcoast       7mate                # 7mate Gold Coast
 1:0:19:544:504:1013:EEEE0000:0:0:0:    7hdgoldcoast         7hd                  # 7HD Gold Coast
@@ -1217,28 +1238,31 @@
 1:0:19:462:460:1012:EEEE0000:0:0:0:    9hdperth             9hd                  # 9HD Perth
 1:0:1:463:460:1012:EEEE0000:0:0:0:     9go                  9go                  # 9Go!
 1:0:1:464:460:1012:EEEE0000:0:0:0:     9life                9life                # 9Life
-1:0:1:465:460:1012:EEEE0000:0:0:0:     extra                yourmoney            # Extra
+1:0:1:465:460:1012:EEEE0000:0:0:0:     yourmoney            yourmoney            # Your Money
 1:0:1:466:460:1012:EEEE0000:0:0:0:     channel9perth        channel9             # Channel 9 Perth
 1:0:1:467:460:1012:EEEE0000:0:0:0:     9gem                 9gem                 # 9Gem
 1:0:1:468:460:1012:EEEE0000:0:0:0:     9go                  9go                  # 9Go!
 1:0:1:560:506:1013:EEEE0000:0:0:0:     7perth               7digital             # 7 Perth
+1:0:16:567:506:1013:EEEE0000:0:0:0:    7foodnetwork         7foodnetwork         # 7 food network
 1:0:1:561:506:1013:EEEE0000:0:0:0:     7perth               7digital             # 7 Perth
+1:0:16:567:506:1013:EEEE0000:0:0:0:    7foodnetwork         7foodnetwork         # 7 food network
 1:0:1:562:506:1013:EEEE0000:0:0:0:     7twoperth            7two                 # 7TWO Perth
 1:0:1:563:506:1013:EEEE0000:0:0:0:     7mateperth           7mate                # 7mate Perth
 1:0:19:564:506:1013:EEEE0000:0:0:0:    7hdperth             7hd                  # 7HD Perth
 1:0:1:565:506:1013:EEEE0000:0:0:0:     7flixperth           7flix                # 7flix Perth
+1:0:16:567:506:1013:EEEE0000:0:0:0:    7foodnetwork         7foodnetwork         # 7food network
 1:0:16:568:506:1013:EEEE0000:0:0:0:    racingcom            racingcom            # RACING.COM
-1:0:1:681:607:1014:EEEE0000:0:0:0:     one                  10boss               # ONE
-1:0:19:684:607:1014:EEEE0000:0:0:0:    tenhd                10hd                 # TEN HD
-1:0:1:685:607:1014:EEEE0000:0:0:0:     tendigital           10                   # TEN DIGITAL
+1:0:1:681:607:1014:EEEE0000:0:0:0:     10boss               10boss               # 10 Boss
+1:0:19:684:607:1014:EEEE0000:0:0:0:    10hd                 10hd                 # 10 HD
+1:0:1:685:607:1014:EEEE0000:0:0:0:     10                   10                   # 10
 1:0:1:686:607:1014:EEEE0000:0:0:0:     tvsn                 tvsn                 # TVSN
-1:0:1:687:607:1014:EEEE0000:0:0:0:     one                  10boss               # ONE
-1:0:1:688:607:1014:EEEE0000:0:0:0:     eleven               10peach              # ELEVEN
+1:0:1:687:607:1014:EEEE0000:0:0:0:     10boss               10boss               # 10 Boss
+1:0:1:688:607:1014:EEEE0000:0:0:0:     10peach              10peach              # 10 Peach
 1:0:1:689:607:1014:EEEE0000:0:0:0:     spreetv              spreetv              # SpreeTV
-1:0:1:2E0:261:3201:EEEE0000:0:0:0:     abcnews24            abcnews              # ABC News 24
+1:0:1:2E0:261:3201:EEEE0000:0:0:0:     abcnews              abcnews              # ABC NEWS
 1:0:19:2E5:261:3201:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
 1:0:1:2E1:261:3201:EEEE0000:0:0:0:     abc                  abc                  # ABC
-1:0:1:2E2:261:3201:EEEE0000:0:0:0:     abc2kids             abccomedy            # ABC2/KIDS
+1:0:1:2E2:261:3201:EEEE0000:0:0:0:     abccomedykids        abccomedy            # ABCComedy/Kids
 1:0:1:2E3:261:3201:EEEE0000:0:0:0:     abc                  abc                  # ABC
 1:0:1:2E4:261:3201:EEEE0000:0:0:0:     abcme                abcme                # ABC ME
 1:0:19:2E5:261:3201:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
@@ -1262,6 +1286,7 @@
 1:0:2:335:320:3202:EEEE0000:0:0:0:     sbspopdesi           sbspopdesi           # SBS PopDesi
 1:0:2:336:320:3202:EEEE0000:0:0:0:     sbschill             sbschill             # SBS Chill
 1:0:2:337:320:3202:EEEE0000:0:0:0:     sbspopasia           sbspopasia           # SBS PopAsia
+1:0:19:336:320:3202:EEEE0000:0:0:0:    sbsvicelandhd        sbsvicelandhd        # SBS VICELAND HD
 1:0:1:E01:E00:323E:EEEE0000:0:0:0:     westtv               westtv               # West TV
 
 # Rockhampton
@@ -1276,10 +1301,13 @@
 1:0:2:2C6:243:1010:EEEE0000:0:0:0:     doublej              doublej              # Double J
 1:0:2:2C7:243:1010:EEEE0000:0:0:0:     abcjazz              abcjazz              # ABC Jazz
 1:0:1:940:930:1013:EEEE0000:0:0:0:     7rockhampton         7digital             # 7 Rockhampton
+1:0:16:947:930:1013:EEEE0000:0:0:0:    7foodnetwork         7foodnetwork         # 7 food network
 1:0:1:941:930:1013:EEEE0000:0:0:0:     7rockhampton         7digital             # 7 Rockhampton
+1:0:16:947:930:1013:EEEE0000:0:0:0:    7foodnetwork         7foodnetwork         # 7 food network
 1:0:1:942:930:1013:EEEE0000:0:0:0:     7tworockhampton      7two                 # 7TWO Rockhampton
 1:0:1:943:930:1013:EEEE0000:0:0:0:     7materockhampton     7mate                # 7mate Rockhampton
 1:0:1:944:930:1013:EEEE0000:0:0:0:     7rockhampton         7digital             # 7 Rockhampton
+1:0:16:947:930:1013:EEEE0000:0:0:0:    7foodnetwork         7foodnetwork         # 7 food network
 1:0:1:945:930:1013:EEEE0000:0:0:0:     7flixrockhampton     7flix                # 7flix Rockhampton
 1:0:16:948:930:1013:EEEE0000:0:0:0:    racingcom            racingcom            # RACING.COM
 1:0:1:3B1:3B0:3202:EEEE0000:0:0:0:     sbsone               sbsone               # SBS ONE
@@ -1408,6 +1436,7 @@
 1:0:16:87D:81D:1017:EEEE0000:0:0:0:    sbn                  sbn                  # SBN
 1:0:16:89D:81D:1017:EEEE0000:0:0:0:    tvsn                 tvsn                 # TVSN
 1:0:1:906:906:1017:EEEE0000:0:0:0:     7portpirie           7digital             # 7 Port Pirie
+1:0:16:907:906:1017:EEEE0000:0:0:0:    7foodnetwork         7foodnetwork         # 7 food network
 1:0:1:926:906:1017:EEEE0000:0:0:0:     7mate                7mate                # 7mate
 1:0:1:946:906:1017:EEEE0000:0:0:0:     7two                 7two                 # 7TWO
 1:0:16:9A6:906:1017:EEEE0000:0:0:0:    racingcom            racingcom            # RACING.COM
@@ -1450,20 +1479,23 @@
 1:0:1:40B:400:1012:EEEE0000:0:0:0:     9go                  9go                  # 9Go!
 1:0:19:480:400:1012:EEEE0000:0:0:0:    9hdbrisbane          9hd                  # 9HD Brisbane
 1:0:1:540:504:1013:EEEE0000:0:0:0:     7brisbane            7digital             # 7 Brisbane
+1:0:16:547:504:1013:EEEE0000:0:0:0:    7foodnetwork         7foodnetwork         # 7 food network
 1:0:1:541:504:1013:EEEE0000:0:0:0:     7brisbane            7digital             # 7 Brisbane
+1:0:16:547:504:1013:EEEE0000:0:0:0:    7foodnetwork         7foodnetwork         # 7 food network
 1:0:1:542:504:1013:EEEE0000:0:0:0:     7twobrisbane         7two                 # 7TWO Brisbane
 1:0:1:543:504:1013:EEEE0000:0:0:0:     7matebrisbane        7mate                # 7mate Brisbane
 1:0:19:544:504:1013:EEEE0000:0:0:0:    7hdbrisbane          7hd                  # 7HD Brisbane
 1:0:16:545:504:1013:EEEE0000:0:0:0:    7flixbrisbane        7flix                # 7flix Brisbane
-1:0:16:547:504:1013:EEEE0000:0:0:0:    tv4me                tv4me                # TV4ME
 1:0:16:548:504:1013:EEEE0000:0:0:0:    racingcom            racingcom            # RACING.COM
 1:0:1:960:950:1013:EEEE0000:0:0:0:     7suncoast            7digital             # 7 Sun Coast
+1:0:16:967:950:1013:EEEE0000:0:0:0:    7foodnetwork         7foodnetwork         # 7 food network
 1:0:1:961:950:1013:EEEE0000:0:0:0:     7digital1            7digital             # 7 Digital 1
+1:0:16:967:950:1013:EEEE0000:0:0:0:    7foodnetwork         7foodnetwork         # 7 food network
 1:0:1:962:950:1013:EEEE0000:0:0:0:     7two                 7two                 # 7TWO
 1:0:1:963:950:1013:EEEE0000:0:0:0:     7mate                7mate                # 7mate
 1:0:1:964:950:1013:EEEE0000:0:0:0:     7suncoast            7digital             # 7 Sun Coast
+1:0:16:967:950:1013:EEEE0000:0:0:0:    7foodnetwork         7foodnetwork         # 7 food network
 1:0:1:965:950:1013:EEEE0000:0:0:0:     7flix                7flix                # 7flix
-1:0:1:967:950:1013:EEEE0000:0:0:0:     tv4me                tv4me                # TV4ME
 1:0:1:968:950:1013:EEEE0000:0:0:0:     racingcom            racingcom            # RACING.COM
 1:0:1:641:604:1014:EEEE0000:0:0:0:     one                  10boss               # ONE
 1:0:19:644:604:1014:EEEE0000:0:0:0:    tenhd                10hd                 # TEN HD
@@ -1527,10 +1559,10 @@
 
 # Sydney
 # Service reference                    Service base name    Picon base name        Service name
-1:0:1:220:221:1010:EEEE0000:0:0:0:     abcnews24            abcnews              # ABC News 24
+1:0:1:220:221:1010:EEEE0000:0:0:0:     abcnews              abcnews              # ABC NEWS
 1:0:19:225:221:1010:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
 1:0:1:221:221:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
-1:0:1:222:221:1010:EEEE0000:0:0:0:     abc2kids             abccomedy            # ABC2/KIDS
+1:0:1:222:221:1010:EEEE0000:0:0:0:     abccomedykids        abccomedy            # ABCComedy/Kids
 1:0:1:223:221:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
 1:0:1:224:221:1010:EEEE0000:0:0:0:     abcme                abcme                # ABC ME
 1:0:19:225:221:1010:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
@@ -1540,23 +1572,26 @@
 1:0:19:422:420:1012:EEEE0000:0:0:0:    9hdsydney            9hd                  # 9HD Sydney
 1:0:1:423:420:1012:EEEE0000:0:0:0:     9go                  9go                  # 9Go!
 1:0:1:424:420:1012:EEEE0000:0:0:0:     9life                9life                # 9Life
-1:0:1:425:420:1012:EEEE0000:0:0:0:     extra                yourmoney            # Extra
+1:0:1:425:420:1012:EEEE0000:0:0:0:     yourmoney            yourmoney            # Your Money
 1:0:1:426:420:1012:EEEE0000:0:0:0:     channel9sydney       channel9             # Channel 9 Sydney
 1:0:1:427:420:1012:EEEE0000:0:0:0:     9gem                 9gem                 # 9Gem
 1:0:1:428:420:1012:EEEE0000:0:0:0:     9go                  9go                  # 9Go!
 1:0:1:520:502:1013:EEEE0000:0:0:0:     7sydney              7digital             # 7 Sydney
+1:0:16:527:502:1013:EEEE0000:0:0:0:    7foodnetwork         7foodnetwork         # 7 food network
 1:0:1:521:502:1013:EEEE0000:0:0:0:     7sydney              7digital             # 7 Sydney
+1:0:16:527:502:1013:EEEE0000:0:0:0:    7foodnetwork         7foodnetwork         # 7 food network
 1:0:1:522:502:1013:EEEE0000:0:0:0:     7twosydney           7two                 # 7TWO Sydney
 1:0:1:523:502:1013:EEEE0000:0:0:0:     7matesydney          7mate                # 7mate Sydney
 1:0:19:524:502:1013:EEEE0000:0:0:0:    7hdsydney            7hd                  # 7HD Sydney
 1:0:1:525:502:1013:EEEE0000:0:0:0:     7flixsydney          7flix                # 7flix Sydney
+1:0:16:527:502:1013:EEEE0000:0:0:0:    7foodnetwork         7foodnetwork         # 7food network
 1:0:16:528:502:1013:EEEE0000:0:0:0:    racingcom            racingcom            # RACING.COM
-1:0:1:621:602:1014:EEEE0000:0:0:0:     one                  10boss               # ONE
-1:0:19:624:602:1014:EEEE0000:0:0:0:    tenhd                10hd                 # TEN HD
-1:0:1:625:602:1014:EEEE0000:0:0:0:     tendigital           10                   # TEN Digital
+1:0:1:621:602:1014:EEEE0000:0:0:0:     10boss               10boss               # 10 Boss
+1:0:19:624:602:1014:EEEE0000:0:0:0:    10hd                 10hd                 # 10 HD
+1:0:1:625:602:1014:EEEE0000:0:0:0:     10                   10                   # 10
 1:0:1:626:602:1014:EEEE0000:0:0:0:     tvsn                 tvsn                 # TVSN
-1:0:1:627:602:1014:EEEE0000:0:0:0:     one                  10boss               # ONE
-1:0:1:628:602:1014:EEEE0000:0:0:0:     eleven               10peach              # ELEVEN
+1:0:1:627:602:1014:EEEE0000:0:0:0:     10boss               10boss               # 10 Boss
+1:0:1:628:602:1014:EEEE0000:0:0:0:     10peach              10peach              # 10 Peach
 1:0:1:629:602:1014:EEEE0000:0:0:0:     spreetv              spreetv              # SpreeTV
 1:0:1:301:300:3202:EEEE0000:0:0:0:     sbsone               sbsone               # SBS ONE
 1:0:1:302:300:3202:EEEE0000:0:0:0:     sbsviceland          sbsviceland          # SBS VICELAND
@@ -1575,6 +1610,7 @@
 1:0:2:315:300:3202:EEEE0000:0:0:0:     sbspopdesi           sbspopdesi           # SBS PopDesi
 1:0:2:316:300:3202:EEEE0000:0:0:0:     sbschill             sbschill             # SBS Chill
 1:0:2:317:300:3202:EEEE0000:0:0:0:     sbspopasia           sbspopasia           # SBS PopAsia
+1:0:19:316:300:3202:EEEE0000:0:0:0:    sbsvicelandhd        sbsvicelandhd        # SBS VICELAND HD
 
 # Tamworth
 # Service reference                    Service base name    Picon base name        Service name
@@ -1641,12 +1677,14 @@
 1:0:2:2C6:243:1010:EEEE0000:0:0:0:     doublej              doublej              # Double J
 1:0:2:2C7:243:1010:EEEE0000:0:0:0:     abcjazz              abcjazz              # ABC Jazz
 1:0:1:970:960:1013:EEEE0000:0:0:0:     7toowoomba           7digital             # 7 Toowoomba
+1:0:16:977:960:1013:EEEE0000:0:0:0:    7foodnetwork         7foodnetwork         # 7 food network
 1:0:1:971:960:1013:EEEE0000:0:0:0:     7digital1            7digital             # 7 Digital 1
+1:0:16:977:960:1013:EEEE0000:0:0:0:    7foodnetwork         7foodnetwork         # 7 food network
 1:0:1:972:960:1013:EEEE0000:0:0:0:     7two                 7two                 # 7TWO
 1:0:1:973:960:1013:EEEE0000:0:0:0:     7mate                7mate                # 7mate
 1:0:1:974:960:1013:EEEE0000:0:0:0:     7toowoomba           7digital             # 7 Toowoomba
+1:0:16:977:960:1013:EEEE0000:0:0:0:    7foodnetwork         7foodnetwork         # 7 food network
 1:0:1:975:960:1013:EEEE0000:0:0:0:     7flix                7flix                # 7flix
-1:0:1:977:960:1013:EEEE0000:0:0:0:     tv4me                tv4me                # TV4ME
 1:0:1:978:960:1013:EEEE0000:0:0:0:     racingcom            racingcom            # RACING.COM
 1:0:1:3B1:3B0:3202:EEEE0000:0:0:0:     sbsone               sbsone               # SBS ONE
 1:0:19:3B6:3B0:3202:EEEE0000:0:0:0:    sbsvicelandhd        sbsvicelandhd        # SBS VICELAND HD
@@ -1694,10 +1732,13 @@
 1:0:2:2C6:243:1010:EEEE0000:0:0:0:     doublej              doublej              # Double J
 1:0:2:2C7:243:1010:EEEE0000:0:0:0:     abcjazz              abcjazz              # ABC Jazz
 1:0:1:920:910:1013:EEEE0000:0:0:0:     7townsville          7digital             # 7 Townsville
+1:0:16:927:910:1013:EEEE0000:0:0:0:    7foodnetwork         7foodnetwork         # 7 food network
 1:0:1:921:910:1013:EEEE0000:0:0:0:     7townsville          7digital             # 7 Townsville
+1:0:16:927:910:1013:EEEE0000:0:0:0:    7foodnetwork         7foodnetwork         # 7 food network
 1:0:1:922:910:1013:EEEE0000:0:0:0:     7twotownsville       7two                 # 7TWO Townsville
 1:0:1:923:910:1013:EEEE0000:0:0:0:     7matetownsville      7mate                # 7mate Townsville
 1:0:1:924:910:1013:EEEE0000:0:0:0:     7townsville          7digital             # 7 Townsville
+1:0:16:927:910:1013:EEEE0000:0:0:0:    7foodnetwork         7foodnetwork         # 7 food network
 1:0:1:925:910:1013:EEEE0000:0:0:0:     7flixtownsville      7flix                # 7flix Townsville
 1:0:1:928:910:1013:EEEE0000:0:0:0:     racingcom            racingcom            # RACING.COM
 1:0:1:3B1:3B0:3202:EEEE0000:0:0:0:     sbsone               sbsone               # SBS ONE
@@ -1864,11 +1905,11 @@
 1:0:2:2C7:243:1010:EEEE0000:0:0:0:     abcjazz              abcjazz              # ABC Jazz
 1:0:1:950:940:1013:EEEE0000:0:0:0:     7digital             7digital             # 7 Digital
 1:0:1:951:940:1013:EEEE0000:0:0:0:     7digital1            7digital             # 7 Digital 1
+1:0:16:957:940:1013:EEEE0000:0:0:0:    7foodnetwork         7foodnetwork         # 7 food network
 1:0:1:952:940:1013:EEEE0000:0:0:0:     7two                 7two                 # 7TWO
 1:0:1:953:940:1013:EEEE0000:0:0:0:     7mate                7mate                # 7mate
 1:0:1:954:940:1013:EEEE0000:0:0:0:     7digital             7digital             # 7 Digital
 1:0:1:955:940:1013:EEEE0000:0:0:0:     7flix                7flix                # 7flix
-1:0:1:957:940:1013:EEEE0000:0:0:0:     tv4me                tv4me                # TV4ME
 1:0:1:958:940:1013:EEEE0000:0:0:0:     racingcom            racingcom            # RACING.COM
 1:0:1:3B1:3B0:3202:EEEE0000:0:0:0:     sbsone               sbsone               # SBS ONE
 1:0:19:3B6:3B0:3202:EEEE0000:0:0:0:    sbsvicelandhd        sbsvicelandhd        # SBS VICELAND HD
