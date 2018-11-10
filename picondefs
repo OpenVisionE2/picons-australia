@@ -1666,6 +1666,60 @@
 1:0:16:98D:9A5:3282:EEEE0000:0:0:0:    ishoptv              ishoptv              # ishoptv
 1:0:16:990:9A5:3282:EEEE0000:0:0:0:    racingcom            racingcom            # RACING.COM
 
+# Taree
+# Service reference                    Service base name    Picon base name        Service name
+1:0:1:2A0:223:1010:EEEE0000:0:0:0:     abcnews              abcnews              # ABC NEWS
+1:0:19:2A5:223:1010:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
+1:0:1:2A1:223:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
+1:0:1:2A2:223:1010:EEEE0000:0:0:0:     abccomedykids        abccomedy            # ABCComedy/Kids
+1:0:1:2A3:223:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
+1:0:1:2A4:223:1010:EEEE0000:0:0:0:     abcme                abcme                # ABC ME
+1:0:19:2A5:223:1010:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
+1:0:2:2A6:223:1010:EEEE0000:0:0:0:     doublej              doublej              # Double J
+1:0:2:2A7:223:1010:EEEE0000:0:0:0:     abcjazz              abcjazz              # ABC Jazz
+1:0:1:6B:706:1019:EEEE0000:0:0:0:      ninetareeportmacquarie channel9             # Nine Taree-Port Macquarie
+1:0:19:75:706:1019:EEEE0000:0:0:0:     9hdtareeportmacquarie 9hd                  # 9HD Taree-Port Macquarie
+1:0:1:7F:706:1019:EEEE0000:0:0:0:      9gemtareeportmacquarie 9gem                 # 9GEM Taree-Port Macquarie
+1:0:1:89:706:1019:EEEE0000:0:0:0:      9gotareeportmacquarie 9go                  # 9GO! Taree-Port Macquarie
+1:0:1:93:706:1019:EEEE0000:0:0:0:      yourmoney            yourmoney            # Your Money
+1:0:1:9D:706:1019:EEEE0000:0:0:0:      9lifetareeportmacquarie 9life                # 9Life Taree-Port Macquarie
+1:0:1:BB:706:1019:EEEE0000:0:0:0:      9gotareeportmacquarie 9go                  # 9GO! Taree-Port Macquarie
+1:0:1:C5:706:1019:EEEE0000:0:0:0:      ninetareeportmacquarie channel9             # Nine Taree-Port Macquarie
+1:0:1:351:350:3202:EEEE0000:0:0:0:     sbsone               sbsone               # SBS ONE
+1:0:19:356:350:3202:EEEE0000:0:0:0:    sbsvicelandhd        sbsvicelandhd        # SBS VICELAND HD
+1:0:1:352:350:3202:EEEE0000:0:0:0:     sbsviceland          sbsviceland          # SBS VICELAND
+1:0:1:353:350:3202:EEEE0000:0:0:0:     foodnetwork          sbsfood              # Food Network
+1:0:1:354:350:3202:EEEE0000:0:0:0:     nitv                 nitv                 # NITV
+1:0:19:355:350:3202:EEEE0000:0:0:0:    sbsonehd             sbsonehd             # SBS ONE HD
+1:0:19:356:350:3202:EEEE0000:0:0:0:    sbsvicelandhd        sbsvicelandhd        # SBS VICELAND HD
+1:0:2:35D:350:3202:EEEE0000:0:0:0:     sbsarabic24          sbsarabic24          # SBS Arabic24
+1:0:2:35E:350:3202:EEEE0000:0:0:0:     sbsradio1            sbsradio1            # SBS Radio 1
+1:0:2:35F:350:3202:EEEE0000:0:0:0:     sbsradio2            sbsradio2            # SBS Radio 2
+1:0:2:360:350:3202:EEEE0000:0:0:0:     sbschill             sbschill             # SBS Chill
+1:0:2:361:350:3202:EEEE0000:0:0:0:     sbsradio1            sbsradio1            # SBS Radio 1
+1:0:2:362:350:3202:EEEE0000:0:0:0:     sbsradio2            sbsradio2            # SBS Radio 2
+1:0:2:363:350:3202:EEEE0000:0:0:0:     sbsradio3            sbsradio3            # SBS Radio 3
+1:0:2:364:350:3202:EEEE0000:0:0:0:     sbsarabic24          sbsarabic24          # SBS Arabic24
+1:0:2:365:350:3202:EEEE0000:0:0:0:     sbspopdesi           sbspopdesi           # SBS PopDesi
+1:0:2:366:350:3202:EEEE0000:0:0:0:     sbschill             sbschill             # SBS Chill
+1:0:2:367:350:3202:EEEE0000:0:0:0:     sbspopasia           sbspopasia           # SBS PopAsia
+1:0:19:366:350:3202:EEEE0000:0:0:0:    sbsvicelandhd        sbsvicelandhd        # SBS VICELAND HD
+1:0:16:787:329D:3272:EEEE0000:0:0:0:   gold                 gold                 # GOLD
+1:0:16:788:329D:3272:EEEE0000:0:0:0:   tvsn                 tvsn                 # TVSN
+1:0:1:820:329D:3272:EEEE0000:0:0:0:    winportmacquarie     win                  # WIN Port Macquarie
+1:0:1:822:329D:3272:EEEE0000:0:0:0:    bossportmacquarie    winboss              # BOSS Port Macquarie
+1:0:1:824:329D:3272:EEEE0000:0:0:0:    peachportmacquarie   winpeach             # PEACH Port Macquarie
+1:0:19:825:329D:3272:EEEE0000:0:0:0:   winhdportmacquarie   winhd                # WIN HD Port Macquarie
+1:0:16:826:329D:3272:EEEE0000:0:0:0:   skynewsonwin         skynewsonwin         # Sky News on WIN
+1:0:1:93A:9A5:3282:EEEE0000:0:0:0:     prime7taree          prime7               # PRIME7 Taree
+1:0:19:974:9A5:3282:EEEE0000:0:0:0:    prime7hdtaree        prime7hd             # PRIME7 HD Taree
+1:0:1:975:9A5:3282:EEEE0000:0:0:0:     prime7taree          prime7               # PRIME7 Taree
+1:0:1:976:9A5:3282:EEEE0000:0:0:0:     7twotaree            7two                 # 7TWO Taree
+1:0:1:977:9A5:3282:EEEE0000:0:0:0:     7matetaree           7mate                # 7mate Taree
+1:0:16:979:9A5:3282:EEEE0000:0:0:0:    ishoptv              ishoptv              # ishoptv
+1:0:16:97A:9A5:3282:EEEE0000:0:0:0:    7flix                7flix                # 7flix
+1:0:16:97C:9A5:3282:EEEE0000:0:0:0:    racingcom            racingcom            # RACING.COM
+
 # Toowoomba
 # Service reference                    Service base name    Picon base name        Service name
 1:0:1:2C0:243:1010:EEEE0000:0:0:0:     abcnews24            abcnews              # ABC News 24
