@@ -130,6 +130,8 @@ class LinkMaker:
 		    origIndex = basename.rfind('_')
 		    if origIndex > 0 and basename[origIndex:] in self.PICON_SRCS:
 			piconBasename = basename[:origIndex]
+		        if piconBasename in self.piconFiles:
+			    print >>stderr, "Picon file for", piconBasename, "renamed from", self.piconFiles[piconBasename][0], "to", piconName
 		    elif basename not in self.piconFiles:
 			piconBasename = basename
 		    else:
