@@ -130,9 +130,12 @@ class LinkMaker:
 		    origIndex = basename.rfind('_')
 		    if origIndex > 0 and basename[origIndex:] in self.PICON_SRCS:
 			piconBasename = basename[:origIndex]
-		    else:
+		    elif basename not in self.piconFiles:
 			piconBasename = basename
-		    self.piconFiles[piconBasename] = (piconName, self.getLinkRef(piconPath))
+		    else:
+			piconBasename = None
+		    if piconBasename:
+			self.piconFiles[piconBasename] = (piconName, self.getLinkRef(piconPath))
 	except Exception as err:
 	    print >>stderr, "Can't process image directory", chanDir, '-', str(err)
 	    exit(1)
@@ -187,7 +190,7 @@ class LinkMaker:
         useHardLinks = self.options.get("useHardLinks")
 
         piconLinks = {}
-        linksMade = 0  # ZZ
+        linksMade = 0
         commentRe = re.compile('#.*')
 
         for line in self.servrefFile:
@@ -260,7 +263,7 @@ class LinkMaker:
 				if lexists:
 				    remove(servRefPath)
 
-				linksMade += 1  # ZZ
+				linksMade += 1
 				if useHardLinks:
 				    link(piconPath, servRefPath)
 				else:
@@ -270,7 +273,6 @@ class LinkMaker:
 				print >>stderr, ("Link" if useHardLinks else "Symlink"), piconName, "->", servRefName, "failed -", str(err)
 
                     if linked:
-			# ZZ print >>stderr, "linked:", piconName, linked  # ZZ
                         self.linkedPiconNames.add(piconName)
                         piconLinks[servRefName] = picon
                     else:
@@ -279,7 +281,7 @@ class LinkMaker:
                 else:
                     print >>stderr, "Servref link", servRef, "->", piconLinks[servRefName], "exists; new link requested for", picon
         self.servrefFile.close()
-        print >>stderr, "linksMade:", linksMade  # ZZ
+        print >>stderr, "linksMade:", linksMade
 
     def checkUnused(self):
         piconNames = set(fileinfo[0] for fileinfo in self.piconFiles.values())
@@ -345,7 +347,7 @@ class LinkMaker:
             exit(1)
 
     def _clean(self, servRefNames):
-        print "removing:", len(servRefNames)  # ZZ
+        print "removing:", len(servRefNames)
         for servRefName in servRefNames:
             servRefPath = path.join(self.piconPath, servRefName)
             try:
