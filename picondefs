@@ -17,7 +17,7 @@
 1:0:19:452:450:1012:EEEE0000:0:0:0:    9hdadelaide          9hd                  # 9HD Adelaide
 1:0:1:453:450:1012:EEEE0000:0:0:0:     9go                  9go                  # 9Go!
 1:0:1:454:450:1012:EEEE0000:0:0:0:     9life                9life                # 9Life
-1:0:1:455:450:1012:EEEE0000:0:0:0:     yourmoney            yourmoney            # Your Money
+1:0:1:455:450:1012:EEEE0000:0:0:0:     yourmoney            9gemhd               # Your Money
 1:0:1:456:450:1012:EEEE0000:0:0:0:     channel9adelaide     channel9             # Channel 9 Adelaide
 1:0:1:457:450:1012:EEEE0000:0:0:0:     9gem                 9gem                 # 9Gem
 1:0:1:458:450:1012:EEEE0000:0:0:0:     9go                  9go                  # 9Go!
@@ -136,7 +136,7 @@
 1:0:1:8C2:802:320C:EEEE0000:0:0:0:     9hdballarat          9hd                  # 9HD Ballarat
 1:0:1:8E2:802:320C:EEEE0000:0:0:0:     9life                9life                # 9Life
 1:0:1:1:327A:3274:EEEE0000:0:0:0:      winwesternvic        win                  # WIN Western Vic
-1:0:1:10:327A:3274:EEEE0000:0:0:0:     extra                yourmoney            # GOLD 2
+1:0:1:10:327A:3274:EEEE0000:0:0:0:     extra                9gemhd               # GOLD 2
 1:0:1:2:327A:3274:EEEE0000:0:0:0:      gowesternvic         9go                  # GO! Western Vic
 1:0:1:A:327A:3274:EEEE0000:0:0:0:      gemwesternvic        9gem                 # GEM Western Vic
 1:0:1:F:327A:3274:EEEE0000:0:0:0:      gold                 gold                 # GOLD
@@ -215,7 +215,7 @@
 1:0:1:401:400:1012:EEEE0000:0:0:0:     channel9brisbane     channel9             # Channel 9 Brisbane
 1:0:1:406:400:1012:EEEE0000:0:0:0:     9go                  9go                  # 9Go!
 1:0:1:407:400:1012:EEEE0000:0:0:0:     9life                9life                # 9Life
-1:0:1:408:400:1012:EEEE0000:0:0:0:     yourmoney            yourmoney            # Your Money
+1:0:1:408:400:1012:EEEE0000:0:0:0:     yourmoney            9gemhd               # Your Money
 1:0:1:409:400:1012:EEEE0000:0:0:0:     channel9brisbane     channel9             # Channel 9 Brisbane
 1:0:1:40A:400:1012:EEEE0000:0:0:0:     9gem                 9gem                 # 9Gem
 1:0:1:40B:400:1012:EEEE0000:0:0:0:     9go                  9go                  # 9Go!
@@ -373,7 +373,7 @@
 1:0:19:422:420:1012:EEEE0000:0:0:0:    9hdsydney            9hd                  # 9HD Sydney
 1:0:1:423:420:1012:EEEE0000:0:0:0:     9go                  9go                  # 9Go!
 1:0:1:424:420:1012:EEEE0000:0:0:0:     9life                9life                # 9Life
-1:0:1:425:420:1012:EEEE0000:0:0:0:     extra                yourmoney            # Extra
+1:0:1:425:420:1012:EEEE0000:0:0:0:     extra                9gemhd               # Extra
 1:0:1:426:420:1012:EEEE0000:0:0:0:     channel9sydney       channel9             # Channel 9 Sydney
 1:0:1:427:420:1012:EEEE0000:0:0:0:     9gem                 9gem                 # 9Gem
 1:0:1:428:420:1012:EEEE0000:0:0:0:     9go                  9go                  # 9Go!
@@ -396,7 +396,7 @@
 1:0:19:74:705:1019:EEEE0000:0:0:0:     9hdcentralcoast      9hd                  # 9HD Central Coast
 1:0:1:7E:705:1019:EEEE0000:0:0:0:      9gemcentralcoast     9gem                 # 9GEM Central Coast
 1:0:1:88:705:1019:EEEE0000:0:0:0:      9gocentralcoast      9go                  # 9GO! Central Coast
-1:0:1:92:705:1019:EEEE0000:0:0:0:      extra                yourmoney            # eXtra
+1:0:1:92:705:1019:EEEE0000:0:0:0:      extra                9gemhd               # eXtra
 1:0:1:9C:705:1019:EEEE0000:0:0:0:      9lifecentralcoast    9life                # 9Life Central Coast
 1:0:1:BA:705:1019:EEEE0000:0:0:0:      9gocentralcoast      9go                  # 9GO! Central Coast
 1:0:1:C4:705:1019:EEEE0000:0:0:0:      nbncentralcoast      nbn                  # NBN Central Coast
@@ -439,7 +439,7 @@
 1:0:19:71:702:1019:EEEE0000:0:0:0:     9hdmidnorthcoast     9hd                  # 9HD Mid North Coast
 1:0:1:7B:702:1019:EEEE0000:0:0:0:      9gemmidnorthcoast    9gem                 # 9GEM Mid North Coast
 1:0:1:85:702:1019:EEEE0000:0:0:0:      9gomidnorthcoast     9go                  # 9GO! Mid North Coast
-1:0:1:8F:702:1019:EEEE0000:0:0:0:      extra                yourmoney            # eXtra
+1:0:1:8F:702:1019:EEEE0000:0:0:0:      extra                9gemhd               # eXtra
 1:0:1:99:702:1019:EEEE0000:0:0:0:      9lifemidnorthcoast   9life                # 9Life Mid North Coast
 1:0:1:B7:702:1019:EEEE0000:0:0:0:      9gomidnorthcoast     9go                  # 9GO! Mid North Coast
 1:0:1:C1:702:1019:EEEE0000:0:0:0:      ninemidnorthcoast    channel9             # Nine Mid North Coast
@@ -491,7 +491,7 @@
 1:0:19:431:430:1012:EEEE0000:0:0:0:    9hdmelbourne         9hd                  # 9HD Melbourne
 1:0:1:432:430:1012:EEEE0000:0:0:0:     9go                  9go                  # 9Go!
 1:0:1:433:430:1012:EEEE0000:0:0:0:     9life                9life                # 9Life
-1:0:1:434:430:1012:EEEE0000:0:0:0:     extra                yourmoney            # Extra
+1:0:1:434:430:1012:EEEE0000:0:0:0:     extra                9gemhd               # Extra
 1:0:1:435:430:1012:EEEE0000:0:0:0:     channel9melbourne    channel9             # Channel 9 Melbourne
 1:0:1:436:430:1012:EEEE0000:0:0:0:     9gem                 9gem                 # 9Gem
 1:0:1:437:430:1012:EEEE0000:0:0:0:     9go                  9go                  # 9Go!
@@ -689,7 +689,7 @@
 1:0:19:431:430:1012:EEEE0000:0:0:0:    9hdmelbourne         9hd                  # 9HD Melbourne
 1:0:1:432:430:1012:EEEE0000:0:0:0:     9go                  9go                  # 9Go!
 1:0:1:433:430:1012:EEEE0000:0:0:0:     9life                9life                # 9Life
-1:0:1:434:430:1012:EEEE0000:0:0:0:     yourmoney            yourmoney            # Your Money
+1:0:1:434:430:1012:EEEE0000:0:0:0:     yourmoney            9gemhd               # Your Money
 1:0:1:435:430:1012:EEEE0000:0:0:0:     channel9melbourne    channel9             # Channel 9 Melbourne
 1:0:1:436:430:1012:EEEE0000:0:0:0:     9gem                 9gem                 # 9Gem
 1:0:1:437:430:1012:EEEE0000:0:0:0:     9go                  9go                  # 9Go!
@@ -977,7 +977,7 @@
 1:0:19:6F:700:1019:EEEE0000:0:0:0:     9hdnewcastle         9hd                  # 9HD Newcastle
 1:0:1:79:700:1019:EEEE0000:0:0:0:      9gemnewcastle        9gem                 # 9GEM Newcastle
 1:0:1:83:700:1019:EEEE0000:0:0:0:      9gonewcastle         9go                  # 9GO! Newcastle
-1:0:1:8D:700:1019:EEEE0000:0:0:0:      extra                yourmoney            # eXtra
+1:0:1:8D:700:1019:EEEE0000:0:0:0:      extra                9gemhd               # eXtra
 1:0:1:97:700:1019:EEEE0000:0:0:0:      9lifenewcastle       9life                # 9Life Newcastle
 1:0:1:B5:700:1019:EEEE0000:0:0:0:      9gonewcastle         9go                  # 9GO! Newcastle
 1:0:1:BF:700:1019:EEEE0000:0:0:0:      ninenewcastle        channel9             # Nine Newcastle
@@ -1036,7 +1036,7 @@
 1:0:19:472:441:1012:EEEE0000:0:0:0:    9hdgoldcoast         9hd                  # 9HD Gold Coast
 1:0:1:473:441:1012:EEEE0000:0:0:0:     9go                  9go                  # 9Go!
 1:0:1:474:441:1012:EEEE0000:0:0:0:     9life                9life                # 9Life
-1:0:1:475:441:1012:EEEE0000:0:0:0:     extra                yourmoney            # Extra
+1:0:1:475:441:1012:EEEE0000:0:0:0:     extra                9gemhd               # Extra
 1:0:1:476:441:1012:EEEE0000:0:0:0:     channel9goldcoast    channel9             # Channel 9 Gold Coast
 1:0:1:477:441:1012:EEEE0000:0:0:0:     9gem                 9gem                 # 9Gem
 1:0:1:478:441:1012:EEEE0000:0:0:0:     9go                  9go                  # 9Go!
@@ -1059,7 +1059,7 @@
 1:0:19:72:703:1019:EEEE0000:0:0:0:     9hdfarnorthcoast     9hd                  # 9HD Far North Coast
 1:0:1:7C:703:1019:EEEE0000:0:0:0:      9gemfarnorthcoast    9gem                 # 9GEM Far North Coast
 1:0:1:86:703:1019:EEEE0000:0:0:0:      9gofarnorthcoast     9go                  # 9GO! Far North Coast
-1:0:1:90:703:1019:EEEE0000:0:0:0:      extra                yourmoney            # eXtra
+1:0:1:90:703:1019:EEEE0000:0:0:0:      extra                9gemhd               # eXtra
 1:0:1:9A:703:1019:EEEE0000:0:0:0:      9lifefarnorthcoast   9life                # 9Life Far North Coast
 1:0:1:B8:703:1019:EEEE0000:0:0:0:      9gofarnorthcoast     9go                  # 9GO! Far North Coast
 1:0:1:C2:703:1019:EEEE0000:0:0:0:      ninefarnorthcoast    channel9             # Nine Far North Coast
@@ -1067,7 +1067,7 @@
 1:0:19:73:704:1019:EEEE0000:0:0:0:     9hdgoldcoast         9hd                  # 9HD Gold Coast
 1:0:1:7D:704:1019:EEEE0000:0:0:0:      9gemgoldcoast        9gem                 # 9GEM Gold Coast
 1:0:1:87:704:1019:EEEE0000:0:0:0:      9gogoldcoast         9go                  # 9GO! Gold Coast
-1:0:1:91:704:1019:EEEE0000:0:0:0:      extra                yourmoney            # eXtra
+1:0:1:91:704:1019:EEEE0000:0:0:0:      extra                9gemhd               # eXtra
 1:0:1:9B:704:1019:EEEE0000:0:0:0:      9lifegoldcoast       9life                # 9Life Gold Coast
 1:0:1:B9:704:1019:EEEE0000:0:0:0:      9gogoldcoast         9go                  # 9GO! Gold Coast
 1:0:1:C3:704:1019:EEEE0000:0:0:0:      ninenbngoldcoast     nbn                  # Nine-NBN Gold Coast
@@ -1193,7 +1193,7 @@
 1:0:19:462:460:1012:EEEE0000:0:0:0:    9hdperth             9hd                  # 9HD Perth
 1:0:1:463:460:1012:EEEE0000:0:0:0:     9go                  9go                  # 9Go!
 1:0:1:464:460:1012:EEEE0000:0:0:0:     9life                9life                # 9Life
-1:0:1:465:460:1012:EEEE0000:0:0:0:     yourmoney            yourmoney            # Your Money
+1:0:1:465:460:1012:EEEE0000:0:0:0:     yourmoney            9gemhd               # Your Money
 1:0:1:466:460:1012:EEEE0000:0:0:0:     channel9perth        channel9             # Channel 9 Perth
 1:0:1:467:460:1012:EEEE0000:0:0:0:     9gem                 9gem                 # 9Gem
 1:0:1:468:460:1012:EEEE0000:0:0:0:     9go                  9go                  # 9Go!
@@ -1418,7 +1418,7 @@
 1:0:1:401:400:1012:EEEE0000:0:0:0:     channel9brisbane     channel9             # Channel 9 Brisbane
 1:0:1:406:400:1012:EEEE0000:0:0:0:     9go                  9go                  # 9Go!
 1:0:1:407:400:1012:EEEE0000:0:0:0:     9life                9life                # 9Life
-1:0:1:408:400:1012:EEEE0000:0:0:0:     extra                yourmoney            # Extra
+1:0:1:408:400:1012:EEEE0000:0:0:0:     extra                9gemhd               # Extra
 1:0:1:409:400:1012:EEEE0000:0:0:0:     channel9brisbane     channel9             # Channel 9 Brisbane
 1:0:1:40A:400:1012:EEEE0000:0:0:0:     9gem                 9gem                 # 9Gem
 1:0:1:40B:400:1012:EEEE0000:0:0:0:     9go                  9go                  # 9Go!
@@ -1513,7 +1513,7 @@
 1:0:19:422:420:1012:EEEE0000:0:0:0:    9hdsydney            9hd                  # 9HD Sydney
 1:0:1:423:420:1012:EEEE0000:0:0:0:     9go                  9go                  # 9Go!
 1:0:1:424:420:1012:EEEE0000:0:0:0:     9life                9life                # 9Life
-1:0:1:425:420:1012:EEEE0000:0:0:0:     yourmoney            yourmoney            # Your Money
+1:0:1:425:420:1012:EEEE0000:0:0:0:     yourmoney            9gemhd               # Your Money
 1:0:1:426:420:1012:EEEE0000:0:0:0:     channel9sydney       channel9             # Channel 9 Sydney
 1:0:1:427:420:1012:EEEE0000:0:0:0:     9gem                 9gem                 # 9Gem
 1:0:1:428:420:1012:EEEE0000:0:0:0:     9go                  9go                  # 9Go!
@@ -1565,7 +1565,7 @@
 1:0:19:70:701:1019:EEEE0000:0:0:0:     9hdnewengland        9hd                  # 9HD New England
 1:0:1:7A:701:1019:EEEE0000:0:0:0:      9gemnewengland       9gem                 # 9GEM New England
 1:0:1:84:701:1019:EEEE0000:0:0:0:      9gonewengland        9go                  # 9GO! New England
-1:0:1:8E:701:1019:EEEE0000:0:0:0:      extra                yourmoney            # eXtra
+1:0:1:8E:701:1019:EEEE0000:0:0:0:      extra                9gemhd               # eXtra
 1:0:1:98:701:1019:EEEE0000:0:0:0:      9lifenewengland      9life                # 9Life New England
 1:0:1:B6:701:1019:EEEE0000:0:0:0:      9gonewengland        9go                  # 9GO! New England
 1:0:1:C0:701:1019:EEEE0000:0:0:0:      nbnnewengland        nbn                  # NBN New England
@@ -1619,7 +1619,7 @@
 1:0:19:75:706:1019:EEEE0000:0:0:0:     9hdtareeportmacquarie 9hd                  # 9HD Taree-Port Macquarie
 1:0:1:7F:706:1019:EEEE0000:0:0:0:      9gemtareeportmacquarie 9gem                 # 9GEM Taree-Port Macquarie
 1:0:1:89:706:1019:EEEE0000:0:0:0:      9gotareeportmacquarie 9go                  # 9GO! Taree-Port Macquarie
-1:0:1:93:706:1019:EEEE0000:0:0:0:      yourmoney            yourmoney            # Your Money
+1:0:1:93:706:1019:EEEE0000:0:0:0:      yourmoney            9gemhd               # Your Money
 1:0:1:9D:706:1019:EEEE0000:0:0:0:      9lifetareeportmacquarie 9life                # 9Life Taree-Port Macquarie
 1:0:1:BB:706:1019:EEEE0000:0:0:0:      9gotareeportmacquarie 9go                  # 9GO! Taree-Port Macquarie
 1:0:1:C5:706:1019:EEEE0000:0:0:0:      ninetareeportmacquarie channel9             # Nine Taree-Port Macquarie
