@@ -135,7 +135,7 @@
 1:0:1:8A3:803:320C:EEEE0000:0:0:0:     ninebendigo          channel9             # Nine Bendigo
 1:0:1:8C3:803:320C:EEEE0000:0:0:0:     9hdbendigo           9hd                  # 9HD Bendigo
 1:0:1:8E3:803:320C:EEEE0000:0:0:0:     9life                9life                # 9Life
-1:0:1:781:327B:3274:EEEE0000:0:0:0:    win                  win                  # WIN 
+1:0:1:781:327B:3274:EEEE0000:0:0:0:    win                  win                  # WIN
 1:0:1:782:327B:3274:EEEE0000:0:0:0:    one                  10bold               # ONE
 1:0:1:784:327B:3274:EEEE0000:0:0:0:    win                  win                  # WIN
 1:0:1:785:327B:3274:EEEE0000:0:0:0:    one                  10bold               # ONE
@@ -300,7 +300,7 @@
 1:0:16:787:327A:3273:EEEE0000:0:0:0:   gold                 gold                 # GOLD
 1:0:1:788:327A:3273:EEEE0000:0:0:0:    tvsn                 tvsn                 # TVSN
 1:0:16:790:327A:3273:EEEE0000:0:0:0:   skynewsonwin         skynewsonwin         # Sky News on WIN
-1:0:19:793:327A:3273:EEEE0000:0:0:0:   winhdcanberra        winhd                # WIN HD Canberra 
+1:0:19:793:327A:3273:EEEE0000:0:0:0:   winhdcanberra        winhd                # WIN HD Canberra
 1:0:1:946:99E:3281:EEEE0000:0:0:0:     prime7canberra       prime7               # PRIME7 Canberra
 1:0:19:960:99E:3281:EEEE0000:0:0:0:    prime7hdcanberra     prime7hd             # PRIME7 HD Canberra
 1:0:1:961:99E:3281:EEEE0000:0:0:0:     prime7canberra       prime7               # PRIME7 Canberra
@@ -568,7 +568,7 @@
 1:0:1:857:817:320C:EEEE0000:0:0:0:     9go                  9go                  # 9Go!
 1:0:1:877:817:320C:EEEE0000:0:0:0:     ninetas              channel9             # Nine Tas
 1:0:1:897:817:320C:EEEE0000:0:0:0:     9hdtas               9hd                  # 9HD Tas
-1:0:1:781:327A:3275:EEEE0000:0:0:0:    win                  win                  # WIN 
+1:0:1:781:327A:3275:EEEE0000:0:0:0:    win                  win                  # WIN
 1:0:1:782:327A:3275:EEEE0000:0:0:0:    one                  10bold               # ONE
 1:0:1:784:327A:3275:EEEE0000:0:0:0:    win                  win                  # WIN
 1:0:1:785:327A:3275:EEEE0000:0:0:0:    one                  10bold               # ONE
@@ -747,7 +747,7 @@
 1:0:16:787:327A:3274:EEEE0000:0:0:0:   gold                 gold                 # GOLD
 1:0:1:788:327A:3274:EEEE0000:0:0:0:    tvsn                 tvsn                 # TVSN
 1:0:16:790:327A:3274:EEEE0000:0:0:0:   skynewsonwin         skynewsonwin         # Sky News on WIN
-1:0:19:792:327A:3274:EEEE0000:0:0:0:   winhdwesternvic      winhd                # WIN HD Western Vic 
+1:0:19:792:327A:3274:EEEE0000:0:0:0:   winhdwesternvic      winhd                # WIN HD Western Vic
 1:0:1:781:327C:3276:EEEE0000:0:0:0:    winmtgambier         win                  # WIN Mt Gambier
 1:0:1:782:327C:3276:EEEE0000:0:0:0:    boldmtgambier        winbold              # BOLD Mt Gambier
 1:0:1:783:327C:3276:EEEE0000:0:0:0:    peachmtgambier       winpeach             # PEACH Mt Gambier
@@ -1040,7 +1040,7 @@
 1:0:16:787:327C:3273:EEEE0000:0:0:0:   gold                 gold                 # GOLD
 1:0:1:788:327C:3273:EEEE0000:0:0:0:    tvsn                 tvsn                 # TVSN
 1:0:16:790:327C:3273:EEEE0000:0:0:0:   skynewsonwin         skynewsonwin         # Sky News on WIN
-1:0:19:791:327C:3273:EEEE0000:0:0:0:   winhdorange          winhd                # WIN HD Orange 
+1:0:19:791:327C:3273:EEEE0000:0:0:0:   winhdorange          winhd                # WIN HD Orange
 1:0:1:943:9A2:3281:EEEE0000:0:0:0:     prime7orange         prime7               # PRIME7 Orange
 1:0:19:960:9A2:3281:EEEE0000:0:0:0:    prime7hdorange       prime7hd             # PRIME7 HD Orange
 1:0:1:961:9A2:3281:EEEE0000:0:0:0:     prime7orange         prime7               # PRIME7 Orange
@@ -1338,7 +1338,7 @@
 1:0:1:8D1:811:320C:EEEE0000:0:0:0:     9hdsunshinecoast     9hd                  # 9HD Sunshine Coast
 1:0:1:8F1:811:320C:EEEE0000:0:0:0:     9life                9life                # 9Life
 1:0:1:E01:E00:322A:EEEE0000:0:0:0:     31digital            31digital            # 31 Digital
-1:0:1:781:327F:3271:EEEE0000:0:0:0:    win                  win                  # WIN 
+1:0:1:781:327F:3271:EEEE0000:0:0:0:    win                  win                  # WIN
 1:0:1:782:327F:3271:EEEE0000:0:0:0:    one                  10bold               # ONE
 1:0:1:784:327F:3271:EEEE0000:0:0:0:    win                  win                  # WIN
 1:0:1:785:327F:3271:EEEE0000:0:0:0:    one                  10bold               # ONE
@@ -1549,7 +1549,7 @@
 1:0:1:8B0:810:320C:EEEE0000:0:0:0:     ninetoowoomba        channel9             # Nine Toowoomba
 1:0:1:8D0:810:320C:EEEE0000:0:0:0:     9hdtoowoomba         9hd                  # 9HD Toowoomba
 1:0:1:8F0:810:320C:EEEE0000:0:0:0:     9life                9life                # 9Life
-1:0:1:781:3280:3271:EEEE0000:0:0:0:    win                  win                  # WIN 
+1:0:1:781:3280:3271:EEEE0000:0:0:0:    win                  win                  # WIN
 1:0:1:782:3280:3271:EEEE0000:0:0:0:    one                  10bold               # ONE
 1:0:1:784:3280:3271:EEEE0000:0:0:0:    win                  win                  # WIN
 1:0:1:785:3280:3271:EEEE0000:0:0:0:    one                  10bold               # ONE
@@ -1605,7 +1605,7 @@
 1:0:19:8D5:815:320C:EEEE0000:0:0:0:    9hdtownsville        9hd                  # 9HD Townsville
 1:0:1:8F5:815:320C:EEEE0000:0:0:0:     9life                9life                # 9Life
 1:0:16:8F5:815:320C:EEEE0000:0:0:0:    9life                9life                # 9Life
-1:0:1:781:327B:3271:EEEE0000:0:0:0:    win                  win                  # WIN 
+1:0:1:781:327B:3271:EEEE0000:0:0:0:    win                  win                  # WIN
 1:0:1:782:327B:3271:EEEE0000:0:0:0:    one                  10bold               # ONE
 1:0:1:784:327B:3271:EEEE0000:0:0:0:    win                  win                  # WIN
 1:0:1:785:327B:3271:EEEE0000:0:0:0:    one                  10bold               # ONE
@@ -1651,7 +1651,7 @@
 1:0:1:8A6:806:320C:EEEE0000:0:0:0:     ninewaggawagga       channel9             # Nine Wagga Wagga
 1:0:1:8C6:806:320C:EEEE0000:0:0:0:     9hdwaggawagga        9hd                  # 9HD Wagga Wagga
 1:0:1:8E6:806:320C:EEEE0000:0:0:0:     9life                9life                # 9Life
-1:0:1:781:327D:3273:EEEE0000:0:0:0:    win                  win                  # WIN 
+1:0:1:781:327D:3273:EEEE0000:0:0:0:    win                  win                  # WIN
 1:0:1:782:327D:3273:EEEE0000:0:0:0:    one                  10bold               # ONE
 1:0:1:784:327D:3273:EEEE0000:0:0:0:    win                  win                  # WIN
 1:0:1:785:327D:3273:EEEE0000:0:0:0:    one                  10bold               # ONE
@@ -1765,7 +1765,7 @@
 1:0:1:8B2:812:320C:EEEE0000:0:0:0:     ninewidebay          channel9             # Nine Wide Bay
 1:0:1:8D2:812:320C:EEEE0000:0:0:0:     9hdwidebay           9hd                  # 9HD Wide Bay
 1:0:1:8F2:812:320C:EEEE0000:0:0:0:     9life                9life                # 9Life
-1:0:1:781:3274:3271:EEEE0000:0:0:0:    win                  win                  # WIN 
+1:0:1:781:3274:3271:EEEE0000:0:0:0:    win                  win                  # WIN
 1:0:1:782:3274:3271:EEEE0000:0:0:0:    one                  10bold               # ONE
 1:0:1:784:3274:3271:EEEE0000:0:0:0:    win                  win                  # WIN
 1:0:1:785:3274:3271:EEEE0000:0:0:0:    one                  10bold               # ONE
