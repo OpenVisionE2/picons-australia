@@ -1786,7 +1786,7 @@
 1:0:2:2A6:223:1010:EEEE0000:0:0:0:     doublej              doublej              # Double J
 1:0:2:2A7:223:1010:EEEE0000:0:0:0:     abcjazz              abcjazz              # ABC Jazz
 1:0:1:351:350:3202:EEEE0000:0:0:0:     sbsone               sbsone               # SBS ONE
-1:0:1:353:350:3202:EEEE0000:0:0:0:     foodnetwork          sbsfood              # Food Network
+1:0:1:353:350:3202:EEEE0000:0:0:0:     sbsfood              sbsfood              # SBS Food
 1:0:1:354:350:3202:EEEE0000:0:0:0:     nitv                 nitv                 # NITV
 1:0:19:355:350:3202:EEEE0000:0:0:0:    sbsonehd             sbsonehd             # SBS ONE HD
 1:0:19:356:350:3202:EEEE0000:0:0:0:    sbsvicelandhd        sbsvicelandhd        # SBS VICELAND HD
@@ -1800,6 +1800,7 @@
 1:0:2:363:350:3202:EEEE0000:0:0:0:     sbsradio3            sbsradio3            # SBS Radio 3
 1:0:2:364:350:3202:EEEE0000:0:0:0:     sbsarabic24          sbsarabic24          # SBS Arabic24
 1:0:2:365:350:3202:EEEE0000:0:0:0:     sbspopdesi           sbspopdesi           # SBS PopDesi
+1:0:19:366:350:3202:EEEE0000:0:0:0:    sbsvicelandhd        sbsvicelandhd        # SBS VICELAND HD
 1:0:2:366:350:3202:EEEE0000:0:0:0:     sbschill             sbschill             # SBS Chill
 1:0:2:367:350:3202:EEEE0000:0:0:0:     sbspopasia           sbspopasia           # SBS PopAsia
 1:0:1:809:809:320C:EEEE0000:0:0:0:     ninewollongong       channel9             # Nine Wollongong
@@ -1810,13 +1811,36 @@
 1:0:1:8A9:809:320C:EEEE0000:0:0:0:     ninewollongong       channel9             # Nine Wollongong
 1:0:19:8C9:809:320C:EEEE0000:0:0:0:    9hdwollongong        9hd                  # 9HD Wollongong
 1:0:16:8E9:809:320C:EEEE0000:0:0:0:    9life                9life                # 9Life
+1:0:1:819:819:320C:EEEE0000:0:0:0:     ninesouthcoast       channel9             # Nine South Coast
+1:0:1:839:819:320C:EEEE0000:0:0:0:     9gem                 9gem                 # 9Gem
+1:0:1:859:819:320C:EEEE0000:0:0:0:     9go                  9go                  # 9Go!
+1:0:16:879:819:320C:EEEE0000:0:0:0:    sbn                  sbn                  # SBN
+1:0:16:899:819:320C:EEEE0000:0:0:0:    aspire               aspire               # Aspire
+1:0:1:8B9:819:320C:EEEE0000:0:0:0:     ninesouthcoast       channel9             # Nine South Coast
+1:0:19:8D9:819:320C:EEEE0000:0:0:0:    9hdsouthcoast        9hd                  # 9HD South Coast
+1:0:16:8F9:819:320C:EEEE0000:0:0:0:    9life                9life                # 9Life
 1:0:1:781:327B:3273:EEEE0000:0:0:0:    winillawarra         win                  # WIN Illawarra
-1:0:1:782:327B:3273:EEEE0000:0:0:0:    oneillawarra         winbold              # ONE Illawarra
-1:0:1:786:327B:3273:EEEE0000:0:0:0:    elevenillawarra      winpeach             # ELEVEN Illawarra
+1:0:1:782:327B:3273:EEEE0000:0:0:0:    boldillawarra        winbold              # BOLD Illawarra
+1:0:1:786:327B:3273:EEEE0000:0:0:0:    peachillawarra       winpeach             # PEACH Illawarra
 1:0:16:787:327B:3273:EEEE0000:0:0:0:   gold                 gold                 # GOLD
 1:0:1:788:327B:3273:EEEE0000:0:0:0:    tvsn                 tvsn                 # TVSN
-1:0:16:790:327B:3273:EEEE0000:0:0:0:   winnetwork           skynewsonwin         # WIN NETWORK
-1:0:19:794:327B:3273:EEEE0000:0:0:0:   winillawarrahd       winhd                # WIN Illawarra HD
+1:0:16:790:327B:3273:EEEE0000:0:0:0:   skynewsonwin         skynewsonwin         # Sky News on WIN
+1:0:19:794:327B:3273:EEEE0000:0:0:0:   winhdillawarra       winhd                # WIN HD Illawarra
+1:0:1:781:327F:3273:EEEE0000:0:0:0:    winsouthcoast        win                  # WIN South Coast
+1:0:1:782:327F:3273:EEEE0000:0:0:0:    onesouthcoast        winbold              # ONE South Coast
+1:0:1:786:327F:3273:EEEE0000:0:0:0:    elevensouthcoast     winpeach             # ELEVEN South Coast
+1:0:16:787:327F:3273:EEEE0000:0:0:0:   gold                 gold                 # GOLD
+1:0:1:788:327F:3273:EEEE0000:0:0:0:    tvsn                 tvsn                 # TVSN
+1:0:16:790:327F:3273:EEEE0000:0:0:0:   skynewsonwin         skynewsonwin         # Sky News on WIN
+1:0:19:795:327F:3273:EEEE0000:0:0:0:   winhdsouthcoast      winhd                # WIN HD South Coast
+1:0:1:947:99E:3281:EEEE0000:0:0:0:     prime7sthcoast       prime7               # PRIME7 Sth Coast
+1:0:1:96A:99E:3281:EEEE0000:0:0:0:     prime7hdsthcoast     prime7hd             # PRIME7 HD Sth Coast
+1:0:1:96B:99E:3281:EEEE0000:0:0:0:     prime7sthcoast       prime7               # PRIME7 Sth Coast
+1:0:1:96C:99E:3281:EEEE0000:0:0:0:     7twosthcoast         7two                 # 7TWO Sth Coast
+1:0:1:96D:99E:3281:EEEE0000:0:0:0:     7matesthcoast        7mate                # 7mate Sth Coast
+1:0:16:96F:99E:3281:EEEE0000:0:0:0:    ishoptv              ishoptv              # ishoptv
+1:0:16:970:99E:3281:EEEE0000:0:0:0:    7flix                7flix                # 7flix
+1:0:16:972:99E:3281:EEEE0000:0:0:0:    racingcom            racingcom            # RACING.COM
 1:0:1:942:99F:3281:EEEE0000:0:0:0:     prime7wollongong     prime7               # PRIME7 Wollongong
 1:0:19:960:99F:3281:EEEE0000:0:0:0:    prime7hdwollongong   prime7hd             # PRIME7 HD Wollongong
 1:0:1:961:99F:3281:EEEE0000:0:0:0:     prime7wollongong     prime7               # PRIME7 Wollongong
