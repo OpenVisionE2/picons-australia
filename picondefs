@@ -1536,7 +1536,7 @@
 1:0:1:BB:706:1019:EEEE0000:0:0:0:      9gotareeportmacquarie 9go                  # 9GO! Taree-Port Macquarie
 1:0:1:C5:706:1019:EEEE0000:0:0:0:      ninetareeportmacquarie channel9             # Nine Taree-Port Macquarie
 1:0:1:351:350:3202:EEEE0000:0:0:0:     sbsone               sbsone               # SBS ONE
-1:0:1:353:350:3202:EEEE0000:0:0:0:     foodnetwork          sbsfood              # Food Network
+1:0:1:353:350:3202:EEEE0000:0:0:0:     sbsfood              sbsfood              # SBS Food
 1:0:1:354:350:3202:EEEE0000:0:0:0:     nitv                 nitv                 # NITV
 1:0:19:355:350:3202:EEEE0000:0:0:0:    sbsonehd             sbsonehd             # SBS ONE HD
 1:0:19:356:350:3202:EEEE0000:0:0:0:    sbsvicelandhd        sbsvicelandhd        # SBS VICELAND HD
@@ -1556,7 +1556,7 @@
 1:0:16:787:329D:3272:EEEE0000:0:0:0:   gold                 gold                 # GOLD
 1:0:16:788:329D:3272:EEEE0000:0:0:0:   tvsn                 tvsn                 # TVSN
 1:0:1:820:329D:3272:EEEE0000:0:0:0:    winportmacquarie     win                  # WIN Port Macquarie
-1:0:1:822:329D:3272:EEEE0000:0:0:0:    bossportmacquarie    winbold              # BOSS Port Macquarie
+1:0:1:822:329D:3272:EEEE0000:0:0:0:    boldportmacquarie    winbold              # BOLD Port Macquarie
 1:0:1:824:329D:3272:EEEE0000:0:0:0:    peachportmacquarie   winpeach             # PEACH Port Macquarie
 1:0:19:825:329D:3272:EEEE0000:0:0:0:   winhdportmacquarie   winhd                # WIN HD Port Macquarie
 1:0:16:826:329D:3272:EEEE0000:0:0:0:   skynewsonwin         skynewsonwin         # Sky News on WIN
