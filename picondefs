@@ -882,7 +882,6 @@
 1:0:1:901:328A:3282:EEEE0000:0:0:0:    sevenmtgambier       7digital             # Seven Mt Gambier
 1:0:1:902:328A:3282:EEEE0000:0:0:0:    7twomtgambier        7two                 # 7 TWO Mt Gambier
 1:0:1:903:328A:3282:EEEE0000:0:0:0:    7matemtgambier       7mate                # 7mate Mt Gambier
-1:0:16:907:328A:3282:EEEE0000:0:0:0:   7foodnetwork         7foodnetwork         # 7food network
 1:0:1:94E:99D:3283:EEEE0000:0:0:0:     prime7ballarat       prime7               # PRIME7 Ballarat
 1:0:19:960:99D:3283:EEEE0000:0:0:0:    prime7hdballarat     prime7hd             # PRIME7 HD Ballarat
 1:0:1:961:99D:3283:EEEE0000:0:0:0:     prime7ballarat       prime7               # PRIME7 Ballarat
@@ -1292,7 +1291,6 @@
 1:0:16:87D:81D:1017:EEEE0000:0:0:0:    sbn                  sbn                  # SBN
 1:0:16:89D:81D:1017:EEEE0000:0:0:0:    tvsn                 tvsn                 # TVSN
 1:0:1:906:906:1017:EEEE0000:0:0:0:     7portpirie           7digital             # 7 Port Pirie
-1:0:16:907:906:1017:EEEE0000:0:0:0:    7foodnetwork         7foodnetwork         # 7food network
 1:0:1:926:906:1017:EEEE0000:0:0:0:     7mate                7mate                # 7mate
 1:0:1:946:906:1017:EEEE0000:0:0:0:     7two                 7two                 # 7TWO
 1:0:16:9A6:906:1017:EEEE0000:0:0:0:    racingcom            racingcom            # RACING.COM
