@@ -27,6 +27,7 @@
 1:0:1:553:505:1013:EEEE0000:0:0:0:     7mateadelaide        7mate                # 7mate Adelaide
 1:0:19:554:505:1013:EEEE0000:0:0:0:    7hdadelaide          7hd                  # 7HD Adelaide
 1:0:1:555:505:1013:EEEE0000:0:0:0:     7flixadelaide        7flix                # 7flix Adelaide
+1:0:16:556:505:1013:EEEE0000:0:0:0:    openshop             openshop             # openshop
 1:0:16:557:505:1013:EEEE0000:0:0:0:    7foodnetwork         7foodnetwork         # 7food network
 1:0:16:558:505:1013:EEEE0000:0:0:0:    racingcom            racingcom            # RACING.COM
 1:0:1:651:605:1014:EEEE0000:0:0:0:     10boss               10bold               # 10 Boss
@@ -242,6 +243,7 @@
 1:0:1:543:504:1013:EEEE0000:0:0:0:     7matebrisbane        7mate                # 7mate Brisbane
 1:0:19:544:504:1013:EEEE0000:0:0:0:    7hdbrisbane          7hd                  # 7HD Brisbane
 1:0:1:545:504:1013:EEEE0000:0:0:0:     7flixbrisbane        7flix                # 7flix Brisbane
+1:0:16:546:504:1013:EEEE0000:0:0:0:    openshop             openshop             # openshop
 1:0:16:547:504:1013:EEEE0000:0:0:0:    7foodnetwork         7foodnetwork         # 7food network
 1:0:16:548:504:1013:EEEE0000:0:0:0:    racingcom            racingcom            # RACING.COM
 1:0:1:641:604:1014:EEEE0000:0:0:0:     10bold               10bold               # 10 BOLD
@@ -397,6 +399,7 @@
 1:0:1:523:502:1013:EEEE0000:0:0:0:     7mate                7mate                # 7mate
 1:0:1:524:502:1013:EEEE0000:0:0:0:     7hdcentralcoast      7hd                  # 7HD Central Coast
 1:0:16:525:502:1013:EEEE0000:0:0:0:    7flix                7flix                # 7flix
+1:0:16:526:502:1013:EEEE0000:0:0:0:    openshop             openshop             # openshop
 1:0:16:527:502:1013:EEEE0000:0:0:0:    7foodnetwork         7foodnetwork         # 7food network
 1:0:16:528:502:1013:EEEE0000:0:0:0:    racingcom            racingcom            # RACING.COM
 1:0:1:621:602:1014:EEEE0000:0:0:0:     one                  10bold               # ONE
@@ -514,6 +517,7 @@
 1:0:1:533:503:1013:EEEE0000:0:0:0:     7matemelbourne       7mate                # 7mate Melbourne
 1:0:19:534:503:1013:EEEE0000:0:0:0:    7hdmelbourne         7hd                  # 7HD Melbourne
 1:0:1:535:503:1013:EEEE0000:0:0:0:     7flixmelbourne       7flix                # 7flix Melbourne
+1:0:16:536:503:1013:EEEE0000:0:0:0:    openshop             openshop             # openshop
 1:0:16:537:503:1013:EEEE0000:0:0:0:    7foodnetwork         7foodnetwork         # 7food network
 1:0:16:538:503:1013:EEEE0000:0:0:0:    racingcom            racingcom            # RACING.COM
 1:0:1:631:603:1014:EEEE0000:0:0:0:     one                  10bold               # ONE
@@ -608,6 +612,7 @@
 1:0:1:543:504:1013:EEEE0000:0:0:0:     7mategoldcoast       7mate                # 7mate Gold Coast
 1:0:19:544:504:1013:EEEE0000:0:0:0:    7hdgoldcoast         7hd                  # 7HD Gold Coast
 1:0:1:545:504:1013:EEEE0000:0:0:0:     7flixgoldcoast       7flix                # 7flix Gold Coast
+1:0:16:546:504:1013:EEEE0000:0:0:0:    openshop             openshop             # openshop
 1:0:1:547:504:1013:EEEE0000:0:0:0:     7foodnetwork         7foodnetwork         # 7food network
 1:0:16:547:504:1013:EEEE0000:0:0:0:    7foodnetwork         7foodnetwork         # 7food network
 1:0:16:548:504:1013:EEEE0000:0:0:0:    racingcom            racingcom            # RACING.COM
@@ -777,6 +782,7 @@
 1:0:1:533:503:1013:EEEE0000:0:0:0:     7matemelbourne       7mate                # 7mate Melbourne
 1:0:19:534:503:1013:EEEE0000:0:0:0:    7hdmelbourne         7hd                  # 7HD Melbourne
 1:0:1:535:503:1013:EEEE0000:0:0:0:     7flixmelbourne       7flix                # 7flix Melbourne
+1:0:16:536:503:1013:EEEE0000:0:0:0:    openshop             openshop             # openshop
 1:0:16:537:503:1013:EEEE0000:0:0:0:    7foodnetwork         7foodnetwork         # 7food network
 1:0:16:538:503:1013:EEEE0000:0:0:0:    racingcom            racingcom            # RACING.COM
 1:0:1:631:603:1014:EEEE0000:0:0:0:     10bold               10bold               # 10 BOLD
@@ -1115,6 +1121,7 @@
 1:0:1:563:506:1013:EEEE0000:0:0:0:     7mateperth           7mate                # 7mate Perth
 1:0:19:564:506:1013:EEEE0000:0:0:0:    7hdperth             7hd                  # 7HD Perth
 1:0:1:565:506:1013:EEEE0000:0:0:0:     7flixperth           7flix                # 7flix Perth
+1:0:16:566:506:1013:EEEE0000:0:0:0:    openshop             openshop             # openshop
 1:0:16:567:506:1013:EEEE0000:0:0:0:    7foodnetwork         7foodnetwork         # 7food network
 1:0:16:568:506:1013:EEEE0000:0:0:0:    racingcom            racingcom            # RACING.COM
 1:0:1:681:607:1014:EEEE0000:0:0:0:     10bold               10bold               # 10 BOLD
@@ -1325,6 +1332,7 @@
 1:0:1:543:504:1013:EEEE0000:0:0:0:     7matebrisbane        7mate                # 7mate Brisbane
 1:0:19:544:504:1013:EEEE0000:0:0:0:    7hdbrisbane          7hd                  # 7HD Brisbane
 1:0:16:545:504:1013:EEEE0000:0:0:0:    7flixbrisbane        7flix                # 7flix Brisbane
+1:0:16:546:504:1013:EEEE0000:0:0:0:    openshop             openshop             # openshop
 1:0:16:547:504:1013:EEEE0000:0:0:0:    7foodnetwork         7foodnetwork         # 7food network
 1:0:16:548:504:1013:EEEE0000:0:0:0:    racingcom            racingcom            # RACING.COM
 1:0:1:960:950:1013:EEEE0000:0:0:0:     7suncoast            7digital             # 7 Sun Coast
@@ -1419,6 +1427,7 @@
 1:0:1:523:502:1013:EEEE0000:0:0:0:     7matesydney          7mate                # 7mate Sydney
 1:0:19:524:502:1013:EEEE0000:0:0:0:    7hdsydney            7hd                  # 7HD Sydney
 1:0:1:525:502:1013:EEEE0000:0:0:0:     7flixsydney          7flix                # 7flix Sydney
+1:0:16:526:502:1013:EEEE0000:0:0:0:    openshop             openshop             # openshop
 1:0:16:527:502:1013:EEEE0000:0:0:0:    7foodnetwork         7foodnetwork         # 7food network
 1:0:16:528:502:1013:EEEE0000:0:0:0:    racingcom            racingcom            # RACING.COM
 1:0:1:621:602:1014:EEEE0000:0:0:0:     10bold               10bold               # 10 BOLD
