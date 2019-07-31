@@ -51,7 +51,6 @@
 1:0:2:353:340:3202:EEEE0000:0:0:0:     sbsradio3            sbsradio3            # SBS Radio 3
 1:0:2:354:340:3202:EEEE0000:0:0:0:     sbsarabic24          sbsarabic24          # SBS Arabic24
 1:0:2:355:340:3202:EEEE0000:0:0:0:     sbspopdesi           sbspopdesi           # SBS PopDesi
-1:0:19:356:340:3202:EEEE0000:0:0:0:    sbsvicelandhd        sbsvicelandhd        # SBS VICELAND HD
 1:0:2:356:340:3202:EEEE0000:0:0:0:     sbschill             sbschill             # SBS Chill
 1:0:2:357:340:3202:EEEE0000:0:0:0:     sbspopasia           sbspopasia           # SBS PopAsia
 1:0:1:E01:E00:3234:EEEE0000:0:0:0:     44adelaide           44adelaide           # 44 Adelaide
@@ -125,7 +124,6 @@
 1:0:2:363:350:3202:EEEE0000:0:0:0:     sbsradio3            sbsradio3            # SBS Radio 3
 1:0:2:364:350:3202:EEEE0000:0:0:0:     sbsarabic24          sbsarabic24          # SBS Arabic24
 1:0:2:365:350:3202:EEEE0000:0:0:0:     sbspopdesi           sbspopdesi           # SBS PopDesi
-1:0:19:366:350:3202:EEEE0000:0:0:0:    sbsvicelandhd        sbsvicelandhd        # SBS VICELAND HD
 1:0:2:366:350:3202:EEEE0000:0:0:0:     sbschill             sbschill             # SBS Chill
 1:0:2:367:350:3202:EEEE0000:0:0:0:     sbspopasia           sbspopasia           # SBS PopAsia
 1:0:1:805:805:320C:EEEE0000:0:0:0:     ninealbury           channel9             # Nine Albury
@@ -268,7 +266,6 @@
 1:0:2:343:330:3202:EEEE0000:0:0:0:     sbsradio3            sbsradio3            # SBS Radio 3
 1:0:2:344:330:3202:EEEE0000:0:0:0:     sbsarabic24          sbsarabic24          # SBS Arabic24
 1:0:2:345:330:3202:EEEE0000:0:0:0:     sbspopdesi           sbspopdesi           # SBS PopDesi
-1:0:19:346:330:3202:EEEE0000:0:0:0:    sbsvicelandhd        sbsvicelandhd        # SBS VICELAND HD
 1:0:2:346:330:3202:EEEE0000:0:0:0:     sbschill             sbschill             # SBS Chill
 1:0:2:347:330:3202:EEEE0000:0:0:0:     sbspopasia           sbspopasia           # SBS PopAsia
 
@@ -350,7 +347,6 @@
 1:0:2:363:350:3202:EEEE0000:0:0:0:     sbsradio3            sbsradio3            # SBS Radio 3
 1:0:2:364:350:3202:EEEE0000:0:0:0:     sbsarabic24          sbsarabic24          # SBS Arabic24
 1:0:2:365:350:3202:EEEE0000:0:0:0:     sbspopdesi           sbspopdesi           # SBS PopDesi
-1:0:19:366:350:3202:EEEE0000:0:0:0:    sbsvicelandhd        sbsvicelandhd        # SBS VICELAND HD
 1:0:2:366:350:3202:EEEE0000:0:0:0:     sbschill             sbschill             # SBS Chill
 1:0:2:367:350:3202:EEEE0000:0:0:0:     sbspopasia           sbspopasia           # SBS PopAsia
 1:0:1:807:807:320C:EEEE0000:0:0:0:     ninecanberra         channel9             # Nine Canberra
@@ -476,7 +472,6 @@
 1:0:2:363:350:3202:EEEE0000:0:0:0:     sbsradio3            sbsradio3            # SBS Radio 3
 1:0:2:364:350:3202:EEEE0000:0:0:0:     sbsarabic24          sbsarabic24          # SBS Arabic24
 1:0:2:365:350:3202:EEEE0000:0:0:0:     sbspopdesi           sbspopdesi           # SBS PopDesi
-1:0:19:366:350:3202:EEEE0000:0:0:0:    sbsvicelandhd        sbsvicelandhd        # SBS VICELAND HD
 1:0:2:366:350:3202:EEEE0000:0:0:0:     sbschill             sbschill             # SBS Chill
 1:0:2:367:350:3202:EEEE0000:0:0:0:     sbspopasia           sbspopasia           # SBS PopAsia
 1:0:16:787:329B:3272:EEEE0000:0:0:0:   gold                 gold                 # GOLD
@@ -571,7 +566,6 @@
 1:0:2:383:370:3202:EEEE0000:0:0:0:     sbsradio3            sbsradio3            # SBS Radio 3
 1:0:2:384:370:3202:EEEE0000:0:0:0:     sbsarabic24          sbsarabic24          # SBS Arabic24
 1:0:2:385:370:3202:EEEE0000:0:0:0:     sbspopdesi           sbspopdesi           # SBS PopDesi
-1:0:19:386:370:3202:EEEE0000:0:0:0:    sbsvicelandhd        sbsvicelandhd        # SBS VICELAND HD
 1:0:2:386:370:3202:EEEE0000:0:0:0:     sbschill             sbschill             # SBS Chill
 1:0:2:387:370:3202:EEEE0000:0:0:0:     sbspopasia           sbspopasia           # SBS PopAsia
 1:0:1:801:801:320C:EEEE0000:0:0:0:     ninegippsland        channel9             # Nine Gippsland
@@ -647,7 +641,6 @@
 1:0:2:343:330:3202:EEEE0000:0:0:0:     sbsradio3            sbsradio3            # SBS Radio 3
 1:0:2:344:330:3202:EEEE0000:0:0:0:     sbsarabic24          sbsarabic24          # SBS Arabic24
 1:0:2:345:330:3202:EEEE0000:0:0:0:     sbspopdesi           sbspopdesi           # SBS PopDesi
-1:0:19:346:330:3202:EEEE0000:0:0:0:    sbsvicelandhd        sbsvicelandhd        # SBS VICELAND HD
 1:0:2:346:330:3202:EEEE0000:0:0:0:     sbschill             sbschill             # SBS Chill
 1:0:2:347:330:3202:EEEE0000:0:0:0:     sbspopasia           sbspopasia           # SBS PopAsia
 1:0:16:787:32A0:3272:EEEE0000:0:0:0:   gold                 gold                 # GOLD
@@ -738,7 +731,6 @@
 1:0:2:393:380:3202:EEEE0000:0:0:0:     sbsradio3            sbsradio3            # SBS Radio 3
 1:0:2:394:380:3202:EEEE0000:0:0:0:     sbsarabic24          sbsarabic24          # SBS Arabic24
 1:0:2:395:380:3202:EEEE0000:0:0:0:     sbspopdesi           sbspopdesi           # SBS PopDesi
-1:0:19:396:380:3202:EEEE0000:0:0:0:    sbsvicelandhd        sbsvicelandhd        # SBS VICELAND HD
 1:0:2:396:380:3202:EEEE0000:0:0:0:     sbschill             sbschill             # SBS Chill
 1:0:2:397:380:3202:EEEE0000:0:0:0:     sbspopasia           sbspopasia           # SBS PopAsia
 1:0:1:903:903:320B:EEEE0000:0:0:0:     sctvlaunceston       sctvtas              # SCTV Launceston
@@ -809,7 +801,6 @@
 1:0:2:323:310:3202:EEEE0000:0:0:0:     sbsradio3            sbsradio3            # SBS Radio 3
 1:0:2:324:310:3202:EEEE0000:0:0:0:     sbsarabic24          sbsarabic24          # SBS Arabic24
 1:0:2:325:310:3202:EEEE0000:0:0:0:     sbspopdesi           sbspopdesi           # SBS PopDesi
-1:0:19:326:310:3202:EEEE0000:0:0:0:    sbsvicelandhd        sbsvicelandhd        # SBS VICELAND HD
 1:0:2:326:310:3202:EEEE0000:0:0:0:     sbschill             sbschill             # SBS Chill
 1:0:2:327:310:3202:EEEE0000:0:0:0:     sbspopasia           sbspopasia           # SBS PopAsia
 1:0:1:E01:E00:3220:EEEE0000:0:0:0:     c31                  c31                  # C31
@@ -847,7 +838,6 @@
 1:0:2:383:370:3202:EEEE0000:0:0:0:     sbsradio3            sbsradio3            # SBS Radio 3
 1:0:2:384:370:3202:EEEE0000:0:0:0:     sbsarabic24          sbsarabic24          # SBS Arabic24
 1:0:2:385:370:3202:EEEE0000:0:0:0:     sbspopdesi           sbspopdesi           # SBS PopDesi
-1:0:19:386:370:3202:EEEE0000:0:0:0:    sbsvicelandhd        sbsvicelandhd        # SBS VICELAND HD
 1:0:2:386:370:3202:EEEE0000:0:0:0:     sbschill             sbschill             # SBS Chill
 1:0:2:387:370:3202:EEEE0000:0:0:0:     sbspopasia           sbspopasia           # SBS PopAsia
 1:0:1:391:390:3202:EEEE0000:0:0:0:     sbsone               sbsone               # SBS ONE
@@ -865,7 +855,6 @@
 1:0:2:3A3:390:3202:EEEE0000:0:0:0:     sbsradio3            sbsradio3            # SBS Radio 3
 1:0:2:3A4:390:3202:EEEE0000:0:0:0:     sbsarabic24          sbsarabic24          # SBS Arabic24
 1:0:2:3A5:390:3202:EEEE0000:0:0:0:     sbspopdesi           sbspopdesi           # SBS PopDesi
-1:0:19:3A6:390:3202:EEEE0000:0:0:0:    sbsvicelandhd        sbsvicelandhd        # SBS VICELAND HD
 1:0:2:3A6:390:3202:EEEE0000:0:0:0:     sbschill             sbschill             # SBS Chill
 1:0:2:3A7:390:3202:EEEE0000:0:0:0:     sbspopasia           sbspopasia           # SBS PopAsia
 1:0:1:802:802:320C:EEEE0000:0:0:0:     9ballarat            channel9             # 9 Ballarat
@@ -932,7 +921,6 @@
 1:0:2:363:350:3202:EEEE0000:0:0:0:     sbsradio3            sbsradio3            # SBS Radio 3
 1:0:2:364:350:3202:EEEE0000:0:0:0:     sbsarabic24          sbsarabic24          # SBS Arabic24
 1:0:2:365:350:3202:EEEE0000:0:0:0:     sbspopdesi           sbspopdesi           # SBS PopDesi
-1:0:19:366:350:3202:EEEE0000:0:0:0:    sbsvicelandhd        sbsvicelandhd        # SBS VICELAND HD
 1:0:2:366:350:3202:EEEE0000:0:0:0:     sbschill             sbschill             # SBS Chill
 1:0:2:367:350:3202:EEEE0000:0:0:0:     sbspopasia           sbspopasia           # SBS PopAsia
 1:0:1:819:819:320C:EEEE0000:0:0:0:     ninesouthcoast       channel9             # Nine South Coast
@@ -992,7 +980,6 @@
 1:0:2:363:350:3202:EEEE0000:0:0:0:     sbsradio3            sbsradio3            # SBS Radio 3
 1:0:2:364:350:3202:EEEE0000:0:0:0:     sbsarabic24          sbsarabic24          # SBS Arabic24
 1:0:2:365:350:3202:EEEE0000:0:0:0:     sbspopdesi           sbspopdesi           # SBS PopDesi
-1:0:19:366:350:3202:EEEE0000:0:0:0:    sbsvicelandhd        sbsvicelandhd        # SBS VICELAND HD
 1:0:2:366:350:3202:EEEE0000:0:0:0:     sbschill             sbschill             # SBS Chill
 1:0:2:367:350:3202:EEEE0000:0:0:0:     sbspopasia           sbspopasia           # SBS PopAsia
 1:0:16:787:329C:3272:EEEE0000:0:0:0:   gold                 gold                 # GOLD
@@ -1044,7 +1031,6 @@
 1:0:2:363:350:3202:EEEE0000:0:0:0:     sbsradio3            sbsradio3            # SBS Radio 3
 1:0:2:364:350:3202:EEEE0000:0:0:0:     sbsarabic24          sbsarabic24          # SBS Arabic24
 1:0:2:365:350:3202:EEEE0000:0:0:0:     sbspopdesi           sbspopdesi           # SBS PopDesi
-1:0:19:366:350:3202:EEEE0000:0:0:0:    sbsvicelandhd        sbsvicelandhd        # SBS VICELAND HD
 1:0:2:366:350:3202:EEEE0000:0:0:0:     sbschill             sbschill             # SBS Chill
 1:0:2:367:350:3202:EEEE0000:0:0:0:     sbspopasia           sbspopasia           # SBS PopAsia
 1:0:16:787:329F:3272:EEEE0000:0:0:0:   gold                 gold                 # GOLD
@@ -1088,7 +1074,6 @@
 1:0:2:363:350:3202:EEEE0000:0:0:0:     sbsradio3            sbsradio3            # SBS Radio 3
 1:0:2:364:350:3202:EEEE0000:0:0:0:     sbsarabic24          sbsarabic24          # SBS Arabic24
 1:0:2:365:350:3202:EEEE0000:0:0:0:     sbspopdesi           sbspopdesi           # SBS PopDesi
-1:0:19:366:350:3202:EEEE0000:0:0:0:    sbsvicelandhd        sbsvicelandhd        # SBS VICELAND HD
 1:0:2:366:350:3202:EEEE0000:0:0:0:     sbschill             sbschill             # SBS Chill
 1:0:2:367:350:3202:EEEE0000:0:0:0:     sbspopasia           sbspopasia           # SBS PopAsia
 1:0:1:808:808:320C:EEEE0000:0:0:0:     ninecentralwest      channel9             # Nine Central West
@@ -1163,7 +1148,6 @@
 1:0:2:333:320:3202:EEEE0000:0:0:0:     sbsradio3            sbsradio3            # SBS Radio 3
 1:0:2:334:320:3202:EEEE0000:0:0:0:     sbsarabic24          sbsarabic24          # SBS Arabic24
 1:0:2:335:320:3202:EEEE0000:0:0:0:     sbspopdesi           sbspopdesi           # SBS PopDesi
-1:0:19:336:320:3202:EEEE0000:0:0:0:    sbsvicelandhd        sbsvicelandhd        # SBS VICELAND HD
 1:0:2:336:320:3202:EEEE0000:0:0:0:     sbschill             sbschill             # SBS Chill
 1:0:2:337:320:3202:EEEE0000:0:0:0:     sbspopasia           sbspopasia           # SBS PopAsia
 1:0:1:E01:E00:323E:EEEE0000:0:0:0:     westtv               westtv               # West TV
@@ -1461,7 +1445,6 @@
 1:0:2:313:300:3202:EEEE0000:0:0:0:     sbsradio3            sbsradio3            # SBS Radio 3
 1:0:2:314:300:3202:EEEE0000:0:0:0:     sbsarabic24          sbsarabic24          # SBS Arabic24
 1:0:2:315:300:3202:EEEE0000:0:0:0:     sbspopdesi           sbspopdesi           # SBS PopDesi
-1:0:19:316:300:3202:EEEE0000:0:0:0:    sbsvicelandhd        sbsvicelandhd        # SBS VICELAND HD
 1:0:2:316:300:3202:EEEE0000:0:0:0:     sbschill             sbschill             # SBS Chill
 1:0:2:317:300:3202:EEEE0000:0:0:0:     sbspopasia           sbspopasia           # SBS PopAsia
 
@@ -1498,7 +1481,6 @@
 1:0:2:363:350:3202:EEEE0000:0:0:0:     sbsradio3            sbsradio3            # SBS Radio 3
 1:0:2:364:350:3202:EEEE0000:0:0:0:     sbsarabic24          sbsarabic24          # SBS Arabic24
 1:0:2:365:350:3202:EEEE0000:0:0:0:     sbspopdesi           sbspopdesi           # SBS PopDesi
-1:0:19:366:350:3202:EEEE0000:0:0:0:    sbsvicelandhd        sbsvicelandhd        # SBS VICELAND HD
 1:0:2:366:350:3202:EEEE0000:0:0:0:     sbschill             sbschill             # SBS Chill
 1:0:2:367:350:3202:EEEE0000:0:0:0:     sbspopasia           sbspopasia           # SBS PopAsia
 1:0:16:787:329A:3272:EEEE0000:0:0:0:   gold                 gold                 # GOLD
@@ -1550,7 +1532,6 @@
 1:0:2:363:350:3202:EEEE0000:0:0:0:     sbsradio3            sbsradio3            # SBS Radio 3
 1:0:2:364:350:3202:EEEE0000:0:0:0:     sbsarabic24          sbsarabic24          # SBS Arabic24
 1:0:2:365:350:3202:EEEE0000:0:0:0:     sbspopdesi           sbspopdesi           # SBS PopDesi
-1:0:19:366:350:3202:EEEE0000:0:0:0:    sbsvicelandhd        sbsvicelandhd        # SBS VICELAND HD
 1:0:2:366:350:3202:EEEE0000:0:0:0:     sbschill             sbschill             # SBS Chill
 1:0:2:367:350:3202:EEEE0000:0:0:0:     sbspopasia           sbspopasia           # SBS PopAsia
 1:0:16:787:329D:3272:EEEE0000:0:0:0:   gold                 gold                 # GOLD
@@ -1810,7 +1791,6 @@
 1:0:2:363:350:3202:EEEE0000:0:0:0:     sbsradio3            sbsradio3            # SBS Radio 3
 1:0:2:364:350:3202:EEEE0000:0:0:0:     sbsarabic24          sbsarabic24          # SBS Arabic24
 1:0:2:365:350:3202:EEEE0000:0:0:0:     sbspopdesi           sbspopdesi           # SBS PopDesi
-1:0:19:366:350:3202:EEEE0000:0:0:0:    sbsvicelandhd        sbsvicelandhd        # SBS VICELAND HD
 1:0:2:366:350:3202:EEEE0000:0:0:0:     sbschill             sbschill             # SBS Chill
 1:0:2:367:350:3202:EEEE0000:0:0:0:     sbspopasia           sbspopasia           # SBS PopAsia
 1:0:1:809:809:320C:EEEE0000:0:0:0:     ninewollongong       channel9             # Nine Wollongong
