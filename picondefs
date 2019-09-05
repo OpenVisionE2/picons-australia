@@ -454,14 +454,14 @@
 1:0:2:2A7:223:1010:EEEE0000:0:0:0:     abcjazz              abcjazz              # ABC Jazz
 1:0:1:67:702:1019:EEEE0000:0:0:0:      ninemidnorthcoast    channel9             # Nine Mid North Coast
 1:0:19:71:702:1019:EEEE0000:0:0:0:     9hdmidnorthcoast     9hd                  # 9HD Mid North Coast
-1:0:1:7B:702:1019:EEEE0000:0:0:0:      9gemmidnorthcoast    9gem                 # 9GEM Mid North Coast
-1:0:1:85:702:1019:EEEE0000:0:0:0:      9gomidnorthcoast     9go                  # 9GO! Mid North Coast
-1:0:1:8F:702:1019:EEEE0000:0:0:0:      extra                9gemhd               # eXtra
+1:0:1:7B:702:1019:EEEE0000:0:0:0:      9gemmidnorthcoast    9gem                 # 9Gem Mid North Coast
+1:0:1:85:702:1019:EEEE0000:0:0:0:      9gomidnorthcoast     9go                  # 9Go! Mid North Coast
+1:0:19:8F:702:1019:EEEE0000:0:0:0:     9gemhdmidnorthcoast  9gemhd               # 9GemHD Mid North Coast
 1:0:1:99:702:1019:EEEE0000:0:0:0:      9lifemidnorthcoast   9life                # 9Life Mid North Coast
-1:0:1:B7:702:1019:EEEE0000:0:0:0:      9gomidnorthcoast     9go                  # 9GO! Mid North Coast
+1:0:1:B7:702:1019:EEEE0000:0:0:0:      9gomidnorthcoast     9go                  # 9Go! Mid North Coast
 1:0:1:C1:702:1019:EEEE0000:0:0:0:      ninemidnorthcoast    channel9             # Nine Mid North Coast
 1:0:1:351:350:3202:EEEE0000:0:0:0:     sbsone               sbsone               # SBS ONE
-1:0:1:353:350:3202:EEEE0000:0:0:0:     foodnetwork          sbsfood              # Food Network
+1:0:1:353:350:3202:EEEE0000:0:0:0:     sbsfood              sbsfood              # SBS Food
 1:0:1:354:350:3202:EEEE0000:0:0:0:     nitv                 nitv                 # NITV
 1:0:19:355:350:3202:EEEE0000:0:0:0:    sbsonehd             sbsonehd             # SBS ONE HD
 1:0:19:356:350:3202:EEEE0000:0:0:0:    sbsvicelandhd        sbsvicelandhd        # SBS VICELAND HD
@@ -480,10 +480,10 @@
 1:0:16:787:329B:3272:EEEE0000:0:0:0:   gold                 gold                 # GOLD
 1:0:16:788:329B:3272:EEEE0000:0:0:0:   tvsn                 tvsn                 # TVSN
 1:0:1:820:329B:3272:EEEE0000:0:0:0:    wincoffsharbour      win                  # WIN Coffs Harbour
-1:0:1:822:329B:3272:EEEE0000:0:0:0:    onecoffsharbour      winbold              # ONE Coffs Harbour
-1:0:1:824:329B:3272:EEEE0000:0:0:0:    elevencoffsharbour   winpeach             # ELEVEN Coffs Harbour
+1:0:1:822:329B:3272:EEEE0000:0:0:0:    boldcoffsharbour     winbold              # BOLD Coffs Harbour
+1:0:1:824:329B:3272:EEEE0000:0:0:0:    peachcoffsharbour    winpeach             # PEACH Coffs Harbour
 1:0:19:825:329B:3272:EEEE0000:0:0:0:   winhdcoffsharbour    winhd                # WIN HD Coffs Harbour
-1:0:1:826:329B:3272:EEEE0000:0:0:0:    winnetwork           skynewsonwin         # WIN NETWORK
+1:0:16:826:329B:3272:EEEE0000:0:0:0:   skynewsonwin         skynewsonwin         # Sky News on WIN
 1:0:1:93B:9A5:3282:EEEE0000:0:0:0:     prime7coffsharbour   prime7               # PRIME7 Coffs Harbour
 1:0:19:97E:9A5:3282:EEEE0000:0:0:0:    prime7hdcoffsharbour prime7hd             # PRIME7 HD Coffs Harbour
 1:0:1:97F:9A5:3282:EEEE0000:0:0:0:     prime7coffsharbour   prime7               # PRIME7 Coffs Harbour
