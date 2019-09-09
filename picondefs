@@ -13,6 +13,14 @@
 1:0:19:255:251:1010:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
 1:0:2:256:251:1010:EEEE0000:0:0:0:     doublej              doublej              # Double J
 1:0:2:257:251:1010:EEEE0000:0:0:0:     abcjazz              abcjazz              # ABC Jazz
+1:0:2:258:251:1010:EEEE0000:0:0:0:     abckidslisten        abckidslisten        # ABC KIDS Listen
+1:0:2:259:251:1010:EEEE0000:0:0:0:     triplej              triplej              # triple j
+1:0:2:25A:251:1010:EEEE0000:0:0:0:     triplejunearthed     triplejunearthed     # triple j Unearthed
+1:0:2:25B:251:1010:EEEE0000:0:0:0:     abcclassic           abcclassic           # ABC Classic
+1:0:2:25C:251:1010:EEEE0000:0:0:0:     abccountry           abccountry           # ABC Country
+1:0:2:25D:251:1010:EEEE0000:0:0:0:     abcadelaide          abcadelaide          # ABC ADELAIDE
+1:0:2:25E:251:1010:EEEE0000:0:0:0:     abcrn                abcrn                # ABC RN
+1:0:2:25F:251:1010:EEEE0000:0:0:0:     abcnewsradio         abcnewsradio         # ABC NewsRadio
 1:0:1:451:450:1012:EEEE0000:0:0:0:     channel9adelaide     channel9             # Channel 9 Adelaide
 1:0:19:452:450:1012:EEEE0000:0:0:0:    9hdadelaide          9hd                  # 9HD Adelaide
 1:0:1:453:450:1012:EEEE0000:0:0:0:     9go                  9go                  # 9Go!
@@ -66,6 +74,14 @@
 1:0:19:2E5:263:1010:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
 1:0:2:2E6:263:1010:EEEE0000:0:0:0:     doublej              doublej              # Double J
 1:0:2:2E7:263:1010:EEEE0000:0:0:0:     abcjazz              abcjazz              # ABC Jazz
+1:0:2:2E8:263:1010:EEEE0000:0:0:0:     abckidslisten        abckidslisten        # ABC KIDS Listen
+1:0:2:2E9:263:1010:EEEE0000:0:0:0:     triplej              triplej              # triple j
+1:0:2:2EA:263:1010:EEEE0000:0:0:0:     triplejunearthed     triplejunearthed     # triple j Unearthed
+1:0:2:2EB:263:1010:EEEE0000:0:0:0:     abcclassic           abcclassic           # ABC Classic
+1:0:2:2EC:263:1010:EEEE0000:0:0:0:     abccountry           abccountry           # ABC Country
+1:0:2:2ED:263:1010:EEEE0000:0:0:0:     abcperth             abcperth             # ABC PERTH
+1:0:2:2EE:263:1010:EEEE0000:0:0:0:     abcrn                abcrn                # ABC RN
+1:0:2:2EF:263:1010:EEEE0000:0:0:0:     abcnewsradio         abcnewsradio         # ABC NewsRadio
 1:0:1:771:327B:1015:EEEE0000:0:0:0:    win                  win                  # WIN
 1:0:1:772:327B:1015:EEEE0000:0:0:0:    one                  10bold               # ONE
 1:0:1:773:327B:1015:EEEE0000:0:0:0:    eleven               10peach              # ELEVEN
@@ -110,6 +126,14 @@
 1:0:19:2A5:223:1010:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
 1:0:2:2A6:223:1010:EEEE0000:0:0:0:     doublej              doublej              # Double J
 1:0:2:2A7:223:1010:EEEE0000:0:0:0:     abcjazz              abcjazz              # ABC Jazz
+1:0:2:2A8:223:1010:EEEE0000:0:0:0:     abckidslisten        abckidslisten        # ABC KIDS Listen
+1:0:2:2A9:223:1010:EEEE0000:0:0:0:     triplej              triplej              # triple j
+1:0:2:2AA:223:1010:EEEE0000:0:0:0:     triplejunearthed     triplejunearthed     # triple j Unearthed
+1:0:2:2AB:223:1010:EEEE0000:0:0:0:     abcclassic           abcclassic           # ABC Classic
+1:0:2:2AC:223:1010:EEEE0000:0:0:0:     abccountry           abccountry           # ABC Country
+1:0:2:2AD:223:1010:EEEE0000:0:0:0:     abcsydney            abcsydney            # ABC SYDNEY
+1:0:2:2AE:223:1010:EEEE0000:0:0:0:     abcrn                abcrn                # ABC RN
+1:0:2:2AF:223:1010:EEEE0000:0:0:0:     abcnewsradio         abcnewsradio         # ABC NewsRadio
 1:0:1:351:350:3202:EEEE0000:0:0:0:     sbsone               sbsone               # SBS ONE
 1:0:1:353:350:3202:EEEE0000:0:0:0:     sbsfood              sbsfood              # SBS Food
 1:0:1:354:350:3202:EEEE0000:0:0:0:     nitv                 nitv                 # NITV
@@ -176,6 +200,14 @@
 1:0:19:2B5:233:1010:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
 1:0:2:2B6:233:1010:EEEE0000:0:0:0:     doublej              doublej              # Double J
 1:0:2:2B7:233:1010:EEEE0000:0:0:0:     abcjazz              abcjazz              # ABC Jazz
+1:0:2:2B8:233:1010:EEEE0000:0:0:0:     abckidslisten        abckidslisten        # ABC KIDS Listen
+1:0:2:2B9:233:1010:EEEE0000:0:0:0:     triplej              triplej              # triple j
+1:0:2:2BA:233:1010:EEEE0000:0:0:0:     triplejunearthed     triplejunearthed     # triple j Unearthed
+1:0:2:2BB:233:1010:EEEE0000:0:0:0:     abcclassic           abcclassic           # ABC Classic
+1:0:2:2BC:233:1010:EEEE0000:0:0:0:     abccountry           abccountry           # ABC Country
+1:0:2:2BD:233:1010:EEEE0000:0:0:0:     abcmelbourne         abcmelbourne         # ABC MELBOURNE
+1:0:2:2BE:233:1010:EEEE0000:0:0:0:     abcrn                abcrn                # ABC RN
+1:0:2:2BF:233:1010:EEEE0000:0:0:0:     abcnewsradio         abcnewsradio         # ABC NewsRadio
 1:0:1:371:370:3202:EEEE0000:0:0:0:     sbsone               sbsone               # SBS ONE
 1:0:1:373:370:3202:EEEE0000:0:0:0:     foodnetwork          sbsfood              # Food Network
 1:0:1:374:370:3202:EEEE0000:0:0:0:     nitv                 nitv                 # NITV
@@ -229,6 +261,14 @@
 1:0:19:245:241:1010:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
 1:0:2:246:241:1010:EEEE0000:0:0:0:     doublej              doublej              # Double J
 1:0:2:247:241:1010:EEEE0000:0:0:0:     abcjazz              abcjazz              # ABC Jazz
+1:0:2:248:241:1010:EEEE0000:0:0:0:     abckidslisten        abckidslisten        # ABC KIDS Listen
+1:0:2:249:241:1010:EEEE0000:0:0:0:     triplej              triplej              # triple j
+1:0:2:24A:241:1010:EEEE0000:0:0:0:     triplejunearthed     triplejunearthed     # triple j Unearthed
+1:0:2:24B:241:1010:EEEE0000:0:0:0:     abcclassic           abcclassic           # ABC Classic
+1:0:2:24C:241:1010:EEEE0000:0:0:0:     abccountry           abccountry           # ABC Country
+1:0:2:24D:241:1010:EEEE0000:0:0:0:     abcbrisbane          abcbrisbane          # ABC BRISBANE
+1:0:2:24E:241:1010:EEEE0000:0:0:0:     abcrn                abcrn                # ABC RN
+1:0:2:24F:241:1010:EEEE0000:0:0:0:     abcnewsradio         abcnewsradio         # ABC NewsRadio
 1:0:1:401:400:1012:EEEE0000:0:0:0:     channel9brisbane     channel9             # Channel 9 Brisbane
 1:0:1:406:400:1012:EEEE0000:0:0:0:     9gobrisbane          9go                  # 9Go! Brisbane
 1:0:1:407:400:1012:EEEE0000:0:0:0:     9lifebrisbane        9life                # 9Life Brisbane
@@ -281,6 +321,14 @@
 1:0:19:2C5:243:1010:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
 1:0:2:2C6:243:1010:EEEE0000:0:0:0:     doublej              doublej              # Double J
 1:0:2:2C7:243:1010:EEEE0000:0:0:0:     abcjazz              abcjazz              # ABC Jazz
+1:0:2:2C8:243:1010:EEEE0000:0:0:0:     abckidslisten        abckidslisten        # ABC KIDS Listen
+1:0:2:2C9:243:1010:EEEE0000:0:0:0:     triplej              triplej              # triple j
+1:0:2:2CA:243:1010:EEEE0000:0:0:0:     triplejunearthed     triplejunearthed     # triple j Unearthed
+1:0:2:2CB:243:1010:EEEE0000:0:0:0:     abcclassic           abcclassic           # ABC Classic
+1:0:2:2CC:243:1010:EEEE0000:0:0:0:     abccountry           abccountry           # ABC Country
+1:0:2:2CD:243:1010:EEEE0000:0:0:0:     abcbrisbane          abcbrisbane          # ABC BRISBANE
+1:0:2:2CE:243:1010:EEEE0000:0:0:0:     abcrn                abcrn                # ABC RN
+1:0:2:2CF:243:1010:EEEE0000:0:0:0:     abcnewsradio         abcnewsradio         # ABC NewsRadio
 1:0:1:910:900:1013:EEEE0000:0:0:0:     7cairns              7digital             # 7 Cairns
 1:0:1:911:900:1013:EEEE0000:0:0:0:     7cairns              7digital             # 7 Cairns
 1:0:1:912:900:1013:EEEE0000:0:0:0:     7twocairns           7two                 # 7TWO Cairns
@@ -334,6 +382,14 @@
 1:0:19:215:211:1010:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
 1:0:2:216:211:1010:EEEE0000:0:0:0:     doublej              doublej              # Double J
 1:0:2:217:211:1010:EEEE0000:0:0:0:     abcjazz              abcjazz              # ABC Jazz
+1:0:2:218:211:1010:EEEE0000:0:0:0:     abckidslisten        abckidslisten        # ABC KIDS Listen
+1:0:2:219:211:1010:EEEE0000:0:0:0:     triplej              triplej              # triple j
+1:0:2:21A:211:1010:EEEE0000:0:0:0:     triplejunearthed     triplejunearthed     # triple j Unearthed
+1:0:2:21B:211:1010:EEEE0000:0:0:0:     abcclassic           abcclassic           # ABC Classic
+1:0:2:21C:211:1010:EEEE0000:0:0:0:     abccountry           abccountry           # ABC Country
+1:0:2:21D:211:1010:EEEE0000:0:0:0:     abccanberra          abccanberra          # ABC CANBERRA
+1:0:2:21E:211:1010:EEEE0000:0:0:0:     abcrn                abcrn                # ABC RN
+1:0:2:21F:211:1010:EEEE0000:0:0:0:     abcnewsradio         abcnewsradio         # ABC NewsRadio
 1:0:1:351:350:3202:EEEE0000:0:0:0:     sbsone               sbsone               # SBS ONE
 1:0:1:353:350:3202:EEEE0000:0:0:0:     sbsfood              sbsfood              # SBS Food
 1:0:1:354:350:3202:EEEE0000:0:0:0:     nitv                 nitv                 # NITV
@@ -351,12 +407,12 @@
 1:0:2:365:350:3202:EEEE0000:0:0:0:     sbspopdesi           sbspopdesi           # SBS PopDesi
 1:0:2:366:350:3202:EEEE0000:0:0:0:     sbschill             sbschill             # SBS Chill
 1:0:2:367:350:3202:EEEE0000:0:0:0:     sbspopasia           sbspopasia           # SBS PopAsia
-1:0:1:807:807:320C:EEEE0000:0:0:0:     ninecanberra         channel9             # Nine Canberra
+1:0:1:807:807:320C:EEEE0000:0:0:0:     9canberra            channel9             # 9 Canberra
 1:0:1:827:807:320C:EEEE0000:0:0:0:     9gem                 9gem                 # 9Gem
 1:0:1:847:807:320C:EEEE0000:0:0:0:     9go                  9go                  # 9Go!
 1:0:16:867:807:320C:EEEE0000:0:0:0:    sbn                  sbn                  # SBN
 1:0:16:887:807:320C:EEEE0000:0:0:0:    aspire               aspire               # Aspire
-1:0:1:8A7:807:320C:EEEE0000:0:0:0:     ninecanberra         channel9             # Nine Canberra
+1:0:1:8A7:807:320C:EEEE0000:0:0:0:     9canberra            channel9             # 9 Canberra
 1:0:19:8C7:807:320C:EEEE0000:0:0:0:    9hdcanberra          9hd                  # 9HD Canberra
 1:0:16:8E7:807:320C:EEEE0000:0:0:0:    9life                9life                # 9Life
 1:0:1:781:327A:3273:EEEE0000:0:0:0:    wincanberra          win                  # WIN Canberra
@@ -385,6 +441,14 @@
 1:0:19:2A5:223:1010:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
 1:0:2:2A6:223:1010:EEEE0000:0:0:0:     doublej              doublej              # Double J
 1:0:2:2A7:223:1010:EEEE0000:0:0:0:     abcjazz              abcjazz              # ABC Jazz
+1:0:2:2A8:223:1010:EEEE0000:0:0:0:     abckidslisten        abckidslisten        # ABC KIDS Listen
+1:0:2:2A9:223:1010:EEEE0000:0:0:0:     triplej              triplej              # triple j
+1:0:2:2AA:223:1010:EEEE0000:0:0:0:     triplejunearthed     triplejunearthed     # triple j Unearthed
+1:0:2:2AB:223:1010:EEEE0000:0:0:0:     abcclassic           abcclassic           # ABC Classic
+1:0:2:2AC:223:1010:EEEE0000:0:0:0:     abccountry           abccountry           # ABC Country
+1:0:2:2AD:223:1010:EEEE0000:0:0:0:     abcsydney            abcsydney            # ABC SYDNEY
+1:0:2:2AE:223:1010:EEEE0000:0:0:0:     abcrn                abcrn                # ABC RN
+1:0:2:2AF:223:1010:EEEE0000:0:0:0:     abcnewsradio         abcnewsradio         # ABC NewsRadio
 1:0:1:421:420:1012:EEEE0000:0:0:0:     channel9sydney       channel9             # Channel 9 Sydney
 1:0:19:422:420:1012:EEEE0000:0:0:0:    9hdsydney            9hd                  # 9HD Sydney
 1:0:1:423:420:1012:EEEE0000:0:0:0:     9go                  9go                  # 9Go!
@@ -452,6 +516,14 @@
 1:0:19:2A5:223:1010:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
 1:0:2:2A6:223:1010:EEEE0000:0:0:0:     doublej              doublej              # Double J
 1:0:2:2A7:223:1010:EEEE0000:0:0:0:     abcjazz              abcjazz              # ABC Jazz
+1:0:2:2A8:223:1010:EEEE0000:0:0:0:     abckidslisten        abckidslisten        # ABC KIDS Listen
+1:0:2:2A9:223:1010:EEEE0000:0:0:0:     triplej              triplej              # triple j
+1:0:2:2AA:223:1010:EEEE0000:0:0:0:     triplejunearthed     triplejunearthed     # triple j Unearthed
+1:0:2:2AB:223:1010:EEEE0000:0:0:0:     abcclassic           abcclassic           # ABC Classic
+1:0:2:2AC:223:1010:EEEE0000:0:0:0:     abccountry           abccountry           # ABC Country
+1:0:2:2AD:223:1010:EEEE0000:0:0:0:     abcsydney            abcsydney            # ABC SYDNEY
+1:0:2:2AE:223:1010:EEEE0000:0:0:0:     abcrn                abcrn                # ABC RN
+1:0:2:2AF:223:1010:EEEE0000:0:0:0:     abcnewsradio         abcnewsradio         # ABC NewsRadio
 1:0:1:67:702:1019:EEEE0000:0:0:0:      ninemidnorthcoast    channel9             # Nine Mid North Coast
 1:0:19:71:702:1019:EEEE0000:0:0:0:     9hdmidnorthcoast     9hd                  # 9HD Mid North Coast
 1:0:1:7B:702:1019:EEEE0000:0:0:0:      9gemmidnorthcoast    9gem                 # 9Gem Mid North Coast
@@ -503,6 +575,14 @@
 1:0:19:235:231:1010:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
 1:0:2:236:231:1010:EEEE0000:0:0:0:     doublej              doublej              # Double J
 1:0:2:237:231:1010:EEEE0000:0:0:0:     abcjazz              abcjazz              # ABC Jazz
+1:0:2:238:231:1010:EEEE0000:0:0:0:     abckidslisten        abckidslisten        # ABC KIDS Listen
+1:0:2:239:231:1010:EEEE0000:0:0:0:     triplej              triplej              # triple j
+1:0:2:23A:231:1010:EEEE0000:0:0:0:     triplejunearthed     triplejunearthed     # triple j Unearthed
+1:0:2:23B:231:1010:EEEE0000:0:0:0:     abcclassic           abcclassic           # ABC Classic
+1:0:2:23C:231:1010:EEEE0000:0:0:0:     abccountry           abccountry           # ABC Country
+1:0:2:23D:231:1010:EEEE0000:0:0:0:     abcmelbourne         abcmelbourne         # ABC MELBOURNE
+1:0:2:23E:231:1010:EEEE0000:0:0:0:     abcrn                abcrn                # ABC RN
+1:0:2:23F:231:1010:EEEE0000:0:0:0:     abcnewsradio         abcnewsradio         # ABC NewsRadio
 1:0:1:430:430:1012:EEEE0000:0:0:0:     channel9melbourne    channel9             # Channel 9 Melbourne
 1:0:19:431:430:1012:EEEE0000:0:0:0:    9hdmelbourne         9hd                  # 9HD Melbourne
 1:0:1:432:430:1012:EEEE0000:0:0:0:     9go                  9go                  # 9Go!
@@ -555,6 +635,14 @@
 1:0:19:2B5:233:1010:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
 1:0:2:2B6:233:1010:EEEE0000:0:0:0:     doublej              doublej              # Double J
 1:0:2:2B7:233:1010:EEEE0000:0:0:0:     abcjazz              abcjazz              # ABC Jazz
+1:0:2:2B8:233:1010:EEEE0000:0:0:0:     abckidslisten        abckidslisten        # ABC KIDS Listen
+1:0:2:2B9:233:1010:EEEE0000:0:0:0:     triplej              triplej              # triple j
+1:0:2:2BA:233:1010:EEEE0000:0:0:0:     triplejunearthed     triplejunearthed     # triple j Unearthed
+1:0:2:2BB:233:1010:EEEE0000:0:0:0:     abcclassic           abcclassic           # ABC Classic
+1:0:2:2BC:233:1010:EEEE0000:0:0:0:     abccountry           abccountry           # ABC Country
+1:0:2:2BD:233:1010:EEEE0000:0:0:0:     abcmelbourne         abcmelbourne         # ABC MELBOURNE
+1:0:2:2BE:233:1010:EEEE0000:0:0:0:     abcrn                abcrn                # ABC RN
+1:0:2:2BF:233:1010:EEEE0000:0:0:0:     abcnewsradio         abcnewsradio         # ABC NewsRadio
 1:0:1:371:370:3202:EEEE0000:0:0:0:     sbsone               sbsone               # SBS ONE
 1:0:1:373:370:3202:EEEE0000:0:0:0:     foodnetwork          sbsfood              # Food Network
 1:0:1:374:370:3202:EEEE0000:0:0:0:     nitv                 nitv                 # NITV
@@ -606,6 +694,14 @@
 1:0:19:2C5:243:1010:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
 1:0:2:2C6:243:1010:EEEE0000:0:0:0:     doublej              doublej              # Double J
 1:0:2:2C7:243:1010:EEEE0000:0:0:0:     abcjazz              abcjazz              # ABC Jazz
+1:0:2:2C8:243:1010:EEEE0000:0:0:0:     abckidslisten        abckidslisten        # ABC KIDS Listen
+1:0:2:2C9:243:1010:EEEE0000:0:0:0:     triplej              triplej              # triple j
+1:0:2:2CA:243:1010:EEEE0000:0:0:0:     triplejunearthed     triplejunearthed     # triple j Unearthed
+1:0:2:2CB:243:1010:EEEE0000:0:0:0:     abcclassic           abcclassic           # ABC Classic
+1:0:2:2CC:243:1010:EEEE0000:0:0:0:     abccountry           abccountry           # ABC Country
+1:0:2:2CD:243:1010:EEEE0000:0:0:0:     abcbrisbane          abcbrisbane          # ABC BRISBANE
+1:0:2:2CE:243:1010:EEEE0000:0:0:0:     abcrn                abcrn                # ABC RN
+1:0:2:2CF:243:1010:EEEE0000:0:0:0:     abcnewsradio         abcnewsradio         # ABC NewsRadio
 1:0:1:540:504:1013:EEEE0000:0:0:0:     7goldcoast           7digital             # 7 Gold Coast
 1:0:1:541:504:1013:EEEE0000:0:0:0:     7goldcoast           7digital             # 7 Gold Coast
 1:0:1:542:504:1013:EEEE0000:0:0:0:     7twogoldcoast        7two                 # 7TWO Gold Coast
@@ -674,6 +770,14 @@
 1:0:19:275:271:1010:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
 1:0:2:276:271:1010:EEEE0000:0:0:0:     doublej              doublej              # Double J
 1:0:2:277:271:1010:EEEE0000:0:0:0:     abcjazz              abcjazz              # ABC Jazz
+1:0:2:278:271:1010:EEEE0000:0:0:0:     abckidslisten        abckidslisten        # ABC KIDS Listen
+1:0:2:279:271:1010:EEEE0000:0:0:0:     triplej              triplej              # triple j
+1:0:2:27A:271:1010:EEEE0000:0:0:0:     triplejunearthed     triplejunearthed     # triple j Unearthed
+1:0:2:27B:271:1010:EEEE0000:0:0:0:     abcclassic           abcclassic           # ABC Classic
+1:0:2:27C:271:1010:EEEE0000:0:0:0:     abccountry           abccountry           # ABC Country
+1:0:2:27D:271:1010:EEEE0000:0:0:0:     abchobart            abchobart            # ABC HOBART
+1:0:2:27E:271:1010:EEEE0000:0:0:0:     abcrn                abcrn                # ABC RN
+1:0:2:27F:271:1010:EEEE0000:0:0:0:     abcnewsradio         abcnewsradio         # ABC NewsRadio
 1:0:1:381:380:3202:EEEE0000:0:0:0:     sbsone               sbsone               # SBS ONE
 1:0:1:383:380:3202:EEEE0000:0:0:0:     foodnetwork          sbsfood              # Food Network
 1:0:1:384:380:3202:EEEE0000:0:0:0:     nitv                 nitv                 # NITV
@@ -721,6 +825,14 @@
 1:0:19:295:273:1010:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
 1:0:2:296:273:1010:EEEE0000:0:0:0:     doublej              doublej              # Double J
 1:0:2:297:273:1010:EEEE0000:0:0:0:     abcjazz              abcjazz              # ABC Jazz
+1:0:2:298:273:1010:EEEE0000:0:0:0:     abckidslisten        abckidslisten        # ABC KIDS Listen
+1:0:2:299:273:1010:EEEE0000:0:0:0:     triplej              triplej              # triple j
+1:0:2:29A:273:1010:EEEE0000:0:0:0:     triplejunearthed     triplejunearthed     # triple j Unearthed
+1:0:2:29B:273:1010:EEEE0000:0:0:0:     abcclassic           abcclassic           # ABC Classic
+1:0:2:29C:273:1010:EEEE0000:0:0:0:     abccountry           abccountry           # ABC Country
+1:0:2:29D:273:1010:EEEE0000:0:0:0:     abchobart            abchobart            # ABC HOBART
+1:0:2:29E:273:1010:EEEE0000:0:0:0:     abcrn                abcrn                # ABC RN
+1:0:2:29F:273:1010:EEEE0000:0:0:0:     abcnewsradio         abcnewsradio         # ABC NewsRadio
 1:0:1:381:380:3202:EEEE0000:0:0:0:     sbsone               sbsone               # SBS ONE
 1:0:1:383:380:3202:EEEE0000:0:0:0:     foodnetwork          sbsfood              # Food Network
 1:0:1:384:380:3202:EEEE0000:0:0:0:     nitv                 nitv                 # NITV
@@ -768,6 +880,14 @@
 1:0:19:235:231:1010:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
 1:0:2:236:231:1010:EEEE0000:0:0:0:     doublej              doublej              # Double J
 1:0:2:237:231:1010:EEEE0000:0:0:0:     abcjazz              abcjazz              # ABC Jazz
+1:0:2:238:231:1010:EEEE0000:0:0:0:     abckidslisten        abckidslisten        # ABC KIDS Listen
+1:0:2:239:231:1010:EEEE0000:0:0:0:     triplej              triplej              # triple j
+1:0:2:23A:231:1010:EEEE0000:0:0:0:     triplejunearthed     triplejunearthed     # triple j Unearthed
+1:0:2:23B:231:1010:EEEE0000:0:0:0:     abcclassic           abcclassic           # ABC Classic
+1:0:2:23C:231:1010:EEEE0000:0:0:0:     abccountry           abccountry           # ABC Country
+1:0:2:23D:231:1010:EEEE0000:0:0:0:     abcmelbourne         abcmelbourne         # ABC MELBOURNE
+1:0:2:23E:231:1010:EEEE0000:0:0:0:     abcrn                abcrn                # ABC RN
+1:0:2:23F:231:1010:EEEE0000:0:0:0:     abcnewsradio         abcnewsradio         # ABC NewsRadio
 1:0:1:430:430:1012:EEEE0000:0:0:0:     channel9melbourne    channel9             # Channel 9 Melbourne
 1:0:19:431:430:1012:EEEE0000:0:0:0:    9hdmelbourne         9hd                  # 9HD Melbourne
 1:0:1:432:430:1012:EEEE0000:0:0:0:     9gomelbourne         9go                  # 9Go! Melbourne
@@ -821,6 +941,14 @@
 1:0:19:2B5:233:1010:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
 1:0:2:2B6:233:1010:EEEE0000:0:0:0:     doublej              doublej              # Double J
 1:0:2:2B7:233:1010:EEEE0000:0:0:0:     abcjazz              abcjazz              # ABC Jazz
+1:0:2:2B8:233:1010:EEEE0000:0:0:0:     abckidslisten        abckidslisten        # ABC KIDS Listen
+1:0:2:2B9:233:1010:EEEE0000:0:0:0:     triplej              triplej              # triple j
+1:0:2:2BA:233:1010:EEEE0000:0:0:0:     triplejunearthed     triplejunearthed     # triple j Unearthed
+1:0:2:2BB:233:1010:EEEE0000:0:0:0:     abcclassic           abcclassic           # ABC Classic
+1:0:2:2BC:233:1010:EEEE0000:0:0:0:     abccountry           abccountry           # ABC Country
+1:0:2:2BD:233:1010:EEEE0000:0:0:0:     abcmelbourne         abcmelbourne         # ABC MELBOURNE
+1:0:2:2BE:233:1010:EEEE0000:0:0:0:     abcrn                abcrn                # ABC RN
+1:0:2:2BF:233:1010:EEEE0000:0:0:0:     abcnewsradio         abcnewsradio         # ABC NewsRadio
 1:0:1:2D0:253:1010:EEEE0000:0:0:0:     abcnews              abcnews              # ABC NEWS
 1:0:1:2D1:253:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
 1:0:1:2D2:253:1010:EEEE0000:0:0:0:     abccomedykids        abccomedy            # ABCComedy/Kids
@@ -829,6 +957,14 @@
 1:0:19:2D5:253:1010:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
 1:0:2:2D6:253:1010:EEEE0000:0:0:0:     doublej              doublej              # Double J
 1:0:2:2D7:253:1010:EEEE0000:0:0:0:     abcjazz              abcjazz              # ABC Jazz
+1:0:2:2D8:253:1010:EEEE0000:0:0:0:     abckidslisten        abckidslisten        # ABC KIDS Listen
+1:0:2:2D9:253:1010:EEEE0000:0:0:0:     triplej              triplej              # triple j
+1:0:2:2DA:253:1010:EEEE0000:0:0:0:     triplejunearthed     triplejunearthed     # triple j Unearthed
+1:0:2:2DB:253:1010:EEEE0000:0:0:0:     abcclassic           abcclassic           # ABC Classic
+1:0:2:2DC:253:1010:EEEE0000:0:0:0:     abccountry           abccountry           # ABC Country
+1:0:2:2DD:253:1010:EEEE0000:0:0:0:     abcadelaide          abcadelaide          # ABC ADELAIDE
+1:0:2:2DE:253:1010:EEEE0000:0:0:0:     abcrn                abcrn                # ABC RN
+1:0:2:2DF:253:1010:EEEE0000:0:0:0:     abcnewsradio         abcnewsradio         # ABC NewsRadio
 1:0:1:371:370:3202:EEEE0000:0:0:0:     sbsone               sbsone               # SBS ONE
 1:0:1:373:370:3202:EEEE0000:0:0:0:     sbsfood              sbsfood              # SBS Food
 1:0:1:374:370:3202:EEEE0000:0:0:0:     nitv                 nitv                 # NITV
@@ -911,6 +1047,14 @@
 1:0:19:2A5:223:1010:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
 1:0:2:2A6:223:1010:EEEE0000:0:0:0:     doublej              doublej              # Double J
 1:0:2:2A7:223:1010:EEEE0000:0:0:0:     abcjazz              abcjazz              # ABC Jazz
+1:0:2:2A8:223:1010:EEEE0000:0:0:0:     abckidslisten        abckidslisten        # ABC KIDS Listen
+1:0:2:2A9:223:1010:EEEE0000:0:0:0:     triplej              triplej              # triple j
+1:0:2:2AA:223:1010:EEEE0000:0:0:0:     triplejunearthed     triplejunearthed     # triple j Unearthed
+1:0:2:2AB:223:1010:EEEE0000:0:0:0:     abcclassic           abcclassic           # ABC Classic
+1:0:2:2AC:223:1010:EEEE0000:0:0:0:     abccountry           abccountry           # ABC Country
+1:0:2:2AD:223:1010:EEEE0000:0:0:0:     abcsydney            abcsydney            # ABC SYDNEY
+1:0:2:2AE:223:1010:EEEE0000:0:0:0:     abcrn                abcrn                # ABC RN
+1:0:2:2AF:223:1010:EEEE0000:0:0:0:     abcnewsradio         abcnewsradio         # ABC NewsRadio
 1:0:1:351:350:3202:EEEE0000:0:0:0:     sbsone               sbsone               # SBS ONE
 1:0:1:353:350:3202:EEEE0000:0:0:0:     foodnetwork          sbsfood              # Food Network
 1:0:1:354:350:3202:EEEE0000:0:0:0:     nitv                 nitv                 # NITV
@@ -962,6 +1106,14 @@
 1:0:19:2A5:223:1010:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
 1:0:2:2A6:223:1010:EEEE0000:0:0:0:     doublej              doublej              # Double J
 1:0:2:2A7:223:1010:EEEE0000:0:0:0:     abcjazz              abcjazz              # ABC Jazz
+1:0:2:2A8:223:1010:EEEE0000:0:0:0:     abckidslisten        abckidslisten        # ABC KIDS Listen
+1:0:2:2A9:223:1010:EEEE0000:0:0:0:     triplej              triplej              # triple j
+1:0:2:2AA:223:1010:EEEE0000:0:0:0:     triplejunearthed     triplejunearthed     # triple j Unearthed
+1:0:2:2AB:223:1010:EEEE0000:0:0:0:     abcclassic           abcclassic           # ABC Classic
+1:0:2:2AC:223:1010:EEEE0000:0:0:0:     abccountry           abccountry           # ABC Country
+1:0:2:2AD:223:1010:EEEE0000:0:0:0:     abcsydney            abcsydney            # ABC SYDNEY
+1:0:2:2AE:223:1010:EEEE0000:0:0:0:     abcrn                abcrn                # ABC RN
+1:0:2:2AF:223:1010:EEEE0000:0:0:0:     abcnewsradio         abcnewsradio         # ABC NewsRadio
 1:0:1:65:700:1019:EEEE0000:0:0:0:      ninenewcastle        channel9             # Nine Newcastle
 1:0:19:6F:700:1019:EEEE0000:0:0:0:     9hdnewcastle         9hd                  # 9HD Newcastle
 1:0:1:79:700:1019:EEEE0000:0:0:0:      9gemnewcastle        9gem                 # 9GEM Newcastle
@@ -1013,6 +1165,14 @@
 1:0:19:2A5:223:1010:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
 1:0:2:2A6:223:1010:EEEE0000:0:0:0:     doublej              doublej              # Double J
 1:0:2:2A7:223:1010:EEEE0000:0:0:0:     abcjazz              abcjazz              # ABC Jazz
+1:0:2:2A8:223:1010:EEEE0000:0:0:0:     abckidslisten        abckidslisten        # ABC KIDS Listen
+1:0:2:2A9:223:1010:EEEE0000:0:0:0:     triplej              triplej              # triple j
+1:0:2:2AA:223:1010:EEEE0000:0:0:0:     triplejunearthed     triplejunearthed     # triple j Unearthed
+1:0:2:2AB:223:1010:EEEE0000:0:0:0:     abcclassic           abcclassic           # ABC Classic
+1:0:2:2AC:223:1010:EEEE0000:0:0:0:     abccountry           abccountry           # ABC Country
+1:0:2:2AD:223:1010:EEEE0000:0:0:0:     abcsydney            abcsydney            # ABC SYDNEY
+1:0:2:2AE:223:1010:EEEE0000:0:0:0:     abcrn                abcrn                # ABC RN
+1:0:2:2AF:223:1010:EEEE0000:0:0:0:     abcnewsradio         abcnewsradio         # ABC NewsRadio
 1:0:1:68:703:1019:EEEE0000:0:0:0:      ninefarnorthcoast    channel9             # Nine Far North Coast
 1:0:19:72:703:1019:EEEE0000:0:0:0:     9hdfarnorthcoast     9hd                  # 9HD Far North Coast
 1:0:1:7C:703:1019:EEEE0000:0:0:0:      9gemfarnorthcoast    9gem                 # 9GEM Far North Coast
@@ -1064,6 +1224,14 @@
 1:0:19:2A5:223:1010:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
 1:0:2:2A6:223:1010:EEEE0000:0:0:0:     doublej              doublej              # Double J
 1:0:2:2A7:223:1010:EEEE0000:0:0:0:     abcjazz              abcjazz              # ABC Jazz
+1:0:2:2A8:223:1010:EEEE0000:0:0:0:     abckidslisten        abckidslisten        # ABC KIDS Listen
+1:0:2:2A9:223:1010:EEEE0000:0:0:0:     triplej              triplej              # triple j
+1:0:2:2AA:223:1010:EEEE0000:0:0:0:     triplejunearthed     triplejunearthed     # triple j Unearthed
+1:0:2:2AB:223:1010:EEEE0000:0:0:0:     abcclassic           abcclassic           # ABC Classic
+1:0:2:2AC:223:1010:EEEE0000:0:0:0:     abccountry           abccountry           # ABC Country
+1:0:2:2AD:223:1010:EEEE0000:0:0:0:     abcsydney            abcsydney            # ABC SYDNEY
+1:0:2:2AE:223:1010:EEEE0000:0:0:0:     abcrn                abcrn                # ABC RN
+1:0:2:2AF:223:1010:EEEE0000:0:0:0:     abcnewsradio         abcnewsradio         # ABC NewsRadio
 1:0:1:351:350:3202:EEEE0000:0:0:0:     sbsone               sbsone               # SBS ONE
 1:0:1:353:350:3202:EEEE0000:0:0:0:     sbsfood              sbsfood              # SBS Food
 1:0:1:354:350:3202:EEEE0000:0:0:0:     nitv                 nitv                 # NITV
@@ -1139,6 +1307,14 @@
 1:0:19:2E5:261:3201:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
 1:0:2:2E6:261:3201:EEEE0000:0:0:0:     doublej              doublej              # Double J
 1:0:2:2E7:261:3201:EEEE0000:0:0:0:     abcjazz              abcjazz              # ABC Jazz
+1:0:2:2E8:261:3201:EEEE0000:0:0:0:     abckidslisten        abckidslisten        # ABC KIDS Listen
+1:0:2:2E9:261:3201:EEEE0000:0:0:0:     triplej              triplej              # triple j
+1:0:2:2EA:261:3201:EEEE0000:0:0:0:     triplejunearthed     triplejunearthed     # triple j Unearthed
+1:0:2:2EB:261:3201:EEEE0000:0:0:0:     abcclassic           abcclassic           # ABC Classic
+1:0:2:2EC:261:3201:EEEE0000:0:0:0:     abccountry           abccountry           # ABC Country
+1:0:2:2ED:261:3201:EEEE0000:0:0:0:     abcperth             abcperth             # ABC PERTH
+1:0:2:2EE:261:3201:EEEE0000:0:0:0:     abcrn                abcrn                # ABC RN
+1:0:2:2EF:261:3201:EEEE0000:0:0:0:     abcnewsradio         abcnewsradio         # ABC NewsRadio
 1:0:1:321:320:3202:EEEE0000:0:0:0:     sbsone               sbsone               # SBS ONE
 1:0:1:323:320:3202:EEEE0000:0:0:0:     sbsfood              sbsfood              # SBS Food
 1:0:1:324:320:3202:EEEE0000:0:0:0:     nitv                 nitv                 # NITV
@@ -1168,6 +1344,14 @@
 1:0:19:2C5:243:1010:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
 1:0:2:2C6:243:1010:EEEE0000:0:0:0:     doublej              doublej              # Double J
 1:0:2:2C7:243:1010:EEEE0000:0:0:0:     abcjazz              abcjazz              # ABC Jazz
+1:0:2:2C8:243:1010:EEEE0000:0:0:0:     abckidslisten        abckidslisten        # ABC KIDS Listen
+1:0:2:2C9:243:1010:EEEE0000:0:0:0:     triplej              triplej              # triple j
+1:0:2:2CA:243:1010:EEEE0000:0:0:0:     triplejunearthed     triplejunearthed     # triple j Unearthed
+1:0:2:2CB:243:1010:EEEE0000:0:0:0:     abcclassic           abcclassic           # ABC Classic
+1:0:2:2CC:243:1010:EEEE0000:0:0:0:     abccountry           abccountry           # ABC Country
+1:0:2:2CD:243:1010:EEEE0000:0:0:0:     abcbrisbane          abcbrisbane          # ABC BRISBANE
+1:0:2:2CE:243:1010:EEEE0000:0:0:0:     abcrn                abcrn                # ABC RN
+1:0:2:2CF:243:1010:EEEE0000:0:0:0:     abcnewsradio         abcnewsradio         # ABC NewsRadio
 1:0:1:940:930:1013:EEEE0000:0:0:0:     7hdrockhampton       7hd                  # 7HD Rockhampton
 1:0:1:941:930:1013:EEEE0000:0:0:0:     7hdrockhampton       7hd                  # 7HD Rockhampton
 1:0:1:942:930:1013:EEEE0000:0:0:0:     7tworockhampton      7two                 # 7TWO Rockhampton
@@ -1221,6 +1405,14 @@
 1:0:19:2B5:233:1010:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
 1:0:2:2B6:233:1010:EEEE0000:0:0:0:     doublej              doublej              # Double J
 1:0:2:2B7:233:1010:EEEE0000:0:0:0:     abcjazz              abcjazz              # ABC Jazz
+1:0:2:2B8:233:1010:EEEE0000:0:0:0:     abckidslisten        abckidslisten        # ABC KIDS Listen
+1:0:2:2B9:233:1010:EEEE0000:0:0:0:     triplej              triplej              # triple j
+1:0:2:2BA:233:1010:EEEE0000:0:0:0:     triplejunearthed     triplejunearthed     # triple j Unearthed
+1:0:2:2BB:233:1010:EEEE0000:0:0:0:     abcclassic           abcclassic           # ABC Classic
+1:0:2:2BC:233:1010:EEEE0000:0:0:0:     abccountry           abccountry           # ABC Country
+1:0:2:2BD:233:1010:EEEE0000:0:0:0:     abcmelbourne         abcmelbourne         # ABC MELBOURNE
+1:0:2:2BE:233:1010:EEEE0000:0:0:0:     abcrn                abcrn                # ABC RN
+1:0:2:2BF:233:1010:EEEE0000:0:0:0:     abcnewsradio         abcnewsradio         # ABC NewsRadio
 1:0:1:351:350:3202:EEEE0000:0:0:0:     sbsone               sbsone               # SBS ONE
 1:0:1:353:350:3202:EEEE0000:0:0:0:     foodnetwork          sbsfood              # Food Network
 1:0:1:354:350:3202:EEEE0000:0:0:0:     nitv                 nitv                 # NITV
@@ -1318,6 +1510,14 @@
 1:0:19:2C5:243:1010:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
 1:0:2:2C6:243:1010:EEEE0000:0:0:0:     doublej              doublej              # Double J
 1:0:2:2C7:243:1010:EEEE0000:0:0:0:     abcjazz              abcjazz              # ABC Jazz
+1:0:2:2C8:243:1010:EEEE0000:0:0:0:     abckidslisten        abckidslisten        # ABC KIDS Listen
+1:0:2:2C9:243:1010:EEEE0000:0:0:0:     triplej              triplej              # triple j
+1:0:2:2CA:243:1010:EEEE0000:0:0:0:     triplejunearthed     triplejunearthed     # triple j Unearthed
+1:0:2:2CB:243:1010:EEEE0000:0:0:0:     abcclassic           abcclassic           # ABC Classic
+1:0:2:2CC:243:1010:EEEE0000:0:0:0:     abccountry           abccountry           # ABC Country
+1:0:2:2CD:243:1010:EEEE0000:0:0:0:     abcbrisbane          abcbrisbane          # ABC BRISBANE
+1:0:2:2CE:243:1010:EEEE0000:0:0:0:     abcrn                abcrn                # ABC RN
+1:0:2:2CF:243:1010:EEEE0000:0:0:0:     abcnewsradio         abcnewsradio         # ABC NewsRadio
 1:0:1:401:400:1012:EEEE0000:0:0:0:     channel9brisbane     channel9             # Channel 9 Brisbane
 1:0:1:406:400:1012:EEEE0000:0:0:0:     9go                  9go                  # 9Go!
 1:0:1:407:400:1012:EEEE0000:0:0:0:     9life                9life                # 9Life
@@ -1413,6 +1613,14 @@
 1:0:19:225:221:1010:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
 1:0:2:226:221:1010:EEEE0000:0:0:0:     doublej              doublej              # Double J
 1:0:2:227:221:1010:EEEE0000:0:0:0:     abcjazz              abcjazz              # ABC Jazz
+1:0:2:228:221:1010:EEEE0000:0:0:0:     abckidslisten        abckidslisten        # ABC KIDS Listen
+1:0:2:229:221:1010:EEEE0000:0:0:0:     triplej              triplej              # triple j
+1:0:2:22A:221:1010:EEEE0000:0:0:0:     triplejunearthed     triplejunearthed     # triple j Unearthed
+1:0:2:22B:221:1010:EEEE0000:0:0:0:     abcclassic           abcclassic           # ABC Classic
+1:0:2:22C:221:1010:EEEE0000:0:0:0:     abccountry           abccountry           # ABC Country
+1:0:2:22D:221:1010:EEEE0000:0:0:0:     abcsydney            abcsydney            # ABC SYDNEY
+1:0:2:22E:221:1010:EEEE0000:0:0:0:     abcrn                abcrn                # ABC RN
+1:0:2:22F:221:1010:EEEE0000:0:0:0:     abcnewsradio         abcnewsradio         # ABC NewsRadio
 1:0:1:421:420:1012:EEEE0000:0:0:0:     channel9sydney       channel9             # Channel 9 Sydney
 1:0:19:422:420:1012:EEEE0000:0:0:0:    9hdsydney            9hd                  # 9HD Sydney
 1:0:1:423:420:1012:EEEE0000:0:0:0:     9gosydney            9go                  # 9Go! Sydney
@@ -1465,6 +1673,14 @@
 1:0:19:2A5:223:1010:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
 1:0:2:2A6:223:1010:EEEE0000:0:0:0:     doublej              doublej              # Double J
 1:0:2:2A7:223:1010:EEEE0000:0:0:0:     abcjazz              abcjazz              # ABC Jazz
+1:0:2:2A8:223:1010:EEEE0000:0:0:0:     abckidslisten        abckidslisten        # ABC KIDS Listen
+1:0:2:2A9:223:1010:EEEE0000:0:0:0:     triplej              triplej              # triple j
+1:0:2:2AA:223:1010:EEEE0000:0:0:0:     triplejunearthed     triplejunearthed     # triple j Unearthed
+1:0:2:2AB:223:1010:EEEE0000:0:0:0:     abcclassic           abcclassic           # ABC Classic
+1:0:2:2AC:223:1010:EEEE0000:0:0:0:     abccountry           abccountry           # ABC Country
+1:0:2:2AD:223:1010:EEEE0000:0:0:0:     abcsydney            abcsydney            # ABC SYDNEY
+1:0:2:2AE:223:1010:EEEE0000:0:0:0:     abcrn                abcrn                # ABC RN
+1:0:2:2AF:223:1010:EEEE0000:0:0:0:     abcnewsradio         abcnewsradio         # ABC NewsRadio
 1:0:1:66:701:1019:EEEE0000:0:0:0:      ninenewengland       channel9             # Nine New England
 1:0:19:70:701:1019:EEEE0000:0:0:0:     9hdnewengland        9hd                  # 9HD New England
 1:0:1:7A:701:1019:EEEE0000:0:0:0:      9gemnewengland       9gem                 # 9GEM New England
@@ -1516,6 +1732,14 @@
 1:0:19:2A5:223:1010:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
 1:0:2:2A6:223:1010:EEEE0000:0:0:0:     doublej              doublej              # Double J
 1:0:2:2A7:223:1010:EEEE0000:0:0:0:     abcjazz              abcjazz              # ABC Jazz
+1:0:2:2A8:223:1010:EEEE0000:0:0:0:     abckidslisten        abckidslisten        # ABC KIDS Listen
+1:0:2:2A9:223:1010:EEEE0000:0:0:0:     triplej              triplej              # triple j
+1:0:2:2AA:223:1010:EEEE0000:0:0:0:     triplejunearthed     triplejunearthed     # triple j Unearthed
+1:0:2:2AB:223:1010:EEEE0000:0:0:0:     abcclassic           abcclassic           # ABC Classic
+1:0:2:2AC:223:1010:EEEE0000:0:0:0:     abccountry           abccountry           # ABC Country
+1:0:2:2AD:223:1010:EEEE0000:0:0:0:     abcsydney            abcsydney            # ABC SYDNEY
+1:0:2:2AE:223:1010:EEEE0000:0:0:0:     abcrn                abcrn                # ABC RN
+1:0:2:2AF:223:1010:EEEE0000:0:0:0:     abcnewsradio         abcnewsradio         # ABC NewsRadio
 1:0:1:6B:706:1019:EEEE0000:0:0:0:      ninetareeportmacquarie channel9             # Nine Taree-Port Macquarie
 1:0:19:75:706:1019:EEEE0000:0:0:0:     9hdtareeportmacquarie 9hd                  # 9HD Taree-Port Macquarie
 1:0:1:7F:706:1019:EEEE0000:0:0:0:      9gemtareeportmacquarie 9gem                 # 9GEM Taree-Port Macquarie
@@ -1567,6 +1791,14 @@
 1:0:19:2C5:243:1010:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
 1:0:2:2C6:243:1010:EEEE0000:0:0:0:     doublej              doublej              # Double J
 1:0:2:2C7:243:1010:EEEE0000:0:0:0:     abcjazz              abcjazz              # ABC Jazz
+1:0:2:2C8:243:1010:EEEE0000:0:0:0:     abckidslisten        abckidslisten        # ABC KIDS Listen
+1:0:2:2C9:243:1010:EEEE0000:0:0:0:     triplej              triplej              # triple j
+1:0:2:2CA:243:1010:EEEE0000:0:0:0:     triplejunearthed     triplejunearthed     # triple j Unearthed
+1:0:2:2CB:243:1010:EEEE0000:0:0:0:     abcclassic           abcclassic           # ABC Classic
+1:0:2:2CC:243:1010:EEEE0000:0:0:0:     abccountry           abccountry           # ABC Country
+1:0:2:2CD:243:1010:EEEE0000:0:0:0:     abcbrisbane          abcbrisbane          # ABC BRISBANE
+1:0:2:2CE:243:1010:EEEE0000:0:0:0:     abcrn                abcrn                # ABC RN
+1:0:2:2CF:243:1010:EEEE0000:0:0:0:     abcnewsradio         abcnewsradio         # ABC NewsRadio
 1:0:1:970:960:1013:EEEE0000:0:0:0:     7toowoomba           7digital             # 7 Toowoomba
 1:0:1:971:960:1013:EEEE0000:0:0:0:     7digital1            7digital             # 7 Digital 1
 1:0:1:972:960:1013:EEEE0000:0:0:0:     7two                 7two                 # 7TWO
@@ -1620,6 +1852,14 @@
 1:0:19:2C5:243:1010:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
 1:0:2:2C6:243:1010:EEEE0000:0:0:0:     doublej              doublej              # Double J
 1:0:2:2C7:243:1010:EEEE0000:0:0:0:     abcjazz              abcjazz              # ABC Jazz
+1:0:2:2C8:243:1010:EEEE0000:0:0:0:     abckidslisten        abckidslisten        # ABC KIDS Listen
+1:0:2:2C9:243:1010:EEEE0000:0:0:0:     triplej              triplej              # triple j
+1:0:2:2CA:243:1010:EEEE0000:0:0:0:     triplejunearthed     triplejunearthed     # triple j Unearthed
+1:0:2:2CB:243:1010:EEEE0000:0:0:0:     abcclassic           abcclassic           # ABC Classic
+1:0:2:2CC:243:1010:EEEE0000:0:0:0:     abccountry           abccountry           # ABC Country
+1:0:2:2CD:243:1010:EEEE0000:0:0:0:     abcbrisbane          abcbrisbane          # ABC BRISBANE
+1:0:2:2CE:243:1010:EEEE0000:0:0:0:     abcrn                abcrn                # ABC RN
+1:0:2:2CF:243:1010:EEEE0000:0:0:0:     abcnewsradio         abcnewsradio         # ABC NewsRadio
 1:0:1:920:910:1013:EEEE0000:0:0:0:     7townsville          7digital             # 7 Townsville
 1:0:1:921:910:1013:EEEE0000:0:0:0:     7townsville          7digital             # 7 Townsville
 1:0:1:922:910:1013:EEEE0000:0:0:0:     7twotownsville       7two                 # 7TWO Townsville
@@ -1677,6 +1917,14 @@
 1:0:19:2B5:233:1010:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
 1:0:2:2B6:233:1010:EEEE0000:0:0:0:     doublej              doublej              # Double J
 1:0:2:2B7:233:1010:EEEE0000:0:0:0:     abcjazz              abcjazz              # ABC Jazz
+1:0:2:2B8:233:1010:EEEE0000:0:0:0:     abckidslisten        abckidslisten        # ABC KIDS Listen
+1:0:2:2B9:233:1010:EEEE0000:0:0:0:     triplej              triplej              # triple j
+1:0:2:2BA:233:1010:EEEE0000:0:0:0:     triplejunearthed     triplejunearthed     # triple j Unearthed
+1:0:2:2BB:233:1010:EEEE0000:0:0:0:     abcclassic           abcclassic           # ABC Classic
+1:0:2:2BC:233:1010:EEEE0000:0:0:0:     abccountry           abccountry           # ABC Country
+1:0:2:2BD:233:1010:EEEE0000:0:0:0:     abcmelbourne         abcmelbourne         # ABC MELBOURNE
+1:0:2:2BE:233:1010:EEEE0000:0:0:0:     abcrn                abcrn                # ABC RN
+1:0:2:2BF:233:1010:EEEE0000:0:0:0:     abcnewsradio         abcnewsradio         # ABC NewsRadio
 1:0:1:371:370:3202:EEEE0000:0:0:0:     sbsone               sbsone               # SBS ONE
 1:0:1:373:370:3202:EEEE0000:0:0:0:     foodnetwork          sbsfood              # Food Network
 1:0:1:374:370:3202:EEEE0000:0:0:0:     nitv                 nitv                 # NITV
@@ -1730,6 +1978,14 @@
 1:0:19:2C5:243:1010:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
 1:0:2:2C6:243:1010:EEEE0000:0:0:0:     doublej              doublej              # Double J
 1:0:2:2C7:243:1010:EEEE0000:0:0:0:     abcjazz              abcjazz              # ABC Jazz
+1:0:2:2C8:243:1010:EEEE0000:0:0:0:     abckidslisten        abckidslisten        # ABC KIDS Listen
+1:0:2:2C9:243:1010:EEEE0000:0:0:0:     triplej              triplej              # triple j
+1:0:2:2CA:243:1010:EEEE0000:0:0:0:     triplejunearthed     triplejunearthed     # triple j Unearthed
+1:0:2:2CB:243:1010:EEEE0000:0:0:0:     abcclassic           abcclassic           # ABC Classic
+1:0:2:2CC:243:1010:EEEE0000:0:0:0:     abccountry           abccountry           # ABC Country
+1:0:2:2CD:243:1010:EEEE0000:0:0:0:     abcbrisbane          abcbrisbane          # ABC BRISBANE
+1:0:2:2CE:243:1010:EEEE0000:0:0:0:     abcrn                abcrn                # ABC RN
+1:0:2:2CF:243:1010:EEEE0000:0:0:0:     abcnewsradio         abcnewsradio         # ABC NewsRadio
 1:0:1:950:940:1013:EEEE0000:0:0:0:     7digital             7digital             # 7 Digital
 1:0:1:951:940:1013:EEEE0000:0:0:0:     7digital1            7digital             # 7 Digital 1
 1:0:1:952:940:1013:EEEE0000:0:0:0:     7two                 7two                 # 7TWO
@@ -1783,6 +2039,14 @@
 1:0:19:2A5:223:1010:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
 1:0:2:2A6:223:1010:EEEE0000:0:0:0:     doublej              doublej              # Double J
 1:0:2:2A7:223:1010:EEEE0000:0:0:0:     abcjazz              abcjazz              # ABC Jazz
+1:0:2:2A8:223:1010:EEEE0000:0:0:0:     abckidslisten        abckidslisten        # ABC KIDS Listen
+1:0:2:2A9:223:1010:EEEE0000:0:0:0:     triplej              triplej              # triple j
+1:0:2:2AA:223:1010:EEEE0000:0:0:0:     triplejunearthed     triplejunearthed     # triple j Unearthed
+1:0:2:2AB:223:1010:EEEE0000:0:0:0:     abcclassic           abcclassic           # ABC Classic
+1:0:2:2AC:223:1010:EEEE0000:0:0:0:     abccountry           abccountry           # ABC Country
+1:0:2:2AD:223:1010:EEEE0000:0:0:0:     abcsydney            abcsydney            # ABC SYDNEY
+1:0:2:2AE:223:1010:EEEE0000:0:0:0:     abcrn                abcrn                # ABC RN
+1:0:2:2AF:223:1010:EEEE0000:0:0:0:     abcnewsradio         abcnewsradio         # ABC NewsRadio
 1:0:1:351:350:3202:EEEE0000:0:0:0:     sbsone               sbsone               # SBS ONE
 1:0:1:353:350:3202:EEEE0000:0:0:0:     sbsfood              sbsfood              # SBS Food
 1:0:1:354:350:3202:EEEE0000:0:0:0:     nitv                 nitv                 # NITV
