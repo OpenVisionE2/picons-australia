@@ -1358,6 +1358,19 @@
 1:0:16:966:9A2:3281:EEEE0000:0:0:0:    7flix                7flix                # 7flix
 1:0:16:968:9A2:3281:EEEE0000:0:0:0:    racingcom            racingcom            # RACING.COM
 
+# OutbackQld
+# Service reference                    Service base name    Picon base name        Service name
+1:0:1:385:701:101A:EEEE0000:0:0:0:     gem                  9gem                 # GEM
+1:0:1:388:701:101A:EEEE0000:0:0:0:     imparja              imparja              # IMPARJA
+1:0:1:389:701:101A:EEEE0000:0:0:0:     go                   9go                  # GO
+1:0:19:3B0:3B7:3202:EEEE0000:0:0:0:    sbsworldmovies       sbsworldmovies       # SBS World Movies
+1:0:1:2BD:904:320B:EEEE0000:0:0:0:     sctv                 sctvtas              # SCTV
+1:0:1:2BE:904:320B:EEEE0000:0:0:0:     7two                 7two                 # 7TWO
+1:0:1:2C1:904:320B:EEEE0000:0:0:0:     7mate                7mate                # 7MATE
+1:0:1:65:81B:320C:EEEE0000:0:0:0:      10                   10                   # 10
+1:0:1:66:81B:320C:EEEE0000:0:0:0:      10peach              10peach              # 10 PEACH
+1:0:1:68:81B:320C:EEEE0000:0:0:0:      10bold               10bold               # 10 BOLD
+
 # Perth
 # Service reference                    Service base name    Picon base name        Service name
 1:0:1:461:460:1012:EEEE0000:0:0:0:     channel9perth        channel9             # Channel 9 Perth
