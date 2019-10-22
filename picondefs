@@ -684,6 +684,90 @@
 1:0:16:98E:99D:3283:EEEE0000:0:0:0:    7flix                7flix                # 7flix
 1:0:16:990:99D:3283:EEEE0000:0:0:0:    racingcom            racingcom            # RACING.COM
 
+# Gold Coast - North
+# Service reference                    Service base name    Picon base name        Service name
+1:0:1:2C0:243:1010:EEEE0000:0:0:0:     abcnews              abcnews              # ABC NEWS
+1:0:1:2C1:243:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
+1:0:1:2C2:243:1010:EEEE0000:0:0:0:     abccomedykids        abccomedy            # ABCComedy/Kids
+1:0:1:2C3:243:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
+1:0:1:2C4:243:1010:EEEE0000:0:0:0:     abcme                abcme                # ABC ME
+1:0:19:2C5:243:1010:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
+1:0:2:2C6:243:1010:EEEE0000:0:0:0:     doublej              doublej              # Double J
+1:0:2:2C7:243:1010:EEEE0000:0:0:0:     abcjazz              abcjazz              # ABC Jazz
+1:0:2:2C8:243:1010:EEEE0000:0:0:0:     abckidslisten        abckidslisten        # ABC KIDS Listen
+1:0:2:2C9:243:1010:EEEE0000:0:0:0:     triplej              triplej              # triple j
+1:0:2:2CA:243:1010:EEEE0000:0:0:0:     triplejunearthed     triplejunearthed     # triple j Unearthed
+1:0:2:2CB:243:1010:EEEE0000:0:0:0:     abcclassic           abcclassic           # ABC Classic
+1:0:2:2CC:243:1010:EEEE0000:0:0:0:     abccountry           abccountry           # ABC Country
+1:0:2:2CD:243:1010:EEEE0000:0:0:0:     abcbrisbane          abcbrisbane          # ABC BRISBANE
+1:0:2:2CE:243:1010:EEEE0000:0:0:0:     abcrn                abcrn                # ABC RN
+1:0:2:2CF:243:1010:EEEE0000:0:0:0:     abcnewsradio         abcnewsradio         # ABC NewsRadio
+1:0:1:471:441:1012:EEEE0000:0:0:0:     channel9goldcoast    channel9             # Channel 9 Gold Coast
+1:0:19:472:441:1012:EEEE0000:0:0:0:    9hdgoldcoast         9hd                  # 9HD Gold Coast
+1:0:1:473:441:1012:EEEE0000:0:0:0:     9gogoldcoast         9go                  # 9Go! Gold Coast
+1:0:1:474:441:1012:EEEE0000:0:0:0:     9lifegoldcoast       9life                # 9Life Gold Coast
+1:0:19:475:441:1012:EEEE0000:0:0:0:    9gemhdgoldcoast      9gemhd               # 9Gem HD Gold Coast
+1:0:1:476:441:1012:EEEE0000:0:0:0:     channel9goldcoast    channel9             # Channel 9 Gold Coast
+1:0:1:477:441:1012:EEEE0000:0:0:0:     9gemgoldcoast        9gem                 # 9Gem Gold Coast
+1:0:1:478:441:1012:EEEE0000:0:0:0:     9gogoldcoast         9go                  # 9Go! Gold Coast
+1:0:1:540:504:1013:EEEE0000:0:0:0:     7goldcoast           7digital             # 7 Gold Coast
+1:0:1:541:504:1013:EEEE0000:0:0:0:     7goldcoast           7digital             # 7 Gold Coast
+1:0:1:542:504:1013:EEEE0000:0:0:0:     7twogoldcoast        7two                 # 7TWO Gold Coast
+1:0:1:543:504:1013:EEEE0000:0:0:0:     7mategoldcoast       7mate                # 7mate Gold Coast
+1:0:19:544:504:1013:EEEE0000:0:0:0:    7hdgoldcoast         7hd                  # 7HD Gold Coast
+1:0:1:545:504:1013:EEEE0000:0:0:0:     7flixgoldcoast       7flix                # 7flix Gold Coast
+1:0:16:546:504:1013:EEEE0000:0:0:0:    openshop             openshop             # openshop
+1:0:1:547:504:1013:EEEE0000:0:0:0:     7foodnetwork         7foodnetwork         # 7food network
+1:0:16:547:504:1013:EEEE0000:0:0:0:    7foodnetwork         7foodnetwork         # 7food network
+1:0:16:548:504:1013:EEEE0000:0:0:0:    racingcom            racingcom            # RACING.COM
+1:0:1:641:604:1014:EEEE0000:0:0:0:     10bold               10bold               # 10 BOLD
+1:0:19:644:604:1014:EEEE0000:0:0:0:    10hd                 10hd                 # 10 HD
+1:0:1:645:604:1014:EEEE0000:0:0:0:     10                   10                   # 10
+1:0:1:646:604:1014:EEEE0000:0:0:0:     tvsn                 tvsn                 # TVSN
+1:0:1:647:604:1014:EEEE0000:0:0:0:     10bold               10bold               # 10 BOLD
+1:0:1:648:604:1014:EEEE0000:0:0:0:     10peach              10peach              # 10 Peach
+1:0:1:649:604:1014:EEEE0000:0:0:0:     spreetv              spreetv              # SpreeTV
+1:0:1:69:704:1019:EEEE0000:0:0:0:      ninenbngoldcoast     nbn                  # Nine-NBN Gold Coast
+1:0:19:73:704:1019:EEEE0000:0:0:0:     9hdgoldcoast         9hd                  # 9HD Gold Coast
+1:0:1:7D:704:1019:EEEE0000:0:0:0:      9gemgoldcoast        9gem                 # 9Gem Gold Coast
+1:0:1:87:704:1019:EEEE0000:0:0:0:      9gogoldcoast         9go                  # 9Go! Gold Coast
+1:0:1:91:704:1019:EEEE0000:0:0:0:      yourmoney            9gemhd               # Your Money
+1:0:1:9B:704:1019:EEEE0000:0:0:0:      9lifegoldcoast       9life                # 9Life Gold Coast
+1:0:1:B9:704:1019:EEEE0000:0:0:0:      9gogoldcoast         9go                  # 9Go! Gold Coast
+1:0:1:C3:704:1019:EEEE0000:0:0:0:      ninenbngoldcoast     nbn                  # Nine-NBN Gold Coast
+1:0:1:331:330:3202:EEEE0000:0:0:0:     sbsone               sbsone               # SBS ONE
+1:0:1:333:330:3202:EEEE0000:0:0:0:     sbsfood              sbsfood              # SBS Food
+1:0:1:334:330:3202:EEEE0000:0:0:0:     nitv                 nitv                 # NITV
+1:0:19:335:330:3202:EEEE0000:0:0:0:    sbsonehd             sbsonehd             # SBS ONE HD
+1:0:19:336:330:3202:EEEE0000:0:0:0:    sbsvicelandhd        sbsvicelandhd        # SBS VICELAND HD
+1:0:19:337:330:3202:EEEE0000:0:0:0:    sbsworldmovies       sbsworldmovies       # SBS World Movies
+1:0:2:33D:330:3202:EEEE0000:0:0:0:     sbsarabic24          sbsarabic24          # SBS Arabic24
+1:0:2:33E:330:3202:EEEE0000:0:0:0:     sbsradio1            sbsradio1            # SBS Radio 1
+1:0:2:33F:330:3202:EEEE0000:0:0:0:     sbsradio2            sbsradio2            # SBS Radio 2
+1:0:2:340:330:3202:EEEE0000:0:0:0:     sbschill             sbschill             # SBS Chill
+1:0:2:341:330:3202:EEEE0000:0:0:0:     sbsradio1            sbsradio1            # SBS Radio 1
+1:0:2:342:330:3202:EEEE0000:0:0:0:     sbsradio2            sbsradio2            # SBS Radio 2
+1:0:2:343:330:3202:EEEE0000:0:0:0:     sbsradio3            sbsradio3            # SBS Radio 3
+1:0:2:344:330:3202:EEEE0000:0:0:0:     sbsarabic24          sbsarabic24          # SBS Arabic24
+1:0:2:345:330:3202:EEEE0000:0:0:0:     sbspopdesi           sbspopdesi           # SBS PopDesi
+1:0:2:346:330:3202:EEEE0000:0:0:0:     sbschill             sbschill             # SBS Chill
+1:0:2:347:330:3202:EEEE0000:0:0:0:     sbspopasia           sbspopasia           # SBS PopAsia
+1:0:16:787:32A0:3272:EEEE0000:0:0:0:   gold                 gold                 # GOLD
+1:0:16:788:32A0:3272:EEEE0000:0:0:0:   tvsn                 tvsn                 # TVSN
+1:0:1:820:32A0:3272:EEEE0000:0:0:0:    wingoldcoast         win                  # WIN Gold Coast
+1:0:1:822:32A0:3272:EEEE0000:0:0:0:    boldgoldcoast        winbold              # BOLD Gold Coast
+1:0:1:824:32A0:3272:EEEE0000:0:0:0:    peachgoldcoast       winpeach             # PEACH Gold Coast
+1:0:19:825:32A0:3272:EEEE0000:0:0:0:   winhdgoldcoast       winhd                # WIN HD Gold Coast
+1:0:16:826:32A0:3272:EEEE0000:0:0:0:   skynewsonwin         skynewsonwin         # Sky News on WIN
+1:0:1:938:9A5:3282:EEEE0000:0:0:0:     prime7goldcoast      prime7               # PRIME7 Gold Coast
+1:0:19:960:9A5:3282:EEEE0000:0:0:0:    prime7hdgoldcoast    prime7hd             # PRIME7 HD Gold Coast
+1:0:1:961:9A5:3282:EEEE0000:0:0:0:     prime7goldcoast      prime7               # PRIME7 Gold Coast
+1:0:1:962:9A5:3282:EEEE0000:0:0:0:     7twogoldcoast        7two                 # 7TWO Gold Coast
+1:0:1:963:9A5:3282:EEEE0000:0:0:0:     7mategoldcoast       7mate                # 7mate Gold Coast
+1:0:16:965:9A5:3282:EEEE0000:0:0:0:    ishoptv              ishoptv              # ishoptv
+1:0:16:966:9A5:3282:EEEE0000:0:0:0:    7flix                7flix                # 7flix
+1:0:16:968:9A5:3282:EEEE0000:0:0:0:    racingcom            racingcom            # RACING.COM
+
 # Gold Coast
 # Service reference                    Service base name    Picon base name        Service name
 1:0:1:2C0:243:1010:EEEE0000:0:0:0:     abcnews              abcnews              # ABC NEWS
