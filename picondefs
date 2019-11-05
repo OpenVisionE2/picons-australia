@@ -1369,7 +1369,7 @@
 1:0:1:2C1:904:320B:EEEE0000:0:0:0:     7mate                7mate                # 7MATE
 1:0:1:65:81B:320C:EEEE0000:0:0:0:      10                   10                   # 10
 1:0:1:66:81B:320C:EEEE0000:0:0:0:      10peach              10peach              # 10 PEACH
-1:0:1:68:81B:320C:EEEE0000:0:0:0:      10bold               10bold               # 10 BOLD
+1:0:1:69:81B:320C:EEEE0000:0:0:0:      10bold               10bold               # 10 BOLD
 
 # Perth
 # Service reference                    Service base name    Picon base name        Service name
