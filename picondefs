@@ -36,7 +36,8 @@
 1:0:19:554:505:1013:EEEE0000:0:0:0:    7hdadelaide          7hd                  # 7HD Adelaide
 1:0:1:555:505:1013:EEEE0000:0:0:0:     7flixadelaide        7flix                # 7flix Adelaide
 1:0:16:556:505:1013:EEEE0000:0:0:0:    openshop             openshop             # openshop
-1:0:16:557:505:1013:EEEE0000:0:0:0:    7foodnetwork         7foodnetwork         # 7food network
+1:0:16:557:505:1013:EEEE0000:0:0:0:    7foodnetwork         7matehd              # 7food network
+1:0:19:557:505:1013:EEEE0000:0:0:0:    7matehd              7matehd              # 7mate HD
 1:0:16:558:505:1013:EEEE0000:0:0:0:    racingcom            racingcom            # RACING.COM
 1:0:1:651:605:1014:EEEE0000:0:0:0:     10boss               10bold               # 10 Boss
 1:0:19:654:605:1014:EEEE0000:0:0:0:    10hd                 10hd                 # 10 HD
@@ -284,7 +285,8 @@
 1:0:19:544:504:1013:EEEE0000:0:0:0:    7hdbrisbane          7hd                  # 7HD Brisbane
 1:0:1:545:504:1013:EEEE0000:0:0:0:     7flixbrisbane        7flix                # 7flix Brisbane
 1:0:16:546:504:1013:EEEE0000:0:0:0:    openshop             openshop             # openshop
-1:0:16:547:504:1013:EEEE0000:0:0:0:    7foodnetwork         7foodnetwork         # 7food network
+1:0:16:547:504:1013:EEEE0000:0:0:0:    7foodnetwork         7matehd              # 7food network
+1:0:19:547:504:1013:EEEE0000:0:0:0:    7matehd              7matehd              # 7mate HD
 1:0:16:548:504:1013:EEEE0000:0:0:0:    racingcom            racingcom            # RACING.COM
 1:0:1:641:604:1014:EEEE0000:0:0:0:     10bold               10bold               # 10 BOLD
 1:0:19:644:604:1014:EEEE0000:0:0:0:    10hd                 10hd                 # 10 HD
@@ -335,7 +337,7 @@
 1:0:1:913:900:1013:EEEE0000:0:0:0:     7matecairns          7mate                # 7mate Cairns
 1:0:1:914:900:1013:EEEE0000:0:0:0:     7cairns              7digital             # 7 Cairns
 1:0:1:915:900:1013:EEEE0000:0:0:0:     7flixcairns          7flix                # 7flix Cairns
-1:0:16:917:900:1013:EEEE0000:0:0:0:    7foodnetwork         7foodnetwork         # 7food network
+1:0:19:917:900:1013:EEEE0000:0:0:0:    7matehd              7matehd              # 7mate HD
 1:0:16:918:900:1013:EEEE0000:0:0:0:    racingcom            racingcom            # RACING.COM
 1:0:1:3B1:3B0:3202:EEEE0000:0:0:0:     sbsone               sbsone               # SBS ONE
 1:0:1:3B3:3B0:3202:EEEE0000:0:0:0:     foodnetwork          sbsfood              # Food Network
@@ -464,7 +466,7 @@
 1:0:1:524:502:1013:EEEE0000:0:0:0:     7hdcentralcoast      7hd                  # 7HD Central Coast
 1:0:16:525:502:1013:EEEE0000:0:0:0:    7flix                7flix                # 7flix
 1:0:16:526:502:1013:EEEE0000:0:0:0:    openshop             openshop             # openshop
-1:0:16:527:502:1013:EEEE0000:0:0:0:    7foodnetwork         7foodnetwork         # 7food network
+1:0:19:527:502:1013:EEEE0000:0:0:0:    7matehd              7matehd              # 7mate HD
 1:0:16:528:502:1013:EEEE0000:0:0:0:    racingcom            racingcom            # RACING.COM
 1:0:1:621:602:1014:EEEE0000:0:0:0:     one                  10bold               # ONE
 1:0:19:624:602:1014:EEEE0000:0:0:0:    tenhd                10hd                 # TEN HD
@@ -598,7 +600,7 @@
 1:0:19:534:503:1013:EEEE0000:0:0:0:    7hdmelbourne         7hd                  # 7HD Melbourne
 1:0:1:535:503:1013:EEEE0000:0:0:0:     7flixmelbourne       7flix                # 7flix Melbourne
 1:0:16:536:503:1013:EEEE0000:0:0:0:    openshop             openshop             # openshop
-1:0:16:537:503:1013:EEEE0000:0:0:0:    7foodnetwork         7foodnetwork         # 7food network
+1:0:19:537:503:1013:EEEE0000:0:0:0:    7matehd              7matehd              # 7mate HD
 1:0:16:538:503:1013:EEEE0000:0:0:0:    racingcom            racingcom            # RACING.COM
 1:0:1:631:603:1014:EEEE0000:0:0:0:     one                  10bold               # ONE
 1:0:19:634:603:1014:EEEE0000:0:0:0:    tenhd                10hd                 # TEN HD
@@ -717,8 +719,8 @@
 1:0:19:544:504:1013:EEEE0000:0:0:0:    7hdgoldcoast         7hd                  # 7HD Gold Coast
 1:0:1:545:504:1013:EEEE0000:0:0:0:     7flixgoldcoast       7flix                # 7flix Gold Coast
 1:0:16:546:504:1013:EEEE0000:0:0:0:    openshop             openshop             # openshop
-1:0:1:547:504:1013:EEEE0000:0:0:0:     7foodnetwork         7foodnetwork         # 7food network
-1:0:16:547:504:1013:EEEE0000:0:0:0:    7foodnetwork         7foodnetwork         # 7food network
+1:0:1:547:504:1013:EEEE0000:0:0:0:     7foodnetwork         7matehd              # 7food network
+1:0:19:547:504:1013:EEEE0000:0:0:0:    7matehd              7matehd              # 7mate HD
 1:0:16:548:504:1013:EEEE0000:0:0:0:    racingcom            racingcom            # RACING.COM
 1:0:1:641:604:1014:EEEE0000:0:0:0:     10bold               10bold               # 10 BOLD
 1:0:19:644:604:1014:EEEE0000:0:0:0:    10hd                 10hd                 # 10 HD
@@ -793,8 +795,8 @@
 1:0:19:544:504:1013:EEEE0000:0:0:0:    7hdgoldcoast         7hd                  # 7HD Gold Coast
 1:0:1:545:504:1013:EEEE0000:0:0:0:     7flixgoldcoast       7flix                # 7flix Gold Coast
 1:0:16:546:504:1013:EEEE0000:0:0:0:    openshop             openshop             # openshop
-1:0:1:547:504:1013:EEEE0000:0:0:0:     7foodnetwork         7foodnetwork         # 7food network
-1:0:16:547:504:1013:EEEE0000:0:0:0:    7foodnetwork         7foodnetwork         # 7food network
+1:0:1:547:504:1013:EEEE0000:0:0:0:     7foodnetwork         7matehd              # 7food network
+1:0:19:547:504:1013:EEEE0000:0:0:0:    7matehd              7matehd              # 7mate HD
 1:0:16:548:504:1013:EEEE0000:0:0:0:    racingcom            racingcom            # RACING.COM
 1:0:1:641:604:1014:EEEE0000:0:0:0:     10bold               10bold               # 10 BOLD
 1:0:19:644:604:1014:EEEE0000:0:0:0:    10hd                 10hd                 # 10 HD
@@ -988,7 +990,8 @@
 1:0:19:534:503:1013:EEEE0000:0:0:0:    7hdmelbourne         7hd                  # 7HD Melbourne
 1:0:1:535:503:1013:EEEE0000:0:0:0:     7flixmelbourne       7flix                # 7flix Melbourne
 1:0:16:536:503:1013:EEEE0000:0:0:0:    openshop             openshop             # openshop
-1:0:16:537:503:1013:EEEE0000:0:0:0:    7foodnetwork         7foodnetwork         # 7food network
+1:0:16:537:503:1013:EEEE0000:0:0:0:    7foodnetwork         7matehd              # 7food network
+1:0:19:537:503:1013:EEEE0000:0:0:0:    7matehd              7matehd              # 7mate HD
 1:0:16:538:503:1013:EEEE0000:0:0:0:    racingcom            racingcom            # RACING.COM
 1:0:1:631:603:1014:EEEE0000:0:0:0:     10bold               10bold               # 10 BOLD
 1:0:19:634:603:1014:EEEE0000:0:0:0:    10hd                 10hd                 # 10 HD
@@ -1388,7 +1391,8 @@
 1:0:19:564:506:1013:EEEE0000:0:0:0:    7hdperth             7hd                  # 7HD Perth
 1:0:1:565:506:1013:EEEE0000:0:0:0:     7flixperth           7flix                # 7flix Perth
 1:0:16:566:506:1013:EEEE0000:0:0:0:    openshop             openshop             # openshop
-1:0:16:567:506:1013:EEEE0000:0:0:0:    7foodnetwork         7foodnetwork         # 7food network
+1:0:16:567:506:1013:EEEE0000:0:0:0:    7foodnetwork         7matehd              # 7food network
+1:0:19:567:506:1013:EEEE0000:0:0:0:    7matehd              7matehd              # 7mate HD
 1:0:16:568:506:1013:EEEE0000:0:0:0:    racingcom            racingcom            # RACING.COM
 1:0:1:681:607:1014:EEEE0000:0:0:0:     10bold               10bold               # 10 BOLD
 1:0:19:684:607:1014:EEEE0000:0:0:0:    10hd                 10hd                 # 10 HD
@@ -1457,8 +1461,8 @@
 1:0:1:944:930:1013:EEEE0000:0:0:0:     7hdrockhampton       7hd                  # 7HD Rockhampton
 1:0:1:945:930:1013:EEEE0000:0:0:0:     7flixrockhampton     7flix                # 7flix Rockhampton
 1:0:16:946:930:1013:EEEE0000:0:0:0:    openshop             openshop             # openshop
-1:0:1:947:930:1013:EEEE0000:0:0:0:     7foodnetwork         7foodnetwork         # 7food network
-1:0:16:947:930:1013:EEEE0000:0:0:0:    7foodnetwork         7foodnetwork         # 7food network
+1:0:1:947:930:1013:EEEE0000:0:0:0:     7foodnetwork         7matehd              # 7food network
+1:0:19:947:930:1013:EEEE0000:0:0:0:    7matehd              7matehd              # 7mate HD
 1:0:16:948:930:1013:EEEE0000:0:0:0:    racingcom            racingcom            # RACING.COM
 1:0:1:3B1:3B0:3202:EEEE0000:0:0:0:     sbsone               sbsone               # SBS ONE
 1:0:1:3B3:3B0:3202:EEEE0000:0:0:0:     sbsfood              sbsfood              # SBS Food
@@ -1631,7 +1635,7 @@
 1:0:19:544:504:1013:EEEE0000:0:0:0:    7hdbrisbane          7hd                  # 7HD Brisbane
 1:0:16:545:504:1013:EEEE0000:0:0:0:    7flixbrisbane        7flix                # 7flix Brisbane
 1:0:16:546:504:1013:EEEE0000:0:0:0:    openshop             openshop             # openshop
-1:0:16:547:504:1013:EEEE0000:0:0:0:    7foodnetwork         7foodnetwork         # 7food network
+1:0:19:547:504:1013:EEEE0000:0:0:0:    7matehd              7matehd              # 7mate HD
 1:0:16:548:504:1013:EEEE0000:0:0:0:    racingcom            racingcom            # RACING.COM
 1:0:1:960:950:1013:EEEE0000:0:0:0:     7suncoast            7digital             # 7 Sun Coast
 1:0:1:961:950:1013:EEEE0000:0:0:0:     7digital1            7digital             # 7 Digital 1
@@ -1639,7 +1643,7 @@
 1:0:1:963:950:1013:EEEE0000:0:0:0:     7mate                7mate                # 7mate
 1:0:1:964:950:1013:EEEE0000:0:0:0:     7suncoast            7digital             # 7 Sun Coast
 1:0:1:965:950:1013:EEEE0000:0:0:0:     7flix                7flix                # 7flix
-1:0:16:967:950:1013:EEEE0000:0:0:0:    7foodnetwork         7foodnetwork         # 7food network
+1:0:19:967:950:1013:EEEE0000:0:0:0:    7matehd              7matehd              # 7mate HD
 1:0:1:968:950:1013:EEEE0000:0:0:0:     racingcom            racingcom            # RACING.COM
 1:0:1:641:604:1014:EEEE0000:0:0:0:     one                  10bold               # ONE
 1:0:19:644:604:1014:EEEE0000:0:0:0:    tenhd                10hd                 # TEN HD
@@ -1734,7 +1738,8 @@
 1:0:19:524:502:1013:EEEE0000:0:0:0:    7hdsydney            7hd                  # 7HD Sydney
 1:0:1:525:502:1013:EEEE0000:0:0:0:     7flixsydney          7flix                # 7flix Sydney
 1:0:16:526:502:1013:EEEE0000:0:0:0:    openshop             openshop             # openshop
-1:0:16:527:502:1013:EEEE0000:0:0:0:    7foodnetwork         7foodnetwork         # 7food network
+1:0:16:527:502:1013:EEEE0000:0:0:0:    7foodnetwork         7matehd              # 7food network
+1:0:19:527:502:1013:EEEE0000:0:0:0:    7matehd              7matehd              # 7mate HD
 1:0:16:528:502:1013:EEEE0000:0:0:0:    racingcom            racingcom            # RACING.COM
 1:0:1:621:602:1014:EEEE0000:0:0:0:     10bold               10bold               # 10 BOLD
 1:0:19:624:602:1014:EEEE0000:0:0:0:    10hd                 10hd                 # 10 HD
@@ -1903,7 +1908,7 @@
 1:0:1:973:960:1013:EEEE0000:0:0:0:     7mate                7mate                # 7mate
 1:0:1:974:960:1013:EEEE0000:0:0:0:     7toowoomba           7digital             # 7 Toowoomba
 1:0:1:975:960:1013:EEEE0000:0:0:0:     7flix                7flix                # 7flix
-1:0:16:977:960:1013:EEEE0000:0:0:0:    7foodnetwork         7foodnetwork         # 7food network
+1:0:19:977:960:1013:EEEE0000:0:0:0:    7matehd              7matehd              # 7mate HD
 1:0:1:978:960:1013:EEEE0000:0:0:0:     racingcom            racingcom            # RACING.COM
 1:0:1:3B1:3B0:3202:EEEE0000:0:0:0:     sbsone               sbsone               # SBS ONE
 1:0:1:3B3:3B0:3202:EEEE0000:0:0:0:     foodnetwork          sbsfood              # Food Network
@@ -1964,7 +1969,7 @@
 1:0:1:923:910:1013:EEEE0000:0:0:0:     7matetownsville      7mate                # 7mate Townsville
 1:0:1:924:910:1013:EEEE0000:0:0:0:     7townsville          7digital             # 7 Townsville
 1:0:1:925:910:1013:EEEE0000:0:0:0:     7flixtownsville      7flix                # 7flix Townsville
-1:0:16:927:910:1013:EEEE0000:0:0:0:    7foodnetwork         7foodnetwork         # 7food network
+1:0:19:927:910:1013:EEEE0000:0:0:0:    7matehd              7matehd              # 7mate HD
 1:0:1:928:910:1013:EEEE0000:0:0:0:     racingcom            racingcom            # RACING.COM
 1:0:1:3B1:3B0:3202:EEEE0000:0:0:0:     sbsone               sbsone               # SBS ONE
 1:0:1:3B3:3B0:3202:EEEE0000:0:0:0:     foodnetwork          sbsfood              # Food Network
@@ -2090,7 +2095,7 @@
 1:0:1:953:940:1013:EEEE0000:0:0:0:     7mate                7mate                # 7mate
 1:0:1:954:940:1013:EEEE0000:0:0:0:     7digital             7digital             # 7 Digital
 1:0:1:955:940:1013:EEEE0000:0:0:0:     7flix                7flix                # 7flix
-1:0:16:957:940:1013:EEEE0000:0:0:0:    7foodnetwork         7foodnetwork         # 7food network
+1:0:19:957:940:1013:EEEE0000:0:0:0:    7matehd              7matehd              # 7mate HD
 1:0:1:958:940:1013:EEEE0000:0:0:0:     racingcom            racingcom            # RACING.COM
 1:0:1:3B1:3B0:3202:EEEE0000:0:0:0:     sbsone               sbsone               # SBS ONE
 1:0:1:3B3:3B0:3202:EEEE0000:0:0:0:     foodnetwork          sbsfood              # Food Network
