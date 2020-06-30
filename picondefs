@@ -275,7 +275,7 @@
 1:0:1:409:400:1012:EEEE0000:0:0:0:     channel9brisbane     channel9             # Channel 9 Brisbane
 1:0:1:40A:400:1012:EEEE0000:0:0:0:     9gembrisbane         9gem                 # 9Gem Brisbane
 1:0:1:40B:400:1012:EEEE0000:0:0:0:     9gobrisbane          9go                  # 9Go! Brisbane
-1:0:1:40C:400:1012:EEEE0000:0:0:0:     9rush                9rush                # 9Rush
+1:0:1:40C:400:1012:EEEE0000:0:0:0:     9rushbrisbane        9rush                # 9Rush Brisbane
 1:0:19:480:400:1012:EEEE0000:0:0:0:    9hdbrisbane          9hd                  # 9HD Brisbane
 1:0:1:540:504:1013:EEEE0000:0:0:0:     7brisbane            7digital             # 7 Brisbane
 1:0:1:541:504:1013:EEEE0000:0:0:0:     7brisbane            7digital             # 7 Brisbane
@@ -283,8 +283,8 @@
 1:0:1:543:504:1013:EEEE0000:0:0:0:     7matebrisbane        7mate                # 7mate Brisbane
 1:0:19:544:504:1013:EEEE0000:0:0:0:    7hdbrisbane          7hd                  # 7HD Brisbane
 1:0:1:545:504:1013:EEEE0000:0:0:0:     7flixbrisbane        7flix                # 7flix Brisbane
-1:0:16:546:504:1013:EEEE0000:0:0:0:    openshop             openshop             # openshop
-1:0:19:547:504:1013:EEEE0000:0:0:0:    7matehd              7matehd              # 7mate HD
+1:0:1:546:504:1013:EEEE0000:0:0:0:     openshop             openshop             # openshop
+1:0:19:547:504:1013:EEEE0000:0:0:0:    7matehdbrisbane      7matehd              # 7mateHD Brisbane
 1:0:16:548:504:1013:EEEE0000:0:0:0:    racingcom            racingcom            # RACING.COM
 1:0:1:641:604:1014:EEEE0000:0:0:0:     10bold               10bold               # 10 BOLD
 1:0:19:644:604:1014:EEEE0000:0:0:0:    10hd                 10hd                 # 10 HD
@@ -1389,15 +1389,15 @@
 1:0:1:466:460:1012:EEEE0000:0:0:0:     channel9perth        channel9             # Channel 9 Perth
 1:0:1:467:460:1012:EEEE0000:0:0:0:     9gemperth            9gem                 # 9Gem Perth
 1:0:1:468:460:1012:EEEE0000:0:0:0:     9goperth             9go                  # 9Go! Perth
-1:0:1:469:460:1012:EEEE0000:0:0:0:     9rush                9rush                # 9Rush
+1:0:1:469:460:1012:EEEE0000:0:0:0:     9rushperth           9rush                # 9Rush Perth
 1:0:1:560:506:1013:EEEE0000:0:0:0:     7perth               7digital             # 7 Perth
 1:0:1:561:506:1013:EEEE0000:0:0:0:     7perth               7digital             # 7 Perth
 1:0:1:562:506:1013:EEEE0000:0:0:0:     7twoperth            7two                 # 7TWO Perth
 1:0:1:563:506:1013:EEEE0000:0:0:0:     7mateperth           7mate                # 7mate Perth
 1:0:19:564:506:1013:EEEE0000:0:0:0:    7hdperth             7hd                  # 7HD Perth
 1:0:1:565:506:1013:EEEE0000:0:0:0:     7flixperth           7flix                # 7flix Perth
-1:0:16:566:506:1013:EEEE0000:0:0:0:    openshop             openshop             # openshop
-1:0:19:567:506:1013:EEEE0000:0:0:0:    7matehd              7matehd              # 7mate HD
+1:0:1:566:506:1013:EEEE0000:0:0:0:     openshop             openshop             # openshop
+1:0:19:567:506:1013:EEEE0000:0:0:0:    7matehdperth         7matehd              # 7mateHD Perth
 1:0:16:568:506:1013:EEEE0000:0:0:0:    racingcom            racingcom            # RACING.COM
 1:0:1:681:607:1014:EEEE0000:0:0:0:     10bold               10bold               # 10 BOLD
 1:0:19:684:607:1014:EEEE0000:0:0:0:    10hd                 10hd                 # 10 HD
@@ -1439,7 +1439,6 @@
 1:0:2:335:320:3202:EEEE0000:0:0:0:     sbspopdesi           sbspopdesi           # SBS PopDesi
 1:0:2:336:320:3202:EEEE0000:0:0:0:     sbschill             sbschill             # SBS Chill
 1:0:2:337:320:3202:EEEE0000:0:0:0:     sbspopasia           sbspopasia           # SBS PopAsia
-1:0:1:E01:E00:323E:EEEE0000:0:0:0:     westtv               westtv               # West TV
 
 # Rockhampton
 # Service reference                    Service base name    Picon base name        Service name
@@ -1736,15 +1735,15 @@
 1:0:1:426:420:1012:EEEE0000:0:0:0:     channel9sydney       channel9             # Channel 9 Sydney
 1:0:1:427:420:1012:EEEE0000:0:0:0:     9gemsydney           9gem                 # 9Gem Sydney
 1:0:1:428:420:1012:EEEE0000:0:0:0:     9gosydney            9go                  # 9Go! Sydney
-1:0:1:429:420:1012:EEEE0000:0:0:0:     9rush                9rush                # 9Rush
+1:0:1:429:420:1012:EEEE0000:0:0:0:     9rushsydney          9rush                # 9Rush Sydney
 1:0:1:520:502:1013:EEEE0000:0:0:0:     7sydney              7digital             # 7 Sydney
 1:0:1:521:502:1013:EEEE0000:0:0:0:     7sydney              7digital             # 7 Sydney
 1:0:1:522:502:1013:EEEE0000:0:0:0:     7twosydney           7two                 # 7TWO Sydney
 1:0:1:523:502:1013:EEEE0000:0:0:0:     7matesydney          7mate                # 7mate Sydney
 1:0:19:524:502:1013:EEEE0000:0:0:0:    7hdsydney            7hd                  # 7HD Sydney
 1:0:1:525:502:1013:EEEE0000:0:0:0:     7flixsydney          7flix                # 7flix Sydney
-1:0:16:526:502:1013:EEEE0000:0:0:0:    openshop             openshop             # openshop
-1:0:19:527:502:1013:EEEE0000:0:0:0:    7matehd              7matehd              # 7mate HD
+1:0:1:526:502:1013:EEEE0000:0:0:0:     openshop             openshop             # openshop
+1:0:19:527:502:1013:EEEE0000:0:0:0:    7matehdsydney        7matehd              # 7mateHD Sydney
 1:0:16:528:502:1013:EEEE0000:0:0:0:    racingcom            racingcom            # RACING.COM
 1:0:1:621:602:1014:EEEE0000:0:0:0:     10bold               10bold               # 10 BOLD
 1:0:19:624:602:1014:EEEE0000:0:0:0:    10hd                 10hd                 # 10 HD
