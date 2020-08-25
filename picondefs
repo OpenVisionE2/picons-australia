@@ -1585,25 +1585,52 @@
 1:0:1:2D3:253:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
 1:0:1:2D4:253:1010:EEEE0000:0:0:0:     abcme                abcme                # ABC ME
 1:0:19:2D5:253:1010:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
+1:0:2:2D6:253:1010:EEEE0000:0:0:0:     doublej              doublej              # Double J
+1:0:2:2D7:253:1010:EEEE0000:0:0:0:     abcjazz              abcjazz              # ABC Jazz
+1:0:2:2D8:253:1010:EEEE0000:0:0:0:     abckidslisten        abckidslisten        # ABC KIDS Listen
+1:0:2:2D9:253:1010:EEEE0000:0:0:0:     triplej              triplej              # triple j
+1:0:2:2DA:253:1010:EEEE0000:0:0:0:     triplejunearthed     triplejunearthed     # triple j Unearthed
+1:0:2:2DB:253:1010:EEEE0000:0:0:0:     abcclassic           abcclassic           # ABC Classic
+1:0:2:2DC:253:1010:EEEE0000:0:0:0:     abccountry           abccountry           # ABC Country
+1:0:2:2DD:253:1010:EEEE0000:0:0:0:     abcadelaide          abcadelaide          # ABC ADELAIDE
+1:0:2:2DE:253:1010:EEEE0000:0:0:0:     abcrn                abcrn                # ABC RN
+1:0:2:2DF:253:1010:EEEE0000:0:0:0:     abcnewsradio         abcnewsradio         # ABC NewsRadio
 1:0:1:701:701:1017:EEEE0000:0:0:0:     9portpirie           channel9             # 9 Port Pirie
 1:0:1:721:701:1017:EEEE0000:0:0:0:     9gem                 9gem                 # 9Gem
 1:0:1:741:701:1017:EEEE0000:0:0:0:     9go                  9go                  # 9Go!
+1:0:1:7A1:701:1017:EEEE0000:0:0:0:     9portpirie           channel9             # 9 Port Pirie
+1:0:19:7C1:701:1017:EEEE0000:0:0:0:    9hdportpirie         9hd                  # 9HD Port Pirie
 1:0:16:7E1:701:1017:EEEE0000:0:0:0:    9life                9life                # 9Life
 1:0:1:81D:81D:1017:EEEE0000:0:0:0:     10portpirie          10                   # 10 Port Pirie
 1:0:1:83D:81D:1017:EEEE0000:0:0:0:     10bold               10bold               # 10 Bold
 1:0:1:85D:81D:1017:EEEE0000:0:0:0:     10peach              10peach              # 10 Peach
 1:0:16:87D:81D:1017:EEEE0000:0:0:0:    sbn                  sbn                  # SBN
 1:0:16:89D:81D:1017:EEEE0000:0:0:0:    tvsn                 tvsn                 # TVSN
+1:0:1:8BD:81D:1017:EEEE0000:0:0:0:     10portpirie          10                   # 10 Port Pirie
+1:0:19:8DD:81D:1017:EEEE0000:0:0:0:    10hdportpirie        10hd                 # 10HD Port Pirie
 1:0:1:906:906:1017:EEEE0000:0:0:0:     7portpirie           7digital             # 7 Port Pirie
 1:0:1:926:906:1017:EEEE0000:0:0:0:     7mate                7mate                # 7mate
 1:0:1:946:906:1017:EEEE0000:0:0:0:     7two                 7two                 # 7TWO
 1:0:16:9A6:906:1017:EEEE0000:0:0:0:    racingcom            racingcom            # RACING.COM
+1:0:1:9C6:906:1017:EEEE0000:0:0:0:     7portpirie           7digital             # 7 Port Pirie
+1:0:19:9E6:906:1017:EEEE0000:0:0:0:    7hdportpirie         7hd                  # 7HD Port Pirie
 1:0:1:391:390:3202:EEEE0000:0:0:0:     sbsone               sbsone               # SBS ONE
 1:0:1:393:390:3202:EEEE0000:0:0:0:     sbsfood              sbsfood              # SBS Food
 1:0:1:394:390:3202:EEEE0000:0:0:0:     nitv                 nitv                 # NITV
 1:0:19:395:390:3202:EEEE0000:0:0:0:    sbsonehd             sbsonehd             # SBS ONE HD
 1:0:19:396:390:3202:EEEE0000:0:0:0:    sbsvicelandhd        sbsvicelandhd        # SBS VICELAND HD
 1:0:19:397:390:3202:EEEE0000:0:0:0:    sbsworldmovies       sbsworldmovies       # SBS World Movies
+1:0:2:39D:390:3202:EEEE0000:0:0:0:     sbsarabic24          sbsarabic24          # SBS Arabic24
+1:0:2:39E:390:3202:EEEE0000:0:0:0:     sbsradio1            sbsradio1            # SBS Radio 1
+1:0:2:39F:390:3202:EEEE0000:0:0:0:     sbsradio2            sbsradio2            # SBS Radio 2
+1:0:2:3A0:390:3202:EEEE0000:0:0:0:     sbschill             sbschill             # SBS Chill
+1:0:2:3A1:390:3202:EEEE0000:0:0:0:     sbsradio1            sbsradio1            # SBS Radio 1
+1:0:2:3A2:390:3202:EEEE0000:0:0:0:     sbsradio2            sbsradio2            # SBS Radio 2
+1:0:2:3A3:390:3202:EEEE0000:0:0:0:     sbsradio3            sbsradio3            # SBS Radio 3
+1:0:2:3A4:390:3202:EEEE0000:0:0:0:     sbsarabic24          sbsarabic24          # SBS Arabic24
+1:0:2:3A5:390:3202:EEEE0000:0:0:0:     sbspopdesi           sbspopdesi           # SBS PopDesi
+1:0:2:3A6:390:3202:EEEE0000:0:0:0:     sbschill             sbschill             # SBS Chill
+1:0:2:3A7:390:3202:EEEE0000:0:0:0:     sbspopasia           sbspopasia           # SBS PopAsia
 
 # Sunshine Coast
 # Service reference                    Service base name    Picon base name        Service name
