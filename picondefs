@@ -6,11 +6,11 @@
 # Adelaide
 # Service reference                    Service base name    Picon base name        Service name
 1:0:1:250:251:1010:EEEE0000:0:0:0:     abcnews              abcnews              # ABC NEWS
-1:0:1:251:251:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
+1:0:1:251:251:1010:EEEE0000:0:0:0:     abc                  abctv                # ABC
 1:0:1:252:251:1010:EEEE0000:0:0:0:     abccomedykids        abccomedy            # ABCComedy/Kids
-1:0:1:253:251:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
+1:0:1:253:251:1010:EEEE0000:0:0:0:     abc                  abctv                # ABC
 1:0:1:254:251:1010:EEEE0000:0:0:0:     abcme                abcme                # ABC ME
-1:0:19:255:251:1010:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
+1:0:19:255:251:1010:EEEE0000:0:0:0:    abchd                abctvhd              # ABC HD
 1:0:2:256:251:1010:EEEE0000:0:0:0:     doublej              doublej              # Double J
 1:0:2:257:251:1010:EEEE0000:0:0:0:     abcjazz              abcjazz              # ABC Jazz
 1:0:2:258:251:1010:EEEE0000:0:0:0:     abckidslisten        abckidslisten        # ABC KIDS Listen
@@ -69,11 +69,11 @@
 # Albany WA
 # Service reference                    Service base name    Picon base name        Service name
 1:0:1:2E0:263:1010:EEEE0000:0:0:0:     abcnews              abcnews              # ABC NEWS
-1:0:1:2E1:263:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
+1:0:1:2E1:263:1010:EEEE0000:0:0:0:     abc                  abctv                # ABC
 1:0:1:2E2:263:1010:EEEE0000:0:0:0:     abccomedykids        abccomedy            # ABCComedy/Kids
-1:0:1:2E3:263:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
+1:0:1:2E3:263:1010:EEEE0000:0:0:0:     abc                  abctv                # ABC
 1:0:1:2E4:263:1010:EEEE0000:0:0:0:     abcme                abcme                # ABC ME
-1:0:19:2E5:263:1010:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
+1:0:19:2E5:263:1010:EEEE0000:0:0:0:    abctvhd              abctvhd              # ABC HD
 1:0:2:2E6:263:1010:EEEE0000:0:0:0:     doublej              doublej              # Double J
 1:0:2:2E7:263:1010:EEEE0000:0:0:0:     abcjazz              abcjazz              # ABC Jazz
 1:0:2:2E8:263:1010:EEEE0000:0:0:0:     abckidslisten        abckidslisten        # ABC KIDS Listen
@@ -121,11 +121,11 @@
 # Albury & Wagga
 # Service reference                    Service base name    Picon base name        Service name
 1:0:1:2A0:223:1010:EEEE0000:0:0:0:     abcnews              abcnews              # ABC NEWS
-1:0:1:2A1:223:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
+1:0:1:2A1:223:1010:EEEE0000:0:0:0:     abc                  abctv                # ABC
 1:0:1:2A2:223:1010:EEEE0000:0:0:0:     abccomedykids        abccomedy            # ABCComedy/Kids
-1:0:1:2A3:223:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
+1:0:1:2A3:223:1010:EEEE0000:0:0:0:     abc                  abctv                # ABC
 1:0:1:2A4:223:1010:EEEE0000:0:0:0:     abcme                abcme                # ABC ME
-1:0:19:2A5:223:1010:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
+1:0:19:2A5:223:1010:EEEE0000:0:0:0:    abchd                abctvhd              # ABC HD
 1:0:2:2A6:223:1010:EEEE0000:0:0:0:     doublej              doublej              # Double J
 1:0:2:2A7:223:1010:EEEE0000:0:0:0:     abcjazz              abcjazz              # ABC Jazz
 1:0:2:2A8:223:1010:EEEE0000:0:0:0:     abckidslisten        abckidslisten        # ABC KIDS Listen
@@ -195,11 +195,11 @@
 # Bendigo
 # Service reference                    Service base name    Picon base name        Service name
 1:0:1:2B0:233:1010:EEEE0000:0:0:0:     abcnews              abcnews              # ABC NEWS
-1:0:1:2B1:233:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
+1:0:1:2B1:233:1010:EEEE0000:0:0:0:     abc                  abctv                # ABC
 1:0:1:2B2:233:1010:EEEE0000:0:0:0:     abccomedykids        abccomedy            # ABCComedy/Kids
-1:0:1:2B3:233:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
+1:0:1:2B3:233:1010:EEEE0000:0:0:0:     abc                  abctv                # ABC
 1:0:1:2B4:233:1010:EEEE0000:0:0:0:     abcme                abcme                # ABC ME
-1:0:19:2B5:233:1010:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
+1:0:19:2B5:233:1010:EEEE0000:0:0:0:    abchd                abctvhd              # ABC HD
 1:0:2:2B6:233:1010:EEEE0000:0:0:0:     doublej              doublej              # Double J
 1:0:2:2B7:233:1010:EEEE0000:0:0:0:     abcjazz              abcjazz              # ABC Jazz
 1:0:2:2B8:233:1010:EEEE0000:0:0:0:     abckidslisten        abckidslisten        # ABC KIDS Listen
@@ -254,11 +254,11 @@
 # Brisbane
 # Service reference                    Service base name    Picon base name        Service name
 1:0:1:240:241:1010:EEEE0000:0:0:0:     abcnews              abcnews              # ABC NEWS
-1:0:1:241:241:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
+1:0:1:241:241:1010:EEEE0000:0:0:0:     abc                  abctv                # ABC
 1:0:1:242:241:1010:EEEE0000:0:0:0:     abccomedykids        abccomedy            # ABCComedy/Kids
-1:0:1:243:241:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
+1:0:1:243:241:1010:EEEE0000:0:0:0:     abc                  abctv                # ABC
 1:0:1:244:241:1010:EEEE0000:0:0:0:     abcme                abcme                # ABC ME
-1:0:19:245:241:1010:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
+1:0:19:245:241:1010:EEEE0000:0:0:0:    abchd                abctvhd              # ABC HD
 1:0:2:246:241:1010:EEEE0000:0:0:0:     doublej              doublej              # Double J
 1:0:2:247:241:1010:EEEE0000:0:0:0:     abcjazz              abcjazz              # ABC Jazz
 1:0:2:248:241:1010:EEEE0000:0:0:0:     abckidslisten        abckidslisten        # ABC KIDS Listen
@@ -317,11 +317,11 @@
 # Cairns
 # Service reference                    Service base name    Picon base name        Service name
 1:0:1:2C0:243:1010:EEEE0000:0:0:0:     abcnews24            abcnews              # ABC News 24
-1:0:1:2C1:243:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
+1:0:1:2C1:243:1010:EEEE0000:0:0:0:     abc                  abctv                # ABC
 1:0:1:2C2:243:1010:EEEE0000:0:0:0:     abc2kids             abccomedy            # ABC2/KIDS
-1:0:1:2C3:243:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
+1:0:1:2C3:243:1010:EEEE0000:0:0:0:     abc                  abctv                # ABC
 1:0:1:2C4:243:1010:EEEE0000:0:0:0:     abcme                abcme                # ABC ME
-1:0:19:2C5:243:1010:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
+1:0:19:2C5:243:1010:EEEE0000:0:0:0:    abchd                abctvhd              # ABC HD
 1:0:2:2C6:243:1010:EEEE0000:0:0:0:     doublej              doublej              # Double J
 1:0:2:2C7:243:1010:EEEE0000:0:0:0:     abcjazz              abcjazz              # ABC Jazz
 1:0:2:2C8:243:1010:EEEE0000:0:0:0:     abckidslisten        abckidslisten        # ABC KIDS Listen
@@ -378,11 +378,11 @@
 # Canberra
 # Service reference                    Service base name    Picon base name        Service name
 1:0:1:210:211:1010:EEEE0000:0:0:0:     abcnews              abcnews              # ABC NEWS
-1:0:1:211:211:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
+1:0:1:211:211:1010:EEEE0000:0:0:0:     abc                  abctv                # ABC
 1:0:1:212:211:1010:EEEE0000:0:0:0:     abccomedykids        abccomedy            # ABCComedy/Kids
-1:0:1:213:211:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
+1:0:1:213:211:1010:EEEE0000:0:0:0:     abc                  abctv                # ABC
 1:0:1:214:211:1010:EEEE0000:0:0:0:     abcme                abcme                # ABC ME
-1:0:19:215:211:1010:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
+1:0:19:215:211:1010:EEEE0000:0:0:0:    abchd                abctvhd              # ABC HD
 1:0:2:216:211:1010:EEEE0000:0:0:0:     doublej              doublej              # Double J
 1:0:2:217:211:1010:EEEE0000:0:0:0:     abcjazz              abcjazz              # ABC Jazz
 1:0:2:218:211:1010:EEEE0000:0:0:0:     abckidslisten        abckidslisten        # ABC KIDS Listen
@@ -437,11 +437,11 @@
 # Central Coast
 # Service reference                    Service base name    Picon base name        Service name
 1:0:1:2A0:223:1010:EEEE0000:0:0:0:     abcnews24            abcnews              # ABC News 24
-1:0:1:2A1:223:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
+1:0:1:2A1:223:1010:EEEE0000:0:0:0:     abc                  abctv                # ABC
 1:0:1:2A2:223:1010:EEEE0000:0:0:0:     abc2kids             abccomedy            # ABC2/KIDS
-1:0:1:2A3:223:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
+1:0:1:2A3:223:1010:EEEE0000:0:0:0:     abc                  abctv                # ABC
 1:0:1:2A4:223:1010:EEEE0000:0:0:0:     abcme                abcme                # ABC3
-1:0:19:2A5:223:1010:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
+1:0:19:2A5:223:1010:EEEE0000:0:0:0:    abctvhd              abctvhd              # ABC HD
 1:0:2:2A6:223:1010:EEEE0000:0:0:0:     doublej              doublej              # Double J
 1:0:2:2A7:223:1010:EEEE0000:0:0:0:     abcjazz              abcjazz              # ABC Jazz
 1:0:2:2A8:223:1010:EEEE0000:0:0:0:     abckidslisten        abckidslisten        # ABC KIDS Listen
@@ -513,11 +513,11 @@
 # Coffs Harbour
 # Service reference                    Service base name    Picon base name        Service name
 1:0:1:2A0:223:1010:EEEE0000:0:0:0:     abcnews              abcnews              # ABC NEWS
-1:0:1:2A1:223:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
+1:0:1:2A1:223:1010:EEEE0000:0:0:0:     abc                  abctv                # ABC
 1:0:1:2A2:223:1010:EEEE0000:0:0:0:     abccomedykids        abccomedy            # ABCComedy/Kids
-1:0:1:2A3:223:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
+1:0:1:2A3:223:1010:EEEE0000:0:0:0:     abc                  abctv                # ABC
 1:0:1:2A4:223:1010:EEEE0000:0:0:0:     abcme                abcme                # ABC ME
-1:0:19:2A5:223:1010:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
+1:0:19:2A5:223:1010:EEEE0000:0:0:0:    abchd                abctvhd              # ABC HD
 1:0:2:2A6:223:1010:EEEE0000:0:0:0:     doublej              doublej              # Double J
 1:0:2:2A7:223:1010:EEEE0000:0:0:0:     abcjazz              abcjazz              # ABC Jazz
 1:0:2:2A8:223:1010:EEEE0000:0:0:0:     abckidslisten        abckidslisten        # ABC KIDS Listen
@@ -573,11 +573,11 @@
 # Geelong
 # Service reference                    Service base name    Picon base name        Service name
 1:0:1:230:231:1010:EEEE0000:0:0:0:     abcnews24            abcnews              # ABC News 24
-1:0:1:231:231:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
+1:0:1:231:231:1010:EEEE0000:0:0:0:     abc                  abctv                # ABC
 1:0:1:232:231:1010:EEEE0000:0:0:0:     abc2kids             abccomedy            # ABC2/KIDS
-1:0:1:233:231:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
+1:0:1:233:231:1010:EEEE0000:0:0:0:     abc                  abctv                # ABC
 1:0:1:234:231:1010:EEEE0000:0:0:0:     abcme                abcme                # ABC ME
-1:0:19:235:231:1010:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
+1:0:19:235:231:1010:EEEE0000:0:0:0:    abchd                abctvhd              # ABC HD
 1:0:2:236:231:1010:EEEE0000:0:0:0:     doublej              doublej              # Double J
 1:0:2:237:231:1010:EEEE0000:0:0:0:     abcjazz              abcjazz              # ABC Jazz
 1:0:2:238:231:1010:EEEE0000:0:0:0:     abckidslisten        abckidslisten        # ABC KIDS Listen
@@ -633,11 +633,11 @@
 # Gippsland
 # Service reference                    Service base name    Picon base name        Service name
 1:0:1:2B0:233:1010:EEEE0000:0:0:0:     abcnews              abcnews              # ABC NEWS
-1:0:1:2B1:233:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
+1:0:1:2B1:233:1010:EEEE0000:0:0:0:     abc                  abctv                # ABC
 1:0:1:2B2:233:1010:EEEE0000:0:0:0:     abccomedykids        abccomedy            # ABCComedy/Kids
-1:0:1:2B3:233:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
+1:0:1:2B3:233:1010:EEEE0000:0:0:0:     abc                  abctv                # ABC
 1:0:1:2B4:233:1010:EEEE0000:0:0:0:     abcme                abcme                # ABC ME
-1:0:19:2B5:233:1010:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
+1:0:19:2B5:233:1010:EEEE0000:0:0:0:    abchd                abctvhd              # ABC HD
 1:0:2:2B6:233:1010:EEEE0000:0:0:0:     doublej              doublej              # Double J
 1:0:2:2B7:233:1010:EEEE0000:0:0:0:     abcjazz              abcjazz              # ABC Jazz
 1:0:2:2B8:233:1010:EEEE0000:0:0:0:     abckidslisten        abckidslisten        # ABC KIDS Listen
@@ -692,11 +692,11 @@
 # Gold Coast - North
 # Service reference                    Service base name    Picon base name        Service name
 1:0:1:2C0:243:1010:EEEE0000:0:0:0:     abcnews              abcnews              # ABC NEWS
-1:0:1:2C1:243:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
+1:0:1:2C1:243:1010:EEEE0000:0:0:0:     abc                  abctv                # ABC
 1:0:1:2C2:243:1010:EEEE0000:0:0:0:     abccomedykids        abccomedy            # ABCComedy/Kids
-1:0:1:2C3:243:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
+1:0:1:2C3:243:1010:EEEE0000:0:0:0:     abc                  abctv                # ABC
 1:0:1:2C4:243:1010:EEEE0000:0:0:0:     abcme                abcme                # ABC ME
-1:0:19:2C5:243:1010:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
+1:0:19:2C5:243:1010:EEEE0000:0:0:0:    abchd                abctvhd              # ABC HD
 1:0:2:2C6:243:1010:EEEE0000:0:0:0:     doublej              doublej              # Double J
 1:0:2:2C7:243:1010:EEEE0000:0:0:0:     abcjazz              abcjazz              # ABC Jazz
 1:0:2:2C8:243:1010:EEEE0000:0:0:0:     abckidslisten        abckidslisten        # ABC KIDS Listen
@@ -777,11 +777,11 @@
 # Gold Coast
 # Service reference                    Service base name    Picon base name        Service name
 1:0:1:2C0:243:1010:EEEE0000:0:0:0:     abcnews              abcnews              # ABC NEWS
-1:0:1:2C1:243:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
+1:0:1:2C1:243:1010:EEEE0000:0:0:0:     abc                  abctv                # ABC
 1:0:1:2C2:243:1010:EEEE0000:0:0:0:     abccomedykids        abccomedy            # ABCComedy/Kids
-1:0:1:2C3:243:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
+1:0:1:2C3:243:1010:EEEE0000:0:0:0:     abc                  abctv                # ABC
 1:0:1:2C4:243:1010:EEEE0000:0:0:0:     abcme                abcme                # ABC ME
-1:0:19:2C5:243:1010:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
+1:0:19:2C5:243:1010:EEEE0000:0:0:0:    abchd                abctvhd              # ABC HD
 1:0:2:2C6:243:1010:EEEE0000:0:0:0:     doublej              doublej              # Double J
 1:0:2:2C7:243:1010:EEEE0000:0:0:0:     abcjazz              abcjazz              # ABC Jazz
 1:0:2:2C8:243:1010:EEEE0000:0:0:0:     abckidslisten        abckidslisten        # ABC KIDS Listen
@@ -853,11 +853,11 @@
 # Hobart
 # Service reference                    Service base name    Picon base name        Service name
 1:0:1:270:271:1010:EEEE0000:0:0:0:     abcnews              abcnews              # ABC NEWS
-1:0:1:271:271:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
+1:0:1:271:271:1010:EEEE0000:0:0:0:     abc                  abctv                # ABC
 1:0:1:272:271:1010:EEEE0000:0:0:0:     abccomedykids        abccomedy            # ABCComedy/Kids
-1:0:1:273:271:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
+1:0:1:273:271:1010:EEEE0000:0:0:0:     abc                  abctv                # ABC
 1:0:1:274:271:1010:EEEE0000:0:0:0:     abcme                abcme                # ABC ME
-1:0:19:275:271:1010:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
+1:0:19:275:271:1010:EEEE0000:0:0:0:    abchd                abctvhd              # ABC HD
 1:0:2:276:271:1010:EEEE0000:0:0:0:     doublej              doublej              # Double J
 1:0:2:277:271:1010:EEEE0000:0:0:0:     abcjazz              abcjazz              # ABC Jazz
 1:0:2:278:271:1010:EEEE0000:0:0:0:     abckidslisten        abckidslisten        # ABC KIDS Listen
@@ -909,11 +909,11 @@
 # Launceston
 # Service reference                    Service base name    Picon base name        Service name
 1:0:1:290:273:1010:EEEE0000:0:0:0:     abcnews              abcnews              # ABC NEWS
-1:0:1:291:273:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
+1:0:1:291:273:1010:EEEE0000:0:0:0:     abc                  abctv                # ABC
 1:0:1:292:273:1010:EEEE0000:0:0:0:     abccomedykids        abccomedy            # ABCComedy/Kids
-1:0:1:293:273:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
+1:0:1:293:273:1010:EEEE0000:0:0:0:     abc                  abctv                # ABC
 1:0:1:294:273:1010:EEEE0000:0:0:0:     abcme                abcme                # ABC ME
-1:0:19:295:273:1010:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
+1:0:19:295:273:1010:EEEE0000:0:0:0:    abchd                abctvhd              # ABC HD
 1:0:2:296:273:1010:EEEE0000:0:0:0:     doublej              doublej              # Double J
 1:0:2:297:273:1010:EEEE0000:0:0:0:     abcjazz              abcjazz              # ABC Jazz
 1:0:2:298:273:1010:EEEE0000:0:0:0:     abckidslisten        abckidslisten        # ABC KIDS Listen
@@ -964,11 +964,11 @@
 # Melbourne
 # Service reference                    Service base name    Picon base name        Service name
 1:0:1:230:231:1010:EEEE0000:0:0:0:     abcnews              abcnews              # ABC NEWS
-1:0:1:231:231:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
+1:0:1:231:231:1010:EEEE0000:0:0:0:     abc                  abctv                # ABC
 1:0:1:232:231:1010:EEEE0000:0:0:0:     abccomedykids        abccomedy            # ABCComedy/Kids
-1:0:1:233:231:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
+1:0:1:233:231:1010:EEEE0000:0:0:0:     abc                  abctv                # ABC
 1:0:1:234:231:1010:EEEE0000:0:0:0:     abcme                abcme                # ABC ME
-1:0:19:235:231:1010:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
+1:0:19:235:231:1010:EEEE0000:0:0:0:    abchd                abctvhd              # ABC HD
 1:0:2:236:231:1010:EEEE0000:0:0:0:     doublej              doublej              # Double J
 1:0:2:237:231:1010:EEEE0000:0:0:0:     abcjazz              abcjazz              # ABC Jazz
 1:0:2:238:231:1010:EEEE0000:0:0:0:     abckidslisten        abckidslisten        # ABC KIDS Listen
@@ -1028,11 +1028,11 @@
 # Mt Gambier & Ballarat
 # Service reference                    Service base name    Picon base name        Service name
 1:0:1:2B0:233:1010:EEEE0000:0:0:0:     abcnews              abcnews              # ABC NEWS
-1:0:1:2B1:233:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
+1:0:1:2B1:233:1010:EEEE0000:0:0:0:     abc                  abctv                # ABC
 1:0:1:2B2:233:1010:EEEE0000:0:0:0:     abccomedykids        abccomedy            # ABCComedy/Kids
-1:0:1:2B3:233:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
+1:0:1:2B3:233:1010:EEEE0000:0:0:0:     abc                  abctv                # ABC
 1:0:1:2B4:233:1010:EEEE0000:0:0:0:     abcme                abcme                # ABC ME
-1:0:19:2B5:233:1010:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
+1:0:19:2B5:233:1010:EEEE0000:0:0:0:    abchd                abctvhd              # ABC HD
 1:0:2:2B6:233:1010:EEEE0000:0:0:0:     doublej              doublej              # Double J
 1:0:2:2B7:233:1010:EEEE0000:0:0:0:     abcjazz              abcjazz              # ABC Jazz
 1:0:2:2B8:233:1010:EEEE0000:0:0:0:     abckidslisten        abckidslisten        # ABC KIDS Listen
@@ -1044,11 +1044,11 @@
 1:0:2:2BE:233:1010:EEEE0000:0:0:0:     abcrn                abcrn                # ABC RN
 1:0:2:2BF:233:1010:EEEE0000:0:0:0:     abcnewsradio         abcnewsradio         # ABC NewsRadio
 1:0:1:2D0:253:1010:EEEE0000:0:0:0:     abcnews              abcnews              # ABC NEWS
-1:0:1:2D1:253:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
+1:0:1:2D1:253:1010:EEEE0000:0:0:0:     abc                  abctv                # ABC
 1:0:1:2D2:253:1010:EEEE0000:0:0:0:     abccomedykids        abccomedy            # ABCComedy/Kids
-1:0:1:2D3:253:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
+1:0:1:2D3:253:1010:EEEE0000:0:0:0:     abc                  abctv                # ABC
 1:0:1:2D4:253:1010:EEEE0000:0:0:0:     abcme                abcme                # ABC ME
-1:0:19:2D5:253:1010:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
+1:0:19:2D5:253:1010:EEEE0000:0:0:0:    abchd                abctvhd              # ABC HD
 1:0:2:2D6:253:1010:EEEE0000:0:0:0:     doublej              doublej              # Double J
 1:0:2:2D7:253:1010:EEEE0000:0:0:0:     abcjazz              abcjazz              # ABC Jazz
 1:0:2:2D8:253:1010:EEEE0000:0:0:0:     abckidslisten        abckidslisten        # ABC KIDS Listen
@@ -1134,11 +1134,11 @@
 # NSW South Coast
 # Service reference                    Service base name    Picon base name        Service name
 1:0:1:2A0:223:1010:EEEE0000:0:0:0:     abcnews              abcnews              # ABC NEWS
-1:0:1:2A1:223:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
+1:0:1:2A1:223:1010:EEEE0000:0:0:0:     abc                  abctv                # ABC
 1:0:1:2A2:223:1010:EEEE0000:0:0:0:     abccomedykids        abccomedy            # ABCComedy/Kids
-1:0:1:2A3:223:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
+1:0:1:2A3:223:1010:EEEE0000:0:0:0:     abc                  abctv                # ABC
 1:0:1:2A4:223:1010:EEEE0000:0:0:0:     abcme                abcme                # ABC ME
-1:0:19:2A5:223:1010:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
+1:0:19:2A5:223:1010:EEEE0000:0:0:0:    abchd                abctvhd              # ABC HD
 1:0:2:2A6:223:1010:EEEE0000:0:0:0:     doublej              doublej              # Double J
 1:0:2:2A7:223:1010:EEEE0000:0:0:0:     abcjazz              abcjazz              # ABC Jazz
 1:0:2:2A8:223:1010:EEEE0000:0:0:0:     abckidslisten        abckidslisten        # ABC KIDS Listen
@@ -1193,11 +1193,11 @@
 # Newcastle
 # Service reference                    Service base name    Picon base name        Service name
 1:0:1:2A0:223:1010:EEEE0000:0:0:0:     abcnews              abcnews              # ABC NEWS
-1:0:1:2A1:223:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
+1:0:1:2A1:223:1010:EEEE0000:0:0:0:     abc                  abctv                # ABC
 1:0:1:2A2:223:1010:EEEE0000:0:0:0:     abccomedykids        abccomedy            # ABCComedy/Kids
-1:0:1:2A3:223:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
+1:0:1:2A3:223:1010:EEEE0000:0:0:0:     abc                  abctv                # ABC
 1:0:1:2A4:223:1010:EEEE0000:0:0:0:     abcme                abcme                # ABC ME
-1:0:19:2A5:223:1010:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
+1:0:19:2A5:223:1010:EEEE0000:0:0:0:    abchd                abctvhd              # ABC HD
 1:0:2:2A6:223:1010:EEEE0000:0:0:0:     doublej              doublej              # Double J
 1:0:2:2A7:223:1010:EEEE0000:0:0:0:     abcjazz              abcjazz              # ABC Jazz
 1:0:2:2A8:223:1010:EEEE0000:0:0:0:     abckidslisten        abckidslisten        # ABC KIDS Listen
@@ -1254,11 +1254,11 @@
 # Northern Rivers NSW
 # Service reference                    Service base name    Picon base name        Service name
 1:0:1:2A0:223:1010:EEEE0000:0:0:0:     abcnews              abcnews              # ABC NEWS
-1:0:1:2A1:223:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
+1:0:1:2A1:223:1010:EEEE0000:0:0:0:     abc                  abctv                # ABC
 1:0:1:2A2:223:1010:EEEE0000:0:0:0:     abccomedykids        abccomedy            # ABCComedy/Kids
-1:0:1:2A3:223:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
+1:0:1:2A3:223:1010:EEEE0000:0:0:0:     abc                  abctv                # ABC
 1:0:1:2A4:223:1010:EEEE0000:0:0:0:     abcme                abcme                # ABC ME
-1:0:19:2A5:223:1010:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
+1:0:19:2A5:223:1010:EEEE0000:0:0:0:    abchd                abctvhd              # ABC HD
 1:0:2:2A6:223:1010:EEEE0000:0:0:0:     doublej              doublej              # Double J
 1:0:2:2A7:223:1010:EEEE0000:0:0:0:     abcjazz              abcjazz              # ABC Jazz
 1:0:2:2A8:223:1010:EEEE0000:0:0:0:     abckidslisten        abckidslisten        # ABC KIDS Listen
@@ -1314,11 +1314,11 @@
 # Orange
 # Service reference                    Service base name    Picon base name        Service name
 1:0:1:2A0:223:1010:EEEE0000:0:0:0:     abcnews              abcnews              # ABC NEWS
-1:0:1:2A1:223:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
+1:0:1:2A1:223:1010:EEEE0000:0:0:0:     abc                  abctv                # ABC
 1:0:1:2A2:223:1010:EEEE0000:0:0:0:     abccomedykids        abccomedy            # ABCComedy/Kids
-1:0:1:2A3:223:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
+1:0:1:2A3:223:1010:EEEE0000:0:0:0:     abc                  abctv                # ABC
 1:0:1:2A4:223:1010:EEEE0000:0:0:0:     abcme                abcme                # ABC ME
-1:0:19:2A5:223:1010:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
+1:0:19:2A5:223:1010:EEEE0000:0:0:0:    abchd                abctvhd              # ABC HD
 1:0:2:2A6:223:1010:EEEE0000:0:0:0:     doublej              doublej              # Double J
 1:0:2:2A7:223:1010:EEEE0000:0:0:0:     abcjazz              abcjazz              # ABC Jazz
 1:0:2:2A8:223:1010:EEEE0000:0:0:0:     abckidslisten        abckidslisten        # ABC KIDS Listen
@@ -1413,11 +1413,11 @@
 1:0:1:688:607:1014:EEEE0000:0:0:0:     10peach              10peach              # 10 Peach
 1:0:16:689:607:1014:EEEE0000:0:0:0:    spreetv              spreetv              # SpreeTV
 1:0:1:2E0:261:3201:EEEE0000:0:0:0:     abcnews              abcnews              # ABC NEWS
-1:0:1:2E1:261:3201:EEEE0000:0:0:0:     abc                  abc                  # ABC
+1:0:1:2E1:261:3201:EEEE0000:0:0:0:     abc                  abctv                # ABC
 1:0:1:2E2:261:3201:EEEE0000:0:0:0:     abccomedykids        abccomedy            # ABCComedy/Kids
-1:0:1:2E3:261:3201:EEEE0000:0:0:0:     abc                  abc                  # ABC
+1:0:1:2E3:261:3201:EEEE0000:0:0:0:     abc                  abctv                # ABC
 1:0:1:2E4:261:3201:EEEE0000:0:0:0:     abcme                abcme                # ABC ME
-1:0:19:2E5:261:3201:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
+1:0:19:2E5:261:3201:EEEE0000:0:0:0:    abchd                abctvhd              # ABC HD
 1:0:2:2E6:261:3201:EEEE0000:0:0:0:     doublej              doublej              # Double J
 1:0:2:2E7:261:3201:EEEE0000:0:0:0:     abcjazz              abcjazz              # ABC Jazz
 1:0:2:2E8:261:3201:EEEE0000:0:0:0:     abckidslisten        abckidslisten        # ABC KIDS Listen
@@ -1449,11 +1449,11 @@
 # Rockhampton
 # Service reference                    Service base name    Picon base name        Service name
 1:0:1:2C0:243:1010:EEEE0000:0:0:0:     abcnews              abcnews              # ABC NEWS
-1:0:1:2C1:243:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
+1:0:1:2C1:243:1010:EEEE0000:0:0:0:     abc                  abctv                # ABC
 1:0:1:2C2:243:1010:EEEE0000:0:0:0:     abccomedykids        abccomedy            # ABCComedy/Kids
-1:0:1:2C3:243:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
+1:0:1:2C3:243:1010:EEEE0000:0:0:0:     abc                  abctv                # ABC
 1:0:1:2C4:243:1010:EEEE0000:0:0:0:     abcme                abcme                # ABC ME
-1:0:19:2C5:243:1010:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
+1:0:19:2C5:243:1010:EEEE0000:0:0:0:    abchd                abctvhd              # ABC HD
 1:0:2:2C6:243:1010:EEEE0000:0:0:0:     doublej              doublej              # Double J
 1:0:2:2C7:243:1010:EEEE0000:0:0:0:     abcjazz              abcjazz              # ABC Jazz
 1:0:2:2C8:243:1010:EEEE0000:0:0:0:     abckidslisten        abckidslisten        # ABC KIDS Listen
@@ -1509,11 +1509,11 @@
 # Shepparton
 # Service reference                    Service base name    Picon base name        Service name
 1:0:1:2B0:233:1010:EEEE0000:0:0:0:     abcnews24            abcnews              # ABC News 24
-1:0:1:2B1:233:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
+1:0:1:2B1:233:1010:EEEE0000:0:0:0:     abc                  abctv                # ABC
 1:0:1:2B2:233:1010:EEEE0000:0:0:0:     abc2kids             abccomedy            # ABC2/KIDS
-1:0:1:2B3:233:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
+1:0:1:2B3:233:1010:EEEE0000:0:0:0:     abc                  abctv                # ABC
 1:0:1:2B4:233:1010:EEEE0000:0:0:0:     abcme                abcme                # ABC3
-1:0:19:2B5:233:1010:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
+1:0:19:2B5:233:1010:EEEE0000:0:0:0:    abctvhd              abctvhd              # ABC HD
 1:0:2:2B6:233:1010:EEEE0000:0:0:0:     doublej              doublej              # Double J
 1:0:2:2B7:233:1010:EEEE0000:0:0:0:     abcjazz              abcjazz              # ABC Jazz
 1:0:2:2B8:233:1010:EEEE0000:0:0:0:     abckidslisten        abckidslisten        # ABC KIDS Listen
@@ -1586,11 +1586,11 @@
 # Spencer Gulf
 # Service reference                    Service base name    Picon base name        Service name
 1:0:1:2D0:253:1010:EEEE0000:0:0:0:     abcnews              abcnews              # ABC NEWS
-1:0:1:2D1:253:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
+1:0:1:2D1:253:1010:EEEE0000:0:0:0:     abc                  abctv                # ABC
 1:0:1:2D2:253:1010:EEEE0000:0:0:0:     abccomedykids        abccomedy            # ABCComedy/Kids
-1:0:1:2D3:253:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
+1:0:1:2D3:253:1010:EEEE0000:0:0:0:     abc                  abctv                # ABC
 1:0:1:2D4:253:1010:EEEE0000:0:0:0:     abcme                abcme                # ABC ME
-1:0:19:2D5:253:1010:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
+1:0:19:2D5:253:1010:EEEE0000:0:0:0:    abchd                abctvhd              # ABC HD
 1:0:2:2D6:253:1010:EEEE0000:0:0:0:     doublej              doublej              # Double J
 1:0:2:2D7:253:1010:EEEE0000:0:0:0:     abcjazz              abcjazz              # ABC Jazz
 1:0:2:2D8:253:1010:EEEE0000:0:0:0:     abckidslisten        abckidslisten        # ABC KIDS Listen
@@ -1641,11 +1641,11 @@
 # Sunshine Coast
 # Service reference                    Service base name    Picon base name        Service name
 1:0:1:2C0:243:1010:EEEE0000:0:0:0:     abcnews24            abcnews              # ABC News 24
-1:0:1:2C1:243:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
+1:0:1:2C1:243:1010:EEEE0000:0:0:0:     abc                  abctv                # ABC
 1:0:1:2C2:243:1010:EEEE0000:0:0:0:     abc2kids             abccomedy            # ABC2/KIDS
-1:0:1:2C3:243:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
+1:0:1:2C3:243:1010:EEEE0000:0:0:0:     abc                  abctv                # ABC
 1:0:1:2C4:243:1010:EEEE0000:0:0:0:     abcme                abcme                # ABC3
-1:0:19:2C5:243:1010:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
+1:0:19:2C5:243:1010:EEEE0000:0:0:0:    abctvhd              abctvhd              # ABC HD
 1:0:2:2C6:243:1010:EEEE0000:0:0:0:     doublej              doublej              # Double J
 1:0:2:2C7:243:1010:EEEE0000:0:0:0:     abcjazz              abcjazz              # ABC Jazz
 1:0:2:2C8:243:1010:EEEE0000:0:0:0:     abckidslisten        abckidslisten        # ABC KIDS Listen
@@ -1744,11 +1744,11 @@
 # Sydney
 # Service reference                    Service base name    Picon base name        Service name
 1:0:1:220:221:1010:EEEE0000:0:0:0:     abcnews              abcnews              # ABC NEWS
-1:0:1:221:221:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
+1:0:1:221:221:1010:EEEE0000:0:0:0:     abc                  abctv                # ABC
 1:0:1:222:221:1010:EEEE0000:0:0:0:     abccomedykids        abccomedy            # ABCComedy/Kids
-1:0:1:223:221:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
+1:0:1:223:221:1010:EEEE0000:0:0:0:     abc                  abctv                # ABC
 1:0:1:224:221:1010:EEEE0000:0:0:0:     abcme                abcme                # ABC ME
-1:0:19:225:221:1010:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
+1:0:19:225:221:1010:EEEE0000:0:0:0:    abchd                abctvhd              # ABC HD
 1:0:2:226:221:1010:EEEE0000:0:0:0:     doublej              doublej              # Double J
 1:0:2:227:221:1010:EEEE0000:0:0:0:     abcjazz              abcjazz              # ABC Jazz
 1:0:2:228:221:1010:EEEE0000:0:0:0:     abckidslisten        abckidslisten        # ABC KIDS Listen
@@ -1807,11 +1807,11 @@
 # Tamworth
 # Service reference                    Service base name    Picon base name        Service name
 1:0:1:2A0:223:1010:EEEE0000:0:0:0:     abcnews              abcnews              # ABC NEWS
-1:0:1:2A1:223:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
+1:0:1:2A1:223:1010:EEEE0000:0:0:0:     abc                  abctv                # ABC
 1:0:1:2A2:223:1010:EEEE0000:0:0:0:     abccomedykids        abccomedy            # ABCComedy/Kids
-1:0:1:2A3:223:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
+1:0:1:2A3:223:1010:EEEE0000:0:0:0:     abc                  abctv                # ABC
 1:0:1:2A4:223:1010:EEEE0000:0:0:0:     abcme                abcme                # ABC ME
-1:0:19:2A5:223:1010:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
+1:0:19:2A5:223:1010:EEEE0000:0:0:0:    abchd                abctvhd              # ABC HD
 1:0:2:2A6:223:1010:EEEE0000:0:0:0:     doublej              doublej              # Double J
 1:0:2:2A7:223:1010:EEEE0000:0:0:0:     abcjazz              abcjazz              # ABC Jazz
 1:0:2:2A8:223:1010:EEEE0000:0:0:0:     abckidslisten        abckidslisten        # ABC KIDS Listen
@@ -1867,11 +1867,11 @@
 # Taree
 # Service reference                    Service base name    Picon base name        Service name
 1:0:1:2A0:223:1010:EEEE0000:0:0:0:     abcnews              abcnews              # ABC NEWS
-1:0:1:2A1:223:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
+1:0:1:2A1:223:1010:EEEE0000:0:0:0:     abc                  abctv                # ABC
 1:0:1:2A2:223:1010:EEEE0000:0:0:0:     abccomedykids        abccomedy            # ABCComedy/Kids
-1:0:1:2A3:223:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
+1:0:1:2A3:223:1010:EEEE0000:0:0:0:     abc                  abctv                # ABC
 1:0:1:2A4:223:1010:EEEE0000:0:0:0:     abcme                abcme                # ABC ME
-1:0:19:2A5:223:1010:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
+1:0:19:2A5:223:1010:EEEE0000:0:0:0:    abchd                abctvhd              # ABC HD
 1:0:2:2A6:223:1010:EEEE0000:0:0:0:     doublej              doublej              # Double J
 1:0:2:2A7:223:1010:EEEE0000:0:0:0:     abcjazz              abcjazz              # ABC Jazz
 1:0:2:2A8:223:1010:EEEE0000:0:0:0:     abckidslisten        abckidslisten        # ABC KIDS Listen
@@ -1927,11 +1927,11 @@
 # Toowoomba
 # Service reference                    Service base name    Picon base name        Service name
 1:0:1:2C0:243:1010:EEEE0000:0:0:0:     abcnews24            abcnews              # ABC News 24
-1:0:1:2C1:243:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
+1:0:1:2C1:243:1010:EEEE0000:0:0:0:     abc                  abctv                # ABC
 1:0:1:2C2:243:1010:EEEE0000:0:0:0:     abc2kids             abccomedy            # ABC2/KIDS
-1:0:1:2C3:243:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
+1:0:1:2C3:243:1010:EEEE0000:0:0:0:     abc                  abctv                # ABC
 1:0:1:2C4:243:1010:EEEE0000:0:0:0:     abcme                abcme                # ABC3
-1:0:19:2C5:243:1010:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
+1:0:19:2C5:243:1010:EEEE0000:0:0:0:    abctvhd              abctvhd              # ABC HD
 1:0:2:2C6:243:1010:EEEE0000:0:0:0:     doublej              doublej              # Double J
 1:0:2:2C7:243:1010:EEEE0000:0:0:0:     abcjazz              abcjazz              # ABC Jazz
 1:0:2:2C8:243:1010:EEEE0000:0:0:0:     abckidslisten        abckidslisten        # ABC KIDS Listen
@@ -1988,11 +1988,11 @@
 # Townsville
 # Service reference                    Service base name    Picon base name        Service name
 1:0:1:2C0:243:1010:EEEE0000:0:0:0:     abcnews24            abcnews              # ABC News 24
-1:0:1:2C1:243:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
+1:0:1:2C1:243:1010:EEEE0000:0:0:0:     abc                  abctv                # ABC
 1:0:1:2C2:243:1010:EEEE0000:0:0:0:     abc2kids             abccomedy            # ABC2/KIDS
-1:0:1:2C3:243:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
+1:0:1:2C3:243:1010:EEEE0000:0:0:0:     abc                  abctv                # ABC
 1:0:1:2C4:243:1010:EEEE0000:0:0:0:     abcme                abcme                # ABC3
-1:0:19:2C5:243:1010:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
+1:0:19:2C5:243:1010:EEEE0000:0:0:0:    abctvhd              abctvhd              # ABC HD
 1:0:2:2C6:243:1010:EEEE0000:0:0:0:     doublej              doublej              # Double J
 1:0:2:2C7:243:1010:EEEE0000:0:0:0:     abcjazz              abcjazz              # ABC Jazz
 1:0:2:2C8:243:1010:EEEE0000:0:0:0:     abckidslisten        abckidslisten        # ABC KIDS Listen
@@ -2049,11 +2049,11 @@
 # Warrnambool
 # Service reference                    Service base name    Picon base name        Service name
 1:0:1:2B0:233:1010:EEEE0000:0:0:0:     abcnews              abcnews              # ABC NEWS
-1:0:1:2B1:233:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
+1:0:1:2B1:233:1010:EEEE0000:0:0:0:     abc                  abctv                # ABC
 1:0:1:2B2:233:1010:EEEE0000:0:0:0:     abc2kids             abccomedy            # ABC2/KIDS
-1:0:1:2B3:233:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
+1:0:1:2B3:233:1010:EEEE0000:0:0:0:     abc                  abctv                # ABC
 1:0:1:2B4:233:1010:EEEE0000:0:0:0:     abcme                abcme                # ABC ME
-1:0:19:2B5:233:1010:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
+1:0:19:2B5:233:1010:EEEE0000:0:0:0:    abchd                abctvhd              # ABC HD
 1:0:2:2B6:233:1010:EEEE0000:0:0:0:     doublej              doublej              # Double J
 1:0:2:2B7:233:1010:EEEE0000:0:0:0:     abcjazz              abcjazz              # ABC Jazz
 1:0:2:2B8:233:1010:EEEE0000:0:0:0:     abckidslisten        abckidslisten        # ABC KIDS Listen
@@ -2110,11 +2110,11 @@
 # Wide Bay
 # Service reference                    Service base name    Picon base name        Service name
 1:0:1:2C0:243:1010:EEEE0000:0:0:0:     abcnews24            abcnews              # ABC News 24
-1:0:1:2C1:243:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
+1:0:1:2C1:243:1010:EEEE0000:0:0:0:     abc                  abctv                # ABC
 1:0:1:2C2:243:1010:EEEE0000:0:0:0:     abc2kids             abccomedy            # ABC2/KIDS
-1:0:1:2C3:243:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
+1:0:1:2C3:243:1010:EEEE0000:0:0:0:     abc                  abctv                # ABC
 1:0:1:2C4:243:1010:EEEE0000:0:0:0:     abcme                abcme                # ABC3
-1:0:19:2C5:243:1010:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
+1:0:19:2C5:243:1010:EEEE0000:0:0:0:    abctvhd              abctvhd              # ABC HD
 1:0:2:2C6:243:1010:EEEE0000:0:0:0:     doublej              doublej              # Double J
 1:0:2:2C7:243:1010:EEEE0000:0:0:0:     abcjazz              abcjazz              # ABC Jazz
 1:0:2:2C8:243:1010:EEEE0000:0:0:0:     abckidslisten        abckidslisten        # ABC KIDS Listen
@@ -2171,11 +2171,11 @@
 # Wollongong
 # Service reference                    Service base name    Picon base name        Service name
 1:0:1:2A0:223:1010:EEEE0000:0:0:0:     abcnews              abcnews              # ABC NEWS
-1:0:1:2A1:223:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
+1:0:1:2A1:223:1010:EEEE0000:0:0:0:     abc                  abctv                # ABC
 1:0:1:2A2:223:1010:EEEE0000:0:0:0:     abccomedykids        abccomedy            # ABCComedy/Kids
-1:0:1:2A3:223:1010:EEEE0000:0:0:0:     abc                  abc                  # ABC
+1:0:1:2A3:223:1010:EEEE0000:0:0:0:     abc                  abctv                # ABC
 1:0:1:2A4:223:1010:EEEE0000:0:0:0:     abcme                abcme                # ABC ME
-1:0:19:2A5:223:1010:EEEE0000:0:0:0:    abchd                abchd                # ABC HD
+1:0:19:2A5:223:1010:EEEE0000:0:0:0:    abchd                abctvhd              # ABC HD
 1:0:2:2A6:223:1010:EEEE0000:0:0:0:     doublej              doublej              # Double J
 1:0:2:2A7:223:1010:EEEE0000:0:0:0:     abcjazz              abcjazz              # ABC Jazz
 1:0:2:2A8:223:1010:EEEE0000:0:0:0:     abckidslisten        abckidslisten        # ABC KIDS Listen
