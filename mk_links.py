@@ -113,34 +113,34 @@ class LinkMaker:
             print >>stderr, argv[0] + ':', "Can't open service reference file", piconDefsFile, '-', str(err)
             exit(1)
 
-	self._makePiconFileList()
+        self._makePiconFileList()
 
-	self._cleanWrongLinks()
+        self._cleanWrongLinks()
 
     def _makePiconFileList(self):
-	try:
-	    chanDir = path.join(self.piconPath, self.CHAN_PICON_DIR)
-	    self.piconFiles = {}
-	    for piconName in listdir(chanDir):
-		basename, ext = path.splitext(piconName)
-		if ext != ".png":
-		    continue
-		piconPath = path.join(chanDir, piconName)
-		if path.isfile(piconPath):
-		    origIndex = basename.rfind('_')
-		    if origIndex > 0 and basename[origIndex:] in self.PICON_SRCS:
-			piconBasename = basename[:origIndex]
-		        if piconBasename in self.piconFiles:
-			    print >>stderr, "Picon file for", piconBasename, "renamed from", self.piconFiles[piconBasename][0], "to", piconName
-		    elif basename not in self.piconFiles:
-			piconBasename = basename
-		    else:
-			piconBasename = None
-		    if piconBasename:
-			self.piconFiles[piconBasename] = (piconName, self.getLinkRef(piconPath))
-	except Exception as err:
-	    print >>stderr, "Can't process image directory", chanDir, '-', str(err)
-	    exit(1)
+        try:
+            chanDir = path.join(self.piconPath, self.CHAN_PICON_DIR)
+            self.piconFiles = {}
+            for piconName in listdir(chanDir):
+                basename, ext = path.splitext(piconName)
+                if ext != ".png":
+                    continue
+                piconPath = path.join(chanDir, piconName)
+                if path.isfile(piconPath):
+                    origIndex = basename.rfind('_')
+                    if origIndex > 0 and basename[origIndex:] in self.PICON_SRCS:
+                        piconBasename = basename[:origIndex]
+                        if piconBasename in self.piconFiles:
+                            print >>stderr, "Picon file for", piconBasename, "renamed from", self.piconFiles[piconBasename][0], "to", piconName
+                    elif basename not in self.piconFiles:
+                        piconBasename = basename
+                    else:
+                        piconBasename = None
+                    if piconBasename:
+                        self.piconFiles[piconBasename] = (piconName, self.getLinkRef(piconPath))
+        except Exception as err:
+            print >>stderr, "Can't process image directory", chanDir, '-', str(err)
+            exit(1)
 
     def _cleanWrongLinks(self):
         wrongLinks = []
@@ -218,13 +218,19 @@ class LinkMaker:
                 servRefs.append(servRefParts[0:1] + servRefParts[3:7])
             if addfold and (int(servRefParts[0]) & ~0x0100) == 1:
                 stype = int(servRefParts[2], 16)
-                if stype not in (1, 2):
+                if stype not in (0x1, 0x2, 0xA):
                     servRefPartsFold = servRefParts[:]
                     servRefPartsFold[2] = "1"
                     servRefs.append(servRefPartsFold)
+                # Fake up servicref 0x2 & 0xA for ABC news Radio
+                if stype in (0x2, 0xA) and int(servRefParts[5], 16) in (0x1010, 0x3201) and int(servRefParts[3], 16) & 0xF == 0xF:
+                    servRefPartsFold = servRefParts[:]
+                    servRefPartsFold[2] = "2" if stype == 0xA else "A"
+                    servRefs.append(servRefPartsFold)
+                # Fake up servicref 0x2 & 0xA for ABC news Radio
             if fold and (int(servRefParts[0]) & ~0x0100) == 1:
                 stype = int(servRefParts[2], 16)
-                if stype not in (1, 2):
+                if stype not in (0x1, 0x2, 0xA):
                     servRefPartsFold = servRefParts[:]
                     servRefPartsFold[2] = "1"
                 servRefs.append(servRefPartsFold)
@@ -250,29 +256,29 @@ class LinkMaker:
                     lexists = exists or path.lexists(servRefPath)
 
                     if (not exists or lexists) and picon in self.piconFiles:
-			piconName, piconRef = self.piconFiles[picon]
-			piconPath = path.join(self.CHAN_PICON_DIR, piconName)
-			if useHardLinks:
-			    piconPath = path.join(self.piconPath, piconPath)
+                        piconName, piconRef = self.piconFiles[picon]
+                        piconPath = path.join(self.CHAN_PICON_DIR, piconName)
+                        if useHardLinks:
+                            piconPath = path.join(self.piconPath, piconPath)
 
-			if servRefName in self.origPiconLinks:
-			    if self.origPiconLinks[servRefName] == piconRef:
-				linked = True
-			    del self.origPiconLinks[servRefName]
+                        if servRefName in self.origPiconLinks:
+                            if self.origPiconLinks[servRefName] == piconRef:
+                                linked = True
+                            del self.origPiconLinks[servRefName]
 
-			if not linked:
-			    try:
-				if lexists:
-				    remove(servRefPath)
+                        if not linked:
+                            try:
+                                if lexists:
+                                    remove(servRefPath)
 
-				linksMade += 1
-				if useHardLinks:
-				    link(piconPath, servRefPath)
-				else:
-				    symlink(piconPath, servRefPath)
-				linked = True
-			    except Exception as err:
-				print >>stderr, ("Link" if useHardLinks else "Symlink"), piconName, "->", servRefName, "failed -", str(err)
+                                linksMade += 1
+                                if useHardLinks:
+                                    link(piconPath, servRefPath)
+                                else:
+                                    symlink(piconPath, servRefPath)
+                                linked = True
+                            except Exception as err:
+                                print >>stderr, ("Link" if useHardLinks else "Symlink"), piconName, "->", servRefName, "failed -", str(err)
 
                     if linked:
                         self.linkedPiconNames.add(piconName)
@@ -287,7 +293,7 @@ class LinkMaker:
 
     def checkUnused(self):
         piconNames = set(fileinfo[0] for fileinfo in self.piconFiles.values())
-	for piconName in sorted(piconNames - self.linkedPiconNames):
+        for piconName in sorted(piconNames - self.linkedPiconNames):
             print >>stderr, "Picon", piconName, "unused"
 
     def makeHtmlIndex(self, index):
