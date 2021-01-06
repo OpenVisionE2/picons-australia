@@ -218,13 +218,19 @@ class LinkMaker:
                 servRefs.append(servRefParts[0:1] + servRefParts[3:7])
             if addfold and (int(servRefParts[0]) & ~0x0100) == 1:
                 stype = int(servRefParts[2], 16)
-                if stype not in (1, 2):
+                if stype not in (0x1, 0x2, 0xA):
                     servRefPartsFold = servRefParts[:]
                     servRefPartsFold[2] = "1"
                     servRefs.append(servRefPartsFold)
+		# Fake up servicref 0x2 & 0xA for ABC news Radio
+                if stype in (0x2, 0xA) and int(servRefParts[5], 16) in (0x1010, 0x3201) and int(servRefParts[3], 16) & 0xF == 0xF:
+                    servRefPartsFold = servRefParts[:]
+                    servRefPartsFold[2] = "2" if stype == 0xA else "A"
+                    servRefs.append(servRefPartsFold)
+		# Fake up servicref 0x2 & 0xA for ABC news Radio
             if fold and (int(servRefParts[0]) & ~0x0100) == 1:
                 stype = int(servRefParts[2], 16)
-                if stype not in (1, 2):
+                if stype not in (0x1, 0x2, 0xA):
                     servRefPartsFold = servRefParts[:]
                     servRefPartsFold[2] = "1"
                 servRefs.append(servRefPartsFold)
