@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 
 from sys import argv, stderr
 from os import path, remove, listdir, symlink, link, chdir, stat, makedirs
@@ -32,7 +32,7 @@ specified, --full is assumed.'''
 
 
 def usage(status):
-        print >>stderr, "Usage:", argv[0], usageMess
+        print("Usage:", argv[0], usageMess, file=stderr)
         exit(status)
 
 class LinkMaker:
@@ -83,7 +83,7 @@ class LinkMaker:
         else:
             piconSet = piconBase
 
-        print >>stderr, piconSet + ':'
+        print(piconSet + ':', file=stderr)
 
         self.linkedPiconNames = set()
         self.origPiconLinks = {}
@@ -110,7 +110,7 @@ class LinkMaker:
         try:
             self.servrefFile = open(piconDefsFile)
         except Exception as err:
-            print >>stderr, argv[0] + ':', "Can't open service reference file", piconDefsFile, '-', str(err)
+            print(argv[0] + ':', "Can't open service reference file", piconDefsFile, '-', str(err), file=stderr)
             exit(1)
 
         self._makePiconFileList()
@@ -131,7 +131,7 @@ class LinkMaker:
                     if origIndex > 0 and basename[origIndex:] in self.PICON_SRCS:
                         piconBasename = basename[:origIndex]
                         if piconBasename in self.piconFiles:
-                            print >>stderr, "Picon file for", piconBasename, "renamed from", self.piconFiles[piconBasename][0], "to", piconName
+                            print("Picon file for", piconBasename, "renamed from", self.piconFiles[piconBasename][0], "to", piconName, file=stderr)
                     elif basename not in self.piconFiles:
                         piconBasename = basename
                     else:
@@ -139,7 +139,7 @@ class LinkMaker:
                     if piconBasename:
                         self.piconFiles[piconBasename] = (piconName, self.getLinkRef(piconPath))
         except Exception as err:
-            print >>stderr, "Can't process image directory", chanDir, '-', str(err)
+            print("Can't process image directory", chanDir, '-', str(err), file=stderr)
             exit(1)
 
     def _cleanWrongLinks(self):
@@ -161,7 +161,7 @@ class LinkMaker:
             if self.options.get("cleanAll"):
                 self.clean()
         except Exception as err:
-            print >>stderr, "Can't process link directory", self.piconPath, "to get current link list -", str(err)
+            print("Can't process link directory", self.piconPath, "to get current link list -", str(err), file=stderr)
             exit(1)
 
     def refType(self, servRefPath):
@@ -201,10 +201,10 @@ class LinkMaker:
                 continue
             F = line.split()
             if len(F) > 3:
-                print >>stderr, "Too many fields in server reference file:", line
+                print("Too many fields in server reference file:", line, file=stderr)
                 continue
             if len(F) < 3:
-                print >>stderr, "Too few fields in server reference file:", line
+                print("Too few fields in server reference file:", line, file=stderr)
                 continue
             servRef, serviceName, picon = F
             servRefName = servRef
@@ -250,7 +250,7 @@ class LinkMaker:
                     alreadyOverridden = servRefPath in self.overrides
                     if exists and self.isOverride(servRefPath):
                         if not alreadyOverridden:
-                            print >>stderr, "Picon", picon, "over-ridden by specific servref icon", servRefName
+                            print("Picon", picon, "over-ridden by specific servref icon", servRefName, file=stderr)
                         continue
 
                     lexists = exists or path.lexists(servRefPath)
@@ -278,32 +278,32 @@ class LinkMaker:
                                     symlink(piconPath, servRefPath)
                                 linked = True
                             except Exception as err:
-                                print >>stderr, ("Link" if useHardLinks else "Symlink"), piconName, "->", servRefName, "failed -", str(err)
+                                print(("Link" if useHardLinks else "Symlink"), piconName, "->", servRefName, "failed -", str(err), file=stderr)
 
                     if linked:
                         self.linkedPiconNames.add(piconName)
                         piconLinks[servRefName] = picon
                     else:
                         if picon not in ("tba", "tobeadvised"):
-                            print >>stderr, "No picon", picon, "for", servRef
+                            print("No picon", picon, "for", servRef, file=stderr)
                 else:
-                    print >>stderr, "Servref link", servRef, "->", piconLinks[servRefName], "exists; new link requested for", picon
+                    print("Servref link", servRef, "->", piconLinks[servRefName], "exists; new link requested for", picon, file=stderr)
         self.servrefFile.close()
-        print >>stderr, "linksMade:", linksMade
+        print("linksMade:", linksMade, file=stderr)
 
     def checkUnused(self):
         piconNames = set(fileinfo[0] for fileinfo in self.piconFiles.values())
         for piconName in sorted(piconNames - self.linkedPiconNames):
-            print >>stderr, "Picon", piconName, "unused"
+            print("Picon", piconName, "unused", file=stderr)
 
     def makeHtmlIndex(self, index):
         try:
             htmlFile = open(path.join(self.piconPath, "index.html"), 'w')
         except Exception as err:
-            print >>stderr, "Can't write to index.html -", str(err)
+            print("Can't write to index.html -", str(err), file=stderr)
             exit(1)
 
-        print >>htmlFile, self.htmlHead
+        print(self.htmlHead, file=htmlFile)
         row = 0
         item = 0
         for piconName in sorted(fileinfo[0] for fileinfo in self.piconFiles.values()):
@@ -312,15 +312,15 @@ class LinkMaker:
                 htmlFile.write("  ")
                 if row != 0:
                     htmlFile.write("</tr>")
-                print >>htmlFile, "<tr>"
-            print >>htmlFile, '    <td><img src="' + piconPath + '"></td>'
+                print("<tr>", file=htmlFile)
+            print('    <td><img src="' + piconPath + '"></td>', file=htmlFile)
             item += 1
             if item >= 6:
                 row += 1
                 item = 0
         if row != 0:
-            print >>htmlFile, "  </tr>"
-        print >>htmlFile, self.htmlTail
+            print("  </tr>", file=htmlFile)
+        print(self.htmlTail, file=htmlFile)
         htmlFile.close()
 
     def copyImages(self, fromPath):
@@ -334,16 +334,16 @@ class LinkMaker:
                         try:
                             remove(imagePath)
                         except Exception as err:
-                            print >>stderr, "Can't remove", imagePath, "-", str(err)
+                            print("Can't remove", imagePath, "-", str(err), file=stderr)
                             exit(1)
                 except Exception as err:
-                    print >>stderr, "Can't access", chanPath, "-", str(err)
+                    print("Can't access", chanPath, "-", str(err), file=stderr)
                     exit(1)
         else:
             try:
-                makedirs(chanPath, 0755)
+                makedirs(chanPath, 0o755)
             except Exception as err:
-                print >>stderr, "Can't create", chanPath, "-", str(err)
+                print("Can't create", chanPath, "-", str(err), file=stderr)
                 exit(1)
 
         try:
@@ -351,17 +351,17 @@ class LinkMaker:
                 imageFromPath = path.join(fromPath, imageName)
                 copy(imageFromPath, chanPath)
         except Exception as err:
-            print >>stderr, "Can't copy", imageFromPath, "to", chanPath, "-", str(err)
+            print("Can't copy", imageFromPath, "to", chanPath, "-", str(err), file=stderr)
             exit(1)
 
     def _clean(self, servRefNames):
-        print "removing:", len(servRefNames)
+        print("removing:", len(servRefNames))
         for servRefName in servRefNames:
             servRefPath = path.join(self.piconPath, servRefName)
             try:
                 remove(servRefPath)
             except Exception as err:
-                print >>stderr, "Can't remove", servRefPath, "-", str(err)
+                print("Can't remove", servRefPath, "-", str(err), file=stderr)
 
     def clean(self):
         self._clean(self.origPiconLinks)
@@ -382,7 +382,7 @@ options = {
 try:
     opts, args = getopt.getopt(argv[1:], "fsFaSHhcC:", ["full", "short", "fold", "addfold", "servicenames", "hardlinks", "cleanall", "copyimages=", "help"])
 except getopt.GetoptError as err:
-    print str(err)
+    print(str(err))
     usage(2)
 
 for o, a in opts:
@@ -412,7 +412,7 @@ if not any((options[linktype] for linktype in ("full", "short", "fold", "addfold
     options["full"] = True
 
 if options["short"]:
-    print >>stderr, "Picon links generated by --short (-s) are not yet supported by Beyonwiz firmware"
+    print("Picon links generated by --short (-s) are not yet supported by Beyonwiz firmware", file=stderr)
 
 if len(args) < 2:
     usage(1)
