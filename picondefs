@@ -328,7 +328,7 @@
 1:0:1:910:900:1013:EEEE0000:0:0:0:     7cairns              7digital             # 7 Cairns
 1:0:1:911:900:1013:EEEE0000:0:0:0:     7cairns              7digital             # 7 Cairns
 1:0:1:912:900:1013:EEEE0000:0:0:0:     7twocairns           7two                 # 7TWO Cairns
-1:0:1:913:900:1013:EEEE0000:0:0:0:     7matecairns          7mate                # 7mate Cairns
+1:0:19:913:900:1013:EEEE0000:0:0:0:    7twohdcairns         7twohd               # 7twoHD Cairns
 1:0:1:914:900:1013:EEEE0000:0:0:0:     7cairns              7digital             # 7 Cairns
 1:0:1:915:900:1013:EEEE0000:0:0:0:     7flixcairns          7flix                # 7flix Cairns
 1:0:1:916:900:1013:EEEE0000:0:0:0:     openshop             openshop             # openshop
@@ -1480,7 +1480,7 @@
 1:0:1:940:930:1013:EEEE0000:0:0:0:     7rockhampton         7digital             # 7 Rockhampton
 1:0:1:941:930:1013:EEEE0000:0:0:0:     7rockhampton         7digital             # 7 Rockhampton
 1:0:1:942:930:1013:EEEE0000:0:0:0:     7tworockhampton      7two                 # 7TWO Rockhampton
-1:0:1:943:930:1013:EEEE0000:0:0:0:     7materockhampton     7mate                # 7mate Rockhampton
+1:0:19:943:930:1013:EEEE0000:0:0:0:    7twohdrockhampton    7twohd               # 7twoHD Rockhampton
 1:0:1:944:930:1013:EEEE0000:0:0:0:     7rockhampton         7digital             # 7 Rockhampton
 1:0:1:945:930:1013:EEEE0000:0:0:0:     7flixrockhampton     7flix                # 7flix Rockhampton
 1:0:1:946:930:1013:EEEE0000:0:0:0:     openshop             openshop             # openshop
@@ -1695,7 +1695,7 @@
 1:0:1:960:950:1013:EEEE0000:0:0:0:     7sunshinecoast       7digital             # 7 Sunshine Coast
 1:0:1:961:950:1013:EEEE0000:0:0:0:     7sunshinecoast       7digital             # 7 Sunshine Coast
 1:0:1:962:950:1013:EEEE0000:0:0:0:     7twosunshinecoast    7two                 # 7TWO Sunshine Coast
-1:0:1:963:950:1013:EEEE0000:0:0:0:     7matesunshinecoast   7mate                # 7mate Sunshine Coast
+1:0:19:963:950:1013:EEEE0000:0:0:0:    7twohdsunshinecoast  7twohd               # 7twoHD Sunshine Coast
 1:0:1:964:950:1013:EEEE0000:0:0:0:     7sunshinecoast       7digital             # 7 Sunshine Coast
 1:0:1:965:950:1013:EEEE0000:0:0:0:     7flixsunshinecoast   7flix                # 7flix Sunshine Coast
 1:0:1:966:950:1013:EEEE0000:0:0:0:     openshop             openshop             # openshop
@@ -1969,7 +1969,7 @@
 1:0:1:970:960:1013:EEEE0000:0:0:0:     7toowoomba           7digital             # 7 Toowoomba
 1:0:1:971:960:1013:EEEE0000:0:0:0:     7digital1            7digital             # 7 Digital 1
 1:0:1:972:960:1013:EEEE0000:0:0:0:     7two                 7two                 # 7TWO
-1:0:1:973:960:1013:EEEE0000:0:0:0:     7mate                7mate                # 7mate
+1:0:19:973:960:1013:EEEE0000:0:0:0:    7twohd               7twohd               # 7twoHD
 1:0:1:974:960:1013:EEEE0000:0:0:0:     7toowoomba           7digital             # 7 Toowoomba
 1:0:1:975:960:1013:EEEE0000:0:0:0:     7flix                7flix                # 7flix
 1:0:19:977:960:1013:EEEE0000:0:0:0:    7matehd              7matehd              # 7mate HD
@@ -2031,7 +2031,7 @@
 1:0:1:920:910:1013:EEEE0000:0:0:0:     7townsville          7digital             # 7 Townsville
 1:0:1:921:910:1013:EEEE0000:0:0:0:     7townsville          7digital             # 7 Townsville
 1:0:1:922:910:1013:EEEE0000:0:0:0:     7twotownsville       7two                 # 7TWO Townsville
-1:0:1:923:910:1013:EEEE0000:0:0:0:     7matetownsville      7mate                # 7mate Townsville
+1:0:19:923:910:1013:EEEE0000:0:0:0:    7twohdtownsville     7twohd               # 7twoHD Townsville
 1:0:1:924:910:1013:EEEE0000:0:0:0:     7townsville          7digital             # 7 Townsville
 1:0:1:925:910:1013:EEEE0000:0:0:0:     7flixtownsville      7flix                # 7flix Townsville
 1:0:1:926:910:1013:EEEE0000:0:0:0:     openshop             openshop             # openshop
@@ -2212,7 +2212,7 @@
 1:0:1:950:940:1013:EEEE0000:0:0:0:     7widebay             7digital             # 7 Wide Bay
 1:0:1:951:940:1013:EEEE0000:0:0:0:     7widebay             7digital             # 7 Wide Bay
 1:0:1:952:940:1013:EEEE0000:0:0:0:     7twowidebay          7two                 # 7TWO Wide Bay
-1:0:1:953:940:1013:EEEE0000:0:0:0:     7matewidebay         7mate                # 7mate Wide Bay
+1:0:19:953:940:1013:EEEE0000:0:0:0:    7twohdwidebay        7twohd               # 7twoHD Wide Bay
 1:0:1:954:940:1013:EEEE0000:0:0:0:     7widebay             7digital             # 7 Wide Bay
 1:0:1:955:940:1013:EEEE0000:0:0:0:     7flixwidebay         7flix                # 7flix Wide Bay
 1:0:1:956:940:1013:EEEE0000:0:0:0:     openshop             openshop             # openshop
