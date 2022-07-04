@@ -32,8 +32,8 @@ specified, --full is assumed.'''
 
 
 def usage(status):
-        print("Usage:", argv[0], usageMess, file=stderr)
-        exit(status)
+    print("Usage:", argv[0], usageMess, file=stderr)
+    exit(status)
 
 class LinkMaker:
     TITLES = {
@@ -171,7 +171,7 @@ class LinkMaker:
             if path.isfile(servRefPath):
                 return self.IS_HLINK if stat(servRefPath).st_nlink > 1 else self.IS_FILE
             return self.IS_OTHER
-        except:
+        except Exception:
             return self.IS_ERROR
 
     def getLinkRef(self, servRefPath):
@@ -211,7 +211,7 @@ class LinkMaker:
             servRefParts = servRefName.split(':')[0:10]
             servRefs = []
             if useServiceNameLinks:
-                    servRefs.append([serviceName])
+                servRefs.append([serviceName])
             if full or addfold:
                 servRefs.append(servRefParts)
             if short:
