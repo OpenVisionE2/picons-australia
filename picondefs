@@ -114,7 +114,7 @@
 1:0:2:3B5:3A0:3202:EEEE0000:0:0:0:     sbspopdesi           sbspopdesi           # SBS PopDesi
 1:0:2:3B6:3A0:3202:EEEE0000:0:0:0:     sbschill             sbschill             # SBS Chill
 1:0:2:3B7:3A0:3202:EEEE0000:0:0:0:     sbspopasia           sbspopasia           # SBS PopAsia
-1:0:1:957:99E:3286:EEEE0000:0:0:0:     gwn7                 gwn                  # GWN7
+1:0:1:957:99E:3286:EEEE0000:0:0:0:     gwn7                 7digital             # GWN7
 1:0:1:962:99E:3286:EEEE0000:0:0:0:     7two                 7two                 # 7TWO
 1:0:1:963:99E:3286:EEEE0000:0:0:0:     7mate                7mate                # 7mate
 1:0:1:965:99E:3286:EEEE0000:0:0:0:     ishoptv              ishoptv              # ishoptv
@@ -174,9 +174,9 @@
 1:0:1:788:327E:3274:EEEE0000:0:0:0:    tvsn                 tvsn                 # TVSN
 1:0:16:790:327E:3274:EEEE0000:0:0:0:   skynewsonwin         skynewsonwin         # Sky News on WIN
 1:0:19:795:327E:3274:EEEE0000:0:0:0:   winhdalbury          winhd                # WIN HD Albury
-1:0:1:945:9A0:3281:EEEE0000:0:0:0:     prime7waggawagga     prime7               # PRIME7 Wagga Wagga
-1:0:19:960:9A0:3281:EEEE0000:0:0:0:    prime7hdwaggawagga   prime7hd             # PRIME7 HD Wagga Wagga
-1:0:1:961:9A0:3281:EEEE0000:0:0:0:     prime7waggawagga     prime7               # PRIME7 Wagga Wagga
+1:0:1:945:9A0:3281:EEEE0000:0:0:0:     prime7waggawagga     7digital             # PRIME7 Wagga Wagga
+1:0:19:960:9A0:3281:EEEE0000:0:0:0:    prime7hdwaggawagga   7hd                  # PRIME7 HD Wagga Wagga
+1:0:1:961:9A0:3281:EEEE0000:0:0:0:     prime7waggawagga     7digital             # PRIME7 Wagga Wagga
 1:0:1:962:9A0:3281:EEEE0000:0:0:0:     7twowaggawagga       7two                 # 7TWO Wagga Wagga
 1:0:1:963:9A0:3281:EEEE0000:0:0:0:     7matewaggawagga      7mate                # 7mate Wagga Wagga
 1:0:19:964:9A0:3281:EEEE0000:0:0:0:    7matehdwaggawagga    7matehd              # 7mate HD Wagga Wagga
@@ -235,9 +235,9 @@
 1:0:1:788:327B:3274:EEEE0000:0:0:0:    tvsn                 tvsn                 # TVSN
 1:0:16:790:327B:3274:EEEE0000:0:0:0:   skynewsonwin         skynewsonwin         # Sky News on WIN
 1:0:19:793:327B:3274:EEEE0000:0:0:0:   winhdbendigo         winhd                # WIN HD Bendigo
-1:0:1:950:99D:3283:EEEE0000:0:0:0:     prime7bendigo        prime7               # PRIME7 Bendigo
-1:0:19:974:99D:3283:EEEE0000:0:0:0:    prime7hdbendigo      prime7hd             # PRIME7 HD Bendigo
-1:0:1:975:99D:3283:EEEE0000:0:0:0:     prime7bendigo        prime7               # PRIME7 Bendigo
+1:0:1:950:99D:3283:EEEE0000:0:0:0:     prime7bendigo        7digital             # PRIME7 Bendigo
+1:0:19:974:99D:3283:EEEE0000:0:0:0:    prime7hdbendigo      7hd                  # PRIME7 HD Bendigo
+1:0:1:975:99D:3283:EEEE0000:0:0:0:     prime7bendigo        7digital             # PRIME7 Bendigo
 1:0:1:976:99D:3283:EEEE0000:0:0:0:     7twobendigo          7two                 # 7TWO Bendigo
 1:0:1:977:99D:3283:EEEE0000:0:0:0:     7matebendigo         7mate                # 7mate Bendigo
 1:0:19:978:99D:3283:EEEE0000:0:0:0:    7matehdbendigo       7matehd              # 7mate HD Bendigo
@@ -499,9 +499,9 @@
 1:0:2:315:300:3202:EEEE0000:0:0:0:     sbspopdesi           sbspopdesi           # SBS PopDesi
 1:0:2:316:300:3202:EEEE0000:0:0:0:     sbschill             sbschill             # SBS Chill
 1:0:2:317:300:3202:EEEE0000:0:0:0:     sbspopasia           sbspopasia           # SBS PopAsia
-1:0:1:93D:9B0:3282:EEEE0000:0:0:0:     prime7centralcoast   prime7               # PRIME7 Central Coast
-1:0:1:960:9B0:3282:EEEE0000:0:0:0:     prime7centralcoast   prime7               # PRIME7 Central Coast
-1:0:1:961:9B0:3282:EEEE0000:0:0:0:     prime7centralcoast   prime7               # PRIME7 Central Coast
+1:0:1:93D:9B0:3282:EEEE0000:0:0:0:     prime7centralcoast   7digital             # PRIME7 Central Coast
+1:0:1:960:9B0:3282:EEEE0000:0:0:0:     prime7centralcoast   7digital             # PRIME7 Central Coast
+1:0:1:961:9B0:3282:EEEE0000:0:0:0:     prime7centralcoast   7digital             # PRIME7 Central Coast
 1:0:1:962:9B0:3282:EEEE0000:0:0:0:     7twocentralcoast     7two                 # 7TWO Central Coast
 1:0:1:963:9B0:3282:EEEE0000:0:0:0:     7matecentralcoast    7mate                # 7mate Central Coast
 1:0:19:964:9B0:3282:EEEE0000:0:0:0:    7matehd              7matehd              # 7mate HD
@@ -560,9 +560,9 @@
 1:0:1:824:329B:3272:EEEE0000:0:0:0:    peachcoffsharbour    winpeach             # PEACH Coffs Harbour
 1:0:19:825:329B:3272:EEEE0000:0:0:0:   winhdcoffsharbour    winhd                # WIN HD Coffs Harbour
 1:0:16:826:329B:3272:EEEE0000:0:0:0:   skynewsonwin         skynewsonwin         # Sky News on WIN
-1:0:1:93B:9A5:3282:EEEE0000:0:0:0:     prime7coffsharbour   prime7               # PRIME7 Coffs Harbour
-1:0:19:97E:9A5:3282:EEEE0000:0:0:0:    prime7hdcoffsharbour prime7hd             # PRIME7 HD Coffs Harbour
-1:0:1:97F:9A5:3282:EEEE0000:0:0:0:     prime7coffsharbour   prime7               # PRIME7 Coffs Harbour
+1:0:1:93B:9A5:3282:EEEE0000:0:0:0:     prime7coffsharbour   7digital             # PRIME7 Coffs Harbour
+1:0:19:97E:9A5:3282:EEEE0000:0:0:0:    prime7hdcoffsharbour 7hd                  # PRIME7 HD Coffs Harbour
+1:0:1:97F:9A5:3282:EEEE0000:0:0:0:     prime7coffsharbour   7digital             # PRIME7 Coffs Harbour
 1:0:1:980:9A5:3282:EEEE0000:0:0:0:     7twocoffsharbour     7two                 # 7TWO Coffs Harbour
 1:0:1:981:9A5:3282:EEEE0000:0:0:0:     7matecoffsharbour    7mate                # 7mate Coffs Harbour
 1:0:19:982:9A5:3282:EEEE0000:0:0:0:    7matehdcoffsharbour  7matehd              # 7mate HD Coffs Harbour
@@ -682,9 +682,9 @@
 1:0:16:788:327D:3274:EEEE0000:0:0:0:   tvsn                 tvsn                 # TVSN
 1:0:16:790:327D:3274:EEEE0000:0:0:0:   skynewsonwin         skynewsonwin         # Sky News on WIN
 1:0:19:796:327D:3274:EEEE0000:0:0:0:   9hd                  9hd                  # 9HD
-1:0:1:952:99D:3283:EEEE0000:0:0:0:     prime7traralgon      prime7               # PRIME7 Traralgon
-1:0:19:988:99D:3283:EEEE0000:0:0:0:    prime7hdtraralgon    prime7hd             # PRIME7 HD Traralgon
-1:0:1:989:99D:3283:EEEE0000:0:0:0:     prime7traralgon      prime7               # PRIME7 Traralgon
+1:0:1:952:99D:3283:EEEE0000:0:0:0:     prime7traralgon      7digital             # PRIME7 Traralgon
+1:0:19:988:99D:3283:EEEE0000:0:0:0:    prime7hdtraralgon    7hd                  # PRIME7 HD Traralgon
+1:0:1:989:99D:3283:EEEE0000:0:0:0:     prime7traralgon      7digital             # PRIME7 Traralgon
 1:0:1:98A:99D:3283:EEEE0000:0:0:0:     7twotraralgon        7two                 # 7TWO Traralgon
 1:0:1:98B:99D:3283:EEEE0000:0:0:0:     7matetraralgon       7mate                # 7mate Traralgon
 1:0:19:98C:99D:3283:EEEE0000:0:0:0:    7matehdtraralgon     7matehd              # 7mate HD Traralgon
@@ -769,9 +769,9 @@
 1:0:1:824:32A0:3272:EEEE0000:0:0:0:    peachgoldcoast       winpeach             # PEACH Gold Coast
 1:0:19:825:32A0:3272:EEEE0000:0:0:0:   winhdgoldcoast       winhd                # WIN HD Gold Coast
 1:0:16:826:32A0:3272:EEEE0000:0:0:0:   skynewsonwin         skynewsonwin         # Sky News on WIN
-1:0:1:938:9A5:3282:EEEE0000:0:0:0:     prime7goldcoast      prime7               # PRIME7 Gold Coast
-1:0:19:960:9A5:3282:EEEE0000:0:0:0:    prime7hdgoldcoast    prime7hd             # PRIME7 HD Gold Coast
-1:0:1:961:9A5:3282:EEEE0000:0:0:0:     prime7goldcoast      prime7               # PRIME7 Gold Coast
+1:0:1:938:9A5:3282:EEEE0000:0:0:0:     prime7goldcoast      7digital             # PRIME7 Gold Coast
+1:0:19:960:9A5:3282:EEEE0000:0:0:0:    prime7hdgoldcoast    7hd                  # PRIME7 HD Gold Coast
+1:0:1:961:9A5:3282:EEEE0000:0:0:0:     prime7goldcoast      7digital             # PRIME7 Gold Coast
 1:0:1:962:9A5:3282:EEEE0000:0:0:0:     7twogoldcoast        7two                 # 7TWO Gold Coast
 1:0:1:963:9A5:3282:EEEE0000:0:0:0:     7mategoldcoast       7mate                # 7mate Gold Coast
 1:0:19:964:9A5:3282:EEEE0000:0:0:0:    7matehdgoldcoast     7matehd              # 7mate HD Gold Coast
@@ -847,9 +847,9 @@
 1:0:1:824:32A0:3272:EEEE0000:0:0:0:    peachgoldcoast       winpeach             # PEACH Gold Coast
 1:0:19:825:32A0:3272:EEEE0000:0:0:0:   winhdgoldcoast       winhd                # WIN HD Gold Coast
 1:0:16:826:32A0:3272:EEEE0000:0:0:0:   skynewsonwin         skynewsonwin         # Sky News on WIN
-1:0:1:938:9A5:3282:EEEE0000:0:0:0:     prime7goldcoast      prime7               # PRIME7 Gold Coast
-1:0:19:960:9A5:3282:EEEE0000:0:0:0:    prime7hdgoldcoast    prime7hd             # PRIME7 HD Gold Coast
-1:0:1:961:9A5:3282:EEEE0000:0:0:0:     prime7goldcoast      prime7               # PRIME7 Gold Coast
+1:0:1:938:9A5:3282:EEEE0000:0:0:0:     prime7goldcoast      7digital             # PRIME7 Gold Coast
+1:0:19:960:9A5:3282:EEEE0000:0:0:0:    prime7hdgoldcoast    7hd                  # PRIME7 HD Gold Coast
+1:0:1:961:9A5:3282:EEEE0000:0:0:0:     prime7goldcoast      7digital             # PRIME7 Gold Coast
 1:0:1:962:9A5:3282:EEEE0000:0:0:0:     7twogoldcoast        7two                 # 7TWO Gold Coast
 1:0:1:963:9A5:3282:EEEE0000:0:0:0:     7mategoldcoast       7mate                # 7mate Gold Coast
 1:0:19:964:9A5:3282:EEEE0000:0:0:0:    7matehdgoldcoast     7matehd              # 7mate HD Gold Coast
@@ -1132,9 +1132,9 @@
 1:0:1:901:328A:3282:EEEE0000:0:0:0:    7mate                7mate                # 7Mate
 1:0:1:902:328A:3282:EEEE0000:0:0:0:    7two                 7two                 # 7Two
 1:0:11:903:328A:3282:EEEE0000:0:0:0:   7hd                  7hd                  # 7HD
-1:0:1:94E:99D:3283:EEEE0000:0:0:0:     prime7ballarat       prime7               # PRIME7 Ballarat
-1:0:19:960:99D:3283:EEEE0000:0:0:0:    prime7hdballarat     prime7hd             # PRIME7 HD Ballarat
-1:0:1:961:99D:3283:EEEE0000:0:0:0:     prime7ballarat       prime7               # PRIME7 Ballarat
+1:0:1:94E:99D:3283:EEEE0000:0:0:0:     prime7ballarat       7digital             # PRIME7 Ballarat
+1:0:19:960:99D:3283:EEEE0000:0:0:0:    prime7hdballarat     7hd                  # PRIME7 HD Ballarat
+1:0:1:961:99D:3283:EEEE0000:0:0:0:     prime7ballarat       7digital             # PRIME7 Ballarat
 1:0:1:962:99D:3283:EEEE0000:0:0:0:     7twoballarat         7two                 # 7TWO Ballarat
 1:0:1:963:99D:3283:EEEE0000:0:0:0:     7mateballarat        7mate                # 7mate Ballarat
 1:0:19:964:99D:3283:EEEE0000:0:0:0:    7matehdballarat      7matehd              # 7mate HD Ballarat
@@ -1198,9 +1198,9 @@
 1:0:16:788:327F:3273:EEEE0000:0:0:0:   tvsn                 tvsn                 # TVSN
 1:0:16:790:327F:3273:EEEE0000:0:0:0:   9life                9life                # 9Life
 1:0:19:795:327F:3273:EEEE0000:0:0:0:   9hd                  9hd                  # 9HD
-1:0:1:947:99E:3281:EEEE0000:0:0:0:     prime7sthcoast       prime7               # PRIME7 Sth Coast
-1:0:1:96A:99E:3281:EEEE0000:0:0:0:     prime7hdsthcoast     prime7hd             # PRIME7 HD Sth Coast
-1:0:1:96B:99E:3281:EEEE0000:0:0:0:     prime7sthcoast       prime7               # PRIME7 Sth Coast
+1:0:1:947:99E:3281:EEEE0000:0:0:0:     prime7sthcoast       7digital             # PRIME7 Sth Coast
+1:0:1:96A:99E:3281:EEEE0000:0:0:0:     prime7hdsthcoast     7hd                  # PRIME7 HD Sth Coast
+1:0:1:96B:99E:3281:EEEE0000:0:0:0:     prime7sthcoast       7digital             # PRIME7 Sth Coast
 1:0:1:96C:99E:3281:EEEE0000:0:0:0:     7twosthcoast         7two                 # 7TWO Sth Coast
 1:0:1:96D:99E:3281:EEEE0000:0:0:0:     7matesthcoast        7mate                # 7mate Sth Coast
 1:0:19:96E:99E:3281:EEEE0000:0:0:0:    7matehdsthcoast      7matehd              # 7mate HD Sth Coast
@@ -1261,9 +1261,9 @@
 1:0:1:824:329C:3272:EEEE0000:0:0:0:    10peach              10peach              # 10Peach
 1:0:19:825:329C:3272:EEEE0000:0:0:0:   10hd                 10hd                 # 10HD
 1:0:16:826:329C:3272:EEEE0000:0:0:0:   skynewsregional      skynewsregional      # Sky News Regional
-1:0:1:93E:9B0:3282:EEEE0000:0:0:0:     prime7newcastle      prime7               # PRIME7 Newcastle
-1:0:19:96A:9B0:3282:EEEE0000:0:0:0:    prime7hdnewcastle    prime7hd             # PRIME7 HD Newcastle
-1:0:1:96B:9B0:3282:EEEE0000:0:0:0:     prime7newcastle      prime7               # PRIME7 Newcastle
+1:0:1:93E:9B0:3282:EEEE0000:0:0:0:     prime7newcastle      7digital             # PRIME7 Newcastle
+1:0:19:96A:9B0:3282:EEEE0000:0:0:0:    prime7hdnewcastle    7hd                  # PRIME7 HD Newcastle
+1:0:1:96B:9B0:3282:EEEE0000:0:0:0:     prime7newcastle      7digital             # PRIME7 Newcastle
 1:0:1:96C:9B0:3282:EEEE0000:0:0:0:     7twonewcastle        7two                 # 7TWO Newcastle
 1:0:1:96D:9B0:3282:EEEE0000:0:0:0:     7matenewcastle       7mate                # 7mate Newcastle
 1:0:19:96E:9B0:3282:EEEE0000:0:0:0:    7matehdnewcastle     7matehd              # 7mate HD Newcastle
@@ -1323,9 +1323,9 @@
 1:0:1:824:329F:3272:EEEE0000:0:0:0:    peachlismore         winpeach             # PEACH Lismore
 1:0:19:825:329F:3272:EEEE0000:0:0:0:   winhdlismore         winhd                # WIN HD Lismore
 1:0:16:826:329F:3272:EEEE0000:0:0:0:   skynewsonwin         skynewsonwin         # Sky News on WIN
-1:0:1:939:9A5:3282:EEEE0000:0:0:0:     prime7lismore        prime7               # PRIME7 Lismore
-1:0:19:96A:9A5:3282:EEEE0000:0:0:0:    prime7hdlismore      prime7hd             # PRIME7 HD Lismore
-1:0:1:96B:9A5:3282:EEEE0000:0:0:0:     prime7lismore        prime7               # PRIME7 Lismore
+1:0:1:939:9A5:3282:EEEE0000:0:0:0:     prime7lismore        7digital             # PRIME7 Lismore
+1:0:19:96A:9A5:3282:EEEE0000:0:0:0:    prime7hdlismore      7hd                  # PRIME7 HD Lismore
+1:0:1:96B:9A5:3282:EEEE0000:0:0:0:     prime7lismore        7digital             # PRIME7 Lismore
 1:0:1:96C:9A5:3282:EEEE0000:0:0:0:     7twolismore          7two                 # 7TWO Lismore
 1:0:1:96D:9A5:3282:EEEE0000:0:0:0:     7matelismore         7mate                # 7mate Lismore
 1:0:19:96E:9A5:3282:EEEE0000:0:0:0:    7matehdlismore       7matehd              # 7mate HD Lismore
@@ -1384,9 +1384,9 @@
 1:0:16:788:327C:3273:EEEE0000:0:0:0:   tvsn                 tvsn                 # TVSN
 1:0:16:790:327C:3273:EEEE0000:0:0:0:   9life                9life                # 9Life
 1:0:19:791:327C:3273:EEEE0000:0:0:0:   9hd                  9hd                  # 9HD
-1:0:1:943:9A2:3281:EEEE0000:0:0:0:     prime7orange         prime7               # PRIME7 Orange
-1:0:19:960:9A2:3281:EEEE0000:0:0:0:    prime7hdorange       prime7hd             # PRIME7 HD Orange
-1:0:1:961:9A2:3281:EEEE0000:0:0:0:     prime7orange         prime7               # PRIME7 Orange
+1:0:1:943:9A2:3281:EEEE0000:0:0:0:     prime7orange         7digital             # PRIME7 Orange
+1:0:19:960:9A2:3281:EEEE0000:0:0:0:    prime7hdorange       7hd                  # PRIME7 HD Orange
+1:0:1:961:9A2:3281:EEEE0000:0:0:0:     prime7orange         7digital             # PRIME7 Orange
 1:0:1:962:9A2:3281:EEEE0000:0:0:0:     7twoorange           7two                 # 7TWO Orange
 1:0:1:963:9A2:3281:EEEE0000:0:0:0:     7mateorange          7mate                # 7mate Orange
 1:0:19:964:9A2:3281:EEEE0000:0:0:0:    7matehdorange        7matehd              # 7mate HD Orange
@@ -1603,9 +1603,9 @@
 1:0:1:788:327C:3274:EEEE0000:0:0:0:    tvsn                 tvsn                 # TVSN
 1:0:16:790:327C:3274:EEEE0000:0:0:0:   winnetwork           skynewsonwin         # WIN NETWORK
 1:0:19:794:327C:3274:EEEE0000:0:0:0:   winsheppartonhd      winhd                # WIN Shepparton HD
-1:0:1:94C:9A1:3283:EEEE0000:0:0:0:     prime7shepparton     prime7               # PRIME7 Shepparton
-1:0:1:960:9A1:3283:EEEE0000:0:0:0:     prime7shepparton     prime7               # PRIME7 Shepparton
-1:0:1:961:9A1:3283:EEEE0000:0:0:0:     prime7shepparton     prime7               # PRIME7 Shepparton
+1:0:1:94C:9A1:3283:EEEE0000:0:0:0:     prime7shepparton     7digital             # PRIME7 Shepparton
+1:0:1:960:9A1:3283:EEEE0000:0:0:0:     prime7shepparton     7digital             # PRIME7 Shepparton
+1:0:1:961:9A1:3283:EEEE0000:0:0:0:     prime7shepparton     7digital             # PRIME7 Shepparton
 1:0:1:962:9A1:3283:EEEE0000:0:0:0:     7twoshepparton       7two                 # 7TWO Shepparton
 1:0:1:963:9A1:3283:EEEE0000:0:0:0:     7mateshepparton      7mate                # 7mate Shepparton
 1:0:19:964:9A1:3283:EEEE0000:0:0:0:    7matehdshepparton    7matehd              # 7mate HD Shepparton
@@ -1890,9 +1890,9 @@
 1:0:1:824:329A:3272:EEEE0000:0:0:0:    peachtamworth        winpeach             # PEACH Tamworth
 1:0:19:825:329A:3272:EEEE0000:0:0:0:   winhdtamworth        winhd                # WIN HD Tamworth
 1:0:16:826:329A:3272:EEEE0000:0:0:0:   skynewsonwin         skynewsonwin         # Sky News on WIN
-1:0:1:93C:9A5:3282:EEEE0000:0:0:0:     prime7tamworth       prime7               # PRIME7 Tamworth
-1:0:19:988:9A5:3282:EEEE0000:0:0:0:    prime7hdtamworth     prime7hd             # PRIME7 HD Tamworth
-1:0:1:989:9A5:3282:EEEE0000:0:0:0:     prime7tamworth       prime7               # PRIME7 Tamworth
+1:0:1:93C:9A5:3282:EEEE0000:0:0:0:     prime7tamworth       7digital             # PRIME7 Tamworth
+1:0:19:988:9A5:3282:EEEE0000:0:0:0:    prime7hdtamworth     7hd                  # PRIME7 HD Tamworth
+1:0:1:989:9A5:3282:EEEE0000:0:0:0:     prime7tamworth       7digital             # PRIME7 Tamworth
 1:0:1:98A:9A5:3282:EEEE0000:0:0:0:     7twotamworth         7two                 # 7TWO Tamworth
 1:0:1:98B:9A5:3282:EEEE0000:0:0:0:     7matetamworth        7mate                # 7mate Tamworth
 1:0:19:98C:9A5:3282:EEEE0000:0:0:0:    7matehdtamworth      7matehd              # 7mate HD Tamworth
@@ -1953,9 +1953,9 @@
 1:0:1:824:329D:3272:EEEE0000:0:0:0:    10peach              10peach              # 10Peach
 1:0:19:825:329D:3272:EEEE0000:0:0:0:   10hd                 10hd                 # 10HD
 1:0:16:826:329D:3272:EEEE0000:0:0:0:   skynewsregional      skynewsregional      # Sky News Regional
-1:0:1:93A:9A5:3282:EEEE0000:0:0:0:     prime7taree          prime7               # PRIME7 Taree
-1:0:19:974:9A5:3282:EEEE0000:0:0:0:    prime7hdtaree        prime7hd             # PRIME7 HD Taree
-1:0:1:975:9A5:3282:EEEE0000:0:0:0:     prime7taree          prime7               # PRIME7 Taree
+1:0:1:93A:9A5:3282:EEEE0000:0:0:0:     prime7taree          7digital             # PRIME7 Taree
+1:0:19:974:9A5:3282:EEEE0000:0:0:0:    prime7hdtaree        7hd                  # PRIME7 HD Taree
+1:0:1:975:9A5:3282:EEEE0000:0:0:0:     prime7taree          7digital             # PRIME7 Taree
 1:0:1:976:9A5:3282:EEEE0000:0:0:0:     7twotaree            7two                 # 7TWO Taree
 1:0:1:977:9A5:3282:EEEE0000:0:0:0:     7matetaree           7mate                # 7mate Taree
 1:0:19:978:9A5:3282:EEEE0000:0:0:0:    7matehdtaree         7matehd              # 7mate HD Taree
@@ -2137,9 +2137,9 @@
 1:0:16:788:327D:3273:EEEE0000:0:0:0:   tvsn                 tvsn                 # TVSN
 1:0:16:790:327D:3273:EEEE0000:0:0:0:   9life                9life                # 9Life
 1:0:19:792:327D:3273:EEEE0000:0:0:0:   9hd                  9hd                  # 9HD
-1:0:1:945:9A0:3281:EEEE0000:0:0:0:     prime7waggawagga     prime7               # PRIME7 Wagga Wagga
-1:0:19:960:9A0:3281:EEEE0000:0:0:0:    prime7hdwaggawagga   prime7hd             # PRIME7 HD Wagga Wagga
-1:0:1:961:9A0:3281:EEEE0000:0:0:0:     prime7waggawagga     prime7               # PRIME7 Wagga Wagga
+1:0:1:945:9A0:3281:EEEE0000:0:0:0:     prime7waggawagga     7digital             # PRIME7 Wagga Wagga
+1:0:19:960:9A0:3281:EEEE0000:0:0:0:    prime7hdwaggawagga   7hd                  # PRIME7 HD Wagga Wagga
+1:0:1:961:9A0:3281:EEEE0000:0:0:0:     prime7waggawagga     7digital             # PRIME7 Wagga Wagga
 1:0:1:962:9A0:3281:EEEE0000:0:0:0:     7twowaggawagga       7two                 # 7TWO Wagga Wagga
 1:0:1:963:9A0:3281:EEEE0000:0:0:0:     7matewaggawagga      7mate                # 7mate Wagga Wagga
 1:0:19:964:9A0:3281:EEEE0000:0:0:0:    7matehdwaggawagga    7matehd              # 7mate HD Wagga Wagga
@@ -2198,9 +2198,9 @@
 1:0:16:788:327A:3274:EEEE0000:0:0:0:   tvsn                 tvsn                 # TVSN
 1:0:16:790:327A:3274:EEEE0000:0:0:0:   9life                9life                # 9Life
 1:0:19:792:327A:3274:EEEE0000:0:0:0:   9hd                  9hd                  # 9HD
-1:0:1:94E:99D:3283:EEEE0000:0:0:0:     prime7ballarat       prime7               # PRIME7 Ballarat
-1:0:19:960:99D:3283:EEEE0000:0:0:0:    prime7hdballarat     prime7hd             # PRIME7 HD Ballarat
-1:0:1:961:99D:3283:EEEE0000:0:0:0:     prime7ballarat       prime7               # PRIME7 Ballarat
+1:0:1:94E:99D:3283:EEEE0000:0:0:0:     prime7ballarat       7digital             # PRIME7 Ballarat
+1:0:19:960:99D:3283:EEEE0000:0:0:0:    prime7hdballarat     7hd                  # PRIME7 HD Ballarat
+1:0:1:961:99D:3283:EEEE0000:0:0:0:     prime7ballarat       7digital             # PRIME7 Ballarat
 1:0:1:962:99D:3283:EEEE0000:0:0:0:     7twoballarat         7two                 # 7TWO Ballarat
 1:0:1:963:99D:3283:EEEE0000:0:0:0:     7mateballarat        7mate                # 7mate Ballarat
 1:0:19:964:99D:3283:EEEE0000:0:0:0:    7matehdballarat      7matehd              # 7mate HD Ballarat
@@ -2320,9 +2320,9 @@
 1:0:16:788:327B:3273:EEEE0000:0:0:0:   tvsn                 tvsn                 # TVSN
 1:0:16:790:327B:3273:EEEE0000:0:0:0:   9life                9life                # 9Life
 1:0:19:794:327B:3273:EEEE0000:0:0:0:   9hd                  9hd                  # 9HD
-1:0:1:942:99F:3281:EEEE0000:0:0:0:     prime7wollongong     prime7               # PRIME7 Wollongong
-1:0:19:960:99F:3281:EEEE0000:0:0:0:    prime7hdwollongong   prime7hd             # PRIME7 HD Wollongong
-1:0:1:961:99F:3281:EEEE0000:0:0:0:     prime7wollongong     prime7               # PRIME7 Wollongong
+1:0:1:942:99F:3281:EEEE0000:0:0:0:     prime7wollongong     7digital             # PRIME7 Wollongong
+1:0:19:960:99F:3281:EEEE0000:0:0:0:    prime7hdwollongong   7hd                  # PRIME7 HD Wollongong
+1:0:1:961:99F:3281:EEEE0000:0:0:0:     prime7wollongong     7digital             # PRIME7 Wollongong
 1:0:1:962:99F:3281:EEEE0000:0:0:0:     7twowollongong       7two                 # 7TWO Wollongong
 1:0:1:963:99F:3281:EEEE0000:0:0:0:     7matewollongong      7mate                # 7mate Wollongong
 1:0:19:964:99F:3281:EEEE0000:0:0:0:    7matehdwollongong    7matehd              # 7mate HD Wollongong
