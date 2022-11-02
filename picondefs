@@ -47,7 +47,7 @@
 1:0:16:656:605:1014:EEEE0000:0:0:0:    tvsn                 tvsn                 # TVSN
 1:0:1:657:605:1014:EEEE0000:0:0:0:     10bold               10bold               # 10 BOLD
 1:0:1:658:605:1014:EEEE0000:0:0:0:     10peach              10peach              # 10 Peach
-1:0:16:659:605:1014:EEEE0000:0:0:0:    spreetv              spreetv              # SpreeTV
+1:0:16:659:605:1014:EEEE0000:0:0:0:    spreetv              gecko                # SpreeTV
 1:0:1:341:340:3202:EEEE0000:0:0:0:     sbsone               sbsone               # SBS ONE
 1:0:1:343:340:3202:EEEE0000:0:0:0:     sbsfood              sbsfood              # SBS Food
 1:0:1:344:340:3202:EEEE0000:0:0:0:     nitv                 nitv                 # NITV
@@ -289,7 +289,7 @@
 1:0:16:646:604:1014:EEEE0000:0:0:0:    tvsn                 tvsn                 # TVSN
 1:0:1:647:604:1014:EEEE0000:0:0:0:     10bold               10bold               # 10 BOLD
 1:0:1:648:604:1014:EEEE0000:0:0:0:     10peach              10peach              # 10 Peach
-1:0:16:649:604:1014:EEEE0000:0:0:0:    spreetv              spreetv              # SpreeTV
+1:0:16:649:604:1014:EEEE0000:0:0:0:    spreetv              gecko                # SpreeTV
 1:0:1:331:330:3202:EEEE0000:0:0:0:     sbsone               sbsone               # SBS ONE
 1:0:1:333:330:3202:EEEE0000:0:0:0:     sbsfood              sbsfood              # SBS Food
 1:0:1:334:330:3202:EEEE0000:0:0:0:     nitv                 nitv                 # NITV
@@ -472,7 +472,7 @@
 1:0:1:626:602:1014:EEEE0000:0:0:0:     tvsn                 tvsn                 # TVSN
 1:0:1:627:602:1014:EEEE0000:0:0:0:     one                  10bold               # ONE
 1:0:1:628:602:1014:EEEE0000:0:0:0:     eleven               10peach              # ELEVEN
-1:0:1:629:602:1014:EEEE0000:0:0:0:     spreetv              spreetv              # SpreeTV
+1:0:1:629:602:1014:EEEE0000:0:0:0:     spreetv              gecko                # SpreeTV
 1:0:1:6A:705:1019:EEEE0000:0:0:0:      nbncentralcoast      nbn                  # NBN Central Coast
 1:0:19:74:705:1019:EEEE0000:0:0:0:     9hdcentralcoast      9hd                  # 9HD Central Coast
 1:0:1:7E:705:1019:EEEE0000:0:0:0:      9gemcentralcoast     9gem                 # 9GEM Central Coast
@@ -611,7 +611,7 @@
 1:0:1:636:603:1014:EEEE0000:0:0:0:     tvsn                 tvsn                 # TVSN
 1:0:1:637:603:1014:EEEE0000:0:0:0:     one                  10bold               # ONE
 1:0:1:638:603:1014:EEEE0000:0:0:0:     eleven               10peach              # ELEVEN
-1:0:1:639:603:1014:EEEE0000:0:0:0:     spreetv              spreetv              # SpreeTV
+1:0:1:639:603:1014:EEEE0000:0:0:0:     spreetv              gecko                # SpreeTV
 1:0:1:311:310:3202:EEEE0000:0:0:0:     sbsone               sbsone               # SBS ONE
 1:0:1:313:310:3202:EEEE0000:0:0:0:     foodnetwork          sbsfood              # Food Network
 1:0:1:314:310:3202:EEEE0000:0:0:0:     nitv                 nitv                 # NITV
@@ -734,7 +734,7 @@
 1:0:1:646:604:1014:EEEE0000:0:0:0:     tvsn                 tvsn                 # TVSN
 1:0:1:647:604:1014:EEEE0000:0:0:0:     10bold               10bold               # 10 BOLD
 1:0:1:648:604:1014:EEEE0000:0:0:0:     10peach              10peach              # 10 Peach
-1:0:1:649:604:1014:EEEE0000:0:0:0:     spreetv              spreetv              # SpreeTV
+1:0:1:649:604:1014:EEEE0000:0:0:0:     spreetv              gecko                # SpreeTV
 1:0:1:69:704:1019:EEEE0000:0:0:0:      ninenbngoldcoast     nbn                  # Nine-NBN Gold Coast
 1:0:19:73:704:1019:EEEE0000:0:0:0:     9hdgoldcoast         9hd                  # 9HD Gold Coast
 1:0:1:7D:704:1019:EEEE0000:0:0:0:      9gemgoldcoast        9gem                 # 9Gem Gold Coast
@@ -812,7 +812,7 @@
 1:0:1:646:604:1014:EEEE0000:0:0:0:     tvsn                 tvsn                 # TVSN
 1:0:1:647:604:1014:EEEE0000:0:0:0:     10bold               10bold               # 10 BOLD
 1:0:1:648:604:1014:EEEE0000:0:0:0:     10peach              10peach              # 10 Peach
-1:0:1:649:604:1014:EEEE0000:0:0:0:     spreetv              spreetv              # SpreeTV
+1:0:1:649:604:1014:EEEE0000:0:0:0:     spreetv              gecko                # SpreeTV
 1:0:1:69:704:1019:EEEE0000:0:0:0:      ninenbngoldcoast     nbn                  # Nine-NBN Gold Coast
 1:0:19:73:704:1019:EEEE0000:0:0:0:     9hdgoldcoast         9hd                  # 9HD Gold Coast
 1:0:1:7D:704:1019:EEEE0000:0:0:0:      9gemgoldcoast        9gem                 # 9GEM Gold Coast
@@ -1015,7 +1015,7 @@
 1:0:16:636:603:1014:EEEE0000:0:0:0:    tvsn                 tvsn                 # TVSN
 1:0:1:637:603:1014:EEEE0000:0:0:0:     10bold               10bold               # 10 BOLD
 1:0:1:638:603:1014:EEEE0000:0:0:0:     10peach              10peach              # 10 Peach
-1:0:16:639:603:1014:EEEE0000:0:0:0:    spreetv              spreetv              # SpreeTV
+1:0:16:639:603:1014:EEEE0000:0:0:0:    spreetv              gecko                # SpreeTV
 1:0:1:311:310:3202:EEEE0000:0:0:0:     sbsone               sbsone               # SBS ONE
 1:0:1:313:310:3202:EEEE0000:0:0:0:     sbsfood              sbsfood              # SBS Food
 1:0:1:314:310:3202:EEEE0000:0:0:0:     nitv                 nitv                 # NITV
@@ -1435,7 +1435,7 @@
 1:0:16:686:607:1014:EEEE0000:0:0:0:    tvsn                 tvsn                 # TVSN
 1:0:1:687:607:1014:EEEE0000:0:0:0:     10bold               10bold               # 10 BOLD
 1:0:1:688:607:1014:EEEE0000:0:0:0:     10peach              10peach              # 10 Peach
-1:0:16:689:607:1014:EEEE0000:0:0:0:    spreetv              spreetv              # SpreeTV
+1:0:16:689:607:1014:EEEE0000:0:0:0:    spreetv              gecko                # SpreeTV
 1:0:1:2E0:261:3201:EEEE0000:0:0:0:     abcnews              abcnews              # ABC NEWS
 1:0:1:2E1:261:3201:EEEE0000:0:0:0:     abc                  abctv                # ABC
 1:0:1:2E2:261:3201:EEEE0000:0:0:0:     abccomedykids        abckidstvplus        # ABCComedy/Kids
@@ -1721,7 +1721,7 @@
 1:0:16:646:604:1014:EEEE0000:0:0:0:    tvsn                 tvsn                 # TVSN
 1:0:1:647:604:1014:EEEE0000:0:0:0:     10bold               10bold               # 10 BOLD
 1:0:1:648:604:1014:EEEE0000:0:0:0:     10peach              10peach              # 10 Peach
-1:0:16:649:604:1014:EEEE0000:0:0:0:    spreetv              spreetv              # SpreeTV
+1:0:16:649:604:1014:EEEE0000:0:0:0:    spreetv              gecko                # SpreeTV
 1:0:1:331:330:3202:EEEE0000:0:0:0:     sbsone               sbsone               # SBS ONE
 1:0:1:333:330:3202:EEEE0000:0:0:0:     sbsfood              sbsfood              # SBS Food
 1:0:1:334:330:3202:EEEE0000:0:0:0:     nitv                 nitv                 # NITV
@@ -1818,7 +1818,7 @@
 1:0:16:626:602:1014:EEEE0000:0:0:0:    tvsn                 tvsn                 # TVSN
 1:0:1:627:602:1014:EEEE0000:0:0:0:     10bold               10bold               # 10 BOLD
 1:0:1:628:602:1014:EEEE0000:0:0:0:     10peach              10peach              # 10 Peach
-1:0:16:629:602:1014:EEEE0000:0:0:0:    spreetv              spreetv              # SpreeTV
+1:0:16:629:602:1014:EEEE0000:0:0:0:    spreetv              gecko                # SpreeTV
 1:0:1:301:300:3202:EEEE0000:0:0:0:     sbsone               sbsone               # SBS ONE
 1:0:19:303:300:3202:EEEE0000:0:0:0:    sbsvicelandhd        sbsvicelandhd        # SBS VICELAND HD
 1:0:1:304:300:3202:EEEE0000:0:0:0:     sbsfood              sbsfood              # SBS Food
