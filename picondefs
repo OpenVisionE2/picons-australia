@@ -37,7 +37,7 @@
 1:0:1:553:505:1013:EEEE0000:0:0:0:     7mateadelaide        7mate                # 7mate Adelaide
 1:0:19:554:505:1013:EEEE0000:0:0:0:    7hdadelaide          7hd                  # 7HD Adelaide
 1:0:1:555:505:1013:EEEE0000:0:0:0:     7flixadelaide        7flix                # 7flix Adelaide
-1:0:1:556:505:1013:EEEE0000:0:0:0:     openshop             openshop             # openshop
+1:0:1:556:505:1013:EEEE0000:0:0:0:     openshop             7bravo               # openshop
 1:0:19:557:505:1013:EEEE0000:0:0:0:    7matehdadelaide      7matehd              # 7mateHD Adelaide
 1:0:16:558:505:1013:EEEE0000:0:0:0:    racingcom            racingcom            # RACING.COM
 1:0:19:651:605:1014:EEEE0000:0:0:0:    10hd                 10hd                 # 10 HD
@@ -117,7 +117,8 @@
 1:0:1:957:99E:3286:EEEE0000:0:0:0:     gwn7                 7digital             # GWN7
 1:0:1:962:99E:3286:EEEE0000:0:0:0:     7two                 7two                 # 7TWO
 1:0:1:963:99E:3286:EEEE0000:0:0:0:     7mate                7mate                # 7mate
-1:0:1:965:99E:3286:EEEE0000:0:0:0:     ishoptv              ishoptv              # ishoptv
+1:0:19:965:99E:3286:EEEE0000:0:0:0:    ishoptv              7bravo               # ishoptv
+1:0:16:967:99E:3286:EEEE0000:0:0:0:    ishoptv              ishoptv              # ishoptv
 1:0:1:968:99E:3286:EEEE0000:0:0:0:     racingcom            racingcom            # RACING.COM
 
 # Albury & Wagga
@@ -180,8 +181,9 @@
 1:0:1:962:9A0:3281:EEEE0000:0:0:0:     7twowaggawagga       7two                 # 7TWO Wagga Wagga
 1:0:1:963:9A0:3281:EEEE0000:0:0:0:     7matewaggawagga      7mate                # 7mate Wagga Wagga
 1:0:19:964:9A0:3281:EEEE0000:0:0:0:    7matehdwaggawagga    7matehd              # 7mate HD Wagga Wagga
-1:0:16:965:9A0:3281:EEEE0000:0:0:0:    ishoptv              ishoptv              # ishoptv
+1:0:19:965:9A0:3281:EEEE0000:0:0:0:    ishoptv              7bravo               # ishoptv
 1:0:16:966:9A0:3281:EEEE0000:0:0:0:    7flix                7flix                # 7flix
+1:0:16:967:9A0:3281:EEEE0000:0:0:0:    ishoptv              ishoptv              # ishoptv
 1:0:16:968:9A0:3281:EEEE0000:0:0:0:    racingcom            racingcom            # RACING.COM
 
 # Bendigo
@@ -241,8 +243,9 @@
 1:0:1:976:99D:3283:EEEE0000:0:0:0:     7twobendigo          7two                 # 7TWO Bendigo
 1:0:1:977:99D:3283:EEEE0000:0:0:0:     7matebendigo         7mate                # 7mate Bendigo
 1:0:19:978:99D:3283:EEEE0000:0:0:0:    7matehdbendigo       7matehd              # 7mate HD Bendigo
-1:0:16:979:99D:3283:EEEE0000:0:0:0:    ishoptv              ishoptv              # ishoptv
+1:0:19:979:99D:3283:EEEE0000:0:0:0:    ishoptv              7bravo               # ishoptv
 1:0:16:97A:99D:3283:EEEE0000:0:0:0:    7flix                7flix                # 7flix
+1:0:16:97B:99D:3283:EEEE0000:0:0:0:    ishoptv              ishoptv              # ishoptv
 1:0:16:97C:99D:3283:EEEE0000:0:0:0:    racingcom            racingcom            # RACING.COM
 
 # Brisbane
@@ -279,7 +282,7 @@
 1:0:1:543:504:1013:EEEE0000:0:0:0:     7matebrisbane        7mate                # 7mate Brisbane
 1:0:19:544:504:1013:EEEE0000:0:0:0:    7hdbrisbane          7hd                  # 7HD Brisbane
 1:0:1:545:504:1013:EEEE0000:0:0:0:     7flixbrisbane        7flix                # 7flix Brisbane
-1:0:1:546:504:1013:EEEE0000:0:0:0:     openshop             openshop             # openshop
+1:0:1:546:504:1013:EEEE0000:0:0:0:     openshop             7bravo               # openshop
 1:0:19:547:504:1013:EEEE0000:0:0:0:    7matehdbrisbane      7matehd              # 7mateHD Brisbane
 1:0:16:548:504:1013:EEEE0000:0:0:0:    racingcom            racingcom            # RACING.COM
 1:0:19:641:604:1014:EEEE0000:0:0:0:    10hd                 10hd                 # 10 HD
@@ -327,13 +330,13 @@
 1:0:2:2CD:243:1010:EEEE0000:0:0:0:     abcbrisbane          abcbrisbane          # ABC BRISBANE
 1:0:2:2CE:243:1010:EEEE0000:0:0:0:     abcrn                abcrn                # ABC RN
 1:0:2:2CF:243:1010:EEEE0000:0:0:0:     abcnewsradio         abcnewsradio         # ABC NewsRadio
-1:0:1:910:900:1013:EEEE0000:0:0:0:     7cairns              7digital             # 7 Cairns
-1:0:1:911:900:1013:EEEE0000:0:0:0:     7cairns              7digital             # 7 Cairns
-1:0:1:912:900:1013:EEEE0000:0:0:0:     7twocairns           7two                 # 7TWO Cairns
-1:0:19:913:900:1013:EEEE0000:0:0:0:    7twohdcairns         7twohd               # 7twoHD Cairns
-1:0:1:914:900:1013:EEEE0000:0:0:0:     7cairns              7digital             # 7 Cairns
+1:0:1:910:900:1013:EEEE0000:0:0:0:     7cairns              7hd                  # 7 Cairns
+1:0:1:911:900:1013:EEEE0000:0:0:0:     7cairns              7hd                  # 7 Cairns
+1:0:19:912:900:1013:EEEE0000:0:0:0:    7twohdcairns         7twohd               # 7twoHD Cairns
+1:0:19:913:900:1013:EEEE0000:0:0:0:    7matecairns          blank                # 7mate Cairns
+1:0:1:914:900:1013:EEEE0000:0:0:0:     7cairns              7hd                  # 7 Cairns
 1:0:1:915:900:1013:EEEE0000:0:0:0:     7flixcairns          7flix                # 7flix Cairns
-1:0:1:916:900:1013:EEEE0000:0:0:0:     openshop             openshop             # openshop
+1:0:1:916:900:1013:EEEE0000:0:0:0:     openshop             7bravo               # openshop
 1:0:19:917:900:1013:EEEE0000:0:0:0:    7matehdcairns        7matehd              # 7mateHD Cairns
 1:0:16:918:900:1013:EEEE0000:0:0:0:    racingcom            racingcom            # RACING.COM
 1:0:1:3B1:3B0:3202:EEEE0000:0:0:0:     sbsone               sbsone               # SBS ONE
@@ -418,7 +421,7 @@
 1:0:1:782:327A:3273:EEEE0000:0:0:0:    9gem                 9gem                 # 9Gem
 1:0:1:786:327A:3273:EEEE0000:0:0:0:    9go                  9go                  # 9Go!
 1:0:16:787:327A:3273:EEEE0000:0:0:0:   gold                 gold                 # GOLD
-1:0:16:788:327A:3273:EEEE0000:0:0:0:   tvsn                 tvsn                 # TVSN
+1:0:1:788:327A:3273:EEEE0000:0:0:0:    tvsn                 tvsn                 # TVSN
 1:0:16:790:327A:3273:EEEE0000:0:0:0:   9life                9life                # 9Life
 1:0:19:793:327A:3273:EEEE0000:0:0:0:   9hdcanberra          9hd                  # 9HD Canberra
 1:0:1:946:99E:3281:EEEE0000:0:0:0:     7canberra            7digital             # 7 Canberra
@@ -427,8 +430,9 @@
 1:0:1:962:99E:3281:EEEE0000:0:0:0:     7twocanberra         7two                 # 7two Canberra
 1:0:1:963:99E:3281:EEEE0000:0:0:0:     7matecanberra        7mate                # 7mate Canberra
 1:0:19:964:99E:3281:EEEE0000:0:0:0:    7matehdcanberra      7matehd              # 7mateHD Canberra
-1:0:16:965:99E:3281:EEEE0000:0:0:0:    ishoptv              ishoptv              # ishoptv
+1:0:19:965:99E:3281:EEEE0000:0:0:0:    7bravo               7bravo               # 7bravo
 1:0:16:966:99E:3281:EEEE0000:0:0:0:    7flix                7flix                # 7flix
+1:0:16:967:99E:3281:EEEE0000:0:0:0:    ishoptv              ishoptv              # ishoptv
 1:0:16:968:99E:3281:EEEE0000:0:0:0:    racingcom            racingcom            # RACING.COM
 
 # Central Coast
@@ -463,7 +467,7 @@
 1:0:1:523:502:1013:EEEE0000:0:0:0:     7mate                7mate                # 7mate
 1:0:1:524:502:1013:EEEE0000:0:0:0:     7hdcentralcoast      7hd                  # 7HD Central Coast
 1:0:16:525:502:1013:EEEE0000:0:0:0:    7flix                7flix                # 7flix
-1:0:16:526:502:1013:EEEE0000:0:0:0:    openshop             openshop             # openshop
+1:0:19:526:502:1013:EEEE0000:0:0:0:    7bravo               7bravo               # 7bravo
 1:0:19:527:502:1013:EEEE0000:0:0:0:    7matehd              7matehd              # 7mate HD
 1:0:16:528:502:1013:EEEE0000:0:0:0:    racingcom            racingcom            # RACING.COM
 1:0:19:621:602:1014:EEEE0000:0:0:0:    10hd                 10hd                 # 10 HD
@@ -505,7 +509,8 @@
 1:0:1:962:9B0:3282:EEEE0000:0:0:0:     7twocentralcoast     7two                 # 7TWO Central Coast
 1:0:1:963:9B0:3282:EEEE0000:0:0:0:     7matecentralcoast    7mate                # 7mate Central Coast
 1:0:19:964:9B0:3282:EEEE0000:0:0:0:    7matehd              7matehd              # 7mate HD
-1:0:16:965:9B0:3282:EEEE0000:0:0:0:    ishoptv              ishoptv              # ishoptv
+1:0:19:965:9B0:3282:EEEE0000:0:0:0:    ishoptv              7bravo               # ishoptv
+1:0:16:967:9B0:3282:EEEE0000:0:0:0:    ishoptv              ishoptv              # ishoptv
 1:0:16:968:9B0:3282:EEEE0000:0:0:0:    racingcom            racingcom            # RACING.COM
 
 # Coffs Harbour
@@ -566,8 +571,9 @@
 1:0:1:980:9A5:3282:EEEE0000:0:0:0:     7twocoffsharbour     7two                 # 7TWO Coffs Harbour
 1:0:1:981:9A5:3282:EEEE0000:0:0:0:     7matecoffsharbour    7mate                # 7mate Coffs Harbour
 1:0:19:982:9A5:3282:EEEE0000:0:0:0:    7matehdcoffsharbour  7matehd              # 7mate HD Coffs Harbour
-1:0:16:983:9A5:3282:EEEE0000:0:0:0:    ishoptv              ishoptv              # ishoptv
+1:0:19:983:9A5:3282:EEEE0000:0:0:0:    ishoptv              7bravo               # ishoptv
 1:0:16:984:9A5:3282:EEEE0000:0:0:0:    7flix                7flix                # 7flix
+1:0:16:985:9A5:3282:EEEE0000:0:0:0:    ishoptv              ishoptv              # ishoptv
 1:0:16:986:9A5:3282:EEEE0000:0:0:0:    racingcom            racingcom            # RACING.COM
 
 # Geelong
@@ -602,7 +608,7 @@
 1:0:1:533:503:1013:EEEE0000:0:0:0:     7matemelbourne       7mate                # 7mate Melbourne
 1:0:19:534:503:1013:EEEE0000:0:0:0:    7hdmelbourne         7hd                  # 7HD Melbourne
 1:0:1:535:503:1013:EEEE0000:0:0:0:     7flixmelbourne       7flix                # 7flix Melbourne
-1:0:16:536:503:1013:EEEE0000:0:0:0:    openshop             openshop             # openshop
+1:0:19:536:503:1013:EEEE0000:0:0:0:    7bravo               7bravo               # 7bravo
 1:0:19:537:503:1013:EEEE0000:0:0:0:    7matehd              7matehd              # 7mate HD
 1:0:16:538:503:1013:EEEE0000:0:0:0:    racingcom            racingcom            # RACING.COM
 1:0:19:631:603:1014:EEEE0000:0:0:0:    10hd                 10hd                 # 10 HD
@@ -688,8 +694,9 @@
 1:0:1:98A:99D:3283:EEEE0000:0:0:0:     7twotraralgon        7two                 # 7TWO Traralgon
 1:0:1:98B:99D:3283:EEEE0000:0:0:0:     7matetraralgon       7mate                # 7mate Traralgon
 1:0:19:98C:99D:3283:EEEE0000:0:0:0:    7matehdtraralgon     7matehd              # 7mate HD Traralgon
-1:0:16:98D:99D:3283:EEEE0000:0:0:0:    ishoptv              ishoptv              # ishoptv
+1:0:19:98D:99D:3283:EEEE0000:0:0:0:    ishoptv              7bravo               # ishoptv
 1:0:16:98E:99D:3283:EEEE0000:0:0:0:    7flix                7flix                # 7flix
+1:0:16:98F:99D:3283:EEEE0000:0:0:0:    ishoptv              ishoptv              # ishoptv
 1:0:16:990:99D:3283:EEEE0000:0:0:0:    racingcom            racingcom            # RACING.COM
 
 # Gold Coast - North
@@ -725,7 +732,7 @@
 1:0:1:543:504:1013:EEEE0000:0:0:0:     7mategoldcoast       7mate                # 7mate Gold Coast
 1:0:19:544:504:1013:EEEE0000:0:0:0:    7hdgoldcoast         7hd                  # 7HD Gold Coast
 1:0:1:545:504:1013:EEEE0000:0:0:0:     7flixgoldcoast       7flix                # 7flix Gold Coast
-1:0:16:546:504:1013:EEEE0000:0:0:0:    openshop             openshop             # openshop
+1:0:19:546:504:1013:EEEE0000:0:0:0:    7bravo               7bravo               # 7bravo
 1:0:19:547:504:1013:EEEE0000:0:0:0:    7matehd              7matehd              # 7mate HD
 1:0:16:548:504:1013:EEEE0000:0:0:0:    racingcom            racingcom            # RACING.COM
 1:0:19:641:604:1014:EEEE0000:0:0:0:    10hd                 10hd                 # 10 HD
@@ -775,8 +782,9 @@
 1:0:1:962:9A5:3282:EEEE0000:0:0:0:     7twogoldcoast        7two                 # 7TWO Gold Coast
 1:0:1:963:9A5:3282:EEEE0000:0:0:0:     7mategoldcoast       7mate                # 7mate Gold Coast
 1:0:19:964:9A5:3282:EEEE0000:0:0:0:    7matehdgoldcoast     7matehd              # 7mate HD Gold Coast
-1:0:16:965:9A5:3282:EEEE0000:0:0:0:    ishoptv              ishoptv              # ishoptv
+1:0:19:965:9A5:3282:EEEE0000:0:0:0:    ishoptv              7bravo               # ishoptv
 1:0:16:966:9A5:3282:EEEE0000:0:0:0:    7flix                7flix                # 7flix
+1:0:16:967:9A5:3282:EEEE0000:0:0:0:    ishoptv              ishoptv              # ishoptv
 1:0:16:968:9A5:3282:EEEE0000:0:0:0:    racingcom            racingcom            # RACING.COM
 
 # Gold Coast
@@ -803,7 +811,7 @@
 1:0:1:543:504:1013:EEEE0000:0:0:0:     7mategoldcoast       7mate                # 7mate Gold Coast
 1:0:19:544:504:1013:EEEE0000:0:0:0:    7hdgoldcoast         7hd                  # 7HD Gold Coast
 1:0:1:545:504:1013:EEEE0000:0:0:0:     7flixgoldcoast       7flix                # 7flix Gold Coast
-1:0:16:546:504:1013:EEEE0000:0:0:0:    openshop             openshop             # openshop
+1:0:19:546:504:1013:EEEE0000:0:0:0:    7bravo               7bravo               # 7bravo
 1:0:19:547:504:1013:EEEE0000:0:0:0:    7matehd              7matehd              # 7mate HD
 1:0:16:548:504:1013:EEEE0000:0:0:0:    racingcom            racingcom            # RACING.COM
 1:0:19:641:604:1014:EEEE0000:0:0:0:    10hd                 10hd                 # 10 HD
@@ -853,8 +861,9 @@
 1:0:1:962:9A5:3282:EEEE0000:0:0:0:     7twogoldcoast        7two                 # 7TWO Gold Coast
 1:0:1:963:9A5:3282:EEEE0000:0:0:0:     7mategoldcoast       7mate                # 7mate Gold Coast
 1:0:19:964:9A5:3282:EEEE0000:0:0:0:    7matehdgoldcoast     7matehd              # 7mate HD Gold Coast
-1:0:16:965:9A5:3282:EEEE0000:0:0:0:    ishoptv              ishoptv              # ishoptv
+1:0:19:965:9A5:3282:EEEE0000:0:0:0:    ishoptv              7bravo               # ishoptv
 1:0:16:966:9A5:3282:EEEE0000:0:0:0:    7flix                7flix                # 7flix
+1:0:16:967:9A5:3282:EEEE0000:0:0:0:    ishoptv              ishoptv              # ishoptv
 1:0:16:968:9A5:3282:EEEE0000:0:0:0:    racingcom            racingcom            # RACING.COM
 
 # Hobart
@@ -1004,8 +1013,8 @@
 1:0:1:532:503:1013:EEEE0000:0:0:0:     7twomelbourne        7two                 # 7TWO Melbourne
 1:0:1:533:503:1013:EEEE0000:0:0:0:     7matemelbourne       7mate                # 7mate Melbourne
 1:0:19:534:503:1013:EEEE0000:0:0:0:    7hdmelbourne         7hd                  # 7HD Melbourne
-1:0:1:535:503:1013:EEEE0000:0:0:0:     7flixmelbourne       7flix                # 7flix Melbourne
-1:0:16:536:503:1013:EEEE0000:0:0:0:    openshop             openshop             # openshop
+1:0:16:535:503:1013:EEEE0000:0:0:0:    7flixmelbourne       7flix                # 7flix Melbourne
+1:0:19:536:503:1013:EEEE0000:0:0:0:    7bravo               7bravo               # 7bravo
 1:0:19:537:503:1013:EEEE0000:0:0:0:    7matehdmelbourne     7matehd              # 7mateHD Melbourne
 1:0:16:538:503:1013:EEEE0000:0:0:0:    racingcom            racingcom            # RACING.COM
 1:0:19:631:603:1014:EEEE0000:0:0:0:    10hd                 10hd                 # 10 HD
@@ -1013,9 +1022,9 @@
 1:0:19:634:603:1014:EEEE0000:0:0:0:    10hd                 10hd                 # 10 HD
 1:0:1:635:603:1014:EEEE0000:0:0:0:     10                   10                   # 10
 1:0:16:636:603:1014:EEEE0000:0:0:0:    tvsn                 tvsn                 # TVSN
-1:0:1:637:603:1014:EEEE0000:0:0:0:     10bold               10bold               # 10 BOLD
+1:0:19:637:603:1014:EEEE0000:0:0:0:    10bold               10bold               # 10 BOLD
 1:0:1:638:603:1014:EEEE0000:0:0:0:     10peach              10peach              # 10 Peach
-1:0:16:639:603:1014:EEEE0000:0:0:0:    spreetv              gecko                # SpreeTV
+1:0:16:639:603:1014:EEEE0000:0:0:0:    gecko                gecko                # gecko
 1:0:1:311:310:3202:EEEE0000:0:0:0:     sbsone               sbsone               # SBS ONE
 1:0:1:313:310:3202:EEEE0000:0:0:0:     sbsfood              sbsfood              # SBS Food
 1:0:1:314:310:3202:EEEE0000:0:0:0:     nitv                 nitv                 # NITV
@@ -1138,8 +1147,9 @@
 1:0:1:962:99D:3283:EEEE0000:0:0:0:     7twoballarat         7two                 # 7TWO Ballarat
 1:0:1:963:99D:3283:EEEE0000:0:0:0:     7mateballarat        7mate                # 7mate Ballarat
 1:0:19:964:99D:3283:EEEE0000:0:0:0:    7matehdballarat      7matehd              # 7mate HD Ballarat
-1:0:16:965:99D:3283:EEEE0000:0:0:0:    ishoptv              ishoptv              # ishoptv
+1:0:19:965:99D:3283:EEEE0000:0:0:0:    ishoptv              7bravo               # ishoptv
 1:0:16:966:99D:3283:EEEE0000:0:0:0:    7flix                7flix                # 7flix
+1:0:16:967:99D:3283:EEEE0000:0:0:0:    ishoptv              ishoptv              # ishoptv
 1:0:16:968:99D:3283:EEEE0000:0:0:0:    racingcom            racingcom            # RACING.COM
 1:0:1:800:329A:3292:EEEE0000:0:0:0:    10hd                 10hd                 # 10HD
 1:0:1:801:329A:3292:EEEE0000:0:0:0:    10bold               10bold               # 10Bold
@@ -1204,8 +1214,9 @@
 1:0:1:96C:99E:3281:EEEE0000:0:0:0:     7twosthcoast         7two                 # 7TWO Sth Coast
 1:0:1:96D:99E:3281:EEEE0000:0:0:0:     7matesthcoast        7mate                # 7mate Sth Coast
 1:0:19:96E:99E:3281:EEEE0000:0:0:0:    7matehdsthcoast      7matehd              # 7mate HD Sth Coast
-1:0:16:96F:99E:3281:EEEE0000:0:0:0:    ishoptv              ishoptv              # ishoptv
+1:0:19:96F:99E:3281:EEEE0000:0:0:0:    ishoptv              7bravo               # ishoptv
 1:0:16:970:99E:3281:EEEE0000:0:0:0:    7flix                7flix                # 7flix
+1:0:16:971:99E:3281:EEEE0000:0:0:0:    ishoptv              ishoptv              # ishoptv
 1:0:16:972:99E:3281:EEEE0000:0:0:0:    racingcom            racingcom            # RACING.COM
 
 # Newcastle
@@ -1267,8 +1278,9 @@
 1:0:1:96C:9B0:3282:EEEE0000:0:0:0:     7twonewcastle        7two                 # 7TWO Newcastle
 1:0:1:96D:9B0:3282:EEEE0000:0:0:0:     7matenewcastle       7mate                # 7mate Newcastle
 1:0:19:96E:9B0:3282:EEEE0000:0:0:0:    7matehdnewcastle     7matehd              # 7mate HD Newcastle
-1:0:16:96F:9B0:3282:EEEE0000:0:0:0:    ishoptv              ishoptv              # ishoptv
+1:0:19:96F:9B0:3282:EEEE0000:0:0:0:    ishoptv              7bravo               # ishoptv
 1:0:16:970:9B0:3282:EEEE0000:0:0:0:    7flix                7flix                # 7flix
+1:0:16:971:9B0:3282:EEEE0000:0:0:0:    ishoptv              ishoptv              # ishoptv
 1:0:16:972:9B0:3282:EEEE0000:0:0:0:    racingcom            racingcom            # RACING.COM
 
 # Northern Rivers NSW
@@ -1329,8 +1341,9 @@
 1:0:1:96C:9A5:3282:EEEE0000:0:0:0:     7twolismore          7two                 # 7TWO Lismore
 1:0:1:96D:9A5:3282:EEEE0000:0:0:0:     7matelismore         7mate                # 7mate Lismore
 1:0:19:96E:9A5:3282:EEEE0000:0:0:0:    7matehdlismore       7matehd              # 7mate HD Lismore
-1:0:16:96F:9A5:3282:EEEE0000:0:0:0:    ishoptv              ishoptv              # ishoptv
+1:0:19:96F:9A5:3282:EEEE0000:0:0:0:    ishoptv              7bravo               # ishoptv
 1:0:16:970:9A5:3282:EEEE0000:0:0:0:    7flix                7flix                # 7flix
+1:0:16:971:9A5:3282:EEEE0000:0:0:0:    ishoptv              ishoptv              # ishoptv
 1:0:16:972:9A5:3282:EEEE0000:0:0:0:    racingcom            racingcom            # RACING.COM
 
 # Orange
@@ -1377,21 +1390,22 @@
 1:0:1:8A8:808:320C:EEEE0000:0:0:0:     10centralwest        10                   # 10 Central West
 1:0:19:8C8:808:320C:EEEE0000:0:0:0:    10hdcentralwest      10hd                 # 10 HD Central West
 1:0:16:8E8:808:320C:EEEE0000:0:0:0:    10shake              10shake              # 10 SHAKE
-1:0:1:781:327C:3273:EEEE0000:0:0:0:    channel9             channel9             # Channel 9
+1:0:1:781:327C:3273:EEEE0000:0:0:0:    ch9orange            channel9             # Ch9 Orange
 1:0:1:782:327C:3273:EEEE0000:0:0:0:    9gem                 9gem                 # 9Gem
 1:0:1:786:327C:3273:EEEE0000:0:0:0:    9go                  9go                  # 9Go!
 1:0:16:787:327C:3273:EEEE0000:0:0:0:   gold                 gold                 # GOLD
-1:0:16:788:327C:3273:EEEE0000:0:0:0:   tvsn                 tvsn                 # TVSN
+1:0:1:788:327C:3273:EEEE0000:0:0:0:    tvsn                 tvsn                 # TVSN
 1:0:16:790:327C:3273:EEEE0000:0:0:0:   9life                9life                # 9Life
-1:0:19:791:327C:3273:EEEE0000:0:0:0:   9hd                  9hd                  # 9HD
-1:0:1:943:9A2:3281:EEEE0000:0:0:0:     prime7orange         7digital             # PRIME7 Orange
-1:0:19:960:9A2:3281:EEEE0000:0:0:0:    prime7hdorange       7hd                  # PRIME7 HD Orange
-1:0:1:961:9A2:3281:EEEE0000:0:0:0:     prime7orange         7digital             # PRIME7 Orange
-1:0:1:962:9A2:3281:EEEE0000:0:0:0:     7twoorange           7two                 # 7TWO Orange
+1:0:19:791:327C:3273:EEEE0000:0:0:0:   9hdorange            9hd                  # 9HD Orange
+1:0:1:943:9A2:3281:EEEE0000:0:0:0:     7orange              7digital             # 7 Orange
+1:0:19:960:9A2:3281:EEEE0000:0:0:0:    7hdorange            7hd                  # 7HD Orange
+1:0:1:961:9A2:3281:EEEE0000:0:0:0:     7orange              7digital             # 7 Orange
+1:0:1:962:9A2:3281:EEEE0000:0:0:0:     7twoorange           7two                 # 7two Orange
 1:0:1:963:9A2:3281:EEEE0000:0:0:0:     7mateorange          7mate                # 7mate Orange
-1:0:19:964:9A2:3281:EEEE0000:0:0:0:    7matehdorange        7matehd              # 7mate HD Orange
-1:0:16:965:9A2:3281:EEEE0000:0:0:0:    ishoptv              ishoptv              # ishoptv
+1:0:19:964:9A2:3281:EEEE0000:0:0:0:    7matehdorange        7matehd              # 7mateHD Orange
+1:0:19:965:9A2:3281:EEEE0000:0:0:0:    7bravo               7bravo               # 7bravo
 1:0:16:966:9A2:3281:EEEE0000:0:0:0:    7flix                7flix                # 7flix
+1:0:16:967:9A2:3281:EEEE0000:0:0:0:    ishoptv              ishoptv              # ishoptv
 1:0:16:968:9A2:3281:EEEE0000:0:0:0:    racingcom            racingcom            # RACING.COM
 
 # OutbackQld
@@ -1422,10 +1436,10 @@
 1:0:1:560:506:1013:EEEE0000:0:0:0:     7perth               7digital             # 7 Perth
 1:0:1:561:506:1013:EEEE0000:0:0:0:     7perth               7digital             # 7 Perth
 1:0:1:562:506:1013:EEEE0000:0:0:0:     7twoperth            7two                 # 7TWO Perth
-1:0:1:563:506:1013:EEEE0000:0:0:0:     7mateperth           7mate                # 7mate Perth
+1:0:19:563:506:1013:EEEE0000:0:0:0:    7mateperth           blank                # 7mate Perth
 1:0:19:564:506:1013:EEEE0000:0:0:0:    7hdperth             7hd                  # 7HD Perth
 1:0:1:565:506:1013:EEEE0000:0:0:0:     7flixperth           7flix                # 7flix Perth
-1:0:1:566:506:1013:EEEE0000:0:0:0:     openshop             openshop             # openshop
+1:0:1:566:506:1013:EEEE0000:0:0:0:     openshop             7bravo               # openshop
 1:0:19:567:506:1013:EEEE0000:0:0:0:    7matehdperth         7matehd              # 7mateHD Perth
 1:0:16:568:506:1013:EEEE0000:0:0:0:    racingcom            racingcom            # RACING.COM
 1:0:19:681:607:1014:EEEE0000:0:0:0:    10hd                 10hd                 # 10 HD
@@ -1489,13 +1503,13 @@
 1:0:2:2CD:243:1010:EEEE0000:0:0:0:     abcbrisbane          abcbrisbane          # ABC BRISBANE
 1:0:2:2CE:243:1010:EEEE0000:0:0:0:     abcrn                abcrn                # ABC RN
 1:0:A:2CF:243:1010:EEEE0000:0:0:0:     abcnewsradio         abcnewsradio         # ABC NewsRadio
-1:0:1:940:930:1013:EEEE0000:0:0:0:     7rockhampton         7digital             # 7 Rockhampton
-1:0:1:941:930:1013:EEEE0000:0:0:0:     7rockhampton         7digital             # 7 Rockhampton
-1:0:1:942:930:1013:EEEE0000:0:0:0:     7tworockhampton      7two                 # 7TWO Rockhampton
-1:0:19:943:930:1013:EEEE0000:0:0:0:    7twohdrockhampton    7twohd               # 7twoHD Rockhampton
-1:0:1:944:930:1013:EEEE0000:0:0:0:     7rockhampton         7digital             # 7 Rockhampton
-1:0:1:945:930:1013:EEEE0000:0:0:0:     7flixrockhampton     7flix                # 7flix Rockhampton
-1:0:1:946:930:1013:EEEE0000:0:0:0:     openshop             openshop             # openshop
+1:0:1:940:930:1013:EEEE0000:0:0:0:     7hdrockhampton       7hd                  # 7HD Rockhampton
+1:0:1:941:930:1013:EEEE0000:0:0:0:     7hdrockhampton       7hd                  # 7HD Rockhampton
+1:0:19:942:930:1013:EEEE0000:0:0:0:    7twohdrockhampton    7twohd               # 7twoHD Rockhampton
+1:0:19:943:930:1013:EEEE0000:0:0:0:    7twohdrockhampton    blank                # 7twoHD Rockhampton
+1:0:1:944:930:1013:EEEE0000:0:0:0:     7hdrockhampton       7hd                  # 7HD Rockhampton
+1:0:16:945:930:1013:EEEE0000:0:0:0:    7flixrockhampton     7flix                # 7flix Rockhampton
+1:0:19:946:930:1013:EEEE0000:0:0:0:    7bravo               7bravo               # 7bravo
 1:0:19:947:930:1013:EEEE0000:0:0:0:    7matehdrockhampton   7matehd              # 7mateHD Rockhampton
 1:0:1:948:930:1013:EEEE0000:0:0:0:     racingcom            racingcom            # RACING.COM
 1:0:1:3B1:3B0:3202:EEEE0000:0:0:0:     sbsone               sbsone               # SBS ONE
@@ -1524,13 +1538,13 @@
 1:0:1:8B3:813:320C:EEEE0000:0:0:0:     10rockhampton        10                   # 10 Rockhampton
 1:0:19:8D3:813:320C:EEEE0000:0:0:0:    10hdrockhampton      10hd                 # 10 HD Rockhampton
 1:0:16:8F3:813:320C:EEEE0000:0:0:0:    10shake              10shake              # 10 SHAKE
-1:0:1:781:327D:3271:EEEE0000:0:0:0:    channel9             channel9             # Channel 9
+1:0:1:781:327D:3271:EEEE0000:0:0:0:    ch9centralqld        channel9             # Ch9 Central QLD
 1:0:1:782:327D:3271:EEEE0000:0:0:0:    9gem                 9gem                 # 9Gem
 1:0:1:786:327D:3271:EEEE0000:0:0:0:    9go                  9go                  # 9Go!
 1:0:16:787:327D:3271:EEEE0000:0:0:0:   gold                 gold                 # GOLD
-1:0:16:788:327D:3271:EEEE0000:0:0:0:   tvsn                 tvsn                 # TVSN
+1:0:1:788:327D:3271:EEEE0000:0:0:0:    tvsn                 tvsn                 # TVSN
 1:0:16:790:327D:3271:EEEE0000:0:0:0:   9life                9life                # 9Life
-1:0:19:794:327D:3271:EEEE0000:0:0:0:   9hd                  9hd                  # 9HD
+1:0:19:794:327D:3271:EEEE0000:0:0:0:   9hdcentralqld        9hd                  # 9HD Central QLD
 
 # Shepparton
 # Service reference                    Service base name    Picon base name        Service name
@@ -1609,7 +1623,8 @@
 1:0:1:962:9A1:3283:EEEE0000:0:0:0:     7twoshepparton       7two                 # 7TWO Shepparton
 1:0:1:963:9A1:3283:EEEE0000:0:0:0:     7mateshepparton      7mate                # 7mate Shepparton
 1:0:19:964:9A1:3283:EEEE0000:0:0:0:    7matehdshepparton    7matehd              # 7mate HD Shepparton
-1:0:16:965:9A1:3283:EEEE0000:0:0:0:    ishoptv              ishoptv              # ishoptv
+1:0:19:965:9A1:3283:EEEE0000:0:0:0:    ishoptv              7bravo               # ishoptv
+1:0:16:967:9A1:3283:EEEE0000:0:0:0:    ishoptv              ishoptv              # ishoptv
 1:0:16:968:9A1:3283:EEEE0000:0:0:0:    racingcom            racingcom            # RACING.COM
 
 # Spencer Gulf
@@ -1702,16 +1717,16 @@
 1:0:1:543:504:1013:EEEE0000:0:0:0:     7matebrisbane        7mate                # 7mate Brisbane
 1:0:19:544:504:1013:EEEE0000:0:0:0:    7hdbrisbane          7hd                  # 7HD Brisbane
 1:0:1:545:504:1013:EEEE0000:0:0:0:     7flixbrisbane        7flix                # 7flix Brisbane
-1:0:1:546:504:1013:EEEE0000:0:0:0:     openshop             openshop             # openshop
+1:0:1:546:504:1013:EEEE0000:0:0:0:     openshop             7bravo               # openshop
 1:0:19:547:504:1013:EEEE0000:0:0:0:    7matehdbrisbane      7matehd              # 7mateHD Brisbane
 1:0:16:548:504:1013:EEEE0000:0:0:0:    racingcom            racingcom            # RACING.COM
-1:0:1:960:950:1013:EEEE0000:0:0:0:     7sunshinecoast       7digital             # 7 Sunshine Coast
-1:0:1:961:950:1013:EEEE0000:0:0:0:     7sunshinecoast       7digital             # 7 Sunshine Coast
-1:0:1:962:950:1013:EEEE0000:0:0:0:     7twosunshinecoast    7two                 # 7TWO Sunshine Coast
-1:0:19:963:950:1013:EEEE0000:0:0:0:    7twohdsunshinecoast  7twohd               # 7twoHD Sunshine Coast
-1:0:1:964:950:1013:EEEE0000:0:0:0:     7sunshinecoast       7digital             # 7 Sunshine Coast
+1:0:1:960:950:1013:EEEE0000:0:0:0:     7sunshinecoast       7hd                  # 7 Sunshine Coast
+1:0:1:961:950:1013:EEEE0000:0:0:0:     7sunshinecoast       7hd                  # 7 Sunshine Coast
+1:0:19:962:950:1013:EEEE0000:0:0:0:    7twohdsunshinecoast  7twohd               # 7twoHD Sunshine Coast
+1:0:19:963:950:1013:EEEE0000:0:0:0:    7matesunshinecoast   blank                # 7mate Sunshine Coast
+1:0:1:964:950:1013:EEEE0000:0:0:0:     7sunshinecoast       7hd                  # 7 Sunshine Coast
 1:0:1:965:950:1013:EEEE0000:0:0:0:     7flixsunshinecoast   7flix                # 7flix Sunshine Coast
-1:0:1:966:950:1013:EEEE0000:0:0:0:     openshop             openshop             # openshop
+1:0:1:966:950:1013:EEEE0000:0:0:0:     openshop             7bravo               # openshop
 1:0:19:967:950:1013:EEEE0000:0:0:0:    7matehdsunshinecoast 7matehd              # 7mateHD Sunshine Coast
 1:0:16:968:950:1013:EEEE0000:0:0:0:    racingcom            racingcom            # RACING.COM
 1:0:19:641:604:1014:EEEE0000:0:0:0:    10hd                 10hd                 # 10 HD
@@ -1808,7 +1823,7 @@
 1:0:1:523:502:1013:EEEE0000:0:0:0:     7matesydney          7mate                # 7mate Sydney
 1:0:19:524:502:1013:EEEE0000:0:0:0:    7hdsydney            7hd                  # 7HD Sydney
 1:0:1:525:502:1013:EEEE0000:0:0:0:     7flixsydney          7flix                # 7flix Sydney
-1:0:1:526:502:1013:EEEE0000:0:0:0:     openshop             openshop             # openshop
+1:0:1:526:502:1013:EEEE0000:0:0:0:     openshop             7bravo               # openshop
 1:0:19:527:502:1013:EEEE0000:0:0:0:    7matehdsydney        7matehd              # 7mateHD Sydney
 1:0:16:528:502:1013:EEEE0000:0:0:0:    racingcom            racingcom            # RACING.COM
 1:0:19:621:602:1014:EEEE0000:0:0:0:    10hd                 10hd                 # 10 HD
@@ -1896,8 +1911,9 @@
 1:0:1:98A:9A5:3282:EEEE0000:0:0:0:     7twotamworth         7two                 # 7TWO Tamworth
 1:0:1:98B:9A5:3282:EEEE0000:0:0:0:     7matetamworth        7mate                # 7mate Tamworth
 1:0:19:98C:9A5:3282:EEEE0000:0:0:0:    7matehdtamworth      7matehd              # 7mate HD Tamworth
-1:0:16:98D:9A5:3282:EEEE0000:0:0:0:    ishoptv              ishoptv              # ishoptv
+1:0:19:98D:9A5:3282:EEEE0000:0:0:0:    ishoptv              7bravo               # ishoptv
 1:0:16:98E:9A5:3282:EEEE0000:0:0:0:    7flix                7flix                # 7flix
+1:0:16:98F:9A5:3282:EEEE0000:0:0:0:    ishoptv              ishoptv              # ishoptv
 1:0:16:990:9A5:3282:EEEE0000:0:0:0:    racingcom            racingcom            # RACING.COM
 
 # Taree
@@ -1959,8 +1975,9 @@
 1:0:1:976:9A5:3282:EEEE0000:0:0:0:     7twotaree            7two                 # 7TWO Taree
 1:0:1:977:9A5:3282:EEEE0000:0:0:0:     7matetaree           7mate                # 7mate Taree
 1:0:19:978:9A5:3282:EEEE0000:0:0:0:    7matehdtaree         7matehd              # 7mate HD Taree
-1:0:16:979:9A5:3282:EEEE0000:0:0:0:    ishoptv              ishoptv              # ishoptv
+1:0:19:979:9A5:3282:EEEE0000:0:0:0:    ishoptv              7bravo               # ishoptv
 1:0:16:97A:9A5:3282:EEEE0000:0:0:0:    7flix                7flix                # 7flix
+1:0:16:97B:9A5:3282:EEEE0000:0:0:0:    ishoptv              ishoptv              # ishoptv
 1:0:16:97C:9A5:3282:EEEE0000:0:0:0:    racingcom            racingcom            # RACING.COM
 
 # Toowoomba
@@ -1981,11 +1998,11 @@
 1:0:2:2CD:243:1010:EEEE0000:0:0:0:     abcbrisbane          abcbrisbane          # ABC BRISBANE
 1:0:2:2CE:243:1010:EEEE0000:0:0:0:     abcrn                abcrn                # ABC RN
 1:0:2:2CF:243:1010:EEEE0000:0:0:0:     abcnewsradio         abcnewsradio         # ABC NewsRadio
-1:0:1:970:960:1013:EEEE0000:0:0:0:     7toowoomba           7digital             # 7 Toowoomba
-1:0:1:971:960:1013:EEEE0000:0:0:0:     7digital1            7digital             # 7 Digital 1
-1:0:1:972:960:1013:EEEE0000:0:0:0:     7two                 7two                 # 7TWO
-1:0:19:973:960:1013:EEEE0000:0:0:0:    7twohd               7twohd               # 7twoHD
-1:0:1:974:960:1013:EEEE0000:0:0:0:     7toowoomba           7digital             # 7 Toowoomba
+1:0:1:970:960:1013:EEEE0000:0:0:0:     7toowoomba           7hd                  # 7 Toowoomba
+1:0:1:971:960:1013:EEEE0000:0:0:0:     7digital1            7hd                  # 7 Digital 1
+1:0:19:972:960:1013:EEEE0000:0:0:0:    7twohd               7twohd               # 7twoHD
+1:0:19:973:960:1013:EEEE0000:0:0:0:    7mate                blank                # 7mate
+1:0:1:974:960:1013:EEEE0000:0:0:0:     7toowoomba           7hd                  # 7 Toowoomba
 1:0:1:975:960:1013:EEEE0000:0:0:0:     7flix                7flix                # 7flix
 1:0:19:977:960:1013:EEEE0000:0:0:0:    7matehd              7matehd              # 7mate HD
 1:0:1:978:960:1013:EEEE0000:0:0:0:     racingcom            racingcom            # RACING.COM
@@ -2043,13 +2060,13 @@
 1:0:2:2CD:243:1010:EEEE0000:0:0:0:     abcbrisbane          abcbrisbane          # ABC BRISBANE
 1:0:2:2CE:243:1010:EEEE0000:0:0:0:     abcrn                abcrn                # ABC RN
 1:0:A:2CF:243:1010:EEEE0000:0:0:0:     abcnewsradio         abcnewsradio         # ABC NewsRadio
-1:0:1:920:910:1013:EEEE0000:0:0:0:     7townsville          7digital             # 7 Townsville
-1:0:1:921:910:1013:EEEE0000:0:0:0:     7townsville          7digital             # 7 Townsville
-1:0:1:922:910:1013:EEEE0000:0:0:0:     7twotownsville       7two                 # 7TWO Townsville
-1:0:19:923:910:1013:EEEE0000:0:0:0:    7twohdtownsville     7twohd               # 7twoHD Townsville
-1:0:1:924:910:1013:EEEE0000:0:0:0:     7townsville          7digital             # 7 Townsville
+1:0:1:920:910:1013:EEEE0000:0:0:0:     7townsville          7hd                  # 7 Townsville
+1:0:1:921:910:1013:EEEE0000:0:0:0:     7townsville          7hd                  # 7 Townsville
+1:0:19:922:910:1013:EEEE0000:0:0:0:    7twohdtownsville     7twohd               # 7twoHD Townsville
+1:0:19:923:910:1013:EEEE0000:0:0:0:    7matetownsville      blank                # 7mate Townsville
+1:0:1:924:910:1013:EEEE0000:0:0:0:     7townsville          7hd                  # 7 Townsville
 1:0:1:925:910:1013:EEEE0000:0:0:0:     7flixtownsville      7flix                # 7flix Townsville
-1:0:1:926:910:1013:EEEE0000:0:0:0:     openshop             openshop             # openshop
+1:0:1:926:910:1013:EEEE0000:0:0:0:     openshop             7bravo               # openshop
 1:0:19:927:910:1013:EEEE0000:0:0:0:    7matehdtownsville    7matehd              # 7mateHD Townsville
 1:0:16:928:910:1013:EEEE0000:0:0:0:    racingcom            racingcom            # RACING.COM
 1:0:1:3B1:3B0:3202:EEEE0000:0:0:0:     sbsone               sbsone               # SBS ONE
@@ -2143,8 +2160,9 @@
 1:0:1:962:9A0:3281:EEEE0000:0:0:0:     7twowaggawagga       7two                 # 7TWO Wagga Wagga
 1:0:1:963:9A0:3281:EEEE0000:0:0:0:     7matewaggawagga      7mate                # 7mate Wagga Wagga
 1:0:19:964:9A0:3281:EEEE0000:0:0:0:    7matehdwaggawagga    7matehd              # 7mate HD Wagga Wagga
-1:0:16:965:9A0:3281:EEEE0000:0:0:0:    ishoptv              ishoptv              # ishoptv
+1:0:19:965:9A0:3281:EEEE0000:0:0:0:    ishoptv              7bravo               # ishoptv
 1:0:16:966:9A0:3281:EEEE0000:0:0:0:    7flix                7flix                # 7flix
+1:0:16:967:9A0:3281:EEEE0000:0:0:0:    ishoptv              ishoptv              # ishoptv
 1:0:16:968:9A0:3281:EEEE0000:0:0:0:    racingcom            racingcom            # RACING.COM
 
 # Warrnambool
@@ -2204,8 +2222,9 @@
 1:0:1:962:99D:3283:EEEE0000:0:0:0:     7twoballarat         7two                 # 7TWO Ballarat
 1:0:1:963:99D:3283:EEEE0000:0:0:0:     7mateballarat        7mate                # 7mate Ballarat
 1:0:19:964:99D:3283:EEEE0000:0:0:0:    7matehdballarat      7matehd              # 7mate HD Ballarat
-1:0:16:965:99D:3283:EEEE0000:0:0:0:    ishoptv              ishoptv              # ishoptv
+1:0:19:965:99D:3283:EEEE0000:0:0:0:    ishoptv              7bravo               # ishoptv
 1:0:16:966:99D:3283:EEEE0000:0:0:0:    7flix                7flix                # 7flix
+1:0:16:967:99D:3283:EEEE0000:0:0:0:    ishoptv              ishoptv              # ishoptv
 1:0:16:968:99D:3283:EEEE0000:0:0:0:    racingcom            racingcom            # RACING.COM
 
 # Wide Bay
@@ -2226,13 +2245,13 @@
 1:0:2:2CD:243:1010:EEEE0000:0:0:0:     abcbrisbane          abcbrisbane          # ABC BRISBANE
 1:0:2:2CE:243:1010:EEEE0000:0:0:0:     abcrn                abcrn                # ABC RN
 1:0:2:2CF:243:1010:EEEE0000:0:0:0:     abcnewsradio         abcnewsradio         # ABC NewsRadio
-1:0:1:950:940:1013:EEEE0000:0:0:0:     7widebay             7digital             # 7 Wide Bay
-1:0:1:951:940:1013:EEEE0000:0:0:0:     7widebay             7digital             # 7 Wide Bay
-1:0:1:952:940:1013:EEEE0000:0:0:0:     7twowidebay          7two                 # 7TWO Wide Bay
-1:0:19:953:940:1013:EEEE0000:0:0:0:    7twohdwidebay        7twohd               # 7twoHD Wide Bay
-1:0:1:954:940:1013:EEEE0000:0:0:0:     7widebay             7digital             # 7 Wide Bay
+1:0:1:950:940:1013:EEEE0000:0:0:0:     7widebay             7hd                  # 7 Wide Bay
+1:0:1:951:940:1013:EEEE0000:0:0:0:     7widebay             7hd                  # 7 Wide Bay
+1:0:19:952:940:1013:EEEE0000:0:0:0:    7twohdwidebay        7twohd               # 7twoHD Wide Bay
+1:0:19:953:940:1013:EEEE0000:0:0:0:    7matewidebay         blank                # 7mate Wide Bay
+1:0:1:954:940:1013:EEEE0000:0:0:0:     7widebay             7hd                  # 7 Wide Bay
 1:0:1:955:940:1013:EEEE0000:0:0:0:     7flixwidebay         7flix                # 7flix Wide Bay
-1:0:1:956:940:1013:EEEE0000:0:0:0:     openshop             openshop             # openshop
+1:0:1:956:940:1013:EEEE0000:0:0:0:     openshop             7bravo               # openshop
 1:0:19:957:940:1013:EEEE0000:0:0:0:    7matehd              7matehd              # 7mate HD
 1:0:16:958:940:1013:EEEE0000:0:0:0:    racingcom            racingcom            # RACING.COM
 1:0:1:3B1:3B0:3202:EEEE0000:0:0:0:     sbsone               sbsone               # SBS ONE
@@ -2326,6 +2345,7 @@
 1:0:1:962:99F:3281:EEEE0000:0:0:0:     7twowollongong       7two                 # 7TWO Wollongong
 1:0:1:963:99F:3281:EEEE0000:0:0:0:     7matewollongong      7mate                # 7mate Wollongong
 1:0:19:964:99F:3281:EEEE0000:0:0:0:    7matehdwollongong    7matehd              # 7mate HD Wollongong
-1:0:16:965:99F:3281:EEEE0000:0:0:0:    ishoptv              ishoptv              # ishoptv
+1:0:19:965:99F:3281:EEEE0000:0:0:0:    ishoptv              7bravo               # ishoptv
 1:0:16:966:99F:3281:EEEE0000:0:0:0:    7flix                7flix                # 7flix
+1:0:16:967:99F:3281:EEEE0000:0:0:0:    ishoptv              ishoptv              # ishoptv
 1:0:16:968:99F:3281:EEEE0000:0:0:0:    racingcom            racingcom            # RACING.COM
